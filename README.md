@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System/Hardware Engineer Internship (5G and 6G R&D)](https://jobright.ai/jobs/info/69505226a2668b7f54534c92?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 27 |
+| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical     Engineering     Internship](https://jobright.ai/jobs/info/695050e7ce13cd105658444d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 27 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Engineering intern _summer 2026](https://jobright.ai/jobs/info/69504803ce13cd105658439a?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
+| **[Kirin](kirin.com)** | **[Software Engineering Intern, AI Projects](https://jobright.ai/jobs/info/69504520ce13cd1056583615?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Dec 27 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Dec 27 |
+| **[Kirin](kirin.com)** | **[Software Engineering Intern, AI Projects](https://jobright.ai/jobs/info/69503efc29655e4dd6597791?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
+| **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Tooling](https://jobright.ai/jobs/info/69503a51ce13cd1056582818?utm_campaign=1048&utm_source=git)** | West Jefferson, NC | On Site | Dec 27 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6950364da2668b7f54532ede?utm_campaign=1048&utm_source=git)** | Kansas, United States | On Site | Dec 27 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69503258a2668b7f54532ca8?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Summer 2026 Civil Engineering Internship](https://jobright.ai/jobs/info/690bab1d4a1b456627b11659?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Dec 27 |
@@ -67,12 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Vulnerability Researcher Intern Summer 2026](https://jobright.ai/jobs/info/6950196a29655e4dd6596e3f?utm_campaign=1048&utm_source=git)** | West Melbourne, FL | On Site | Dec 27 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6950162929655e4dd6596dd3?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Dec 27 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6950131529655e4dd6596d7b?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/695012bea2668b7f545325f0?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69500f9929655e4dd6596cbd?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
+| ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69500f9929655e4dd6596cbd?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | ↳ | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69500c1f29655e4dd6596686?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | **[Donaldson](http://donaldson.com)** | **[Analytical Chemistry Intern](https://jobright.ai/jobs/info/694bc7075d7312113470534c?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Dec 27 |
 | **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/69500330a2668b7f545309ef?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System/Hardware Engineer Intern (5G 6G R&D)](https://jobright.ai/jobs/info/694ffe76ce13cd1056580216?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Hydromenta Systems](hydromentasystems.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/694ffc6d29655e4dd6595163?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | **[Ferrovias](ferrovias.us)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/694ff2d7a2668b7f54530873?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Dec 27 |
 | **[Hydromenta Systems](hydromentasystems.us)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/694ff084ce13cd105658003f?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
@@ -91,9 +96,8 @@ For a complete list, click the following sortable link below:
 | **[SEED (Electronic Arts)](https://seed.ea.com)** | **[Machine Learning PhD Internship - Gameplay-focused World Model - SEED - 8 Months](https://jobright.ai/jobs/info/69351bdda0dde7020e2f76e4?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 27 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Mechanical Engineer](https://jobright.ai/jobs/info/69171e33bcdbf3560c9c5584?utm_campaign=1048&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Co-op (8 months)](https://jobright.ai/jobs/info/69177617bcdbf3560c9c7f4c?utm_campaign=1048&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Dec 27 |
-| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Geotechnical Engineering Student Intern - Northern BC](https://jobright.ai/jobs/info/691821da45fb6f5ead8a2051?utm_campaign=1048&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 27 |
-| ↳ | **[Geotechnical Engineering Student Intern - Whitehorse](https://jobright.ai/jobs/info/6917027eab115751cca3e671?utm_campaign=1048&utm_source=git)** | Whitehorse, Yukon Territory, Canada | On Site | Dec 27 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical    Engineering     Internship](https://jobright.ai/jobs/info/694fe88b29655e4dd6594e26?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 27 |
+| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Geotechnical Engineering Student Intern - Whitehorse](https://jobright.ai/jobs/info/6917027eab115751cca3e671?utm_campaign=1048&utm_source=git)** | Whitehorse, Yukon Territory, Canada | On Site | Dec 27 |
+| ↳ | **[Geotechnical Engineering Student Intern - Northern BC](https://jobright.ai/jobs/info/6916e8f49c388539cbdffbd4?utm_campaign=1048&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 27 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[System Engineer - Optical DSP Intern - PhD](https://jobright.ai/jobs/info/68dd9c6addc10244dd681f11?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Dec 27 |
 | **[Ferrovias](ferrovias.us)** | **[2026 Summer Facilities Engineering Intern R14513](https://jobright.ai/jobs/info/694fe72829655e4dd6594d99?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Dec 27 |
 | **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Geotechnical Engineering Student Intern - Northern BC](https://jobright.ai/jobs/info/694783efd1953b5d11c09348?utm_campaign=1048&utm_source=git)** | Terrace, British Columbia, Canada | On Site | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Specialist Intern 2026 (Monroe, LA)](https://jobright.ai/jobs/info/69334fbb764507023d1b40b9?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Dec 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Turbomachinery Operations](https://jobright.ai/jobs/info/68fa9e4f67272b29af731f50?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Physiological Chemistry](https://jobright.ai/jobs/info/69339acdf131d96e48464cd8?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Research AI Engineer, Intern: 2026](https://jobright.ai/jobs/info/693354d3f131d96e484620cf?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
-| **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Summer 2026 R&D Internship- Antifreeze](https://jobright.ai/jobs/info/69332d78f131d96e48460626?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Dec 27 |
-| **[Cisco](http://www.cisco.com)** | **[Hardware Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69165dae9c388539cbdfa5c1?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Technical Enablement Specialist Intern 2026](https://jobright.ai/jobs/info/69336cbdf131d96e484632dc?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
