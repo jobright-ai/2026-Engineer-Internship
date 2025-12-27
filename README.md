@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6950364da2668b7f54532ede?utm_campaign=1048&utm_source=git)** | Kansas, United States | On Site | Dec 27 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69503258a2668b7f54532ca8?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
+| **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Summer 2026 Civil Engineering Internship](https://jobright.ai/jobs/info/690bab1d4a1b456627b11659?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Dec 27 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[(DoD Skillbridge) – Non Destructive Test Technician 2 / 3](https://jobright.ai/jobs/info/69502c46a2668b7f54532841?utm_campaign=1048&utm_source=git)** | United States-Utah-Corinne | On Site | Dec 27 |
+| **[MechNova](mechnova.us)** | **[2026 Summer Facilities Engineering Intern (R14513)](https://jobright.ai/jobs/info/69502ab9ce13cd105658205d?utm_campaign=1048&utm_source=git)** | Haverhill, MA | On Site | Dec 27 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69501c74a2668b7f54532736?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Nanoparticle Research Associate Intern - Summer 2026](https://jobright.ai/jobs/info/69501b27ce13cd1056581f58?utm_campaign=1048&utm_source=git)** | Aurora, IL | On Site | Dec 27 |
 | ↳ | **[Vulnerability Researcher Intern Summer 2026](https://jobright.ai/jobs/info/6950196a29655e4dd6596e3f?utm_campaign=1048&utm_source=git)** | West Melbourne, FL | On Site | Dec 27 |
-| **[Joe Torre Safe At Home Foundation](http://www.joetorre.org)** | **[AI Intern/Volunteer](https://jobright.ai/jobs/info/695016a3ce13cd1056581ed4?utm_campaign=1048&utm_source=git)** | United States | Remote | Dec 27 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6950162929655e4dd6596dd3?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Dec 27 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6950131529655e4dd6596d7b?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 27 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/695012bea2668b7f545325f0?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Maintenance Intern - Mechanical](https://jobright.ai/jobs/info/68dce28eaccfd24b67e5b6c3?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Dec 27 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/694fef2129655e4dd6594f9a?utm_campaign=1048&utm_source=git)** | Bennettsville, SC | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/69333ada764507023d1b3368?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
-| ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/69332119f131d96e4845ffab?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Gast](http://www.gastmfg.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69164161286ccf0a15133cf6?utm_campaign=1048&utm_source=git)** | Benton Harbor, MI | On Site | Dec 27 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/694fee4a29655e4dd6594f6a?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | On Site | Dec 27 |
 | **[Ferrovias](ferrovias.us)** | **[2026 - Summer Facilities Engineering Intern (R14513)](https://jobright.ai/jobs/info/694fee2d29655e4dd6594f68?utm_campaign=1048&utm_source=git)** | Methuen, MA | On Site | Dec 27 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[SEED (Electronic Arts)](https://seed.ea.com)** | **[Machine Learning PhD Internship - Gameplay-focused World Model - SEED - 8 Months](https://jobright.ai/jobs/info/69351bdda0dde7020e2f76e4?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 27 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Mechanical Engineer](https://jobright.ai/jobs/info/69171e33bcdbf3560c9c5584?utm_campaign=1048&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Co-op (8 months)](https://jobright.ai/jobs/info/69177617bcdbf3560c9c7f4c?utm_campaign=1048&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Dec 27 |
-| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Geotechnical Engineering Student Intern - Whitehorse](https://jobright.ai/jobs/info/69172aee370fde633d07dfbf?utm_campaign=1048&utm_source=git)** | Whitehorse, Yukon Territory, Canada | On Site | Dec 27 |
-| ↳ | **[Geotechnical Engineering Student Intern - Northern BC](https://jobright.ai/jobs/info/6916e8f49c388539cbdffbd4?utm_campaign=1048&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 27 |
+| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Geotechnical Engineering Student Intern - Northern BC](https://jobright.ai/jobs/info/691821da45fb6f5ead8a2051?utm_campaign=1048&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 27 |
+| ↳ | **[Geotechnical Engineering Student Intern - Whitehorse](https://jobright.ai/jobs/info/6917027eab115751cca3e671?utm_campaign=1048&utm_source=git)** | Whitehorse, Yukon Territory, Canada | On Site | Dec 27 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Mechanical    Engineering     Internship](https://jobright.ai/jobs/info/694fe88b29655e4dd6594e26?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 27 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[System Engineer - Optical DSP Intern - PhD](https://jobright.ai/jobs/info/68dd9c6addc10244dd681f11?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Dec 27 |
 | **[Ferrovias](ferrovias.us)** | **[2026 Summer Facilities Engineering Intern R14513](https://jobright.ai/jobs/info/694fe72829655e4dd6594d99?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Dec 27 |
@@ -140,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Geotechnical Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/68f983bda628d10664e8d836?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Dec 27 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Agentic AI Intern](https://jobright.ai/jobs/info/69339fe7764507023d1b7672?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Transportation Intern](https://jobright.ai/jobs/info/68defc47a125e75c422b8d58?utm_campaign=1048&utm_source=git)** | Frisco, TX | Hybrid | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6933468e764507023d1b3a8c?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Calico Life Sciences](http://www.calicolabs.com/)** | **[Intern, Lung Aging (PhD Student)](https://jobright.ai/jobs/info/6933bb48764507023d1b8be4?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Platform Engineer Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933607ff131d96e48462b18?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | ↳ | **[SWE: Toward Autonomous Data Management with AI Intern 2026](https://jobright.ai/jobs/info/6933540af131d96e48462053?utm_campaign=1048&utm_source=git)** | Yorktown Heights, NY | Remote | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Summer 2026 R&D Internship- Antifreeze](https://jobright.ai/jobs/info/69332d78f131d96e48460626?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Hardware Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69165dae9c388539cbdfa5c1?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Enablement Specialist Intern 2026](https://jobright.ai/jobs/info/69336cbdf131d96e484632dc?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Dec 27 |
-| **[Henkel](http://www.henkel.com)** | **[Packaging Engineering Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68c088a1702aa35207aae5bb?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Dec 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68de8c4044d32141e0c00adf?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Site Reliability Engineer & Administrator (Intern)](https://jobright.ai/jobs/info/69335cc0f131d96e4846280f?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
-| **[West Fraser](http://www.westfraser.com/)** | **[Engineering Intern, Summer 2026 - TEXAS](https://jobright.ai/jobs/info/69167ba89c388539cbdfbc9c?utm_campaign=1048&utm_source=git)** | Nacogdoches, TX | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
