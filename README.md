@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - Data Scientist -  Summer Internship 2026](https://jobright.ai/jobs/info/69536666935649778e213250?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
+| **[Snackpass](https://www.snackpass.co)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/68d44010ffc1276de3fd8a78?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[Axon](https://www.axon.com)** | **[2026 US Electrical Engineering Internship](https://jobright.ai/jobs/info/6953584a5bb7de448ef67426?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
+| ↳ | **[2026 US Mechanical Engineering Internship](https://jobright.ai/jobs/info/695355d0f1f8465b79ea9b89?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
+| ↳ | **[2026 US DFx Engineering Internship](https://jobright.ai/jobs/info/695354f3935649778e2110a7?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6949fddec6f0e2546ceed96f?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Dec 29 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69534d055bb7de448ef65e9f?utm_campaign=1048&utm_source=git)** | Hicksville, NY | On Site | Dec 29 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69534b84f1f8465b79ea9555?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Dec 29 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69534b6df1f8465b79ea954e?utm_campaign=1048&utm_source=git)** | Cordova, MD | On Site | Dec 29 |
+| **[American Eagle Financial Credit Union](https://www.americaneagle.org/)** | **[Intern, Endpoint Engineering-UCONN](https://jobright.ai/jobs/info/69534ac05bb7de448ef65dcc?utm_campaign=1048&utm_source=git)** | East Hartford, CT | On Site | Dec 29 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/6953494ff1f8465b79ea9440?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Dec 29 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/6953442d935649778e210630?utm_campaign=1048&utm_source=git)** | Lexington, NE | On Site | Dec 29 |
 | **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Fire Protection Engineering Intern](https://jobright.ai/jobs/info/695343c55bb7de448ef65927?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Dec 29 |
@@ -103,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Riverside Research](http://riversideresearch.org)** | **[Cyber Security Scientist Intern](https://jobright.ai/jobs/info/6953164d5bb7de448ef623fc?utm_campaign=1048&utm_source=git)** | Lexington, MA | On Site | Dec 29 |
 | **[C&S Companies](http://www.cscos.com)** | **[Transportation Project Intern](https://jobright.ai/jobs/info/695315cd5bb7de448ef623a6?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Dec 29 |
 | **[Archer](https://www.archer.com)** | **[Mechanical Development Engineer Intern](https://jobright.ai/jobs/info/6953139e935649778e20cf10?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
-| ↳ | **[Mechanical Development Engineer Intern](https://jobright.ai/jobs/info/695311085bb7de448ef62232?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 29 |
 | **[Coach USA](http://www.coachusa.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69530f65935649778e20ce54?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Dec 29 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Infosec](https://jobright.ai/jobs/info/69530f555bb7de448ef62198?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69530f54f1f8465b79ea58c7?utm_campaign=1048&utm_source=git)** | Charleston, WV | On Site | Dec 29 |
@@ -118,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Natural Resources Intern](https://jobright.ai/jobs/info/695303f8935649778e20ca7d?utm_campaign=1048&utm_source=git)** | Arlington, TX | On Site | Dec 29 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Dec 29 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Research and Development Intern](https://jobright.ai/jobs/info/69389958b95c305f206dcb2a?utm_campaign=1048&utm_source=git)** | Bardstown, KY | On Site | Dec 29 |
-| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Machinist Intern](https://jobright.ai/jobs/info/6952ff3c5bb7de448ef61c68?utm_campaign=1048&utm_source=git)** | Shelton, WA | On Site | Dec 29 |
 | **[Sunset Studios](http://sgsandsbs.com)** | **[2026 NextGen Summer Internship - Studio Operations - Los Angeles](https://jobright.ai/jobs/info/6944a7e8a7227b3ece6654b1?utm_campaign=1048&utm_source=git)** | West Hollywood, CA | On Site | Dec 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water Resources Intern- Summer 2026](https://jobright.ai/jobs/info/6952fc665bb7de448ef61ae4?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Dec 29 |
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/6952f798f1f8465b79ea4f7a?utm_campaign=1048&utm_source=git)** | Fort Collins Area | On Site | Dec 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Assurance Intern – Technology Risk](https://jobright.ai/jobs/info/6952ecf8f1f8465b79ea414a?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Welding Engineer Intern](https://jobright.ai/jobs/info/6952ec67f1f8465b79ea40fc?utm_campaign=1048&utm_source=git)** | Valley, NE | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Urban Forestry](https://jobright.ai/jobs/info/6952ec195bb7de448ef607a7?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
-| **[ASM](https://www.asm.com)** | **[Construction Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ebc8f1f8465b79ea40b8?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Dec 29 |
-| **[PayPal](https://www.paypal.com/home)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6952eadc935649778e20b29d?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
-| **[Stratasys](http://www.stratasys.com)** | **[Intern - Engineering Technician - Machinist](https://jobright.ai/jobs/info/6952ea53935649778e20b143?utm_campaign=1048&utm_source=git)** | Minnetonka, MN | On Site | Dec 29 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Generator Interconnection](https://jobright.ai/jobs/info/6952ea385bb7de448ef60421?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Dec 29 |
-| **[ASM](https://www.asm.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ea19f1f8465b79ea3dd4?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Dec 29 |
-| **[GFT](https://www.gftinc.com)** | **[Intern, Dams & Hydraulics](https://jobright.ai/jobs/info/6952e9b2935649778e20af8d?utm_campaign=1048&utm_source=git)** | Phoenixville, PA | On Site | Dec 29 |
-| **[Tepa Companies](https://www.tepa.com/)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/6952e943935649778e20ae72?utm_campaign=1048&utm_source=git)** | Hot Springs, AR | On Site | Dec 29 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Field Services Intern](https://jobright.ai/jobs/info/6952e8f2f1f8465b79ea3ade?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
