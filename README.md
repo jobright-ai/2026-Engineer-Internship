@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Services Intern](https://jobright.ai/jobs/info/69539dd1f1f8465b79eaee76?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[Field Services Intern](https://jobright.ai/jobs/info/69539dc75bb7de448ef6b6ed?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
+| ↳ | **[PPI / lean specialist Sr. Intern](https://jobright.ai/jobs/info/69539d98f1f8465b79eaee68?utm_campaign=1048&utm_source=git)** | Ward Hill, MA | On Site | Dec 30 |
+| ↳ | **[GMP Intern](https://jobright.ai/jobs/info/69539d37f1f8465b79eaee4a?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Dec 30 |
+| ↳ | **[Research and Development Intern](https://jobright.ai/jobs/info/69539d24935649778e216259?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Dec 30 |
+| ↳ | **[Manufacturing Engineering Sr. Intern](https://jobright.ai/jobs/info/69539ca4935649778e216239?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
+| ↳ | **[Field Services Intern](https://jobright.ai/jobs/info/69539c39935649778e21621c?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
+| ↳ | **[GMP Intern](https://jobright.ai/jobs/info/69539c36935649778e21621b?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Dec 30 |
+| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/69539c01935649778e2161f0?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Dec 30 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Civil Engineering/Construction - Summer 2026 (Multiple PN's)](https://jobright.ai/jobs/info/6952b84ef1f8465b79ea0dbe?utm_campaign=1048&utm_source=git)** | Delaware, OH | On Site | Dec 30 |
+| **[Xcimer Energy](https://www.xcimer.net/)** | **[Summer 2026 Internship - Electrical and Pulsed Power Engineering](https://jobright.ai/jobs/info/69538f505bb7de448ef6978c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Dec 30 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6910fc09bb519377733edddc?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Dec 30 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - Data Scientist - Summer Internship 2026](https://jobright.ai/jobs/info/69538c45f1f8465b79eacd7b?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Dec 30 |
+| ↳ | **[State Street Investment Management - IT Architecture Database Engineering - Summer Internship 2026](https://jobright.ai/jobs/info/69538be4f1f8465b79eacd37?utm_campaign=1048&utm_source=git)** | Quincy, MA | On Site | Dec 30 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69538a9b5bb7de448ef695cd?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Dec 30 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/69538757935649778e21400b?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Dec 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/6944f00394730b73987835a6?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Dec 29 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - IT Architecture Database Engineering - Summer Internship 2026](https://jobright.ai/jobs/info/695367eff1f8465b79eabfc4?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
 | ↳ | **[State Street Investment Management - Data Scientist -  Summer Internship 2026](https://jobright.ai/jobs/info/69536666935649778e213250?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6952f4f4f1f8465b79ea4d0f?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 29 |
 | ↳ | **[Machine Learning Intern](https://jobright.ai/jobs/info/6952f4edf1f8465b79ea4cf3?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Dec 29 |
 | **[American Eagle Financial Credit Union](https://www.americaneagle.org/)** | **[Intern,  Network Engineering (UCONN ONLY)](https://jobright.ai/jobs/info/6952f487935649778e20c125?utm_campaign=1048&utm_source=git)** | East Hartford, CT, US | On Site | Dec 29 |
-| **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Summer 2026 Civil Engineering Internship](https://jobright.ai/jobs/info/690bab1d4a1b456627b11659?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Dec 29 |
-| **[Nestlé](https://www.nestle.com)** | **[Microbiology Quality Technician Internship- 2026](https://jobright.ai/jobs/info/6939fb5a56b68f3dc4e74a1d?utm_campaign=1048&utm_source=git)** | Dublin, OH | On Site | Dec 29 |
-| **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[IT Security Intern](https://jobright.ai/jobs/info/693204e2fa28370be26c0c7a?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Dec 29 |
-| **[Jacobs](http://www.jacobs.com)** | **[Water Intern Summer 2026](https://jobright.ai/jobs/info/6952f3ae935649778e20bfc7?utm_campaign=1048&utm_source=git)** | Sacramento, CA | Hybrid | Dec 29 |
-| **[Donaldson](http://donaldson.com)** | **[Engineering Intern, Cresco, IA](https://jobright.ai/jobs/info/6952f38f935649778e20bf8a?utm_campaign=1048&utm_source=git)** | Cresco, IA | On Site | Dec 29 |
-| **[Jacobs](http://www.jacobs.com)** | **[Water Resources Intern- Summer 2026](https://jobright.ai/jobs/info/6952f2baf1f8465b79ea4708?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Dec 29 |
-| **[ASM](https://www.asm.com)** | **[Mechanical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952f091935649778e20ba75?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Dec 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern – Process Chemistry (Organic Synthesis)](https://jobright.ai/jobs/info/6952f03f935649778e20ba11?utm_campaign=1048&utm_source=git)** | South San Francisco | On Site | Dec 29 |
-| **[PayPal](https://www.paypal.com/home)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6952f03e935649778e20ba10?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Dec 29 |
-| **[Legend Biotech](https://www.legendbiotech.com)** | **[Facility Engineering Co-Op/Intern](https://jobright.ai/jobs/info/6952f024935649778e20b9f5?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Dec 29 |
-| **[ASM](https://www.asm.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ef93935649778e20b944?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Dec 29 |
-| ↳ | **[Construction Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6952eee65bb7de448ef608f5?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Dec 29 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[GMP Intern](https://jobright.ai/jobs/info/6952eeb0f1f8465b79ea425a?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Dec 29 |
-| **[Orvanta](orvanta.us)** | **[Assurance Intern – Technology Risk](https://jobright.ai/jobs/info/6952ecf8f1f8465b79ea414a?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Welding Engineer Intern](https://jobright.ai/jobs/info/6952ec67f1f8465b79ea40fc?utm_campaign=1048&utm_source=git)** | Valley, NE | On Site | Dec 29 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Urban Forestry](https://jobright.ai/jobs/info/6952ec195bb7de448ef607a7?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
