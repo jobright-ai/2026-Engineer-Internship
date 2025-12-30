@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - Data Scientist -  Summer Internship 2026](https://jobright.ai/jobs/info/69536666935649778e213250?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Transportation - Department of Highways](https://jobright.ai/jobs/info/6944f00394730b73987835a6?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Dec 29 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - IT Architecture Database Engineering - Summer Internship 2026](https://jobright.ai/jobs/info/695367eff1f8465b79eabfc4?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
+| ↳ | **[State Street Investment Management - Data Scientist -  Summer Internship 2026](https://jobright.ai/jobs/info/69536666935649778e213250?utm_campaign=1048&utm_source=git)** | Quincy, Massachusetts | On Site | Dec 29 |
 | **[Snackpass](https://www.snackpass.co)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/68d44010ffc1276de3fd8a78?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Axon](https://www.axon.com)** | **[2026 US Electrical Engineering Internship](https://jobright.ai/jobs/info/6953584a5bb7de448ef67426?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | ↳ | **[2026 US Mechanical Engineering Internship](https://jobright.ai/jobs/info/695355d0f1f8465b79ea9b89?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | ↳ | **[2026 US DFx Engineering Internship](https://jobright.ai/jobs/info/695354f3935649778e2110a7?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Dec 29 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6949fddec6f0e2546ceed96f?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Dec 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69534d055bb7de448ef65e9f?utm_campaign=1048&utm_source=git)** | Hicksville, NY | On Site | Dec 29 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69534b84f1f8465b79ea9555?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Dec 29 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69534b6df1f8465b79ea954e?utm_campaign=1048&utm_source=git)** | Cordova, MD | On Site | Dec 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69534b6df1f8465b79ea954e?utm_campaign=1048&utm_source=git)** | Cordova, MD | On Site | Dec 29 |
 | **[American Eagle Financial Credit Union](https://www.americaneagle.org/)** | **[Intern, Endpoint Engineering-UCONN](https://jobright.ai/jobs/info/69534ac05bb7de448ef65dcc?utm_campaign=1048&utm_source=git)** | East Hartford, CT | On Site | Dec 29 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/6953494ff1f8465b79ea9440?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Dec 29 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/6953442d935649778e210630?utm_campaign=1048&utm_source=git)** | Lexington, NE | On Site | Dec 29 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Electromechanical Assembly Co-op/Intern](https://jobright.ai/jobs/info/69534247935649778e210569?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Dec 29 |
 | **[Hydromenta Systems](hydromentasystems.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69534050f1f8465b79ea8ed1?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Dec 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69533db65bb7de448ef65423?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Dec 29 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Engineering Intern  -  Summer 2026](https://jobright.ai/jobs/info/69533dae5bb7de448ef6541f?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Dec 29 |
 | **[Culligan International](http://www.culligan.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69533aadf1f8465b79ea8a50?utm_campaign=1048&utm_source=git)** | Rosemont, IL | On Site | Dec 29 |
 | ↳ | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/6953394bf1f8465b79ea88dd?utm_campaign=1048&utm_source=git)** | Libertyville, IL | Hybrid | Dec 29 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/6947ea88d1953b5d11c10508?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Dec 29 |
