@@ -57,24 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Cogeneration](https://jobright.ai/jobs/info/6957357df1f8465b79edfe8f?utm_campaign=1048&utm_source=git)** | Burney, CA | On Site | Jan 01 |
+| ↳ | **[Engineer Intern - Cogeneration](https://jobright.ai/jobs/info/69573409aa05c26e7ab1474e?utm_campaign=1048&utm_source=git)** | Mount Vernon, WA | On Site | Jan 01 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Database Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/69573201f1f8465b79edfcb0?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| ↳ | **[2026 IT Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/695731bbf1f8465b79edfca2?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| ↳ | **[2026 Information Security Operations Center Analyst paid intern (May and August hires)](https://jobright.ai/jobs/info/695731b09f1b381eb27045f8?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| ↳ | **[2026 Security Vulnerability, Risk, and Compliance Analyst paid intern (May and August hires)](https://jobright.ai/jobs/info/6957317b9f1b381eb27045f0?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern -  Talent Pool](https://jobright.ai/jobs/info/69572fdbaa05c26e7ab1455e?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Commercial Ops/IT Department](https://jobright.ai/jobs/info/695729b8aa05c26e7ab14378?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[Hathaway Robotics](http://www.hathaway.ai)** | **[Scientist Intern - Spring 2026 (On-Site / In Person Required)](https://jobright.ai/jobs/info/695728039f1b381eb270427a?utm_campaign=1048&utm_source=git)** | Fall River, MA | On Site | Jan 01 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Grade Control Intern](https://jobright.ai/jobs/info/695723b8aa05c26e7ab13a50?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT – Service Center Engineer – I.A.M.](https://jobright.ai/jobs/info/69571c3faa05c26e7ab12a39?utm_campaign=1048&utm_source=git)** | St Charles, MO | On Site | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Pharmacovigilance Department](https://jobright.ai/jobs/info/6957171cf1f8465b79edd6c2?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| ↳ | **[2026 Summer Intern: Commercial Ops/IT Department](https://jobright.ai/jobs/info/6957145baa05c26e7ab120e4?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Jan 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/69570d65aa05c26e7ab11f96?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
 | ↳ | **[Electrical Design Intern - Kiewit Industrial & Water Engineering (Summer 2026)](https://jobright.ai/jobs/info/69570ba5f1f8465b79edd4ba?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
 | **[MechNova](mechnova.us)** | **[Cyber security intern](https://jobright.ai/jobs/info/69570987aa05c26e7ab11f39?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[Altera](https://www.altera.com)** | **[Physical Design Graduate Intern](https://jobright.ai/jobs/info/695701ea9f1b381eb2701d32?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6956fb08f1f8465b79edd313?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 01 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/6956fa969f1b381eb2701c0e?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 01 |
 | **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6956fa8e9f1b381eb2701c0b?utm_campaign=1048&utm_source=git)** | McDonald, PA | On Site | Jan 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6956e9529f1b381eb2701a15?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 01 |
 | ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/6956e624aa05c26e7ab11b14?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 01 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Alamosa Field Office Intern](https://jobright.ai/jobs/info/6956e60f9f1b381eb27019e3?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | ↳ | **[CSFS Salida Field Office Intern](https://jobright.ai/jobs/info/6956e5caaa05c26e7ab11af9?utm_campaign=1048&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Machinist Intern](https://jobright.ai/jobs/info/6956e328aa05c26e7ab11ac5?utm_campaign=1048&utm_source=git)** | Shelton, WA | On Site | Jan 01 |
-| ↳ | **[Engineer / Scientist Intern](https://jobright.ai/jobs/info/6956e325aa05c26e7ab11ac4?utm_campaign=1048&utm_source=git)** | Shelton, WA | On Site | Jan 01 |
 | ↳ | **[Engineer Intern - Computer](https://jobright.ai/jobs/info/6956e2e6aa05c26e7ab11ab2?utm_campaign=1048&utm_source=git)** | Anderson, CA | On Site | Jan 01 |
 | ↳ | **[Engineer / Scientist Intern](https://jobright.ai/jobs/info/6956e218f1f8465b79edcfff?utm_campaign=1048&utm_source=git)** | Eugene, OR | On Site | Jan 01 |
 | **[City of Grapevine](https://grapevinetexas.gov/)** | **[GIS Engineering Intern](https://jobright.ai/jobs/info/6956e20cf1f8465b79edcffb?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Jan 01 |
@@ -89,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Abacus Insights](https://abacusinsights.com)** | **[Data Quality Engineer Intern](https://jobright.ai/jobs/info/6952b1d25bb7de448ef5ca39?utm_campaign=1048&utm_source=git)** | Remote US | Remote | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Security Vulnerability, Risk, and Compliance Analyst paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dbe9f1f8465b79edc772?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | ↳ | **[2026 Database Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956d8abf1f8465b79edb417?utm_campaign=1048&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6956d52eaa05c26e7ab0fe39?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 01 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Mechanical](https://jobright.ai/jobs/info/6956d527aa05c26e7ab0fe38?utm_campaign=1048&utm_source=git)** | Anderson, CA | On Site | Jan 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Facilities Engineering Intern](https://jobright.ai/jobs/info/6956cb54aa05c26e7ab0f940?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Jan 01 |
 | **[♾️ We Own 🌐](https://WeOwn.xyz)** | **[Paid Platform Engineer Intern](https://jobright.ai/jobs/info/6956c606f1f8465b79edac53?utm_campaign=1048&utm_source=git)** | Denver, CO | Remote | Jan 01 |
@@ -105,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Technology Risk Assurance Intern](https://jobright.ai/jobs/info/6956a915aa05c26e7ab0d83c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jan 01 |
 | **[Design Engineers MEPFT](https://designengineers.com)** | **[BIM Technician Intern](https://jobright.ai/jobs/info/6956a8879f1b381eb26fd5d3?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 01 |
 | **[ABB](https://global.abb/group/en)** | **[R&D Lab Material Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6930b7c6fa28370be26b2cb7?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Jan 01 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/6956a3ebf1f8465b79ed8b43?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 01 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - Science of Extreme Environments Research & Innovation (SEERI) Program, Onsite](https://jobright.ai/jobs/info/6916a12f6f36db06ef0587cf?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 01 |
 | **[BeamSphere](beamsphere.us)** | **[Intern- Summer Facilities Engineering](https://jobright.ai/jobs/info/6956a0d7f1f8465b79ed8a6b?utm_campaign=1048&utm_source=git)** | Methuen, MA | On Site | Jan 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Small Molecule Process Chemistry Intern (PhD)](https://jobright.ai/jobs/info/695153d7ce13cd10565903ba?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6900fe9ff8ce7a040fdbb124?utm_campaign=1048&utm_source=git)** | Kearney, MO | On Site | Jan 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Research and Development-Summer 2026](https://jobright.ai/jobs/info/69567e0cf1f8465b79ed78a9?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 01 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Operations Warehouse Intern](https://jobright.ai/jobs/info/69567e029f1b381eb26fbd1f?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jan 01 |
-| **[Tepa Companies](https://www.tepa.com/)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/691cf0e3bcdbf3560c9eb7af?utm_campaign=1048&utm_source=git)** | Chico, CA | On Site | Jan 01 |
-| ↳ | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/691cf43a22a2cb4b9bd1f16b?utm_campaign=1048&utm_source=git)** | West Sacramento, CA | On Site | Jan 01 |
-| **[ASML](https://www.asml.com)** | **[Internship - Product Lifecycle Management (PLM)](https://jobright.ai/jobs/info/693a2a6aac80bb5492bcaf71?utm_campaign=1048&utm_source=git)** | Wilton Center, CT | On Site | Jan 01 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Intern - Sustainability Programs](https://jobright.ai/jobs/info/68e41095b99ec3563b0e5208?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
