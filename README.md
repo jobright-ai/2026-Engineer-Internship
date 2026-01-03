@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Protein Biology Intern](https://jobright.ai/jobs/info/690dcaa144146d3b6ec4fd0c?utm_campaign=1048&utm_source=git)** | Illinois, United States | On Site | Jan 02 |
+| ↳ | **[Sr. Protein Biology Intern](https://jobright.ai/jobs/info/690dc81544146d3b6ec4fc42?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | Jan 02 |
+| **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[2026 Internship Opportunities](https://jobright.ai/jobs/info/69589c279f1b381eb27178f7?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jan 02 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Programming Logistics Intern](https://jobright.ai/jobs/info/69589583f1f8465b79ef2934?utm_campaign=1048&utm_source=git)** | Trevose, PA | Remote | Jan 02 |
+| **[Rosendin](https://www.rosendin.com)** | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/695893dcf1f8465b79ef28c4?utm_campaign=1048&utm_source=git)** | CA-San Francisco | On Site | Jan 02 |
 | **[Ancestry](http://ancestry.com)** | **[Applied AI Science Co-op - Embedding models and Personalization](https://jobright.ai/jobs/info/69588ec79f1b381eb2716e74?utm_campaign=1048&utm_source=git)** | Lehi, UT | Hybrid | Jan 02 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Environmental, Health and Safety Intern](https://jobright.ai/jobs/info/69539e8a5bb7de448ef6b735?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Jan 02 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Intern - Environmental Science or Sustainability - Hybrid](https://jobright.ai/jobs/info/695889fcf1f8465b79ef20ff?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 02 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Water Resource Intern](https://jobright.ai/jobs/info/69588208f1f8465b79ef1e94?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 02 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Drug Metabolism and Pharmacokinetics](https://jobright.ai/jobs/info/6958815aaa05c26e7ab266e0?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 02 |
@@ -71,6 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Intern - Environmental Science or Sustainability - Hybrid](https://jobright.ai/jobs/info/695875f19f1b381eb271618a?utm_campaign=1048&utm_source=git)** | Phoenix Cotton Center V | Hybrid | Jan 02 |
 | **[Imerys](https://imerys.com/)** | **[Mining Intern](https://jobright.ai/jobs/info/695875ee9f1b381eb2716189?utm_campaign=1048&utm_source=git)** | Kings Mountain, NC | On Site | Jan 02 |
 | ↳ | **[Mining Intern](https://jobright.ai/jobs/info/69587580f1f8465b79ef170d?utm_campaign=1048&utm_source=git)** | Marble Hill, GA | On Site | Jan 02 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/695892c99f1b381eb2716f8a?utm_campaign=1048&utm_source=git)** | Graham, KY | On Site | Jan 02 |
+| **[Ancestry](http://ancestry.com)** | **[Data Science - Agentic AI, Document Understanding Co-op](https://jobright.ai/jobs/info/695893fe9f1b381eb2716fb2?utm_campaign=1048&utm_source=git)** | Lehi, UT | Hybrid | Jan 02 |
+| **[SEH](http://www.sehinc.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/69589995f1f8465b79ef29fb?utm_campaign=1048&utm_source=git)** | St Cloud, MN | On Site | Jan 02 |
 | **[Cannon](http://cannoncorp.us)** | **[Civil Engineering Intern in Public Infrastructure](https://jobright.ai/jobs/info/695871cbaa05c26e7ab25ce5?utm_campaign=1048&utm_source=git)** | San Luis Obispo,CA,US | On Site | Jan 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69587121f1f8465b79ef143f?utm_campaign=1048&utm_source=git)** | United States-Wyoming-Gillette | On Site | Jan 02 |
 | **[Janicki](http://www.janicki.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/695870e29f1b381eb2715eaa?utm_campaign=1048&utm_source=git)** | Layton, Utah, United States | On Site | Jan 02 |
@@ -87,7 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Zeta Global](http://www.zetaglobal.com)** | **[AI Solutions & Enablement Intern](https://jobright.ai/jobs/info/69586acd9f1b381eb27154f1?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | ↳ | **[Product & Engineering Intern](https://jobright.ai/jobs/info/69586a75aa05c26e7ab24db8?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Design Intern - St. Louis District](https://jobright.ai/jobs/info/69586a3e9f1b381eb2714f74?utm_campaign=1048&utm_source=git)** | Chesterfield, MO | On Site | Jan 02 |
-| ↳ | **[Summer Construction Intern (Various Locations) - St. Louis District](https://jobright.ai/jobs/info/69586a04aa05c26e7ab24d9a?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
+| **[SEH](http://www.sehinc.com/)** | **[Land Survey Intern](https://jobright.ai/jobs/info/6958975ef1f8465b79ef297d?utm_campaign=1048&utm_source=git)** | Mankato, MN | On Site | Jan 02 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Construction Intern (Various Locations) - St. Louis District](https://jobright.ai/jobs/info/69586a04aa05c26e7ab24d9a?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Enterprise Operations AI Intern](https://jobright.ai/jobs/info/695868a7aa05c26e7ab24d3e?utm_campaign=1048&utm_source=git)** | Nashville, TN | Hybrid | Jan 02 |
 | ↳ | **[Software Engineer Intern - Analytics](https://jobright.ai/jobs/info/69586821aa05c26e7ab24c24?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advanced Energy Intern](https://jobright.ai/jobs/info/695863abf1f8465b79eef60e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Musselman & Hall Contractors](http://musselmanandhall.com)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/69583250f1f8465b79eec6b4?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Jan 02 |
 | **[SEH](http://www.sehinc.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/69584e8bf1f8465b79eeed9d?utm_campaign=1048&utm_source=git)** | Brainerd MN | On Site | Jan 02 |
 | **[City of Des Moines](https://DSM.city/)** | **[Stormwater Program Intern](https://jobright.ai/jobs/info/695831ccf1f8465b79eec552?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Jan 02 |
-| **[BGC Engineering Inc.](http://www.bgcengineering.ca/)** | **[QA & Test Automation Developer Co-op](https://jobright.ai/jobs/info/6958315d9f1b381eb2710d5b?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 02 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Engineering Intern, Decatur, AL, Summer 2026](https://jobright.ai/jobs/info/6958311caa05c26e7ab20c93?utm_campaign=1048&utm_source=git)** | Decatur, AL | On Site | Jan 02 |
-| **[PCL Construction](http://www.pcl.com)** | **[IT Systems Administrator Student](https://jobright.ai/jobs/info/695830ebf1f8465b79eec370?utm_campaign=1048&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 02 |
-| **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[R&D INTERN - SUMMER 2026 (33772)](https://jobright.ai/jobs/info/695830e1f1f8465b79eec349?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 02 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Maintenance Intern - Mechanical](https://jobright.ai/jobs/info/68dce28eaccfd24b67e5b6c3?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Jan 02 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69583040f1f8465b79eec2b5?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | Jan 02 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Engineering Intern, Buffalo, NY, Summer 2026](https://jobright.ai/jobs/info/69582f2cf1f8465b79eec225?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jan 02 |
-| **[Zymeworks Inc.](http://zymeworks.com)** | **[Co-op Student, Antibody Discovery and Engineering](https://jobright.ai/jobs/info/69582f1baa05c26e7ab20bb9?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
-| ↳ | **[Co-op Student, Protein Engineering](https://jobright.ai/jobs/info/69582efbf1f8465b79eec20f?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
-| **[Moog Inc.](http://www.moog.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69582d3b9f1b381eb2710baf?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
