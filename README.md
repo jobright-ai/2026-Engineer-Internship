@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I - Lab Technician](https://jobright.ai/jobs/info/693e540550bbaf7650510f4e?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Jan 07 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/695ed191a112b402660d8684?utm_campaign=1048&utm_source=git)** | Wilmington, NC | Hybrid | Jan 07 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Automation & Robotics Engineer](https://jobright.ai/jobs/info/695ed17108ab990f282a1bec?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Jan 07 |
+| **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Estimating](https://jobright.ai/jobs/info/695c58c622c9dc0d3d545483?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Jan 07 |
 | **[Grifols](http://www.grifols.com)** | **[Summer Intern - Sustainability Engineering](https://jobright.ai/jobs/info/695ef10d0badca5763af6d82?utm_campaign=1048&utm_source=git)** | North Carolina, United States | On Site | Jan 07 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Mechanical Systems Intern Summer 2026](https://jobright.ai/jobs/info/695eee6ea112b402660dab0c?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 07 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Tunnels Engineering Internship - 2026](https://jobright.ai/jobs/info/695ece4aa112b402660d85cc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[Skillbridge Intern - Transformation Data Manager](https://jobright.ai/jobs/info/695ec73a08ab990f282a1206?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Jan 07 |
 | **[Aptiv](http://www.aptiv.com)** | **[Automation Intern](https://jobright.ai/jobs/info/695ec6f8a112b402660d7d1d?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Jan 07 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Mission Engineering Graduate Intern](https://jobright.ai/jobs/info/695ec665a112b402660d7c68?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Jan 07 |
-| **[Propio Language Services](http://propio-ls.com)** | **[Information Security Intern](https://jobright.ai/jobs/info/6944b59da7227b3ece666106?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
