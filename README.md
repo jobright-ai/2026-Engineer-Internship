@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sustainability Intern - Summer 2026](https://jobright.ai/jobs/info/6964000225e1871507808078?utm_campaign=1048&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
+| **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/6963ffcf25e1871507808061?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Jan 11 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6963ff11a112b4026612049c?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/6963f9caa112b40266120187?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
+| **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6963efed25e1871507807693?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
+| **[Robynex Automation](robynexautomation.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6963ecb62cbf4e44756d91ac?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
+| **[BRPH](http://brph.com)** | **[Mechanical Engineering Intern - Process Piping](https://jobright.ai/jobs/info/6963ebf9a112b4026611f984?utm_campaign=1048&utm_source=git)** | Melbourne, Florida, United States | On Site | Jan 11 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6963eac6a112b4026611f92f?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
+| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Manufacturing Engineering Internship](https://jobright.ai/jobs/info/6963ea8ba112b4026611f91d?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Jan 11 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - MK Goddard State Park](https://jobright.ai/jobs/info/69422b8e50bbaf7650540d89?utm_campaign=1048&utm_source=git)** | Sandy Lake, PA | On Site | Jan 11 |
+| ↳ | **[State Park Intern - Kinzua State Park Complex](https://jobright.ai/jobs/info/6942562650bbaf7650544e09?utm_campaign=1048&utm_source=git)** | Kane, PA | On Site | Jan 11 |
+| ↳ | **[State Park Intern - Oil Creek State Park](https://jobright.ai/jobs/info/69420ded14ee092a69002abf?utm_campaign=1048&utm_source=git)** | Oil City, PA | On Site | Jan 11 |
+| **[NVIDIA](https://www.nvidia.com)** | **[DGX Cloud Automation Intern - Summer 2026](https://jobright.ai/jobs/info/6963e27925e187150780736d?utm_campaign=1048&utm_source=git)** | Canada, Remote | Remote | Jan 11 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Forestry Intern](https://jobright.ai/jobs/info/6941dee5bdcf884a5add93bd?utm_campaign=1048&utm_source=git)** | Warren, PA | On Site | Jan 11 |
-| ↳ | **[State Park Intern - MK Goddard State Park](https://jobright.ai/jobs/info/6942098a50bbaf765053da8d?utm_campaign=1048&utm_source=git)** | Sandy Lake, PA | On Site | Jan 11 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Internship - Laser Computational Modeling Scientist](https://jobright.ai/jobs/info/6963dc78a112b4026611f7b3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
 | **[Dakota County](http://www.dakotacounty.us)** | **[Traffic Intern/ Summer Worker](https://jobright.ai/jobs/info/6963da6925e1871507807206?utm_campaign=1048&utm_source=git)** | Hastings, MN | On Site | Jan 11 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/6963da4525e18715078071f9?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | On Site | Jan 11 |
@@ -67,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Gene Therapy Research](https://jobright.ai/jobs/info/6963ca62a112b4026611d60f?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Jan 11 |
 | ↳ | **[R&D Translational Pathology - Undergrad Intern Summer 2026](https://jobright.ai/jobs/info/6963ca1ba112b4026611d5c8?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 11 |
 | ↳ | **[Summer Intern - AI Computational Biologist](https://jobright.ai/jobs/info/6963c9cca112b4026611d574?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6963c9ada112b4026611d558?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 11 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Technology Services & Operations (TSO)](https://jobright.ai/jobs/info/6963c979a112b4026611d536?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
+| ↳ | **[Summer Intern - Technology Services & Operations (TSO)](https://jobright.ai/jobs/info/6963c979a112b4026611d536?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Integrated Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6963c898a112b4026611d487?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern - Environment Health and Safety](https://jobright.ai/jobs/info/6963c8822cbf4e44756d6bbe?utm_campaign=1048&utm_source=git)** | Tarrytown, NY | On Site | Jan 11 |
 | ↳ | **[R&D Peptide Chemistry -Graduate Intern](https://jobright.ai/jobs/info/6963c843a112b4026611d43a?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 11 |
@@ -89,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Sustainability Systems Intern](https://jobright.ai/jobs/info/6963ae6625e187150780439d?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Maintenance Intern - Mechanical](https://jobright.ai/jobs/info/6963ae5725e1871507804393?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Jan 11 |
 | ↳ | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/6963ae3825e187150780437b?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Jan 11 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6963ae1d25e1871507804369?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 11 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Jan 11 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Jan 11 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jan 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Research & Development HMI Design](https://jobright.ai/jobs/info/6963a0032cbf4e44756d55d3?utm_campaign=1048&utm_source=git)** | Belleville, MI | On Site | Jan 11 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6589fb49c96ca6e9fed0?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 11 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/69625974a112b4026610c99a?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Jan 11 |
-| **[Centennial Contractors Enterprises, Inc.](http://cce-inc.com)** | **[Intern - Stafford, VA](https://jobright.ai/jobs/info/69198f4745fb6f5ead8a984b?utm_campaign=1048&utm_source=git)** | Stafford, VA | On Site | Jan 11 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/691e686da49a885af9a28454?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Jan 11 |
-| **[Arconic](https://www.arconic.com)** | **[Electrical Engineering Intern - Manufacturing & Technology Group](https://jobright.ai/jobs/info/69196d8b45fb6f5ead8a8a16?utm_campaign=1048&utm_source=git)** | Alcoa, TN | On Site | Jan 11 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Jan 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Building Systems Integration](https://jobright.ai/jobs/info/68d613661f7fb2169ab16173?utm_campaign=1048&utm_source=git)** | Montgomery, AL | On Site | Jan 11 |
-| **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Engineering Intern - SV Engineering - Mechanical Design](https://jobright.ai/jobs/info/690e3ccc44146d3b6ec5233d?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Jan 11 |
-| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Jan 11 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/6930f7a4ef4b48533d151258?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Jan 11 |
-| **[Quartus Engineering](http://quartus.com)** | **[Structural or Thermal Analysis Engineer Co-Op: Spring/Summer 2026 - 046QE](https://jobright.ai/jobs/info/6946983963141d1884564966?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Component Engineering Intern](https://jobright.ai/jobs/info/6904c477ff462851feff75e0?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
