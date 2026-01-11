@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Intern (R&D in 5G and 6G)](https://jobright.ai/jobs/info/6962f2042cbf4e44756ccceb?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 10 |
+| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Mechanical-Electrical-Plumbing Engineering Intern](https://jobright.ai/jobs/info/68cb93669e3a822f5d2487c3?utm_campaign=1048&utm_source=git)** | Latham, NY | Hybrid | Jan 10 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Intern - Operations Engineer (Summer 2026)](https://jobright.ai/jobs/info/6962d6a4a112b40266111dbb?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 10 |
-| **[Brazeway](http://brazeway.com)** | **[Product Development Engineer Internship](https://jobright.ai/jobs/info/6962cae825e18715077f94aa?utm_campaign=1048&utm_source=git)** | Adrian, MI | On Site | Jan 10 |
 | **[Arc](https://arcboats.com)** | **[Electrical Hardware Engineering Intern](https://jobright.ai/jobs/info/6962c7122cbf4e44756caf1d?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Jan 10 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6962c5aa25e18715077f93ac?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
-| **[OffWorldly](www.offworldly.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/6962c51ca112b40266111b13?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 10 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Corporate Aviation Operations Intern](https://jobright.ai/jobs/info/6962bbf1a112b40266111981?utm_campaign=1048&utm_source=git)** | Ada, MI | On Site | Jan 10 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern-Avionics/Software](https://jobright.ai/jobs/info/6962b95525e18715077f91b8?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/6962b8632cbf4e44756cac82?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jan 10 |
@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Geotechnical Intern](https://jobright.ai/jobs/info/696274962cbf4e44756c650c?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/696274662cbf4e44756c6500?utm_campaign=1048&utm_source=git)** | Beemer, NE | On Site | Jan 10 |
 | ↳ | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/696274152cbf4e44756c64ea?utm_campaign=1048&utm_source=git)** | Centerville, SD | On Site | Jan 10 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/6962740e2cbf4e44756c64e7?utm_campaign=1048&utm_source=git)** | Kansas, IL | On Site | Jan 10 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Meshify Intern](https://jobright.ai/jobs/info/69627336a112b4026610d2f1?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Silicon Validation Engineering Intern](https://jobright.ai/jobs/info/6962a3b3a112b4026610f6df?utm_campaign=1048&utm_source=git)** | Nepean, Ontario, Canada | On Site | Jan 10 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69629628a112b4026610f19d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Bridge Design- EN](https://jobright.ai/jobs/info/695c570df1f8465b79f27cf5?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Jan 10 |
 | ↳ | **[Intern, Geotechnical- EN](https://jobright.ai/jobs/info/695f2fafa1bbea1d9a7a0db4?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Design & Construction Officer- EN](https://jobright.ai/jobs/info/695df47d821f2713684b25fa?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Jan 10 |
+| ↳ | **[Intern, Mechanical (Locomotive Reliability)- FR](https://jobright.ai/jobs/info/695b590df1f8465b79f16dea?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
