@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/696373962cbf4e44756d3174?utm_campaign=1048&utm_source=git)** | Breda, IA | On Site | Jan 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operational Readiness Specialist - Intern](https://jobright.ai/jobs/info/6963715725e1871507801358?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Jan 11 |
+| **[MasTec Advanced Technologies](http://www.jobsatmastec.com)** | **[Field Technician Intern](https://jobright.ai/jobs/info/69636d2ca112b402661194cc?utm_campaign=1048&utm_source=git)** | Plainfield, NJ | On Site | Jan 11 |
+| ↳ | **[Field Technician Intern](https://jobright.ai/jobs/info/69636c45a112b40266119262?utm_campaign=1048&utm_source=git)** | Audubon, NJ | On Site | Jan 11 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/695c3146aa05c26e7ab5836b?utm_campaign=1048&utm_source=git)** | Tanner, AL | On Site | Jan 11 |
+| ↳ | **[Process Metallurgy Intern](https://jobright.ai/jobs/info/69389345b95c305f206dc250?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Jan 11 |
+| ↳ | **[Cybersecurity Intern Carnegie Mellon](https://jobright.ai/jobs/info/696018077ebc25398eb6057e?utm_campaign=1048&utm_source=git)** | Latrobe, PA | On Site | Jan 11 |
+| ↳ | **[Metallurgy Intern](https://jobright.ai/jobs/info/6953de395bb7de448ef6e122?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | Jan 11 |
+| ↳ | **[Maintenance Reliability Intern](https://jobright.ai/jobs/info/69340be0a0dde7020e2f3e17?utm_campaign=1048&utm_source=git)** | Latrobe, PA | On Site | Jan 11 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69384f6ab95c305f206d7647?utm_campaign=1048&utm_source=git)** | Washington, PA | On Site | Jan 11 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Modeling, Simulation, and Analysis Intern - Onsite - Tucson, AZ](https://jobright.ai/jobs/info/6963565325e18715077fed7d?utm_campaign=1048&utm_source=git)** | AZ204: RMS Rita Road Bldg 9020 9000 South Rita Rd Building 9020, Tucson, AZ, 85747 USA | On Site | Jan 10 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - Quality Engineering](https://jobright.ai/jobs/info/696354b42cbf4e44756d098e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | ↳ | **[Summer 2026 Internship - Quality Engineering](https://jobright.ai/jobs/info/69635244a112b40266117267?utm_campaign=1048&utm_source=git)** | 1600 Harvard Avenue, Cleveland, OH, 44105, US | On Site | Jan 10 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/696351172cbf4e44756d0656?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Mechanical Commodity Intern](https://jobright.ai/jobs/info/692af2ca4c474121999cceff?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Jan 10 |
 | **[ABARTA Coca-Cola Beverages, LLC](https://abartacocacola.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69634a3025e18715077fe6de?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6963457925e18715077fe457?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
 | **[TRIMEDX](https://trimedx.com/)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/696344eda112b40266116ae9?utm_campaign=1048&utm_source=git)** | New Bedford, MA | On Site | Jan 10 |
@@ -76,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Land Planner Summer Intern](https://jobright.ai/jobs/info/69630abb25e18715077fbcff?utm_campaign=1048&utm_source=git)** | Menomonee Falls, WI | On Site | Jan 10 |
 | **[City of Plymouth](https://www.plymouthmn.gov/)** | **[Water Resources Intern](https://jobright.ai/jobs/info/696307ca25e18715077fbc61?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Jan 10 |
 | **[Etnyre International, Ltd.](https://etnyreinternational.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6963059ca112b402661141dd?utm_campaign=1048&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Jan 10 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Intern (R&D in 5G and 6G)](https://jobright.ai/jobs/info/6962f2042cbf4e44756ccceb?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 10 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Mechanical-Electrical-Plumbing Engineering Intern](https://jobright.ai/jobs/info/68cb93669e3a822f5d2487c3?utm_campaign=1048&utm_source=git)** | Latham, NY | Hybrid | Jan 10 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Intern - Operations Engineer (Summer 2026)](https://jobright.ai/jobs/info/6962d6a4a112b40266111dbb?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Bridge Assessment Engineer- EN](https://jobright.ai/jobs/info/6929d5b14c474121999ca6e3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Mechanical Engineer Intern - Energy & Industrial Group (Summer 2026)](https://jobright.ai/jobs/info/68b8df2a5b42bc456282874e?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[R&D PhD Summer Intern – Machine Learning / AI](https://jobright.ai/jobs/info/6945c29e951654073537e026?utm_campaign=1048&utm_source=git)** | Mason, OH | On Site | Jan 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Waste Heat Recovery and DC Energy Efficiency Intern - Summer 2026](https://jobright.ai/jobs/info/69461a3dd1953b5d11bf36fc?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 10 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6947c2afd1953b5d11c0f60e?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| **[Rittal LLC](https://www.rittal.com/)** | **[Environmental Health & Safety Internship](https://jobright.ai/jobs/info/694596e8951654073537b386?utm_campaign=1048&utm_source=git)** | Urbana, OH | On Site | Jan 10 |
-| **[CN](http://www.cn.ca)** | **[Intern, Solution Delivery - Indigenous- EN](https://jobright.ai/jobs/info/692a78414c474121999cc319?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
-| **[ABB](https://global.abb/group/en)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6945c3ced1953b5d11bec34c?utm_campaign=1048&utm_source=git)** | Ormond Beach, FL | On Site | Jan 10 |
-| **[Skanska](http://skanska.com)** | **[2026 Project Engineer Intern](https://jobright.ai/jobs/info/6945b478d1953b5d11beb1d3?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jan 10 |
-| **[CN](http://www.cn.ca)** | **[Intern, IT Operations & Technology Enablement-Indigenous- EN](https://jobright.ai/jobs/info/692a778cfa28370be2697294?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
-| **[Lyft](https://www.lyft.com/)** | **[Software Engineer Intern, Machine Learning (Summer 2026)](https://jobright.ai/jobs/info/6928933ed47de4798ece3327?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 10 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- High Speed Rail](https://jobright.ai/jobs/info/68b8c78eea901c0d269f95af?utm_campaign=1048&utm_source=git)** | Selma, CA | On Site | Jan 10 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690d101fd046ab6061cf233e?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
