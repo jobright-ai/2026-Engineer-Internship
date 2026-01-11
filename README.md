@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vexra Engineering](vexraengineering.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6964082aa112b40266121831?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 11 |
+| **[Independent Construction Co.](http://www.indycc.com)** | **[Project Engineer Intern/ Co-Op (Temporary, Full Time)](https://jobright.ai/jobs/info/696407a8a112b40266121623?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 11 |
+| **[RJMedex](https://rjmedex.com/)** | **[Cloud Admin With Security Network Engineer Intern to Full Time Opportunity -ONSITE Only](https://jobright.ai/jobs/info/69640359a112b40266120677?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Jan 11 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sustainability Intern - Summer 2026](https://jobright.ai/jobs/info/6964000225e1871507808078?utm_campaign=1048&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/6963ffcf25e1871507808061?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Jan 11 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6963ff11a112b4026612049c?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
@@ -66,11 +69,12 @@ For a complete list, click the following sortable link below:
 | **[BRPH](http://brph.com)** | **[Mechanical Engineering Intern - Process Piping](https://jobright.ai/jobs/info/6963ebf9a112b4026611f984?utm_campaign=1048&utm_source=git)** | Melbourne, Florida, United States | On Site | Jan 11 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6963eac6a112b4026611f92f?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 11 |
 | **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Manufacturing Engineering Internship](https://jobright.ai/jobs/info/6963ea8ba112b4026611f91d?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Jan 11 |
-| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - MK Goddard State Park](https://jobright.ai/jobs/info/69422b8e50bbaf7650540d89?utm_campaign=1048&utm_source=git)** | Sandy Lake, PA | On Site | Jan 11 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/694230b9bdcf884a5ade02ba?utm_campaign=1048&utm_source=git)** | Erie, PA | On Site | Jan 11 |
 | ↳ | **[State Park Intern - Kinzua State Park Complex](https://jobright.ai/jobs/info/6942562650bbaf7650544e09?utm_campaign=1048&utm_source=git)** | Kane, PA | On Site | Jan 11 |
 | ↳ | **[State Park Intern - Oil Creek State Park](https://jobright.ai/jobs/info/69420ded14ee092a69002abf?utm_campaign=1048&utm_source=git)** | Oil City, PA | On Site | Jan 11 |
 | **[NVIDIA](https://www.nvidia.com)** | **[DGX Cloud Automation Intern - Summer 2026](https://jobright.ai/jobs/info/6963e27925e187150780736d?utm_campaign=1048&utm_source=git)** | Canada, Remote | Remote | Jan 11 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Forestry Intern](https://jobright.ai/jobs/info/6941dee5bdcf884a5add93bd?utm_campaign=1048&utm_source=git)** | Warren, PA | On Site | Jan 11 |
+| ↳ | **[State Park Intern - MK Goddard State Park](https://jobright.ai/jobs/info/6942098a50bbaf765053da8d?utm_campaign=1048&utm_source=git)** | Sandy Lake, PA | On Site | Jan 11 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Internship - Laser Computational Modeling Scientist](https://jobright.ai/jobs/info/6963dc78a112b4026611f7b3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
 | **[Dakota County](http://www.dakotacounty.us)** | **[Traffic Intern/ Summer Worker](https://jobright.ai/jobs/info/6963da6925e1871507807206?utm_campaign=1048&utm_source=git)** | Hastings, MN | On Site | Jan 11 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/6963da4525e18715078071f9?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | On Site | Jan 11 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Scout & Co.](https://scoutandco.com/)** | **[Civil Engineering Land Development Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/695a2e03aa05c26e7ab3c377?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 11 |
 | **[GKN Aerospace](https://www.gknaerospace.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690d8c4ed046ab6061cf7087?utm_campaign=1048&utm_source=git)** | El Cajon, CA | On Site | Jan 11 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Design Verification Intern - Master's Degree](https://jobright.ai/jobs/info/692b123cfa28370be2698319?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Jan 11 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Jan 11 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Jan 11 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Jan 11 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Jan 11 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Jan 11 |
 | **[CN](http://www.cn.ca)** | **[Intern, Mechanical- EN](https://jobright.ai/jobs/info/696156abf3f4cd1325064dfb?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Jan 11 |
 | **[Skanska](http://skanska.com)** | **[2026 Project Engineer Intern](https://jobright.ai/jobs/info/68d6a521894705799a2ecab7?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch Ag & Energy Solutions, LLC](https://kochagenergy.com)** | **[Summer 2026 Operations Internship](https://jobright.ai/jobs/info/68efd2b1de50091dbfa50746?utm_campaign=1048&utm_source=git)** | Hahnville, LA | On Site | Jan 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Materials Engineering Intern - Doctorate (Gloucester, MA)](https://jobright.ai/jobs/info/6946cd5c7d506e3808f22353?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Jan 11 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Research & Development Quality Engineer (Connected Car Engineering)](https://jobright.ai/jobs/info/6963a1582cbf4e44756d5703?utm_campaign=1048&utm_source=git)** | Belleville, MI | On Site | Jan 11 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b894d95b42bc4562825e17?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 11 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Research & Development HMI Design](https://jobright.ai/jobs/info/6963a0032cbf4e44756d55d3?utm_campaign=1048&utm_source=git)** | Belleville, MI | On Site | Jan 11 |
-| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6589fb49c96ca6e9fed0?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 11 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/69625974a112b4026610c99a?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
