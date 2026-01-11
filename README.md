@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BD](https://www.bd.com)** | **[Controls Tech Intern](https://jobright.ai/jobs/info/6963287225e18715077fc487?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Jan 10 |
+| **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Nonlinear Mechanics and Dynamics (NOMAD), Onsite](https://jobright.ai/jobs/info/692e034f4c474121999d53f0?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/69631ac3a112b40266114949?utm_campaign=1048&utm_source=git)** | Ida Grove, IA | On Site | Jan 10 |
 | ↳ | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/69631a55a112b40266114929?utm_campaign=1048&utm_source=git)** | Thurston, NE | On Site | Jan 10 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/696311be2cbf4e44756cdb67?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 10 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/696311392cbf4e44756cdb42?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Jan 10 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern  -  Summer 2026](https://jobright.ai/jobs/info/6963100325e18715077fbedc?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 10 |
 | **[Meta](https://www.metacareers.com/)** | **[ASIC Engineer Intern, Architecture](https://jobright.ai/jobs/info/69630faea112b40266114599?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jan 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69630ecaa112b40266114554?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Jan 10 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69630ae525e18715077fbd20?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jan 10 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[CMBA Architects](https://cmbaarchitects.com/)** | **[Intern - (1B.4)](https://jobright.ai/jobs/info/6962aa6b25e18715077f73e9?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Jan 10 |
 | **[Methuen Construction Company, Inc.](http://methuenconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6962a59e2cbf4e44756c8b6b?utm_campaign=1048&utm_source=git)** | Plaistow, NH | On Site | Jan 10 |
 | **[Bernhard](https://bernhard.com/)** | **[Engineering Intern - (Business Development Team)](https://jobright.ai/jobs/info/6962a04b2cbf4e44756c8712?utm_campaign=1048&utm_source=git)** | US-UT-Salt Lake City | On Site | Jan 10 |
-| **[Ferrovias](ferrovias.us)** | **[Hardware Development Engineer Co-Op](https://jobright.ai/jobs/info/69629b01a112b4026610f293?utm_campaign=1048&utm_source=git)** | Mayfield Heights, OH | On Site | Jan 10 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/696298cba112b4026610f1bf?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 10 |
 | **[24LiveIT](https://www.24liveit.com/)** | **[Network Operations Intern](https://jobright.ai/jobs/info/6962b4bc25e18715077f7e20?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Jan 10 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Integrated Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6962934525e18715077f6950?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Jan 10 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/69613cbba112b402660fc3b2?utm_campaign=1048&utm_source=git)** | Pharr, TX | On Site | Jan 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova FACTS Internship - Summer 2026](https://jobright.ai/jobs/info/6962897c25e18715077f6813?utm_campaign=1048&utm_source=git)** | Saratoga Springs | On Site | Jan 10 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[EH&S Generalist Intern - Summer](https://jobright.ai/jobs/info/696287ac2cbf4e44756c82a7?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Jan 10 |
-| **[Vexra Engineering](vexraengineering.us)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/6962878825e18715077f67d2?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 10 |
 | **[Sechan Electronics, Inc.](https://www.sechan.com)** | **[Internship - Procurement](https://jobright.ai/jobs/info/6962b847a112b4026611133f?utm_campaign=1048&utm_source=git)** | Lititz, PA | On Site | Jan 10 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - MARTIANS, Onsite](https://jobright.ai/jobs/info/692764a2d47de4798ecdc218?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Jan 10 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer-Fall Process Integration Intern - Adv Degree (Albany, NY)](https://jobright.ai/jobs/info/6962814aa112b4026610da85?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jan 10 |
@@ -109,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Audio Production Intern](https://jobright.ai/jobs/info/6962803125e18715077f51d1?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Device & Packaging Technologies](https://jobright.ai/jobs/info/696133cca112b402660fbcc6?utm_campaign=1048&utm_source=git)** | Novato, CA | Hybrid | Jan 10 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - MARTIANS, Onsite](https://jobright.ai/jobs/info/6951e6c4a2668b7f5454756f?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Jan 10 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/696328ed2cbf4e44756ce0f5?utm_campaign=1048&utm_source=git)** | Kansas, IL | On Site | Jan 10 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Environmental Intern](https://jobright.ai/jobs/info/69627ac125e18715077f4bb5?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | ↳ | **[Materials Intern](https://jobright.ai/jobs/info/69627a5e25e18715077f4b9b?utm_campaign=1048&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 10 |
 | ↳ | **[Materials Intern](https://jobright.ai/jobs/info/696279dc2cbf4e44756c65b8?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
@@ -140,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/696266fd25e18715077f46d8?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/696294ada112b4026610f111?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | Jan 10 |
 | **[CN](http://www.cn.ca)** | **[Intern, Bridge Assessment Engineer- EN](https://jobright.ai/jobs/info/6929d5b14c474121999ca6e3?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/696292662cbf4e44756c83da?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Jan 10 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Mechanical Engineer Intern - Energy & Industrial Group (Summer 2026)](https://jobright.ai/jobs/info/68b8df2a5b42bc456282874e?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[R&D PhD Summer Intern – Machine Learning / AI](https://jobright.ai/jobs/info/6945c29e951654073537e026?utm_campaign=1048&utm_source=git)** | Mason, OH | On Site | Jan 10 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Waste Heat Recovery and DC Energy Efficiency Intern - Summer 2026](https://jobright.ai/jobs/info/69461a3dd1953b5d11bf36fc?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Civil Drafting Intern](https://jobright.ai/jobs/info/6945b8bc63141d18845547da?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Network Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b8fe6870116b1f56702?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 10 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68f03546de50091dbfa535a9?utm_campaign=1048&utm_source=git)** | Bryan, TX | On Site | Jan 10 |
+| **[Uline](http://www.uline.com)** | **[Database Administrator Internship - Summer 2026](https://jobright.ai/jobs/info/68f12ed0f462172a5a7d3dcd?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
