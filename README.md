@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Power System Engineer Intern](https://jobright.ai/jobs/info/696c83cc5fc86241853ba881?utm_campaign=1048&utm_source=git)** | Houston, Texas, United States | On Site | Jan 17 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/696c6cb8db26b618950fc7ee?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/696c69c5db26b618950fc5da?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 17 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/696c69a8350cf43803139600?utm_campaign=1048&utm_source=git)** | Dalton, GA | Remote | Jan 17 |
@@ -71,9 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Design Alaska](http://www.designalaska.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/696c52d7db26b618950fa136?utm_campaign=1048&utm_source=git)** | Fairbanks, AK | On Site | Jan 17 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/696c5051350cf43803136f29?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 17 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/696c4dcedb26b618950f9fef?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 17 |
-| ↳ | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/696c4a75350cf43803136e23?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 17 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[AI Development Intern, 2026](https://jobright.ai/jobs/info/695d8490f5f3c43f38e25977?utm_campaign=1048&utm_source=git)** | Mountain View, California, United States | On Site | Jan 17 |
-| **[Pyka](https://www.flypyka.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/696c46ed350cf43803136bb2?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Jan 17 |
 | **[Venture General Contracting](http://ventureseattle.com)** | **[Summer Internship- Project Engineer](https://jobright.ai/jobs/info/696c3c33db26b618950f98e0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - CAD Engineer/Designer - Whitehall, MI (Summer 2026)](https://jobright.ai/jobs/info/696c3b7a350cf4380313680f?utm_campaign=1048&utm_source=git)** | Whitehall, MI | On Site | Jan 17 |
 | **[Z-Band Technologies](https://www.z-band.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/696c3ad65fc86241853b6e61?utm_campaign=1048&utm_source=git)** | Z-Band Technologies - Carlisle, PA 17013 | On Site | Jan 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 PhD Intern  Precision Medicine & Imaging](https://jobright.ai/jobs/info/696bb562db26b618950f2d3a?utm_campaign=1048&utm_source=git)** | Tarrytown, NY | On Site | Jan 17 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Construction Materials Testing / Civil Engineering - Intern](https://jobright.ai/jobs/info/696bb521350cf4380312f9d9?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Novato Technical Services](https://jobright.ai/jobs/info/696bb4fbdb26b618950f2d21?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Jan 17 |
+| ↳ | **[2026 Clinical Pharmacology Intern (PhD)](https://jobright.ai/jobs/info/696bb4f1db26b618950f2d1e?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
