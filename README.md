@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/696da863350cf438031470b6?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Workforce Management Industrial Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc55bdb26b6189510c4a0?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Jan 18 |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Coastal Drone Intern](https://jobright.ai/jobs/info/696dc4f7db26b6189510c469?utm_campaign=1048&utm_source=git)** | Nassawadox, Virginia | On Site | Jan 18 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/696dc2345fc86241853c994f?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 18 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Sales & Distribution Systems (VSDS) Summer (STAR) Intern](https://jobright.ai/jobs/info/696dbe9fdb26b6189510c01f?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
+| **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Next-Gen Compute - NAELFY26](https://jobright.ai/jobs/info/6969f3261703f05405abf998?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 18 |
+| **[OTTO Engineering, Inc.](http://www.ottoexcellence.com)** | **[Mechanical Engineer Internship – Controls](https://jobright.ai/jobs/info/696db02b5fc86241853c7681?utm_campaign=1048&utm_source=git)** | Carpentersville, IL | On Site | Jan 18 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Process Engineer 1 - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/696dab85350cf4380314734e?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 18 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Internship](https://jobright.ai/jobs/info/696da023350cf43803146d82?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 18 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Intern (R&D 5G)](https://jobright.ai/jobs/info/696d9e2fdb26b6189510963f?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern - Engineering Machining](https://jobright.ai/jobs/info/696d9ddd5fc86241853c6e7f?utm_campaign=1048&utm_source=git)** | New Castle, IN | On Site | Jan 18 |
 | ↳ | **[Student Co-op or Intern - Fabrication Engineering](https://jobright.ai/jobs/info/696d9a585fc86241853c6b20?utm_campaign=1048&utm_source=git)** | New Castle, IN | On Site | Jan 18 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/696d9a23db26b618951092fc?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 18 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/696d99c4db26b618951092ef?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Jan 18 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/696d99c4db26b618951092ef?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Jan 18 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern - Supply Chain](https://jobright.ai/jobs/info/696d9967db26b618951092e0?utm_campaign=1048&utm_source=git)** | New Castle, IN | On Site | Jan 18 |
 | ↳ | **[Student Co-Op or Intern - Safety Department](https://jobright.ai/jobs/info/696d98d8350cf43803146833?utm_campaign=1048&utm_source=git)** | New Castle, IN | On Site | Jan 18 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/696d9875350cf43803146824?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Jan 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[Power Technical Intern - Fort Worth, TX](https://jobright.ai/jobs/info/68c333ed5001f8077bf62262?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Jan 18 |
 | **[Arconic](https://www.arconic.com)** | **[Intern – COE Smart Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/68c4b18c7279451d6a036dc8?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Jan 18 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Equipment Engineering Intern](https://jobright.ai/jobs/info/691d3b157481340785ed5299?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Jan 18 |
-| **[LitePoint](http://www.litepoint.com)** | **[DevOps Automation Intern Summer 2026 (LitePoint, San Jose, CA)](https://jobright.ai/jobs/info/695d7948f5f3c43f38e24681?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/6943859350bbaf7650557704?utm_campaign=1048&utm_source=git)** | Nacogdoches, TX | On Site | Jan 18 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Undergraduate/Post Baccalaureate - Temporary Part Time](https://jobright.ai/jobs/info/69617d37a112b402660fffde?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 18 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/68cddaaf1ad6b16f0289f789?utm_campaign=1048&utm_source=git)** | Live Oak, FL | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
