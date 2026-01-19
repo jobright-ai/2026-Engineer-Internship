@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[WACO - Public Works, Internship](https://jobright.ai/jobs/info/696d6efadb26b61895106daa?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Jan 18 |
+| **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/696d88605fc86241853c66bf?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Jan 18 |
+| **[Farmers Insurance](https://www.farmers.com)** | **[Analytics Engineer Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d7b57db26b61895107a4c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[WACO - Public Works, Internship](https://jobright.ai/jobs/info/696d7b12350cf438031442ce?utm_campaign=1048&utm_source=git)** | 3925 IH 35 South, Waco, Texas 76706 | On Site | Jan 18 |
+| ↳ | **[WACO - Public Works, Internship](https://jobright.ai/jobs/info/696d6efadb26b61895106daa?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Jan 18 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science and Machine Learning Intern](https://jobright.ai/jobs/info/696d6899350cf43803144186?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Jan 18 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Analytics Engineer Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d67e9350cf43803144148?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science and Machine Learning Intern](https://jobright.ai/jobs/info/696d65595fc86241853c44ad?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Jan 18 |
 | **[Ferrovias](ferrovias.us)** | **[Advanced Manufacturing Engineering Internship Opportunities](https://jobright.ai/jobs/info/696d6514db26b61895106c90?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Jan 18 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Small Scale Process Development](https://jobright.ai/jobs/info/69619087e7ed9a5731ba6ace?utm_campaign=1048&utm_source=git)** | Verona, Wisconsin, United States | On Site | Jan 18 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/696d5e33db26b61895106c0e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 18 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern - Talent Pool](https://jobright.ai/jobs/info/696d5870350cf4380314404a?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 18 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/696d5846350cf4380314403a?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 18 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern(SDN Traffic Intelligence & Control) - 2026 Start (PhD)](https://jobright.ai/jobs/info/696d5521350cf43803144022?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
@@ -97,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[CTMC](https://ctmc.com)** | **[Intern, Quality Control LIMS Specialist](https://jobright.ai/jobs/info/696d0875db26b61895102c8e?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Product Quality Controls & Performance Systems](https://jobright.ai/jobs/info/696d054edb26b61895102c5c?utm_campaign=1048&utm_source=git)** | Home, KS | Remote | Jan 18 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Process](https://jobright.ai/jobs/info/696d01fd350cf4380313fe91?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Jan 18 |
-| **[Ferrovias](ferrovias.us)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/696d01285fc86241853c02f1?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 18 |
-| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Process](https://jobright.ai/jobs/info/696cf962350cf4380313fdff?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 18 |
+| ↳ | **[Engineer Intern - Process](https://jobright.ai/jobs/info/696cf962350cf4380313fdff?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 18 |
 | ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/696cf86d5fc86241853c023d?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Jan 18 |
 | ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/696cf7f2db26b61895102b51?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 18 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Safety Performance Engineer Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696cf411db26b61895102af9?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Jan 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CentroMotion](https://www.centromotion.com/contact/)** | **[Engineering Internship - Manufacturing - Summer 2026](https://jobright.ai/jobs/info/68e02c2eb99ec3563b0ccc01?utm_campaign=1048&utm_source=git)** | Medina, OH | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Pathfinding Engineer for Thermo-Mechanical Solutions in Future Server Platforms](https://jobright.ai/jobs/info/6934345fa0dde7020e2f4b0a?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Site Reliability Engineering Summer Intern](https://jobright.ai/jobs/info/68df094a5ab4977c2e94d0c0?utm_campaign=1048&utm_source=git)** | Triad Area | Hybrid | Jan 18 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
