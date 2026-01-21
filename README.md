@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DLB Associates](http://www.dlbassociates.com/)** | **[Commissioning Field Technician I Intern / Co-op](https://jobright.ai/jobs/info/69709db6333b6343a14d2a41?utm_campaign=1048&utm_source=git)** | United States | On Site | Jan 21 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - SSD Firmware](https://jobright.ai/jobs/info/6938cf1fa0dde7020e3161e2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Network Administrator Intern](https://jobright.ai/jobs/info/691ba46f15b41563671913fc?utm_campaign=1048&utm_source=git)** | Westminster, CO | On Site | Jan 21 |
+| **[Xylem](https://heimplanet.com/)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/695217d1a2668b7f5454af5c?utm_campaign=1048&utm_source=git)** | Auburn, NY | On Site | Jan 21 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Machine Learning Internship - PhD: 2026](https://jobright.ai/jobs/info/68ceeeeafb49c96ca6ea471a?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - ATE Process Engineer ID1](https://jobright.ai/jobs/info/69380090aabec14a727cfb28?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 21 |
+| **[John Deere](https://www.deere.com)** | **[2026 Intern - Safety](https://jobright.ai/jobs/info/68fff895e04ac838fb5be0c5?utm_campaign=1048&utm_source=git)** | Ankeny, IA | On Site | Jan 21 |
+| **[Blattner](https://www.blattnercompany.com)** | **[Site Safety Internship (Summer 2026)](https://jobright.ai/jobs/info/6931762dfa28370be26bb1b6?utm_campaign=1048&utm_source=git)** | Minnesota, United States | Remote | Jan 21 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern – Equipment Engineer ID1](https://jobright.ai/jobs/info/68c8c84ff9c6ff7aedf1284c?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 21 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Summer 2026 Engineering Internship](https://jobright.ai/jobs/info/695f2fcda1bbea1d9a7a0e3e?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | Jan 21 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Summer 2026 Electrical Engineer Co-op](https://jobright.ai/jobs/info/6970a4b851f726477182f0cd?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jan 21 |
+| **[DLB Associates](http://www.dlbassociates.com/)** | **[Systems Engineer I - Intern - Construction](https://jobright.ai/jobs/info/69623a82a112b4026610a02a?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jan 21 |
+| ↳ | **[Commissioning Field Technician I Intern / Co-op](https://jobright.ai/jobs/info/69709db6333b6343a14d2a41?utm_campaign=1048&utm_source=git)** | United States | On Site | Jan 21 |
 | **[Sigma](http://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2026)](https://jobright.ai/jobs/info/69709c3a333b6343a14d2986?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
 | **[Travelers](https://www.travelers.com)** | **[Risk Control Digital Forensics Intern](https://jobright.ai/jobs/info/69709af351f726477182ee51?utm_campaign=1048&utm_source=git)** | Windsor, CT | Hybrid | Jan 21 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Student Intern 2026 - Water Resources](https://jobright.ai/jobs/info/694389b1dd382f5f5669ad7a?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Construction Management](https://jobright.ai/jobs/info/6970437751f72647718272df?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Mechanical/Industrial Engineering Intern](https://jobright.ai/jobs/info/6970430651f7264771827295?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | **[Texas Instruments](http://www.ti.com)** | **[Device Characterization Engineering Intern](https://jobright.ai/jobs/info/697042f6587dfa0bb55dc442?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Digital Service Engineer Intern](https://jobright.ai/jobs/info/6970429c587dfa0bb55dc401?utm_campaign=1048&utm_source=git)** | Warminster, PA | On Site | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Structural Design Intern](https://jobright.ai/jobs/info/68f2f7cc9a65fd3458582541?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Natural Resources and Regulatory/Permitting Intern](https://jobright.ai/jobs/info/69704257587dfa0bb55dc3cc?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69704247587dfa0bb55dc3c3?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Memory Technology](https://jobright.ai/jobs/info/6970420451f7264771827217?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Natural Resources Intern](https://jobright.ai/jobs/info/697041f751f726477182720f?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Energy Optimization Software Intern - Summer 2026](https://jobright.ai/jobs/info/697041e151f7264771827209?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 20 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Digital Service Engineer Intern](https://jobright.ai/jobs/info/697041aa587dfa0bb55dc35b?utm_campaign=1048&utm_source=git)** | Greenwood, IN | On Site | Jan 20 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, Electrical Engineering](https://jobright.ai/jobs/info/69704190587dfa0bb55dc350?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jan 20 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Data/AI/Intelligent Systems II (Intern) – United States](https://jobright.ai/jobs/info/69704188587dfa0bb55dc34c?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Supply Chain - Whitehall, MI (Summer 2026)](https://jobright.ai/jobs/info/6970418251f72647718271e2?utm_campaign=1048&utm_source=git)** | Whitehall, MI | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
