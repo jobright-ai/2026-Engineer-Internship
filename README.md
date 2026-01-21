@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/6970845351f726477182cbea?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Industrial Engineer](https://jobright.ai/jobs/info/697083ec51f726477182cb9d?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Jan 20 |
-| ↳ | **[Intern, Design Engineering](https://jobright.ai/jobs/info/697080d851f726477182c980?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Jan 20 |
+| **[DLB Associates](http://www.dlbassociates.com/)** | **[Commissioning Field Technician I Intern / Co-op](https://jobright.ai/jobs/info/697090e0333b6343a14d0c5b?utm_campaign=1048&utm_source=git)** | United States | On Site | Jan 21 |
+| **[Sigma](http://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2026)](https://jobright.ai/jobs/info/69708f8a333b6343a14d0bd2?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
+| **[GlobalFoundries](https://gf.com/)** | **[Yield Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69655de96d52670c5c3e2459?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | Jan 21 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Security Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/69708f3a587dfa0bb55e2429?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
+| **[Draper](https://www.draper.com)** | **[Digital Engineering Data Solutions Architect Internship Summer 2026](https://jobright.ai/jobs/info/6970869251f726477182cdb4?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/6970859d333b6343a14d075b?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| ↳ | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/6970845351f726477182cbea?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Design Engineering](https://jobright.ai/jobs/info/697080d851f726477182c980?utm_campaign=1048&utm_source=git)** | Assumption, IL | On Site | Jan 20 |
 | **[Draper](https://www.draper.com)** | **[Digital Engineering Data Solutions Architect Internship Summer 2026](https://jobright.ai/jobs/info/697080a9587dfa0bb55e1bf3?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 20 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6933cc5df131d96e484673c8?utm_campaign=1048&utm_source=git)** | Manor, TX | On Site | Jan 20 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[New Product Development Engineering Intern (Summer)](https://jobright.ai/jobs/info/69707ac1587dfa0bb55e189b?utm_campaign=1048&utm_source=git)** | Westerville, OH | On Site | Jan 20 |
@@ -92,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Orin Swift Cellars](http://www.orinswift.com/)** | **[Cal Color Product Development Internship 2026](https://jobright.ai/jobs/info/69705d13587dfa0bb55e0467?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Jan 20 |
 | **[Siemens](https://www.siemens.com)** | **[Environmental Health & Safety (EHS) Operator Internship](https://jobright.ai/jobs/info/69705d0051f726477182b263?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Plasma/EM Software, Onsite](https://jobright.ai/jobs/info/6945809a9516540735379d7b?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 20 |
+| **[R.V. Anderson Associates Limited](https://rvanderson.com)** | **[Co-op Engineering  Student](https://jobright.ai/jobs/info/697092a3333b6343a14d0ce9?utm_campaign=1048&utm_source=git)** | London, Ontario, Canada | Hybrid | Jan 20 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Engineering Student Intern](https://jobright.ai/jobs/info/69705b5f333b6343a14ce4c2?utm_campaign=1048&utm_source=git)** | East York, Ontario, Canada | On Site | Jan 20 |
 | **[Forge Biologics](https://www.forgebiologics.com)** | **[Summer Intern - AAV Manufacturing](https://jobright.ai/jobs/info/6937596f1c1c2161c13f3226?utm_campaign=1048&utm_source=git)** | Columbus, Ohio | On Site | Jan 20 |
 | **[Mold-Masters Limited](http://www.moldmasters.com)** | **[Engineering & Product Development Intern/Co-op](https://jobright.ai/jobs/info/6970596c333b6343a14cd141?utm_campaign=1048&utm_source=git)** | Georgetown, Ontario, Canada | On Site | Jan 20 |
@@ -119,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Solar/Wind Operations Engineering](https://jobright.ai/jobs/info/69704c4c587dfa0bb55dd4af?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | Hybrid | Jan 20 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Flow/AI Intern - Master's Degree](https://jobright.ai/jobs/info/69704c19333b6343a14cbb5b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 20 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Infrastructure Intern (Concrete Industry)](https://jobright.ai/jobs/info/69704be451f72647718282bc?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/69704bc8587dfa0bb55dd46b?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Security Analyst Intern](https://jobright.ai/jobs/info/69704b74587dfa0bb55dd41e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Flow/AI Intern - Master's Degree](https://jobright.ai/jobs/info/69704b1c587dfa0bb55dd3ce?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 20 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Manufacturing Engineering Intern - Drill Assembly IE Support](https://jobright.ai/jobs/info/69704ad051f72647718281ce?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Dam Safety Engineering Intern](https://jobright.ai/jobs/info/6970414a51f72647718271c7?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Baraboo Hills Land Stewardship Intern](https://jobright.ai/jobs/info/6970413551f72647718271be?utm_campaign=1048&utm_source=git)** | Baraboo, WI | On Site | Jan 20 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Data/AI/Intelligent Systems II (Intern) – United States](https://jobright.ai/jobs/info/69704132333b6343a14ca9a8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Structural Design Intern](https://jobright.ai/jobs/info/68f2b28f9a65fd345857fc84?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/697040c5587dfa0bb55dc2fc?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
-| **[AECOM Hunt](https://aecom.com/services/construction-management/aecom-hunt/)** | **[Construction Intern - AECOM Hunt](https://jobright.ai/jobs/info/6970408f587dfa0bb55dc2e1?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
-| **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Intern - ADMS Network Modeler](https://jobright.ai/jobs/info/69704080333b6343a14ca95a?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Jan 20 |
-| **[Ramp](https://ramp.com)** | **[Applied Scientist Intern](https://jobright.ai/jobs/info/6970406351f7264771827163?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
