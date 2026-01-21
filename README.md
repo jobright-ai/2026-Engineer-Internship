@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/697074c251f726477182c4c3?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jan 20 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Composite Materials & Process Intern](https://jobright.ai/jobs/info/697074b0587dfa0bb55e16f4?utm_campaign=1048&utm_source=git)** | Marina, CA | On Site | Jan 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Engineering Intern, Research Central](https://jobright.ai/jobs/info/69707054587dfa0bb55e1601?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
+| **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6970705251f726477182c3b6?utm_campaign=1048&utm_source=git)** | Hooksett, NH | On Site | Jan 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2026 - Data Engineering Intern, Research Central](https://jobright.ai/jobs/info/69706efe51f726477182c2fa?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 20 |
+| **[Docusign](http://www.docusign.com)** | **[AI Program Management Intern](https://jobright.ai/jobs/info/69706ed6587dfa0bb55e152f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
+| **[GEI Consultants, Inc.](http://www.geiconsultants.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/69706cdf51f726477182c1cc?utm_campaign=1048&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 20 |
+| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Facility Maintenance/Electrical Engineering Intern](https://jobright.ai/jobs/info/69706c8451f726477182c19e?utm_campaign=1048&utm_source=git)** | Duryea, PA | On Site | Jan 20 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Transit Railcar Technology Specialist Intern](https://jobright.ai/jobs/info/69706b08333b6343a14cfa88?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
 | **[Siemens](https://www.siemens.com)** | **[Application Engineering Internship](https://jobright.ai/jobs/info/6970653251f726477182b65b?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | ↳ | **[Manufacturing Engineering Internship](https://jobright.ai/jobs/info/697064e8333b6343a14cef88?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Large Behavior Models, Trustworthy Learning under Uncertainty (TLU)](https://jobright.ai/jobs/info/6970643f587dfa0bb55e07ec?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Conservation Intern](https://jobright.ai/jobs/info/69705e0451f726477182b2be?utm_campaign=1048&utm_source=git)** | Honey Harbour, Ontario, Canada | On Site | Jan 20 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69703df3333b6343a14ca741?utm_campaign=1048&utm_source=git)** | Merrimack, NH | On Site | Jan 20 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Quality Control Internship](https://jobright.ai/jobs/info/69703dd6333b6343a14ca71d?utm_campaign=1048&utm_source=git)** | Danbury, CT | On Site | Jan 20 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/69703db951f7264771826ebe?utm_campaign=1048&utm_source=git)** | Renton, WA | On Site | Jan 20 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Digital Security Group Security Analyst - 3 month internship](https://jobright.ai/jobs/info/69703dae333b6343a14ca6f2?utm_campaign=1048&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 20 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69703d5a587dfa0bb55dc054?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69703cdc51f7264771826dd9?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 20 |
-| **[Upbound Group](https://www.upbound.com)** | **[Data Governance and Data Engineering Intern](https://jobright.ai/jobs/info/69703cd7587dfa0bb55dbfaf?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Aquatic Resources and Climate Change Research Intern](https://jobright.ai/jobs/info/69703ca4587dfa0bb55dbf85?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Structural Mechanics Graduate Intern](https://jobright.ai/jobs/info/69703c7e333b6343a14ca5b5?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Jan 20 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Data/AI/Intelligent Systems II (Intern) – United States](https://jobright.ai/jobs/info/69703c6751f7264771826d48?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Jan 20 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Quantitative Systems Pharmacology](https://jobright.ai/jobs/info/69703c48333b6343a14ca576?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
