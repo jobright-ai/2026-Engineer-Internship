@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern, Platform Research](https://jobright.ai/jobs/info/694347c750bbaf7650552d61?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 21 |
+| **[Analog Devices](http://www.analog.com)** | **[Mixed Signal Design Engineering Intern](https://jobright.ai/jobs/info/691260d4ea9ab01b82bf20b9?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Jan 21 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Data Architecture Intern](https://jobright.ai/jobs/info/6971c68551f7264771843961?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 21 |
+| **[Trust Automation, Inc.](https://trustautomation.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6971c59751f7264771843905?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 21 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Technology Integration](https://jobright.ai/jobs/info/6971bffe333b6343a14e7148?utm_campaign=1048&utm_source=git)** | Santa Clara | On Site | Jan 21 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Engineering Intern and Co-op Summer 2026](https://jobright.ai/jobs/info/6971bd0b333b6343a14e6fe7?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Incoming Inspection](https://jobright.ai/jobs/info/6971a325587dfa0bb55f5002?utm_campaign=1048&utm_source=git)** | Newington, NH | On Site | Jan 21 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Generative AI Software Engineer](https://jobright.ai/jobs/info/6971bbf7333b6343a14e6f45?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Intern, CAD Generation ML](https://jobright.ai/jobs/info/6971bb12333b6343a14e6ee1?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 21 |
+| ↳ | **[Human Interactive Driving Intern, Platform Research](https://jobright.ai/jobs/info/694347c750bbaf7650552d61?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 21 |
 | **[Cretex Medical Component and Device Technologies](https://www.cretexmedical.com/cdt/)** | **[Quality Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6971b77d333b6343a14e6ccb?utm_campaign=1048&utm_source=git)** | Dassel, MN | On Site | Jan 21 |
-| **[Zoetis](https://www.zoetis.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6971b6b051f7264771842c36?utm_campaign=1048&utm_source=git)** | Troy Hills, NJ | On Site | Jan 21 |
 | **[Enerflex Ltd.](http://www.enerflex.com)** | **[Compression Engineering Intern](https://jobright.ai/jobs/info/6971b673333b6343a14e6c13?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 21 |
 | **[Stryten Energy](https://www.stryten.com)** | **[2026 Summer Intern - Mold Mechanic](https://jobright.ai/jobs/info/6971b660333b6343a14e6c04?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Jan 21 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Research Intern - Robotics, Learning From Videos (LFV)](https://jobright.ai/jobs/info/6971b420333b6343a14e6a4b?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 21 |
@@ -80,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Thermagia Engineering](thermagiaengineering.us)** | **[Mechanical Engineering Intern Talent Pool](https://jobright.ai/jobs/info/6971a978587dfa0bb55f5e38?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Co- Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6971a923333b6343a14e4381?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Relay Tech (Carolinas) Internship - Summer 2026](https://jobright.ai/jobs/info/6971a89051f7264771840863?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Rivian](http://www.rivian.com)** | **[Engineering Intern - Electrical Machine Design](https://jobright.ai/jobs/info/6971a864587dfa0bb55f5bd1?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 21 |
 | **[Jacobs](http://www.jacobs.com)** | **[Internship – Jacobs Mayo River Bridge Community Replacement Project](https://jobright.ai/jobs/info/6971a83a333b6343a14e4314?utm_campaign=1048&utm_source=git)** | Whitehorse, Yukon Territory, Canada | On Site | Jan 21 |
 | **[Domtar](http://www.domtar.com)** | **[Engineering Co-op Student](https://jobright.ai/jobs/info/6971a822333b6343a14e4303?utm_campaign=1048&utm_source=git)** | Port Mellon, British Columbia, Canada | On Site | Jan 21 |
 | **[Stryten Energy](https://www.stryten.com)** | **[2026 Summer Intern - Machinist](https://jobright.ai/jobs/info/6971a81251f726477184064c?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Jan 21 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Datacor, Inc.](http://www.datacor.com)** | **[Summer 2026 AI Engineer Intern](https://jobright.ai/jobs/info/69424597bdcf884a5ade213e?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Data Architecture Intern](https://jobright.ai/jobs/info/6971a47f587dfa0bb55f5060?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 21 |
 | ↳ | **[Energy & Professional Services Intern](https://jobright.ai/jobs/info/6971a476587dfa0bb55f505e?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 21 |
-| **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Incoming Inspection](https://jobright.ai/jobs/info/6971a325587dfa0bb55f5002?utm_campaign=1048&utm_source=git)** | Newington, NH | On Site | Jan 21 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Optical Fiber Sensors (PhD)](https://jobright.ai/jobs/info/6971a2cd587dfa0bb55f4fc0?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | Jan 21 |
 | **[Vivint](http://www.vivint.com)** | **[Salesforce Developer Intern](https://jobright.ai/jobs/info/6971a19151f726477183f991?utm_campaign=1048&utm_source=git)** | Lehi, UT | On Site | Jan 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering (Renewables) Intern - Summer 2026](https://jobright.ai/jobs/info/6971a18551f726477183f989?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 21 |
@@ -118,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Protein Sciences, Bioengineering](https://jobright.ai/jobs/info/6971995c333b6343a14e3300?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6971993451f726477183f396?utm_campaign=1048&utm_source=git)** | Pleasant Valley, NY | On Site | Jan 21 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Electrical Field Engineer Intern](https://jobright.ai/jobs/info/69719886587dfa0bb55f4839?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 21 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Engineering Internship (Associate in Engineering - Levels I - IV)](https://jobright.ai/jobs/info/69253dc2d47de4798ecceb62?utm_campaign=1048&utm_source=git)** | Santa Barbara, CA | On Site | Jan 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering (Renewables) Intern - Summer 2026](https://jobright.ai/jobs/info/697197de333b6343a14e31ce?utm_campaign=1048&utm_source=git)** | Boise, ID | Hybrid | Jan 21 |
 | **[Enerflex Ltd.](http://www.enerflex.com)** | **[Compression Engineering Intern](https://jobright.ai/jobs/info/697197de587dfa0bb55f47ba?utm_campaign=1048&utm_source=git)** | Engineered Systems Canada - Calgary Exmt | On Site | Jan 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Water Resources Engineering Intern- Spring 2026](https://jobright.ai/jobs/info/697197c4587dfa0bb55f47a4?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Jan 21 |
@@ -137,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Super.com](https://www.super.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/696779261703f05405a92541?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[STR](https://www.str.us/)** | **[Cyber Summer Internship](https://jobright.ai/jobs/info/6961682fa112b402660fea53?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Jan 21 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697194e3333b6343a14e2f58?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 21 |
-| **[Permian Resources](https://permianres.com)** | **[Summer 2026 Field Engineering Internship](https://jobright.ai/jobs/info/697194c1333b6343a14e2f3b?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Jan 21 |
+| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6971c13651f7264771843575?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/697193a7333b6343a14e2e8c?utm_campaign=1048&utm_source=git)** | Girard, OH | On Site | Jan 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/697193a0333b6343a14e2e88?utm_campaign=1048&utm_source=git)** | Hauppauge, NY | On Site | Jan 21 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Mechanical Engineering - Onsite](https://jobright.ai/jobs/info/6971920c587dfa0bb55f4297?utm_campaign=1048&utm_source=git)** | Marlborough, MA | On Site | Jan 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EOG Resources](http://www.eogresources.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/69718efc333b6343a14e29ec?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Cyber Testing Intern - Summer 2026](https://jobright.ai/jobs/info/69718eac587dfa0bb55f3f3a?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[Utah State University](http://www.usu.edu)** | **[Conservation and Outreach Internship](https://jobright.ai/jobs/info/69718e81587dfa0bb55f3f16?utm_campaign=1048&utm_source=git)** | Park City, UT | On Site | Jan 21 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Systems Engineering & Test - Onsite - CO](https://jobright.ai/jobs/info/69718e3e587dfa0bb55f3efe?utm_campaign=1048&utm_source=git)** | Buckley AFB, CO | On Site | Jan 21 |
-| **[Stantec](http://www.stantec.com)** | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69718dff333b6343a14e28fd?utm_campaign=1048&utm_source=git)** | South Burlington, VT | On Site | Jan 21 |
-| **[NRG Energy](http://www.nrg.com/)** | **[Salesforce Developer Intern](https://jobright.ai/jobs/info/69718d85333b6343a14e287f?utm_campaign=1048&utm_source=git)** | Utah, United States | On Site | Jan 21 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Engineering Co-op/Intern](https://jobright.ai/jobs/info/69718d5651f726477183e8db?utm_campaign=1048&utm_source=git)** | Florence, SC | On Site | Jan 21 |
-| **[UTHealth Houston](https://www.uth.edu)** | **[Seasonal Hires - IT Security Internships](https://jobright.ai/jobs/info/69718c5d51f726477183e7cf?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 21 |
-| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Data Solution Developer](https://jobright.ai/jobs/info/69718c11587dfa0bb55f3d0e?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
