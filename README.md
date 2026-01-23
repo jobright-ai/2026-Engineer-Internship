@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MWH](https://mwhconstructors.com)** | **[Intern, Safety](https://jobright.ai/jobs/info/697318101790715e866c1874?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[Neptune Medical](https://gipathfinder.com)** | **[Product Development Engineering Intern, Robotics](https://jobright.ai/jobs/info/694af5053019f50a4fe5ff4b?utm_campaign=1048&utm_source=git)** | Burlingame, California, United States | On Site | Jan 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Test Engineer Intern / Lufkin, TX](https://jobright.ai/jobs/info/697326c31790715e866c22f7?utm_campaign=1048&utm_source=git)** | Possible | On Site | Jan 22 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697324c9206da320f49d2a45?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 22 |
+| **[Blair, Church & Flynn Consulting Engineers](http://www.bcf-engr.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69732498694e99351d147bf3?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Jan 22 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Manufacturing Operations Associate](https://jobright.ai/jobs/info/69732484694e99351d147be6?utm_campaign=1048&utm_source=git)** | Rutland, VT | On Site | Jan 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Test Engineer Intern / Lufkin, TX](https://jobright.ai/jobs/info/69732236206da320f49d2883?utm_campaign=1048&utm_source=git)** | Texas | On Site | Jan 22 |
+| **[FTI Defense - Frontier Technology Inc.](https://www.fti-net.com)** | **[AI/ML Engineering Internship](https://jobright.ai/jobs/info/697321d5206da320f49d2835?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jan 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Test Engineer Intern / Lufkin, TX](https://jobright.ai/jobs/info/697321c6694e99351d147a07?utm_campaign=1048&utm_source=git)** | Texas | On Site | Jan 22 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Health Physics Technician Jr. - Intern](https://jobright.ai/jobs/info/697321a1694e99351d1479f2?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 22 |
+| **[Blair, Church & Flynn Consulting Engineers](http://www.bcf-engr.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973212f1790715e866c1eed?utm_campaign=1048&utm_source=git)** | Clovis, CA | On Site | Jan 22 |
+| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Engineering-Structural - Intern](https://jobright.ai/jobs/info/69732127206da320f49d27ba?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
+| **[City of St. Louis Park](http://www.stlouispark.org)** | **[Natural Resources/ Tree Inspector Intern](https://jobright.ai/jobs/info/69731f35206da320f49d267b?utm_campaign=1048&utm_source=git)** | St Louis Park, MN | On Site | Jan 22 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69731f28694e99351d147834?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 22 |
+| **[MWH](https://mwhconstructors.com)** | **[Intern, Safety](https://jobright.ai/jobs/info/69731ee81790715e866c1d70?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| ↳ | **[Intern, Safety](https://jobright.ai/jobs/info/697318101790715e866c1874?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/6973174e694e99351d147110?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Jan 22 |
 | **[Rosendin](https://www.rosendin.com)** | **[Intern](https://jobright.ai/jobs/info/697316a01790715e866c17eb?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Design Engineering Summer Intern](https://jobright.ai/jobs/info/697313a71790715e866c16c7?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Jan 22 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6972e74698522904c697ba2b?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Jan 22 |
 | **[Nokia](http://www.nokia.com)** | **[Automation - AI/ML Intern](https://jobright.ai/jobs/info/6972e71e0488fd59f7d5e4f6?utm_campaign=1048&utm_source=git)** | Coppell, TX | On Site | Jan 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6972e71698522904c697ba18?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Jan 22 |
-| **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Tissue Culture](https://jobright.ai/jobs/info/696fb3210f4e0f657ea3fcc1?utm_campaign=1048&utm_source=git)** | Colorado City, CO | On Site | Jan 22 |
-| **[AFB International](http://afbinternational.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6972e6701d55d64a205349ad?utm_campaign=1048&utm_source=git)** | Aurora, MO | On Site | Jan 22 |
-| **[American Electric Power](http://aep.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6972e5a60488fd59f7d5e33c?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jan 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Quality and Market Standards](https://jobright.ai/jobs/info/6972e5851d55d64a20534911?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jan 22 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/6972e5081d55d64a20534884?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Jan 22 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6972e50798522904c697b8bd?utm_campaign=1048&utm_source=git)** | Boise, ID | Hybrid | Jan 22 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[Maintenance Intern I (Part-Time) - Electrical](https://jobright.ai/jobs/info/6972e5041d55d64a20534882?utm_campaign=1048&utm_source=git)** | Bagdad, AZ | On Site | Jan 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Quality and Market Standards](https://jobright.ai/jobs/info/6972e4f81d55d64a2053486c?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jan 22 |
-| **[KTGY](http://ktgy.com)** | **[Planning Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e46b1d55d64a205347cf?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
-| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Internship Program-Engineering Track](https://jobright.ai/jobs/info/6972e4030488fd59f7d5e13f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain - Summer 2026](https://jobright.ai/jobs/info/6972e3b01d55d64a205346ef?utm_campaign=1048&utm_source=git)** | Clyde, NY | On Site | Jan 22 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - AI Enablement](https://jobright.ai/jobs/info/6972e2e60488fd59f7d5dfba?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 22 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Mechanical Engineering - Onsite](https://jobright.ai/jobs/info/6972e2b20488fd59f7d5df6f?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Jan 22 |
-| **[Denver Water](https://www.denverwater.org/)** | **[Recreation Intern](https://jobright.ai/jobs/info/6972ff5a206da320f49cf48b?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
