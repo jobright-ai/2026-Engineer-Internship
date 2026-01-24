@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Toll Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69754c09bc8e722e7b1a2a28?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Chassis Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69754ab5bc8e722e7b1a29e1?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
+| ↳ | **[PTS Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69754670bc8e722e7b1a2997?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69754312bc8e722e7b1a2959?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 24 |
+| ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/69754015206da320f49f583c?utm_campaign=1048&utm_source=git)** | Cherry Hill, NJ | On Site | Jan 24 |
 | **[RASTA](www.rastasense.com)** | **[Cybersecurity & AIoT Systems Internship](https://jobright.ai/jobs/info/69753b7e37785856350f314f?utm_campaign=1048&utm_source=git)** | Detroit Metro | Hybrid | Jan 24 |
 | **[Innovative Health LLC](http://www.innovative-health.com)** | **[Manufacturing Engineer Internship](https://jobright.ai/jobs/info/69753abf37785856350f3121?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Jan 24 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern -Summer 2026.](https://jobright.ai/jobs/info/69753992bc8e722e7b1a280e?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 24 |
@@ -68,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Embedded Systems Engineer Intern -  Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/69752849206da320f49f3a8e?utm_campaign=1048&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 24 |
 | **[MechNova](mechnova.us)** | **[Engineering Intern – Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/69752778206da320f49f3a0a?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Remote | Jan 24 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Geotechnical & Materials Engineering Intern](https://jobright.ai/jobs/info/69752398206da320f49f386d?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 24 |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Work-Based Learning Automotive/ Diesel Vocational Intern](https://jobright.ai/jobs/info/697546d0bc8e722e7b1a29b6?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Calgon Carbon Corporation](http://calgoncarbon.com)** | **[Intern](https://jobright.ai/jobs/info/69753a3f37785856350f30f9?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jan 24 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/697519da206da320f49f333f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Quality Engineer (Summer 2026)](https://jobright.ai/jobs/info/696e8338350cf438031539c7?utm_campaign=1048&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 24 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[APTIM](https://www.aptim.com/)** | **[Climate & Resilience Technology Intern (STRIVE Program)](https://jobright.ai/jobs/info/6975029437785856350f069e?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | Jan 24 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro Engineering Intern](https://jobright.ai/jobs/info/6974fe5b37785856350f0634?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Quality Engineering (Winter / Spring)](https://jobright.ai/jobs/info/6974fdf437785856350f0618?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6974fdcb206da320f49f2cc7?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 24 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6974f75f37785856350effef?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 24 |
 | **[Thermagia Engineering](thermagiaengineering.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/69752826206da320f49f3a77?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 24 |
 | **[T BAILEY LLC](https://tbailey.com/)** | **[SVC Subarc Welding Internship](https://jobright.ai/jobs/info/6974f6b5206da320f49f19e2?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/6903f6e1ff462851feff1351?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil/Survey Engineering Intern](https://jobright.ai/jobs/info/691feb323f782d2f1afc1789?utm_campaign=1048&utm_source=git)** | Holmdel, NJ | On Site | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6958e5139f1b381eb271cba7?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Jan 24 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - IT MFG](https://jobright.ai/jobs/info/6974cc8cbc8e722e7b19d4ff?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 24 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[AI Year Round Graduate Intern - Office of the Chief Artificial Intelligence Officer](https://jobright.ai/jobs/info/693c7302aa598a08c3ed505b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
-| **[CPH](http://cphcorp.com)** | **[Engineer Intern (Civil/Facilities - Orlando)](https://jobright.ai/jobs/info/693cca5aaa598a08c3ed9a6a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae4e02daf1431824ca2322?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Jan 24 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Rotational Homebuilding Intern - Orlando Summer 2026](https://jobright.ai/jobs/info/6902631798707b2b0fe6ecb2?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
