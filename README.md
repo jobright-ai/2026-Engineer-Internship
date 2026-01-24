@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetalTek International](https://www.metaltek.com/)** | **[Industrial Electrical Intern-Summer 2026](https://jobright.ai/jobs/info/69750f37bc8e722e7b1a009c?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Jan 24 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69750e3837785856350f083a?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 24 |
+| **[Amazon](https://amazon.com)** | **[Systems Development Engineer Internship – 2026 (US)](https://jobright.ai/jobs/info/6974df45bc8e722e7b19df0a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Engineering Intern  Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/6975068337785856350f0755?utm_campaign=1048&utm_source=git)** | Memphis, TN | Remote | Jan 24 |
 | **[Ferrovias](ferrovias.us)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/6975033037785856350f06d8?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Engineer (Summer 2026)](https://jobright.ai/jobs/info/697502a8bc8e722e7b19fed4?utm_campaign=1048&utm_source=git)** | Harrisburg, PA | On Site | Jan 24 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Hydro Engineering Intern](https://jobright.ai/jobs/info/6974fe5b37785856350f0634?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Quality Engineering (Winter / Spring)](https://jobright.ai/jobs/info/6974fdf437785856350f0618?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6974fdcb206da320f49f2cc7?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 24 |
-| **[Amazon](https://amazon.com)** | **[Systems Development Engineer Internship – 2026 (US)](https://jobright.ai/jobs/info/6974df45bc8e722e7b19df0a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6974f75f37785856350effef?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 24 |
 | ↳ | **[Mechanical Engineer Internship - Talent Pool.](https://jobright.ai/jobs/info/6974f6babc8e722e7b19fd53?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 24 |
 | **[T BAILEY LLC](https://tbailey.com/)** | **[SVC Subarc Welding Internship](https://jobright.ai/jobs/info/6974f6b5206da320f49f19e2?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kronospan](https://kronospan.com/)** | **[Commercial / Technical Internship](https://jobright.ai/jobs/info/69582155aa05c26e7ab201ff?utm_campaign=1048&utm_source=git)** | Anniston, AL | On Site | Jan 24 |
 | **[CPH](http://cphcorp.com)** | **[Engineer Intern (Utilities - Orlando)](https://jobright.ai/jobs/info/693ccd62aa598a08c3ed9bce?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/68cb1dbeba798c1a501cbdcf?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Jan 24 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Intern - Functional Safety](https://jobright.ai/jobs/info/68ae15ac758f2e4ac3011327?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 24 |
-| **[CPH](http://cphcorp.com)** | **[Surveyor in Training/Survey Intern (Central Florida)](https://jobright.ai/jobs/info/693c457150bbaf76504f845d?utm_campaign=1048&utm_source=git)** | Sanford, FL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
