@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Geotechnical & Materials Engineering Intern](https://jobright.ai/jobs/info/69752398206da320f49f386d?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 24 |
+| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/697519da206da320f49f333f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
 | **[MetalTek International](https://www.metaltek.com/)** | **[Industrial Electrical Intern-Summer 2026](https://jobright.ai/jobs/info/69750f37bc8e722e7b1a009c?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Jan 24 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69750e3837785856350f083a?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Systems Development Engineer Internship – 2026 (US)](https://jobright.ai/jobs/info/6974df45bc8e722e7b19df0a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6967ed11f25a3800669643db?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Jan 24 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Industrial Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf25e3fb49c96ca6ea611c?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Jan 24 |
 | **[Hydromenta Systems](hydromentasystems.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6974f7afbc8e722e7b19fd94?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/6974f697bc8e722e7b19fc51?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae6991758f2e4ac30135b6?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Jan 24 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Technology](https://jobright.ai/jobs/info/693c9b9150bbaf76504fe439?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae5f3ddaf1431824ca2a23?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae5d19d627244576e536a0?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Kronospan](https://kronospan.com/)** | **[Commercial / Technical Internship](https://jobright.ai/jobs/info/69582155aa05c26e7ab201ff?utm_campaign=1048&utm_source=git)** | Anniston, AL | On Site | Jan 24 |
 | **[CPH](http://cphcorp.com)** | **[Engineer Intern (Utilities - Orlando)](https://jobright.ai/jobs/info/693ccd62aa598a08c3ed9bce?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/68cb1dbeba798c1a501cbdcf?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
