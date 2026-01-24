@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ontario Power Generation](https://www.opg.com/)** | **[Summer 2026 Skilled Trades Student - Power Engineering Technology - Lennox](https://jobright.ai/jobs/info/69437fd050bbaf765055737c?utm_campaign=1048&utm_source=git)** | Bath, Ontario, Canada | On Site | Jan 24 |
+| **[Wieland Healthcare](https://wielandhealthcare.com/)** | **[Engineering Intern, Recycling](https://jobright.ai/jobs/info/6974817a206da320f49eb9bc?utm_campaign=1048&utm_source=git)** | Shelbyville, KY | On Site | Jan 24 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69747bbfbc8e722e7b198cb3?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Engineer: Rail & Transit – Summer 2026](https://jobright.ai/jobs/info/69747b65bc8e722e7b198c6b?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 23 |
 | **[Antunes](http://www.ajantunes.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6974783937785856350e8e8a?utm_campaign=1048&utm_source=git)** | Carol Stream, IL | On Site | Jan 23 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6974756237785856350e8ceb?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/69747531206da320f49eb3f8?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69742bd537785856350e259d?utm_campaign=1048&utm_source=git)** | Springfield, MA, USA | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[Transportation Roadway Intern (Summer 2026)](https://jobright.ai/jobs/info/69742b8ebc8e722e7b192182?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Dropbox](https://www.dropbox.com)** | **[Support Enablement Engineer Intern  (Summer 2026)](https://jobright.ai/jobs/info/69742b7237785856350e252d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Quectel](http://www.quectel.com/)** | **[Co-op Student - Field Application Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69742b31bc8e722e7b192117?utm_campaign=1048&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 23 |
-| **[Calix](http://www.calix.com)** | **[IT Systems Administration Intern](https://jobright.ai/jobs/info/69742adabc8e722e7b1920aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Intern, ML Algorithms](https://jobright.ai/jobs/info/69742aa1bc8e722e7b192062?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
-| **[City of Penticton](https://www.penticton.ca)** | **[Civil Engineering Co-op Student](https://jobright.ai/jobs/info/6974521bbc8e722e7b1960cf?utm_campaign=1048&utm_source=git)** | Penticton, British Columbia, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
