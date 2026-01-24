@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil/Structural Engineering Intern/Co-op](https://jobright.ai/jobs/info/6974906f206da320f49ed882?utm_campaign=1048&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/6974900b37785856350eaf8c?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | Jan 24 |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Engineering Intern – Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/69749002206da320f49ed70a?utm_campaign=1048&utm_source=git)** | Memphis, TN | Remote | Jan 24 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69748f4437785856350ead2d?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| ↳ | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69748e9837785856350eab08?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| ↳ | **[R&D Intern - Sustaining](https://jobright.ai/jobs/info/69748e8c206da320f49ed244?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| ↳ | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69748e38bc8e722e7b19a7e9?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| ↳ | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/69748df9bc8e722e7b19a723?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/69748d2abc8e722e7b19a51e?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| **[SecureSpace](https://securespace.com/)** | **[Development Intern](https://jobright.ai/jobs/info/697489c9206da320f49ec3d6?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA | On Site | Jan 24 |
+| **[Martin-Harris Construction LLC](http://martinharris.com)** | **[College Internship - Summer 2026](https://jobright.ai/jobs/info/6974881d37785856350e978b?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Jan 24 |
 | **[Ontario Power Generation](https://www.opg.com/)** | **[Summer 2026 Skilled Trades Student - Power Engineering Technology - Lennox](https://jobright.ai/jobs/info/69437fd050bbaf765055737c?utm_campaign=1048&utm_source=git)** | Bath, Ontario, Canada | On Site | Jan 24 |
 | **[Wieland Healthcare](https://wielandhealthcare.com/)** | **[Engineering Intern, Recycling](https://jobright.ai/jobs/info/6974817a206da320f49eb9bc?utm_campaign=1048&utm_source=git)** | Shelbyville, KY | On Site | Jan 24 |
-| **[Imperative Care](http://www.imperativecare.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69747bbfbc8e722e7b198cb3?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Engineer: Rail & Transit – Summer 2026](https://jobright.ai/jobs/info/69747b65bc8e722e7b198c6b?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 23 |
 | **[Antunes](http://www.ajantunes.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6974783937785856350e8e8a?utm_campaign=1048&utm_source=git)** | Carol Stream, IL | On Site | Jan 23 |
-| **[Imperative Care](http://www.imperativecare.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6974756237785856350e8ceb?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
-| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/69747531206da320f49eb3f8?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
-| ↳ | **[Systems Engineer Intern](https://jobright.ai/jobs/info/6974752637785856350e8cb9?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[Nuro](https://nuro.ai)** | **[Systems Engineering Intern, Compliance Coverage ML](https://jobright.ai/jobs/info/69747407206da320f49eb30f?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Jan 23 |
-| **[Imperative Care](http://www.imperativecare.com)** | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/6974713e37785856350e876c?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
-| ↳ | **[R&D Intern - Sustaining](https://jobright.ai/jobs/info/69746f8c206da320f49ead95?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Civil/Track Engineering Intern](https://jobright.ai/jobs/info/697494b237785856350eb437?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, AI Engineer, Self-Driving (Spring 2026)](https://jobright.ai/jobs/info/69746dfb206da320f49eac75?utm_campaign=1048&utm_source=git)** | Palo Alto, California | On Site | Jan 23 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Industrial Maintenance](https://jobright.ai/jobs/info/69746d5437785856350e84e1?utm_campaign=1048&utm_source=git)** | Halifax, NC | On Site | Jan 23 |
 | **[Nuro](https://nuro.ai)** | **[Systems Engineering Intern, Compliance Coverage ML](https://jobright.ai/jobs/info/69746cffbc8e722e7b197f20?utm_campaign=1048&utm_source=git)** | Mountain View, California (HQ) | Hybrid | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Coffee](http://www.communitycoffee.com)** | **[Maintenance Technician Intern](https://jobright.ai/jobs/info/6974530a206da320f49e8dd6?utm_campaign=1048&utm_source=git)** | Port Allen, LA | On Site | Jan 23 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern - Talent Pool.](https://jobright.ai/jobs/info/69745e2037785856350e76cb?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 23 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/6974628d37785856350e7a71?utm_campaign=1048&utm_source=git)** | Sexsmith, Alberta, Canada | On Site | Jan 23 |
-| **[Stantec](http://www.stantec.com)** | **[Mechanical Engineering Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69742d78206da320f49e4fc6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[Honda Research Institute USA, Inc.](http://www.honda-ri.com)** | **[Research Intern: Tactile-Aware Multi-Modal Foundation Models for Dexterous Manipulation](https://jobright.ai/jobs/info/69742d2b206da320f49e4f7a?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jan 23 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[2026 Mechanical Engineer Intern](https://jobright.ai/jobs/info/69742c67bc8e722e7b19226b?utm_campaign=1048&utm_source=git)** | Houston, TX 77041, USA | Hybrid | Jan 23 |
-| **[Smiths Group plc](http://www.smiths.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69742bd537785856350e259d?utm_campaign=1048&utm_source=git)** | Springfield, MA, USA | On Site | Jan 23 |
-| **[Stantec](http://www.stantec.com)** | **[Transportation Roadway Intern (Summer 2026)](https://jobright.ai/jobs/info/69742b8ebc8e722e7b192182?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[Dropbox](https://www.dropbox.com)** | **[Support Enablement Engineer Intern  (Summer 2026)](https://jobright.ai/jobs/info/69742b7237785856350e252d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
