@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/69766528206da320f4a02fee?utm_campaign=1048&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Jan 25 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697663843778585635100b31?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 25 |
+| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/697660223778585635100ade?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69765ffb3778585635100ad1?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 25 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Engineering Internship -Summer 2026.](https://jobright.ai/jobs/info/6976589f206da320f4a02c5d?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 25 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G System R&D)](https://jobright.ai/jobs/info/6976589bbc8e722e7b1afae0?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Ferrovias](ferrovias.us)** | **[Engineering Intern – Summer 2026 Undergraduate](https://jobright.ai/jobs/info/6976522f206da320f4a02b5a?utm_campaign=1048&utm_source=git)** | Boulder, CO | Remote | Jan 25 |
 | **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/697648bdbc8e722e7b1af881?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Software Engineer, Predictive Planner Research](https://jobright.ai/jobs/info/690116d4f8ce7a040fdbbeaf?utm_campaign=1048&utm_source=git)** | Mountain View, CA USA | Hybrid | Jan 25 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Quality (Summer 2026)](https://jobright.ai/jobs/info/68cb11b2d905e25191d9f49d?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Jan 25 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer Intern - Comanche Peak - Engineering](https://jobright.ai/jobs/info/6903e305d64a22104aa948c4?utm_campaign=1048&utm_source=git)** | Glen Rose, TX | On Site | Jan 25 |
-| **[CRB](https://www.crbgroup.com/)** | **[Construction/Project Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68e84138c72beb74cb31ced4?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI | On Site | Jan 25 |
-| **[Precision Castparts](http://precast.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69760d97bc8e722e7b1aba9f?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | On Site | Jan 25 |
-| **[Sensata Technologies](http://www.sensata.com)** | **[IT (AI/ML) Intern - Summer 2026](https://jobright.ai/jobs/info/694ccf4a29655e4dd656f96a?utm_campaign=1048&utm_source=git)** | Attleboro, MA | On Site | Jan 25 |
-| **[Vontier](https://www.vontier.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/690c16654a1b456627b15f3c?utm_campaign=1048&utm_source=git)** | Duncansville, PA | On Site | Jan 25 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[eHardware Engineering Intern](https://jobright.ai/jobs/info/69464df07d506e3808f1ab8b?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Jan 25 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Equipment and Transportation Internship 2026](https://jobright.ai/jobs/info/68eb5d762f64880ca0b57837?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jan 25 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Cell Test Engineering Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/696bdd595fc86241853b21cb?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
