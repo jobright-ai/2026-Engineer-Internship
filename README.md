@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MWH](https://mwhconstructors.com)** | **[Construction Safety Intern](https://jobright.ai/jobs/info/6975ad4ebc8e722e7b1a8cdb?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jan 24 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6975a988bc8e722e7b1a8955?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
+| **[TE Connectivity](http://www.te.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6975a263206da320f49fb07d?utm_campaign=1048&utm_source=git)** | Mount Joy, PA | On Site | Jan 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/69759ae5206da320f49f9106?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- INDUSTRIAL ENGINEERING](https://jobright.ai/jobs/info/697594c6206da320f49f8a96?utm_campaign=1048&utm_source=git)** | Pascagoula, MS | On Site | Jan 24 |
 | **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (Computer Vision)_Bilingual Mandarin](https://jobright.ai/jobs/info/6975930fbc8e722e7b1a5a3c?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6d37daf1431824ca2efb?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
 | ↳ | **[Safety Internship - Oil, Gas, Chemical (Summer 2026)](https://jobright.ai/jobs/info/68ae4bf4daf1431824ca216d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Shellfish Hatchery Intern](https://jobright.ai/jobs/info/6902cc5398707b2b0fe72d3d?utm_campaign=1048&utm_source=git)** | Quilcene, WA | On Site | Jan 24 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/697458b5bc8e722e7b196b0b?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | Jan 24 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae7456758f2e4ac3013ab2?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Jan 24 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - MacAllister Rentals Technician Intern](https://jobright.ai/jobs/info/691fdc5ca49a885af9a34d21?utm_campaign=1048&utm_source=git)** | Byron Center, MI | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
