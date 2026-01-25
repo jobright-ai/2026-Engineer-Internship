@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Engineer: Construction - Summer 2026](https://jobright.ai/jobs/info/69757589206da320f49f7c70?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| **[Ferrovias](ferrovias.us)** | **[Engineering Intern Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/697582a7206da320f49f8097?utm_campaign=1048&utm_source=git)** | Minnesota, United States | Remote | Jan 24 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Wearable Tactile Sensors (PhD)](https://jobright.ai/jobs/info/6975825837785856350f5ac0?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
+| **[Mechronix](mechronix.us)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/69757d75bc8e722e7b1a5004?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
+| **[HNTB](http://www.hntb.com/)** | **[Toll Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6975777c37785856350f5715?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
+| ↳ | **[Intern Engineer: Construction - Summer 2026](https://jobright.ai/jobs/info/69757589206da320f49f7c70?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Sappi](http://sappi.com)** | **[Mechanical and Civil Engineering Co-op](https://jobright.ai/jobs/info/6975742237785856350f558c?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Jan 24 |
 | ↳ | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6975735f206da320f49f7add?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Jan 24 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Test Automation Engineer](https://jobright.ai/jobs/info/6975705f37785856350f52d9?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rite-Hite](https://www.ritehite.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/693cd6af49a7695fbd0389f7?utm_campaign=1048&utm_source=git)** | Dubuque, IA | On Site | Jan 24 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/68e6e424e8daec61499b0221?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/6903f6e1ff462851feff1351?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil/Survey Engineering Intern](https://jobright.ai/jobs/info/691feb323f782d2f1afc1789?utm_campaign=1048&utm_source=git)** | Holmdel, NJ | On Site | Jan 24 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6958e5139f1b381eb271cba7?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Jan 24 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - IT MFG](https://jobright.ai/jobs/info/6974cc8cbc8e722e7b19d4ff?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 24 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[AI Year Round Graduate Intern - Office of the Chief Artificial Intelligence Officer](https://jobright.ai/jobs/info/693c7302aa598a08c3ed505b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
