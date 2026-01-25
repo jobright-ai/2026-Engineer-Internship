@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrovias](ferrovias.us)** | **[Engineering Intern – Summer 2026 Undergraduate](https://jobright.ai/jobs/info/6976522f206da320f4a02b5a?utm_campaign=1048&utm_source=git)** | Boulder, CO | Remote | Jan 25 |
 | **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/697648bdbc8e722e7b1af881?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | **[Washington State Department of Transportation](https://wsdot.wa.gov)** | **[Engineering Interns](https://jobright.ai/jobs/info/697648a5206da320f4a02a1e?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Vexra Engineering](vexraengineering.us)** | **[Undergraduate Engineering Intern](https://jobright.ai/jobs/info/6976354cbc8e722e7b1ade78?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/69762f48bc8e722e7b1addf1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69762c26206da320f4a00eb6?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69762bd3206da320f4a00e97?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 25 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Engineering Intern](https://jobright.ai/jobs/info/69762aa037785856350fea85?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 25 |
 | **[MechNova](mechnova.us)** | **[Firmware Test Development Intern](https://jobright.ai/jobs/info/69762a6637785856350fea7e?utm_campaign=1048&utm_source=git)** | Mequon, WI | Remote | Jan 25 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Test Engineer Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697624ed37785856350fe937?utm_campaign=1048&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 25 |
