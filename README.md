@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69768104bc8e722e7b1b1f74?utm_campaign=1048&utm_source=git)** | Pine Hall, NC | On Site | Jan 25 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern  - Talent Pool](https://jobright.ai/jobs/info/69768048bc8e722e7b1b1f2c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 25 |
+| **[OPX Ai ™](https://opxai.com)** | **[IIoT & Digital Operations Intern](https://jobright.ai/jobs/info/697680033778585635102ef8?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Jan 25 |
+| **[Beam Therapeutics](https://beamtx.com)** | **[CryoEM Image Analysis Intern](https://jobright.ai/jobs/info/695c2eaaaa05c26e7ab580f3?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jan 25 |
+| **[Falcomm](https://www.myfalcomm.com/)** | **[Undergraduate RFIC Engineering Intern](https://jobright.ai/jobs/info/69767d8c206da320f4a051b4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Intern, Battery Algorithms, Summer 2026](https://jobright.ai/jobs/info/6976749a206da320f4a037b4?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Roadway Design Engineering Intern](https://jobright.ai/jobs/info/6976740e206da320f4a0378b?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Pipeline Safety and Integrity](https://jobright.ai/jobs/info/692e05f7fa28370be26a067e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Hybrid | Jan 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Jan 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6962035725e18715077ee82f?utm_campaign=1048&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68cb7eb89e3a822f5d246d0a?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Jan 25 |
-| **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1a3e?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 25 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Field Engineering Inspection Intern (Summer 26)](https://jobright.ai/jobs/info/68b0fb3004557a6c207b9192?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Jan 25 |
-| **[Gerdau North America](http://www.gerdau.com)** | **[2026 Engineering Leadership Development Program](https://jobright.ai/jobs/info/68cbdf11ba798c1a501d5b84?utm_campaign=1048&utm_source=git)** | Midlothian, TX | On Site | Jan 25 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[2026 Research & Technology (R&T) - Corporate Summer Intern](https://jobright.ai/jobs/info/6944e24e94730b73987816b0?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Jan 25 |
-| **[Evonik](https://corporate.evonik.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69683953f25a380066969e95?utm_campaign=1048&utm_source=git)** | Piscataway, NJ | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
