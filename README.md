@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mechronix](mechronix.us)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/6975645a206da320f49f5b64?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 24 |
 | **[Constellation Space](https://constellation-io.com)** | **[Intern](https://jobright.ai/jobs/info/69755a7837785856350f3463?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Engineer: Structures - Summer 2026](https://jobright.ai/jobs/info/69755882206da320f49f5aa0?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
 | ↳ | **[Toll Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69754c09bc8e722e7b1a2a28?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Internship: Electrical Engineering](https://jobright.ai/jobs/info/6975314837785856350f2f55?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Jan 24 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/6975313f37785856350f2f53?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 24 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Agronomy Intern Crop Scouting and Precision Technology](https://jobright.ai/jobs/info/69752f96bc8e722e7b1a2640?utm_campaign=1048&utm_source=git)** | Crawfordsville, IA | On Site | Jan 24 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Internship (R&D 5G System)](https://jobright.ai/jobs/info/69752d67206da320f49f3c1c?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 24 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Embedded Systems Engineer Intern -  Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/69752849206da320f49f3a8e?utm_campaign=1048&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Jan 24 |
 | **[MechNova](mechnova.us)** | **[Engineering Intern – Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/69752778206da320f49f3a0a?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Remote | Jan 24 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Geotechnical & Materials Engineering Intern](https://jobright.ai/jobs/info/69752398206da320f49f386d?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 24 |
@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Construction Materials Engineering Intern](https://jobright.ai/jobs/info/6974ee1f206da320f49f11c4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6974edbc206da320f49f11ab?utm_campaign=1048&utm_source=git)** | Lawrenceville, GA | On Site | Jan 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Environmental Health and Safety (EHS) Intern](https://jobright.ai/jobs/info/6974ed06206da320f49f1152?utm_campaign=1048&utm_source=git)** | Round Lake Beach, IL | On Site | Jan 24 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/6974e9a5bc8e722e7b19e2fa?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 24 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/6974e98c37785856350ee9f2?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6974e29fbc8e722e7b19e0ab?utm_campaign=1048&utm_source=git)** | Rocky Hill, CT | On Site | Jan 24 |
 | **[Arcadis](http://www.arcadis.com)** | **[Climate Risk Adaptation Intern](https://jobright.ai/jobs/info/6974dfdfbc8e722e7b19df6d?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil/Survey Engineering Intern](https://jobright.ai/jobs/info/691feb323f782d2f1afc1789?utm_campaign=1048&utm_source=git)** | Holmdel, NJ | On Site | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6958e5139f1b381eb271cba7?utm_campaign=1048&utm_source=git)** | Middleton, WI | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - IT MFG](https://jobright.ai/jobs/info/6974cc8cbc8e722e7b19d4ff?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 24 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[AI Year Round Graduate Intern - Office of the Chief Artificial Intelligence Officer](https://jobright.ai/jobs/info/693c7302aa598a08c3ed505b?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
