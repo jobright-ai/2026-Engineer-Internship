@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freestone Property Group](https://www.freestonepropertymgmt.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69768d32206da320f4a053da?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 25 |
+| **[HNTB](http://www.hntb.com/)** | **[Transportation Planning Intern- Summer 2026](https://jobright.ai/jobs/info/69768979377858563510304b?utm_campaign=1048&utm_source=git)** | Houston, TX (Fannin) | On Site | Jan 25 |
+| **[ABB](https://global.abb/group/en)** | **[Systems Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6960271aa112b402660ee03e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Hybrid | Jan 25 |
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69768104bc8e722e7b1b1f74?utm_campaign=1048&utm_source=git)** | Pine Hall, NC | On Site | Jan 25 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern  - Talent Pool](https://jobright.ai/jobs/info/69768048bc8e722e7b1b1f2c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 25 |
 | **[OPX Ai ™](https://opxai.com)** | **[IIoT & Digital Operations Intern](https://jobright.ai/jobs/info/697680033778585635102ef8?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Jan 25 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697663843778585635100b31?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 25 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/697660223778585635100ade?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69765ffb3778585635100ad1?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 25 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G System R&D)](https://jobright.ai/jobs/info/6976589bbc8e722e7b1afae0?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Ferrovias](ferrovias.us)** | **[Engineering Intern – Summer 2026 Undergraduate](https://jobright.ai/jobs/info/6976522f206da320f4a02b5a?utm_campaign=1048&utm_source=git)** | Boulder, CO | Remote | Jan 25 |
 | **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae4d62d627244576e52fba?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Automation Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/6976140cbc8e722e7b1ad356?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Jan 25 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6962035725e18715077ee82f?utm_campaign=1048&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68cb7eb89e3a822f5d246d0a?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
