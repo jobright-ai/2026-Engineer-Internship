@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/69759ae5206da320f49f9106?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
+| **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- INDUSTRIAL ENGINEERING](https://jobright.ai/jobs/info/697594c6206da320f49f8a96?utm_campaign=1048&utm_source=git)** | Pascagoula, MS | On Site | Jan 24 |
+| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (Computer Vision)_Bilingual Mandarin](https://jobright.ai/jobs/info/6975930fbc8e722e7b1a5a3c?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 24 |
+| **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697592a1206da320f49f89c1?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 24 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Electronics Engineer - Manhattan Beach CA - R10204903](https://jobright.ai/jobs/info/69758e91bc8e722e7b1a5985?utm_campaign=1048&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697586db206da320f49f82b1?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 24 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/6975868337785856350f5d04?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/697458b5bc8e722e7b196b0b?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae7456758f2e4ac3013ab2?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Jan 24 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - MacAllister Rentals Technician Intern](https://jobright.ai/jobs/info/691fdc5ca49a885af9a34d21?utm_campaign=1048&utm_source=git)** | Byron Center, MI | On Site | Jan 24 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Engineer I (ICT)](https://jobright.ai/jobs/info/6902fa67ff462851fefe8000?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
-| **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Plumbing Engineering Summer Intern](https://jobright.ai/jobs/info/6903f82763502c0aded6ee34?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae74b9758f2e4ac3013b27?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
