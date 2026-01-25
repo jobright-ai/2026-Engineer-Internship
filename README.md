@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Artificial Intelligence](https://jobright.ai/jobs/info/69769d02bc8e722e7b1b223e?utm_campaign=1048&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 25 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Computational Materials Science Intern](https://jobright.ai/jobs/info/69769bc237785856351031b4?utm_campaign=1048&utm_source=git)** | Watertown, MA | On Site | Jan 25 |
+| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Agronomy](https://jobright.ai/jobs/info/697697b6377858563510315d?utm_campaign=1048&utm_source=git)** | Kennewick, WA | On Site | Jan 25 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[IT Intern – SAP Implementation](https://jobright.ai/jobs/info/69769440206da320f4a0545f?utm_campaign=1048&utm_source=git)** | Moon, PA | Hybrid | Jan 25 |
+| **[CFD Research Corporation](https://www.cfd-research.com)** | **[Bio Intern Summer 2026](https://jobright.ai/jobs/info/6972b07f4ccbf64f8df2bbf4?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 25 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[R&D Intern – Carbon Applications Group](https://jobright.ai/jobs/info/697690f2206da320f4a05439?utm_campaign=1048&utm_source=git)** | Moon, PA | On Site | Jan 25 |
 | **[Freestone Property Group](https://www.freestonepropertymgmt.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69768d32206da320f4a053da?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | **[HNTB](http://www.hntb.com/)** | **[Transportation Planning Intern- Summer 2026](https://jobright.ai/jobs/info/69768979377858563510304b?utm_campaign=1048&utm_source=git)** | Houston, TX (Fannin) | On Site | Jan 25 |
 | **[ABB](https://global.abb/group/en)** | **[Systems Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6960271aa112b402660ee03e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Hybrid | Jan 25 |
@@ -78,10 +84,8 @@ For a complete list, click the following sortable link below:
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697666e73778585635100da1?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 25 |
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/697665c0bc8e722e7b1afd81?utm_campaign=1048&utm_source=git)** | Pine Hall, NC, US | On Site | Jan 25 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/69766528206da320f4a02fee?utm_campaign=1048&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Jan 25 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697663843778585635100b31?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 25 |
-| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
+| ↳ | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/697660223778585635100ade?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G System R&D)](https://jobright.ai/jobs/info/6976589bbc8e722e7b1afae0?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Ferrovias](ferrovias.us)** | **[Engineering Intern – Summer 2026 Undergraduate](https://jobright.ai/jobs/info/6976522f206da320f4a02b5a?utm_campaign=1048&utm_source=git)** | Boulder, CO | Remote | Jan 25 |
 | **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/697648bdbc8e722e7b1af881?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
@@ -125,8 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae7518758f2e4ac3013b9e?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Jan 25 |
 | **[Cargill](https://www.cargill.com/home)** | **[Engineer Co-op May 2026- Multiple U.S Locations](https://jobright.ai/jobs/info/68af48cc7bcb7608b3d2c2da?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Jan 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae5f8c758f2e4ac3013228?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 25 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/69761a31bc8e722e7b1ad6bf?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6756daf1431824ca2c48?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 25 |
+| ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6756daf1431824ca2c48?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 25 |
 | ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae542f758f2e4ac3012c8d?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Jan 25 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[ATG 3DI Simulation Intern (Summer 2026)](https://jobright.ai/jobs/info/692163763f782d2f1afd1cbf?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae4cb6d627244576e52f39?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69761465bc8e722e7b1ad365?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 25 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Audio Applied Research Science Intern](https://jobright.ai/jobs/info/69229fea38cd5478a8d54685?utm_campaign=1048&utm_source=git)** | Niles, IL | Hybrid | Jan 25 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Engineering Intern, Electrical Design](https://jobright.ai/jobs/info/690601daff462851fe0024c0?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Jan 25 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae4d62d627244576e52fba?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 25 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Automation Engineering Intern (Summer 2026!)](https://jobright.ai/jobs/info/6976140cbc8e722e7b1ad356?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jan 25 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
