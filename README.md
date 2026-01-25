@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Intern, Complex Systems Diagnostics and Prognostics Design, Summer 2026](https://jobright.ai/jobs/info/6975e781206da320f49fe899?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6975e76a206da320f49fe896?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Jan 25 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern](https://jobright.ai/jobs/info/6975e4c5bc8e722e7b1ab7f7?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6975dccf206da320f49fe743?utm_campaign=1048&utm_source=git)** | Nisku, Alberta, Canada | On Site | Jan 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Civil Facilities and Utilities Intern, Fall 2026](https://jobright.ai/jobs/info/6975da6abc8e722e7b1aade6?utm_campaign=1048&utm_source=git)** | Anaheim, CA, USA | On Site | Jan 25 |
+| **[Thermagia Engineering](thermagiaengineering.us)** | **[WISE Summer Intern](https://jobright.ai/jobs/info/6975d962206da320f49fcdf4?utm_campaign=1048&utm_source=git)** | St Paul, MN | Remote | Jan 25 |
 | **[Varda Space Industries](http://varda.com)** | **[Environmental Health & Safety (EHS) Internship – Summer 2026](https://jobright.ai/jobs/info/69162e499c388539cbdf86b8?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Jan 25 |
 | **[Instacart](https://www.instacart.com)** | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/6966cd3f7a34f53920555c12?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | Jan 25 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/6975d43637785856350fa761?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
@@ -116,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Geotechnical & Materials Engineering Intern](https://jobright.ai/jobs/info/69752398206da320f49f386d?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jan 24 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Work-Based Learning Automotive/ Diesel Vocational Intern](https://jobright.ai/jobs/info/697546d0bc8e722e7b1a29b6?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Calgon Carbon Corporation](http://calgoncarbon.com)** | **[Intern](https://jobright.ai/jobs/info/69753a3f37785856350f30f9?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jan 24 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/697519da206da320f49f333f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Quality Engineer (Summer 2026)](https://jobright.ai/jobs/info/696e8338350cf438031539c7?utm_campaign=1048&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 24 |
 | **[MetalTek International](https://www.metaltek.com/)** | **[Industrial Electrical Intern-Summer 2026](https://jobright.ai/jobs/info/69750f37bc8e722e7b1a009c?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Systems Development Engineer Internship – 2026 (US)](https://jobright.ai/jobs/info/6974df45bc8e722e7b19df0a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/693ca74949a7695fbd0372d2?utm_campaign=1048&utm_source=git)** | South Jordan, UT | On Site | Jan 24 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Process Engineer](https://jobright.ai/jobs/info/6974da6e37785856350ee306?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | Jan 24 |
 | **[SEED (Electronic Arts)](https://seed.ea.com)** | **[Machine Learning PhD Internship - Video2Motion - SEED - 8 Months/ Doctorant.e stagiaire en apprentissage automatique - Video2Motion](https://jobright.ai/jobs/info/693c485950bbaf76504f85b1?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 24 |
-| **[SAIC](http://www.saic.com)** | **[Space Systems Engineering Intern](https://jobright.ai/jobs/info/6974da57bc8e722e7b19dbac?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Jan 24 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6d6cdaf1431824ca2f2e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
-| **[Amazon](https://amazon.com)** | **[Data Engineer Co-op Internship - 2026 (US)](https://jobright.ai/jobs/info/6974d958206da320f49f0907?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
-| **[Hexion Inc.](https://www.hexion.com/)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/691fd9b309cc522e8774601f?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Jan 24 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Structural Engineer Intern, Water](https://jobright.ai/jobs/info/691a920b15b4156367188e91?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
