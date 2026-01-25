@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Electronics Engineer - Manhattan Beach CA - R10204903](https://jobright.ai/jobs/info/69758e91bc8e722e7b1a5985?utm_campaign=1048&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 24 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697586db206da320f49f82b1?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 24 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/6975868337785856350f5d04?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 24 |
+| ↳ | **[Mechanical Engineering Intern -Talent Pool.](https://jobright.ai/jobs/info/6975865b37785856350f5cf8?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 24 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[STL Undergraduate Engineering Internship (Associate in Engineering - Levels I - IV)](https://jobright.ai/jobs/info/69253dc2d47de4798ecceb62?utm_campaign=1048&utm_source=git)** | Santa Barbara, CA | On Site | Jan 24 |
 | **[Ferrovias](ferrovias.us)** | **[Engineering Intern Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/697582a7206da320f49f8097?utm_campaign=1048&utm_source=git)** | Minnesota, United States | Remote | Jan 24 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Wearable Tactile Sensors (PhD)](https://jobright.ai/jobs/info/6975825837785856350f5ac0?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Mechronix](mechronix.us)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/69757d75bc8e722e7b1a5004?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Plumbing Engineering Summer Intern](https://jobright.ai/jobs/info/6903f82763502c0aded6ee34?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae74b9758f2e4ac3013b27?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Jan 24 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Rotational Homebuilding Intern - Columbus Summer 2026](https://jobright.ai/jobs/info/691f4fb03f782d2f1afba47f?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Jan 24 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer DevOps Intern - Bachelor's (Gloucester, MA)](https://jobright.ai/jobs/info/693c4d3baa598a08c3ed3abd?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Jan 24 |
-| **[Rite-Hite](https://www.ritehite.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/693cd6af49a7695fbd0389f7?utm_campaign=1048&utm_source=git)** | Dubuque, IA | On Site | Jan 24 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/68e6e424e8daec61499b0221?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jan 24 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/6903f6e1ff462851feff1351?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
