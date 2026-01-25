@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/69763af0bc8e722e7b1adef3?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Complex Systems Diagnostics and Prognostics Design, Summer 2026](https://jobright.ai/jobs/info/697637efbc8e722e7b1ade93?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Undergraduate Engineering Intern](https://jobright.ai/jobs/info/6976354cbc8e722e7b1ade78?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/69762f48bc8e722e7b1addf1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69762c26206da320f4a00eb6?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69762bd3206da320f4a00e97?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 25 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Engineering Intern](https://jobright.ai/jobs/info/69762aa037785856350fea85?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd2148e23def7af55b5ced?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Jan 25 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Cell Engineering, Summer 2026](https://jobright.ai/jobs/info/68e9c1c354fbf903f6a7e8f6?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Jan 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6921222000c9ee50eaecbfef?utm_campaign=1048&utm_source=git)** | Metamora, OH | On Site | Jan 25 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd1b6d1ad6b16f02895120?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Jan 25 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Heavy Industrial & Mining Intern - Engineer](https://jobright.ai/jobs/info/68b0b5aeb47fb001d6894e15?utm_campaign=1048&utm_source=git)** | Arizona, United States | On Site | Jan 25 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd14a61ad6b16f02894a69?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Jan 25 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/6903d6b663502c0aded6d2fc?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
