@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SQUID3 Space](https://www.squid3.space)** | **[Embedded Systems Engineer — Avionics (Internship)](https://jobright.ai/jobs/info/6975b71737785856350f9c2f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Engineering Intern – Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/6975b34d206da320f49fbea1?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Remote | Jan 24 |
 | **[MWH](https://mwhconstructors.com)** | **[Construction Safety Intern](https://jobright.ai/jobs/info/6975ad4ebc8e722e7b1a8cdb?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jan 24 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6975a988bc8e722e7b1a8955?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 24 |
 | **[TE Connectivity](http://www.te.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6975a263206da320f49fb07d?utm_campaign=1048&utm_source=git)** | Mount Joy, PA | On Site | Jan 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/69759ae5206da320f49f9106?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- INDUSTRIAL ENGINEERING](https://jobright.ai/jobs/info/697594c6206da320f49f8a96?utm_campaign=1048&utm_source=git)** | Pascagoula, MS | On Site | Jan 24 |
-| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (Computer Vision)_Bilingual Mandarin](https://jobright.ai/jobs/info/6975930fbc8e722e7b1a5a3c?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Undergraduate Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697592a1206da320f49f89c1?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 24 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Electronics Engineer - Manhattan Beach CA - R10204903](https://jobright.ai/jobs/info/69758e91bc8e722e7b1a5985?utm_campaign=1048&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697586db206da320f49f82b1?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 24 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Sappi](http://sappi.com)** | **[Mechanical and Civil Engineering Co-op](https://jobright.ai/jobs/info/6975742237785856350f558c?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Jan 24 |
 | ↳ | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6975735f206da320f49f7add?utm_campaign=1048&utm_source=git)** | Cloquet, MN | On Site | Jan 24 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Test Automation Engineer](https://jobright.ai/jobs/info/6975705f37785856350f52d9?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Jan 24 |
-| **[Thermagia Engineering](thermagiaengineering.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69756ff3206da320f49f7872?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 24 |
 | **[Mechronix](mechronix.us)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/6975645a206da320f49f5b64?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Engineer: Structures - Summer 2026](https://jobright.ai/jobs/info/69755882206da320f49f5aa0?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
 | ↳ | **[Toll Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69754c09bc8e722e7b1a2a28?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
