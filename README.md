@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
+| ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/697648bdbc8e722e7b1af881?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
+| **[Washington State Department of Transportation](https://wsdot.wa.gov)** | **[Engineering Interns](https://jobright.ai/jobs/info/697648a5206da320f4a02a1e?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
+| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/69764850206da320f4a02a06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
+| **[BeamSphere](beamsphere.us)** | **[Complex Systems Diagnostics and Prognostics Design Intern, Summer 2026](https://jobright.ai/jobs/info/69764753377858563510067e?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/697644dfbc8e722e7b1adfbe?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
+| **[Vortexion Labs](vortexionlabs.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/6976449b206da320f4a02289?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 25 |
+| **[BioSpace](http://www.biospace.com/)** | **[Manufacturing Automation Intern](https://jobright.ai/jobs/info/69763e94206da320f4a0109a?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Jan 25 |
+| ↳ | **[Exploratory Technology Intern](https://jobright.ai/jobs/info/69763e38206da320f4a0107f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 25 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/69763af0bc8e722e7b1adef3?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Complex Systems Diagnostics and Prognostics Design, Summer 2026](https://jobright.ai/jobs/info/697637efbc8e722e7b1ade93?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Undergraduate Engineering Intern](https://jobright.ai/jobs/info/6976354cbc8e722e7b1ade78?utm_campaign=1048&utm_source=git)** | New Haven, CT | Remote | Jan 25 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[eHardware Engineering Intern](https://jobright.ai/jobs/info/69464df07d506e3808f1ab8b?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Jan 25 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Equipment and Transportation Internship 2026](https://jobright.ai/jobs/info/68eb5d762f64880ca0b57837?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jan 25 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Cell Test Engineering Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/696bdd595fc86241853b21cb?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Jan 25 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd2c99e23def7af55b67dd?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Jan 25 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Equipment and Transportation Internship 2026](https://jobright.ai/jobs/info/68cfa8a4fb49c96ca6eaa33e?utm_campaign=1048&utm_source=git)** | Chesapeake City County, VA | On Site | Jan 25 |
-| **[Threemile Canyon Farms](https://www.threemilecanyonfarms.com)** | **[Dairy Intern](https://jobright.ai/jobs/info/68eca4fac26b9574506f5fa8?utm_campaign=1048&utm_source=git)** | Boardman, OR | On Site | Jan 25 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Civil/Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e8082909580a2fe57f2778?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 25 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd2a20b2a74e1837ed3700?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Jan 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6920f72d3f782d2f1afcd7de?utm_campaign=1048&utm_source=git)** | Morristown, NJ | On Site | Jan 25 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd2148e23def7af55b5ced?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Jan 25 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Cell Engineering, Summer 2026](https://jobright.ai/jobs/info/68e9c1c354fbf903f6a7e8f6?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Jan 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6921222000c9ee50eaecbfef?utm_campaign=1048&utm_source=git)** | Metamora, OH | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
