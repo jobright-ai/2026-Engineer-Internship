@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Qnity](https://www.qnityelectronics.com/)** | **[Qnity Operator Internship Program - Machine Operator](https://jobright.ai/jobs/info/6976fdf552f3c27ec6430d19?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Jan 25 |
+| **[Qnity](https://www.qnityelectronics.com/)** | **[Qnity Operator Internship Program - Chemical Operator](https://jobright.ai/jobs/info/6977005b88e2b47213bae83a?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Jan 25 |
+| ↳ | **[Qnity Operator Internship Program - Machine Operator](https://jobright.ai/jobs/info/6976fdf552f3c27ec6430d19?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Building Information Modeling (BIM) Intern, Fall 2026](https://jobright.ai/jobs/info/6976fb6a88e2b47213bae175?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 25 |
 | **[Design Engineers MEPFT](https://designengineers.com)** | **[BIM Technician Intern](https://jobright.ai/jobs/info/6976f8c288e2b47213bae115?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 25 |
 | **[MechNova](mechnova.us)** | **[Engineering Intern – Summer 2026 (Undergraduate)](https://jobright.ai/jobs/info/6976f434fdeb8243a279bf9e?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Remote | Jan 25 |
@@ -73,8 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Lasko Products](https://www.lasko.com/)** | **[Manufacturing Engineer Summer Internship](https://jobright.ai/jobs/info/6976e0a2377858563510663a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Jan 25 |
 | **[ABB](https://global.abb/group/en)** | **[Active Network Management Intern- Summer 2026](https://jobright.ai/jobs/info/69607b15a1bbea1d9a7b4e7b?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Jan 25 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Stagiaire en Assurance Qualité](https://jobright.ai/jobs/info/6976e064bc8e722e7b1b55ce?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 25 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/6976dcaf3778585635106071?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 25 |
-| ↳ | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6976dc123778585635106034?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 25 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6976dc123778585635106034?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 25 |
 | ↳ | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/6976d8ed206da320f4a082dc?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Jan 25 |
 | **[HNTB](http://www.hntb.com/)** | **[Transportation Planning Intern- Summer 2026](https://jobright.ai/jobs/info/6976d884206da320f4a082cd?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
@@ -119,11 +119,11 @@ For a complete list, click the following sortable link below:
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/697665c0bc8e722e7b1afd81?utm_campaign=1048&utm_source=git)** | Pine Hall, NC, US | On Site | Jan 25 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/69766528206da320f4a02fee?utm_campaign=1048&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Jan 25 |
 | ↳ | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
+| **[Rexel](http://www.rexel.com/en/)** | **[Intern](https://jobright.ai/jobs/info/697707c688e2b47213baeec2?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jan 25 |
 | **[Ferrovias](ferrovias.us)** | **[Engineering Intern – Summer 2026 Undergraduate](https://jobright.ai/jobs/info/6976522f206da320f4a02b5a?utm_campaign=1048&utm_source=git)** | Boulder, CO | Remote | Jan 25 |
 | **[Sierra Pacific Windows](http://sierrapacificwindows.com)** | **[Engineer - Process Summer Intern](https://jobright.ai/jobs/info/697648cf206da320f4a02a28?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | ↳ | **[Design Engineer Intern](https://jobright.ai/jobs/info/697648bdbc8e722e7b1af881?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Jan 25 |
 | **[Washington State Department of Transportation](https://wsdot.wa.gov)** | **[Engineering Interns](https://jobright.ai/jobs/info/697648a5206da320f4a02a1e?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/69764850206da320f4a02a06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
 | **[BeamSphere](beamsphere.us)** | **[Complex Systems Diagnostics and Prognostics Design Intern, Summer 2026](https://jobright.ai/jobs/info/69764753377858563510067e?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Manufacturing Automation Intern](https://jobright.ai/jobs/info/69763e94206da320f4a0109a?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Jan 25 |
 | ↳ | **[Exploratory Technology Intern](https://jobright.ai/jobs/info/69763e38206da320f4a0107f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 25 |
