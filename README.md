@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976abfebc8e722e7b1b2461?utm_campaign=1048&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Jan 25 |
+| **[HDR](http://www.hdrinc.com)** | **[Water/WasteWater Intern](https://jobright.ai/jobs/info/6976c4cf206da320f4a07a51?utm_campaign=1048&utm_source=git)** | United States-New York-White Plains | On Site | Jan 25 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Site Reliability Engineering Intern](https://jobright.ai/jobs/info/6976bd7e3778585635105181?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
+| **[HDR](http://www.hdrinc.com)** | **[Water/WasteWater Intern](https://jobright.ai/jobs/info/6976b6f8377858563510362f?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Jan 25 |
+| **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976b1403778585635103590?utm_campaign=1048&utm_source=git)** | Philadelphia, PA (Pennsylvania) | On Site | Jan 25 |
+| ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976b0cd206da320f4a058d4?utm_campaign=1048&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Jan 25 |
+| ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976abfebc8e722e7b1b2461?utm_campaign=1048&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Jan 25 |
 | ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976aabd37785856351032f9?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jan 25 |
 | ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976aab8206da320f4a0564e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA (Pennsylvania) | On Site | Jan 25 |
 | **[Messagepoint](http://www.messagepoint.com)** | **[Artificial Intelligence (AI)/Machine Learning (ML) Research Intern (8-month position)](https://jobright.ai/jobs/info/697296489b83b424830e8e0d?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jan 25 |
@@ -73,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Systems Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6960271aa112b402660ee03e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Hybrid | Jan 25 |
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69768104bc8e722e7b1b1f74?utm_campaign=1048&utm_source=git)** | Pine Hall, NC | On Site | Jan 25 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern  - Talent Pool](https://jobright.ai/jobs/info/69768048bc8e722e7b1b1f2c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 25 |
-| **[OPX Ai ™](https://opxai.com)** | **[IIoT & Digital Operations Intern](https://jobright.ai/jobs/info/697680033778585635102ef8?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Jan 25 |
 | **[Beam Therapeutics](https://beamtx.com)** | **[CryoEM Image Analysis Intern](https://jobright.ai/jobs/info/695c2eaaaa05c26e7ab580f3?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jan 25 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Undergraduate RFIC Engineering Intern](https://jobright.ai/jobs/info/69767d8c206da320f4a051b4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Intern, Battery Algorithms, Summer 2026](https://jobright.ai/jobs/info/6976749a206da320f4a037b4?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/69764850206da320f4a02a06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
 | **[BeamSphere](beamsphere.us)** | **[Complex Systems Diagnostics and Prognostics Design Intern, Summer 2026](https://jobright.ai/jobs/info/69764753377858563510067e?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/697644dfbc8e722e7b1adfbe?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/6976449b206da320f4a02289?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Manufacturing Automation Intern](https://jobright.ai/jobs/info/69763e94206da320f4a0109a?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Jan 25 |
 | ↳ | **[Exploratory Technology Intern](https://jobright.ai/jobs/info/69763e38206da320f4a0107f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 25 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/69763af0bc8e722e7b1adef3?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineer I](https://jobright.ai/jobs/info/6903aba2d64a22104aa91908?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 25 |
 | ↳ | **[Engineer I (BMS/FLS)](https://jobright.ai/jobs/info/6903f9f1d64a22104aa95811?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Jan 25 |
 | **[Ai2](http://allenai.org)** | **[Research Internship, Advancing Open Agentic LLMs](https://jobright.ai/jobs/info/6920fc8e3f782d2f1afcdfdd?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
-| **[NYS Department of Transportation](http://www.dot.ny.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/6920b542a49a885af9a3e431?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Jan 25 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/695df40f821f2713684b24b7?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jan 25 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Project Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cba28c9e3a822f5d2497b2?utm_campaign=1048&utm_source=git)** | Shawano, WI | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
