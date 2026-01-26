@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mechronix](mechronix.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6976efc588e2b47213bac013?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
+| **[Terray Therapeutics](https://terraytx.com)** | **[PhD Intern, Cheminformatics & Computational Chemistry](https://jobright.ai/jobs/info/6976ef86fdeb8243a279b7c5?utm_campaign=1048&utm_source=git)** | Remote (United States) | Remote | Jan 25 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/6976eb6788e2b47213babba8?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6976e514bc8e722e7b1b56b0?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 25 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Electro Mechanical Summer Internship](https://jobright.ai/jobs/info/6976e0debc8e722e7b1b55f9?utm_campaign=1048&utm_source=git)** | West Chester, PA | On Site | Jan 25 |
 | ↳ | **[Quality Assurance Summer Internship](https://jobright.ai/jobs/info/6976e0bd3778585635106644?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Jan 25 |
 | ↳ | **[Manufacturing Engineer Internship](https://jobright.ai/jobs/info/6976e0bc206da320f4a08916?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae542f758f2e4ac3012c8d?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Jan 25 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[ATG 3DI Simulation Intern (Summer 2026)](https://jobright.ai/jobs/info/692163763f782d2f1afd1cbf?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae4cb6d627244576e52f39?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 25 |
-| ↳ | **[Safety Internship - Buildings (Summer 2026)](https://jobright.ai/jobs/info/68ae4d90d627244576e52fe5?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/6904074fff462851feff1f98?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
-| ↳ | **[ICT Summer Intern](https://jobright.ai/jobs/info/6903f98b63502c0aded6ef05?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 25 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Radiation Protection Intern - Braceville, IL](https://jobright.ai/jobs/info/6905429e122e8474c78d7eb6?utm_campaign=1048&utm_source=git)** | Braceville, IL | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
