@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/69771b8152f3c27ec6431fd0?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jan 25 |
+| **[Ferrovias](ferrovias.us)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/69771ea188e2b47213bafb8a?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 25 |
+| **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/69771e7f88e2b47213bafb7a?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 25 |
+| **[BASF](https://www.basf.com/)** | **[2026 Chemical Loader Internship](https://jobright.ai/jobs/info/693881a3b95c305f206db440?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jan 25 |
+| **[Terray Therapeutics](https://terraytx.com)** | **[PhD Intern, Cheminformatics & Computational Chemistry](https://jobright.ai/jobs/info/69771e5bfdeb8243a279f271?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Engineer- Summer 2026](https://jobright.ai/jobs/info/69771da5fdeb8243a279f21b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jan 25 |
+| ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/69771b8152f3c27ec6431fd0?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jan 25 |
 | **[Hertha Metals Inc.](https://herthametals.com/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69771a91fdeb8243a279f1f9?utm_campaign=1048&utm_source=git)** | Conroe, TX | On Site | Jan 25 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[2026 SHIP Summer High School Intern Program](https://jobright.ai/jobs/info/69771a15fdeb8243a279f1b3?utm_campaign=1048&utm_source=git)** | US-RI-North Kingstown | On Site | Jan 25 |
 | **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6977195952f3c27ec6431e09?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Jan 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68e99584f195760c354aae30?utm_campaign=1048&utm_source=git)** | Lithia Springs, GA | On Site | Jan 25 |
 | **[Roquette](http://www.roquette.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69770da252f3c27ec6431638?utm_campaign=1048&utm_source=git)** | Keokuk, IA | On Site | Jan 25 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Quality Process Intern](https://jobright.ai/jobs/info/68e994fbf195760c354aad8b?utm_campaign=1048&utm_source=git)** | North Brunswick, NJ | On Site | Jan 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68e831d9c4895107182c3c64?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/68e994bd0930fe0bc46277c6?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Jan 25 |
-| **[UTHealth Houston](https://www.uth.edu)** | **[Seasonal Hires - IT Security Internships](https://jobright.ai/jobs/info/69762125206da320f4a00c8e?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Jan 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Traffic Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6920ff0a3f782d2f1afce2d5?utm_campaign=1048&utm_source=git)** | Morristown, NJ | On Site | Jan 25 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Engineering Intern](https://jobright.ai/jobs/info/68e98e4e0930fe0bc46272d8?utm_campaign=1048&utm_source=git)** | Spokane Valley, WA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
