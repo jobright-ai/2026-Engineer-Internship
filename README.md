@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Environmental, Health, & Safety Summer Internship - Zeeland, MI](https://jobright.ai/jobs/info/6976cb97bc8e722e7b1b480f?utm_campaign=1048&utm_source=git)** | Zeeland, MI | On Site | Jan 25 |
+| **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Artificial Intelligence](https://jobright.ai/jobs/info/6976cb7f206da320f4a07bbf?utm_campaign=1048&utm_source=git)** | Mansfield, TX | On Site | Jan 25 |
+| **[Chewy](https://www.chewy.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6976cb7a206da320f4a07bbd?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 25 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Undergrad Research & Development Summer Internship - Montvale, NJ](https://jobright.ai/jobs/info/6976cb36bc8e722e7b1b47cb?utm_campaign=1048&utm_source=git)** | Montvale, NJ | On Site | Jan 25 |
+| **[Chewy](https://www.chewy.com)** | **[AI Research Scientist Intern](https://jobright.ai/jobs/info/6976cb0a206da320f4a07b9b?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Jan 25 |
 | **[HDR](http://www.hdrinc.com)** | **[Water/WasteWater Intern](https://jobright.ai/jobs/info/6976c4cf206da320f4a07a51?utm_campaign=1048&utm_source=git)** | United States-New York-White Plains | On Site | Jan 25 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Site Reliability Engineering Intern](https://jobright.ai/jobs/info/6976bd7e3778585635105181?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
 | **[HDR](http://www.hdrinc.com)** | **[Water/WasteWater Intern](https://jobright.ai/jobs/info/6976b6f8377858563510362f?utm_campaign=1048&utm_source=git)** | White Plains, NY | On Site | Jan 25 |
+| **[Skyworks LLC](http://skyworksllc.com)** | **[Co-Op - Process Engineer](https://jobright.ai/jobs/info/6976cf22206da320f4a07cc5?utm_campaign=1048&utm_source=git)** | Newbury Park, CA | On Site | Jan 25 |
 | **[HNTB](http://www.hntb.com/)** | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976b1403778585635103590?utm_campaign=1048&utm_source=git)** | Philadelphia, PA (Pennsylvania) | On Site | Jan 25 |
 | ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976b0cd206da320f4a058d4?utm_campaign=1048&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Jan 25 |
 | ↳ | **[Geotechnical Intern Engineer - Summer 2026](https://jobright.ai/jobs/info/6976abfebc8e722e7b1b2461?utm_campaign=1048&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Jan 25 |
@@ -90,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69766aa2206da320f4a033f7?utm_campaign=1048&utm_source=git)** | US-NC-Pine Hall | On Site | Jan 25 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Battery Research Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697668ccbc8e722e7b1affb1?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/697668bb206da320f4a032ab?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 25 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697666e73778585635100da1?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 25 |
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Engineering Intern](https://jobright.ai/jobs/info/697665c0bc8e722e7b1afd81?utm_campaign=1048&utm_source=git)** | Pine Hall, NC, US | On Site | Jan 25 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/69766528206da320f4a02fee?utm_campaign=1048&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Jan 25 |
 | ↳ | **[Intern - IT Enterprise Integration Services](https://jobright.ai/jobs/info/697661a0bc8e722e7b1afc9c?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Jan 25 |
@@ -105,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Manufacturing Automation Intern](https://jobright.ai/jobs/info/69763e94206da320f4a0109a?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Jan 25 |
 | ↳ | **[Exploratory Technology Intern](https://jobright.ai/jobs/info/69763e38206da320f4a0107f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jan 25 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/69763af0bc8e722e7b1adef3?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 25 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern, Complex Systems Diagnostics and Prognostics Design, Summer 2026](https://jobright.ai/jobs/info/697637efbc8e722e7b1ade93?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 25 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Talent Internship](https://jobright.ai/jobs/info/69762f48bc8e722e7b1addf1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69762c26206da320f4a00eb6?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
 | **[MechNova](mechnova.us)** | **[Firmware Test Development Intern](https://jobright.ai/jobs/info/69762a6637785856350fea7e?utm_campaign=1048&utm_source=git)** | Mequon, WI | Remote | Jan 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skanska](http://skanska.com)** | **[2026  Intern Project Engineer](https://jobright.ai/jobs/info/6893f29af47efe2113967fd6?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Jan 25 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[RF Site Hardware Electrical Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/6905279dff462851feffb121?utm_campaign=1048&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 25 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/6903fca9d64a22104aa95aaf?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Large AI Models for Digital Fabrication](https://jobright.ai/jobs/info/693d6864aa598a08c3ee2166?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 25 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/6903fb69ff462851feff16f3?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 25 |
-| ↳ | **[Electrical Engineer I](https://jobright.ai/jobs/info/6903aba2d64a22104aa91908?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 25 |
-| ↳ | **[Engineer I (BMS/FLS)](https://jobright.ai/jobs/info/6903f9f1d64a22104aa95811?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Jan 25 |
-| **[Ai2](http://allenai.org)** | **[Research Internship, Advancing Open Agentic LLMs](https://jobright.ai/jobs/info/6920fc8e3f782d2f1afcdfdd?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
