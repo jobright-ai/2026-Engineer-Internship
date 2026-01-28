@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/6979c2cd0791bc1d723089f4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 28 |
+| **[Legence](https://www.wearelegence.com)** | **[Mechanical Intern](https://jobright.ai/jobs/info/6979c2c0ca92cf0d6a83058b?utm_campaign=1048&utm_source=git)** | 18575 Jamboree Rd #100, Irvine, CA 92612, USA | On Site | Jan 28 |
+| **[Quartus Engineering](http://quartus.com)** | **[Mechanical Design Engineer Internship: Summer 2026 - 048QE](https://jobright.ai/jobs/info/695d95d3f1f8465b79f3dd0f?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
+| **[Honeywell](http://www.honeywell.com)** | **[High School Intern (AZ) - Machinist (US Persons)](https://jobright.ai/jobs/info/695d9270f1f8465b79f3d799?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Jan 27 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, VR Audio System (PhD)](https://jobright.ai/jobs/info/695dccde924bd9135dd45060?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Substation Engineer Intern - Kiewit Power Engineering (Summer 2026)](https://jobright.ai/jobs/info/695dbe58fbd62a0a65666fcd?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Jan 27 |
+| **[Dropbox](https://www.dropbox.com)** | **[PhD Machine Learning Intern (Summer 2026)](https://jobright.ai/jobs/info/6979bf2b0791bc1d72308767?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 27 |
+| **[BGIS](https://www.bgis.com)** | **[Summer Intern, Health Safety and Environment (GTA)](https://jobright.ai/jobs/info/695df709821f2713684b299d?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 27 |
+| **[Septerna](https://septerna.com)** | **[Summer Research Intern - DMPK (Undergraduate level)](https://jobright.ai/jobs/info/6979be3f0791bc1d723086b1?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jan 27 |
+| **[Rosendin](https://www.rosendin.com)** | **[Construction Management Summer Internship](https://jobright.ai/jobs/info/6979bd9a0791bc1d72308630?utm_campaign=1048&utm_source=git)** | Aiea, HI | On Site | Jan 27 |
+| **[Septerna](https://septerna.com)** | **[Summer Research Intern - Platform Technology (Undergraduate level)](https://jobright.ai/jobs/info/6979bd95ca92cf0d6a8301d0?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jan 27 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Safety Intern](https://jobright.ai/jobs/info/695dae36f5f3c43f38e292ac?utm_campaign=1048&utm_source=git)** | West Jefferson, OH | On Site | Jan 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[System Safety Engineering Internship / Orlando, FL](https://jobright.ai/jobs/info/6979bb370791bc1d723084db?utm_campaign=1048&utm_source=git)** | Florida | Hybrid | Jan 27 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/695dc3cbf1f8465b79f40d81?utm_campaign=1048&utm_source=git)** | Utah, United States | On Site | Jan 27 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[nou Systems, Inc.](http://nou-systems.com)** | **[Undergraduate Student Internship](https://jobright.ai/jobs/info/69798b07d7df290257fbe3be?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 27 |
 | **[Battelle](http://www.battelle.org)** | **[NEON Field Ecology Intern - WA](https://jobright.ai/jobs/info/697971d9ca92cf0d6a829517?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Jan 27 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Dexterous Manipulation Sensing (PhD)](https://jobright.ai/jobs/info/69798adfca92cf0d6a82b291?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 27 |
-| **[Michael Foods](http://michaelfoods.com)** | **[Food, Safety & Quality Intern](https://jobright.ai/jobs/info/69798a20d7df290257fbe075?utm_campaign=1048&utm_source=git)** | West Jefferson, OH | On Site | Jan 27 |
-| **[Texas Instruments](http://www.ti.com)** | **[Analog IC Design Engineering Intern - AI Assisted RFIC Design](https://jobright.ai/jobs/info/696c8e77db26b618950fdc34?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineer](https://jobright.ai/jobs/info/695d866af1f8465b79f3bca0?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 27 |
-| **[Terros Health](https://www.terroshealth.org/)** | **[Healthcare Quality Intern - Central Ave](https://jobright.ai/jobs/info/6979ab160791bc1d72307af1?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jan 27 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - Advanced Materials Laboratory, Onsite](https://jobright.ai/jobs/info/6974036637785856350debac?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 27 |
-| ↳ | **[Intern, R&D Graduate Summer - Advanced Materials Laboratory, Onsite](https://jobright.ai/jobs/info/697406db206da320f49e1704?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jan 27 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Robotics Dexterous Manipulation (PhD)](https://jobright.ai/jobs/info/6979888f0791bc1d7230384d?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 27 |
-| **[Kymera Therapeutics](http://www.kymeratx.com/)** | **[Informatics Intern](https://jobright.ai/jobs/info/697988800791bc1d7230383c?utm_campaign=1048&utm_source=git)** | Greater Boston | On Site | Jan 27 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)](https://jobright.ai/jobs/info/697988100791bc1d723037e8?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jan 27 |
-| **[David Evans and Associates, Inc.](http://www.deainc.com)** | **[Internship: Construction Inspector - Boise](https://jobright.ai/jobs/info/6979875f0791bc1d72303744?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Jan 27 |
-| **[Viasat](http://www.viasat.com)** | **[Cybersecurity Software Engineer Intern](https://jobright.ai/jobs/info/697986e30791bc1d72303702?utm_campaign=1048&utm_source=git)** | Carlsbad, CA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
