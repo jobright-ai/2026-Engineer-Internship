@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viwinco Windows](https://www.viwinco.com/)** | **[Research and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbb2fce48107c05420838?utm_campaign=1048&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
+| **[AdMesh](https://useadmesh.com)** | **[Admesh Applied AI Fellowship](https://jobright.ai/jobs/info/697db96f7f40342e15d69fda?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Modular](https://www.modular.com)** | **[AI Models Engineering Intern](https://jobright.ai/jobs/info/697db488ce48107c054203a8?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
+| **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Engineering Intern (Spring 2026)](https://jobright.ai/jobs/info/697db458ce48107c05420376?utm_campaign=1048&utm_source=git)** | Tustin, California, United States | On Site | Jan 30 |
 | **[Z-Band Technologies](https://www.z-band.com/)** | **[Highschool Intern Electrical Engineering I](https://jobright.ai/jobs/info/697db05a7f40342e15d698da?utm_campaign=1048&utm_source=git)** | Z-Band Technologies - Carlisle, PA 17013 | On Site | Jan 30 |
 | **[Hanson Professional Services Inc.](http://hanson-inc.com)** | **[2026 Civil Engineering Intern](https://jobright.ai/jobs/info/697daef4abff4c399a9c83f7?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong AI Engineer Intern](https://jobright.ai/jobs/info/697daea9abff4c399a9c83af?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027  Rail Field Data Collection  Intern](https://jobright.ai/jobs/info/697d8fecce48107c0541da61?utm_campaign=1048&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[TE Connectivity](http://www.te.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/697d8fd1abff4c399a9c6026?utm_campaign=1048&utm_source=git)** | Mansfield, OH | On Site | Jan 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Radiation Effects Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697d8f9ace48107c0541da0e?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jan 30 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[E&PS PD Summer Intern](https://jobright.ai/jobs/info/697db75ece48107c0542066e?utm_campaign=1048&utm_source=git)** | Wilson, NC | Hybrid | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Intelligent Infrastructure Monitoring and Automation Intern](https://jobright.ai/jobs/info/697d8ee97f40342e15d6719f?utm_campaign=1048&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027  Yearlong AI Engineer  Intern](https://jobright.ai/jobs/info/697d8eb87f40342e15d67160?utm_campaign=1048&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697b527f1423772304eb6fc5?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | Jan 30 |
@@ -96,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: IT & Digitalization (Summer 2026)](https://jobright.ai/jobs/info/697d874ace48107c0541b8b2?utm_campaign=1048&utm_source=git)** | Macungie, PA | On Site | Jan 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern](https://jobright.ai/jobs/info/697d8749abff4c399a9c3e74?utm_campaign=1048&utm_source=git)** | Ashland, NE | On Site | Jan 30 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Internship - Engineering Asset Management](https://jobright.ai/jobs/info/697d871dabff4c399a9c3e53?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
-| **[AdMesh](https://useadmesh.com)** | **[Admesh Applied AI Fellowship](https://jobright.ai/jobs/info/697d8696abff4c399a9c3dd3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Substation Intern, P&C](https://jobright.ai/jobs/info/697d857fce48107c0541b6e5?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jan 30 |
 | **[Sygaldry Technologies](https://sygaldry.com/)** | **[Quantum Hardware Summer 2026 Internship Program](https://jobright.ai/jobs/info/697d8548abff4c399a9c3cb3?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Specialist Internship](https://jobright.ai/jobs/info/697d8515abff4c399a9c3c99?utm_campaign=1048&utm_source=git)** | Harleysville, PA | On Site | Jan 30 |
@@ -135,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Environmental-Sustainability Intern- Summer 2026](https://jobright.ai/jobs/info/697d77b7137a051025669ab3?utm_campaign=1048&utm_source=git)** | Bloomfield, CT | Hybrid | Jan 30 |
 | **[Nokia](http://www.nokia.com)** | **[Analytics/Next-Gen AI Co-op/Intern](https://jobright.ai/jobs/info/69618b2ff3f4cd1325069b21?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jan 30 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Project Engineering](https://jobright.ai/jobs/info/697d939cce48107c0541dcb3?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 30 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, Electric Maintenance Planning & Reliability](https://jobright.ai/jobs/info/697d7650727747250d585f02?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 30 |
-| ↳ | **[Geographic Information Systems Co-op](https://jobright.ai/jobs/info/697d7650137a05102566992e?utm_campaign=1048&utm_source=git)** | Trail, British Columbia, Canada | On Site | Jan 30 |
+| **[FortisBC](https://www.fortisbc.com)** | **[Geographic Information Systems Co-op](https://jobright.ai/jobs/info/697d7650137a05102566992e?utm_campaign=1048&utm_source=git)** | Trail, British Columbia, Canada | On Site | Jan 30 |
+| ↳ | **[Engineering Co-op, Electric Maintenance Planning & Reliability](https://jobright.ai/jobs/info/697d7650727747250d585f02?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Agentic AI Solution Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d7649727747250d585ef7?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[American Electric Power](http://aep.com)** | **[Civil/Structural Designer Intern - Tulsa, OK](https://jobright.ai/jobs/info/6964b2cca112b40266129282?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jan 30 |
 | ↳ | **[Civil/Structural Designer Intern - Roanoke, VA](https://jobright.ai/jobs/info/6964b41ca112b40266129eee?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Pharmaceutical Engineering, Drug Product, PDM](https://jobright.ai/jobs/info/697d7387727747250d585c39?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 | **[Thompson Solutions Group](www.thompsonsolutionsgroup.com)** | **[Internship - Automation](https://jobright.ai/jobs/info/697d98707f40342e15d680b2?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 30 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/697d7351137a05102566962e?utm_campaign=1048&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 30 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d7312137a0510256695ec?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern- Raytheon Power Electronics & Controls - (Onsite)](https://jobright.ai/jobs/info/697d730d3f57a335696757c9?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 30 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, System Integrity](https://jobright.ai/jobs/info/697d7300137a0510256695e1?utm_campaign=1048&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 30 |
-| **[American Electric Power](http://aep.com)** | **[Electrical Designer Intern - New Albany, OH](https://jobright.ai/jobs/info/6964b328a112b40266129d04?utm_campaign=1048&utm_source=git)** | New Albany, OH | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
