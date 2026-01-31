@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ONEBIT](https://onebitapp.com/)** | **[A.I Engineer Intern](https://jobright.ai/jobs/info/697e3bccabff4c399a9d078d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697e3b797f40342e15d71912?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jan 31 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Engineer](https://jobright.ai/jobs/info/697e3b727f40342e15d7190c?utm_campaign=1048&utm_source=git)** | LA Metro Area | Hybrid | Jan 31 |
+| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern, Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/697e37e8abff4c399a9d0685?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Jan 31 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697e37d27f40342e15d71869?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Jan 31 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G/6G System R&D)](https://jobright.ai/jobs/info/697e36b6ce48107c05427d59?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e36acce48107c05427d54?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Engineer Substation Operations Intern](https://jobright.ai/jobs/info/697e34e1abff4c399a9d062c?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Jan 31 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern - Talent Pool](https://jobright.ai/jobs/info/697e3393abff4c399a9d0596?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 31 |
+| ↳ | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e338a7f40342e15d714a5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Cell Culture Development Co-op](https://jobright.ai/jobs/info/697e30a4abff4c399a9cf09a?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Jan 31 |
 | **[EUA](http://www.eua.com/)** | **[Student Engineering Intern Structural](https://jobright.ai/jobs/info/697e302dabff4c399a9cec06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | ↳ | **[Student Engineering Intern Mechanical](https://jobright.ai/jobs/info/697e30277f40342e15d6fdfd?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Electrical Engineer Intern, Substation](https://jobright.ai/jobs/info/69618380f3f4cd13250682da?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/689d828dfaa4e875e8270d95?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory Subsystem (Summer)](https://jobright.ai/jobs/info/6945f04cd1953b5d11befb91?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
-| **[Ai2](http://allenai.org)** | **[Research Internship, AI for Science](https://jobright.ai/jobs/info/690bd5cd4a1b456627b13782?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e0dd3ce48107c0542576a?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Construction Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed26746e5b153e5a605c8?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jan 31 |
-| **[Modular](https://www.modular.com)** | **[GenAI Performance and Quality Intern](https://jobright.ai/jobs/info/697e0d8b7f40342e15d6f11b?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
-| **[Wade Trim](http://wadetrim.com)** | **[Engineer Summer Intern - #2787.20](https://jobright.ai/jobs/info/697e0d46abff4c399a9cde32?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Jan 31 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Maintenance Tech Intern - $23.34/hr.](https://jobright.ai/jobs/info/69619772f3f4cd132506a564?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 31 |
-| **[Mubea](https://www.mubea.com)** | **[Student Co-op - Engineering](https://jobright.ai/jobs/info/69616b1bf3f4cd132506617e?utm_campaign=1048&utm_source=git)** | Florence, KY | On Site | Jan 31 |
-| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Manufacturing Intern - Southeast Region](https://jobright.ai/jobs/info/696236be2cbf4e44756c2fc5?utm_campaign=1048&utm_source=git)** | Florence, SC | On Site | Jan 31 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/695899129f1b381eb2717196?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/696c6565350cf43803139549?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
