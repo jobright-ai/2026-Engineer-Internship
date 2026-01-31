@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Field Services Intern](https://jobright.ai/jobs/info/6960e001f3f4cd132505ef17?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Jan 31 |
+| **[Entegris](http://www.entegris.com)** | **[Metrology Particle Retention Lab Intern - Summer 2026](https://jobright.ai/jobs/info/69687667639b452fb57e2004?utm_campaign=1048&utm_source=git)** | Billerica, MA | On Site | Jan 31 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineer](https://jobright.ai/jobs/info/697c33251136d179eeefed00?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Jan 31 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6962035725e18715077ee82f?utm_campaign=1048&utm_source=git)** | Brownsburg, IN | On Site | Jan 31 |
+| **[Xylem](https://heimplanet.com/)** | **[Intern - Transport Aftermarket Services, N. America](https://jobright.ai/jobs/info/6961616be7ed9a5731ba27c9?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972a0c24ccbf64f8df2a7d8?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Jan 31 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/697dcf44ce48107c05422968?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 31 |
+| **[Amentum](https://www.amentum.com/)** | **[Hardware/Software Systems Integration Intern](https://jobright.ai/jobs/info/697dcefcabff4c399a9caf3b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 31 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Certification, Compliance, Quality & Safety (CCQS) Intern](https://jobright.ai/jobs/info/6961502cf3f4cd13250649d3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Systems Administrator I (Active Duty Service Member)](https://jobright.ai/jobs/info/6961bb33f3f4cd132506c18f?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer](https://jobright.ai/jobs/info/69707485587dfa0bb55e16d3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Shipboard HF Radio Subject Matter Expert (Active Duty Service Members)](https://jobright.ai/jobs/info/6969bab0f25a380066986de1?utm_campaign=1048&utm_source=git)** | Portsmouth, VA | On Site | Jan 31 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flatiron School](http://flatironschool.com)** | **[Post-Grad AI Engineer Apprentice Work/Study Program - Bletchley Fellowship](https://jobright.ai/jobs/info/697d79363f57a3356967630d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 30 |
 | **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/697d78033f57a33569676250?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Jan 30 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Electrical Engineering Co-Op (Hoffman Estates)](https://jobright.ai/jobs/info/697d77ce727747250d586092?utm_campaign=1048&utm_source=git)** | Hoffman Estates, IL | On Site | Jan 30 |
-| **[ABB](https://global.abb/group/en)** | **[Environmental-Sustainability Intern- Summer 2026](https://jobright.ai/jobs/info/697d77b7137a051025669ab3?utm_campaign=1048&utm_source=git)** | Bloomfield, CT | Hybrid | Jan 30 |
-| **[Nokia](http://www.nokia.com)** | **[Analytics/Next-Gen AI Co-op/Intern](https://jobright.ai/jobs/info/69618b2ff3f4cd1325069b21?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jan 30 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Intern - Project Engineering](https://jobright.ai/jobs/info/697d939cce48107c0541dcb3?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 30 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Geographic Information Systems Co-op](https://jobright.ai/jobs/info/697d7650137a05102566992e?utm_campaign=1048&utm_source=git)** | Trail, British Columbia, Canada | On Site | Jan 30 |
-| ↳ | **[Engineering Co-op, Electric Maintenance Planning & Reliability](https://jobright.ai/jobs/info/697d7650727747250d585f02?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 30 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Agentic AI Solution Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d7649727747250d585ef7?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 30 |
-| **[American Electric Power](http://aep.com)** | **[Civil/Structural Designer Intern - Tulsa, OK](https://jobright.ai/jobs/info/6964b2cca112b40266129282?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jan 30 |
-| ↳ | **[Civil/Structural Designer Intern - Roanoke, VA](https://jobright.ai/jobs/info/6964b41ca112b40266129eee?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Jan 30 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Innovation and Technology Intern- Spring 2026](https://jobright.ai/jobs/info/697d7613137a0510256698f0?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
