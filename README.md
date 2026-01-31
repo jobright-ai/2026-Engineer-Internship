@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Systems Administrator I (Active Duty Service Member)](https://jobright.ai/jobs/info/6961bb33f3f4cd132506c18f?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
+| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer](https://jobright.ai/jobs/info/69707485587dfa0bb55e16d3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Shipboard HF Radio Subject Matter Expert (Active Duty Service Members)](https://jobright.ai/jobs/info/6969bab0f25a380066986de1?utm_campaign=1048&utm_source=git)** | Portsmouth, VA | On Site | Jan 31 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Radiation Effects Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697dc655ce48107c05420e3d?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027 Rail Field Data Collection Intern](https://jobright.ai/jobs/info/697dc63bce48107c05420df6?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
+| ↳ | **[2026-2027 Yearlong Intelligent Infrastructure Monitoring and Automation Intern](https://jobright.ai/jobs/info/697dc59dabff4c399a9c9680?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
+| **[SAIC](http://www.saic.com)** | **[Defense Engineering Intern](https://jobright.ai/jobs/info/697dc1d0abff4c399a9c90fe?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jan 31 |
+| **[Viwinco Windows](https://www.viwinco.com/)** | **[Reliability Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbf6f7f40342e15d6a299?utm_campaign=1048&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
+| ↳ | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbe317f40342e15d6a1a0?utm_campaign=1048&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
+| ↳ | **[Continuous Improvement Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbe067f40342e15d6a179?utm_campaign=1048&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697dbe037f40342e15d6a176?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Jan 31 |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Intern - Process Operations](https://jobright.ai/jobs/info/697dbd417f40342e15d6a0ea?utm_campaign=1048&utm_source=git)** | Aurora, CO | On Site | Jan 31 |
+| **[Typeface](https://www.typeface.ai)** | **[ML Engineer Intern](https://jobright.ai/jobs/info/69619e12e7ed9a5731ba7861?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 31 |
 | **[Viwinco Windows](https://www.viwinco.com/)** | **[Research and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbb2fce48107c05420838?utm_campaign=1048&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
 | **[AdMesh](https://useadmesh.com)** | **[Admesh Applied AI Fellowship](https://jobright.ai/jobs/info/697db96f7f40342e15d69fda?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[AI Models Engineering Intern](https://jobright.ai/jobs/info/697db488ce48107c054203a8?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
@@ -126,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Continuous Improvement (Summer 2026)](https://jobright.ai/jobs/info/697d7e2a137a05102566a4cd?utm_campaign=1048&utm_source=git)** | Macungie, PA | On Site | Jan 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Innovation and Technology Intern- Spring 2026](https://jobright.ai/jobs/info/697d7c64727747250d586614?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Jan 30 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Offline Quality (Summer 2026)](https://jobright.ai/jobs/info/697d7c253f57a3356967655d?utm_campaign=1048&utm_source=git)** | Macungie, PA | On Site | Jan 30 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d7c0a137a05102566a328?utm_campaign=1048&utm_source=git)** | Austin, CO | Remote | Jan 30 |
 | **[Paramount Resources](http://www.paramountres.com/)** | **[Summer Student Field Engineering Technologist - Central](https://jobright.ai/jobs/info/696b15d9350cf43803125ecb?utm_campaign=1048&utm_source=git)** | Rocky Mountain House, Alberta, Canada | On Site | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Data Platform Engineering - Internship](https://jobright.ai/jobs/info/697d7bbf3f57a335696764f9?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | Jan 30 |
 | **[Morris County Government](https://www.morriscountynj.gov)** | **[Seasonal Intern- Public Works, Mosquito Control](https://jobright.ai/jobs/info/697d7b303f57a33569676465?utm_campaign=1048&utm_source=git)** | Morris County, NJ | On Site | Jan 30 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Civil/Structural Designer Intern - Tulsa, OK](https://jobright.ai/jobs/info/6964b2cca112b40266129282?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jan 30 |
 | ↳ | **[Civil/Structural Designer Intern - Roanoke, VA](https://jobright.ai/jobs/info/6964b41ca112b40266129eee?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Jan 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Innovation and Technology Intern- Spring 2026](https://jobright.ai/jobs/info/697d7613137a0510256698f0?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Jan 30 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d760b137a0510256698e4?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Jan 30 |
-| **[Shimmick Corporation](http://www.shimmick.com)** | **[Electrical Field Engineer Intern](https://jobright.ai/jobs/info/697d7606727747250d585eb8?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 30 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/69718f15587dfa0bb55f3f8f?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 30 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, Renewable Gas](https://jobright.ai/jobs/info/697d74e6137a0510256697c1?utm_campaign=1048&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 30 |
-| **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Supply Chain](https://jobright.ai/jobs/info/697d74cc137a0510256697a8?utm_campaign=1048&utm_source=git)** | Everett, WA, US | On Site | Jan 30 |
-| **[Nokia](http://www.nokia.com)** | **[AI/ML Intern](https://jobright.ai/jobs/info/697d7482137a051025669766?utm_campaign=1048&utm_source=git)** | Coppell, TX | Hybrid | Jan 30 |
-| **[OmniOn Power](https://omnionpower.com)** | **[Power Electronics Intern - Firmware](https://jobright.ai/jobs/info/697a775bf6fc293b0a2c489f?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Jan 30 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Field Engineer Internship 2026 (Worcester, PA)](https://jobright.ai/jobs/info/697d7421137a0510256696f8?utm_campaign=1048&utm_source=git)** | Worcester, PA | On Site | Jan 30 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, AI & Computational Chemistry (Discovery Chemistry)](https://jobright.ai/jobs/info/696ae3815fc86241853a154f?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | Jan 30 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Pharmaceutical Engineering, Drug Product, PDM](https://jobright.ai/jobs/info/697d7387727747250d585c39?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
-| **[Thompson Solutions Group](www.thompsonsolutionsgroup.com)** | **[Internship - Automation](https://jobright.ai/jobs/info/697d98707f40342e15d680b2?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Jan 30 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/697d7351137a05102566962e?utm_campaign=1048&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
