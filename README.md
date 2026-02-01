@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9ee9ce48107c0543a572?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
+| **[Vortexion Labs](vortexionlabs.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697f9ee2ce48107c0543a56e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Feb 01 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Internship (5G/6G System R&D)](https://jobright.ai/jobs/info/697f9e417f40342e15d8421a?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Woman's Hospital](http://www.womans.org/)** | **[Industrial Engineering - Summer Internship](https://jobright.ai/jobs/info/697f9b637f40342e15d841f1?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Data Platform Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9adb7f40342e15d841d9?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
+| ↳ | **[Product Security Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9aa6abff4c399a9e339f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering  Intern](https://jobright.ai/jobs/info/697f94bdce48107c0543a48a?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/697f91aece48107c0543a416?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/6977e52688e2b47213bbe18a?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Mechanical-Electrical-Plumbing Engineering Intern](https://jobright.ai/jobs/info/68cb93669e3a822f5d2487c3?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
 | **[Quartus Engineering](http://quartus.com)** | **[Structural or Thermal Analysis Engineer Co-Op: Spring/Summer 2026 - 046QE](https://jobright.ai/jobs/info/6946983963141d1884564966?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/6956b7e5f1f8465b79eda997?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 01 |
-| **[Copart](http://www.copart.com)** | **[Field Engineering Intern](https://jobright.ai/jobs/info/68cff135846f0b04af6863ab?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 01 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Component Engineering Intern](https://jobright.ai/jobs/info/6904c477ff462851feff75e0?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Feb 01 |
-| **[McKim & Creed, Inc.](http://mckimcreed.com)** | **[Plumbing and Fire Protection Intern](https://jobright.ai/jobs/info/689ac9fe5574fd6bc0c8607c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/69799f73ca92cf0d6a82e488?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Feb 01 |
-| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
-| ↳ | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Security Operations and Data Security Intern (Summer 2026)](https://jobright.ai/jobs/info/68f144bfef766b3f0fd0b127?utm_campaign=1048&utm_source=git)** | Westfield Center, OH | Hybrid | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
