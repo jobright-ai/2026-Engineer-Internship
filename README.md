@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vortexion Labs](vortexionlabs.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/697f91aece48107c0543a416?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 01 |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
+| **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern - Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/697f8b06ce48107c0543a39e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 01 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697f87eece48107c0543a341?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Research & Development Intern](https://jobright.ai/jobs/info/697f81e0ce48107c05438a94?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Feb 01 |
+| **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/697f81cc7f40342e15d826c7?utm_campaign=1048&utm_source=git)** | Wellsburg, WV | On Site | Feb 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f819cabff4c399a9e1829?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Feb 01 |
 | **[Pace Suburban Bus](https://pacebus.com)** | **[Intelligent Transportation Systems (ITS) Intern](https://jobright.ai/jobs/info/697f7df0ce48107c05438a13?utm_campaign=1048&utm_source=git)** | Arlington Heights, IL | On Site | Feb 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
 | ↳ | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Security Operations and Data Security Intern (Summer 2026)](https://jobright.ai/jobs/info/68f144bfef766b3f0fd0b127?utm_campaign=1048&utm_source=git)** | Westfield Center, OH | Hybrid | Feb 01 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/689ee17879a9f9666255322a?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Feb 01 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/68f2db8d76a51a4307bc8bec?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Feb 01 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b89e0507090163b6ba397f?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Feb 01 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6969f3b71703f05405abfb77?utm_campaign=1048&utm_source=git)** | McCook, NE | On Site | Feb 01 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - Quality Engineering](https://jobright.ai/jobs/info/696354b42cbf4e44756d098e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/689ee20d79a9f96662553421?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Feb 01 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Manufacturing Intern-Crystal Springs, MS](https://jobright.ai/jobs/info/697c7afe727747250d572a45?utm_campaign=1048&utm_source=git)** | Crystal Springs, MS | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
