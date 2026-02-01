@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The H+H Group](https://www.hhautomotive.com/)** | **[AVENUE SCHOLARS - APPRENTICESHIP / INTERNSHIP](https://jobright.ai/jobs/info/697f2515abff4c399a9dcd30?utm_campaign=1048&utm_source=git)** | Omaha, NE, US | On Site | Feb 01 |
+| ↳ | **[AVENUE SCHOLARS - APPRENTICESHIP / INTERNSHIP](https://jobright.ai/jobs/info/697f22fbce48107c05433ad1?utm_campaign=1048&utm_source=git)** | Papillion, NE, US | On Site | Feb 01 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697acf80f6fc293b0a2cc79f?utm_campaign=1048&utm_source=git)** | Fairhaven, MA | On Site | Feb 01 |
 | ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697adbd817b11b1c2e41a9cd?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Feb 01 |
 | ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697aca119d60e431a16c7241?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Feb 01 |
@@ -87,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Stagiaire en Assurance Qualité](https://jobright.ai/jobs/info/697ece817f40342e15d77fac?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern Automation Engineering](https://jobright.ai/jobs/info/697ecac07f40342e15d77ad1?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jan 31 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineering Intern (5G/6G System R&D)](https://jobright.ai/jobs/info/697ec787abff4c399a9d69d3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697ec4d9ce48107c0542d8bb?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 31 |
-| ↳ | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/697ec485ce48107c0542d89b?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 31 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/697ec485ce48107c0542d89b?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 31 |
 | ↳ | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/697ec3ce7f40342e15d773f8?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Jan 31 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebdd07f40342e15d77306?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebd637f40342e15d772c5?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vexra Engineering](vexraengineering.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e338a7f40342e15d714a5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Cell Culture Development Co-op](https://jobright.ai/jobs/info/697e30a4abff4c399a9cf09a?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Jan 31 |
 | **[EUA](http://www.eua.com/)** | **[Student Engineering Intern Structural](https://jobright.ai/jobs/info/697e302dabff4c399a9cec06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
-| ↳ | **[Student Engineering Intern Mechanical](https://jobright.ai/jobs/info/697e30277f40342e15d6fdfd?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
