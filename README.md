@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toole Design Group](http://www.tooledesign.com)** | **[Urban Design Intern](https://jobright.ai/jobs/info/697faaf3ce48107c0543ac87?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 01 |
+| **[LeFrak](http://lefrak.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697faaa3abff4c399a9e3add?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Feb 01 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697fa4b8abff4c399a9e35d1?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 01 |
+| ↳ | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697fa1b5ce48107c0543a591?utm_campaign=1048&utm_source=git)** | Newark, NJ | Remote | Feb 01 |
 | **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9ee9ce48107c0543a572?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697f9ee2ce48107c0543a56e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/697f6b6d7f40342e15d8243e?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 01 |
 | **[Newegg](https://www.newegg.com)** | **[AI Project Intern – Computer Vision](https://jobright.ai/jobs/info/693376ffa0dde7020e2ee43b?utm_campaign=1048&utm_source=git)** | Diamond Bar, CA | On Site | Feb 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Quality Engineering Intern - Cleveland Manufacturing](https://jobright.ai/jobs/info/6902e72400a1816c41ea275b?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/697f68537f40342e15d8232f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Engineering Intern - Mechanical](https://jobright.ai/jobs/info/697f684fce48107c054386db?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Construction Discipline Engineering (Electrical, Mechanical or Civil Engineering)](https://jobright.ai/jobs/info/697f68457f40342e15d82328?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697f67bc7f40342e15d822d5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship Environmental, Health & Safety](https://jobright.ai/jobs/info/68f292f29a63986de7568f41?utm_campaign=1048&utm_source=git)** | Wilton Center, CT | On Site | Feb 01 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Engineering Intern - SV Engineering - Mechanical Design](https://jobright.ai/jobs/info/690e3ccc44146d3b6ec5233d?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Feb 01 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Feb 01 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/6977e52688e2b47213bbe18a?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Feb 01 |
-| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Mechanical-Electrical-Plumbing Engineering Intern](https://jobright.ai/jobs/info/68cb93669e3a822f5d2487c3?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 01 |
-| **[Quartus Engineering](http://quartus.com)** | **[Structural or Thermal Analysis Engineer Co-Op: Spring/Summer 2026 - 046QE](https://jobright.ai/jobs/info/6946983963141d1884564966?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
