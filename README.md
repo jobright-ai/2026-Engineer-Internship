@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697acf80f6fc293b0a2cc79f?utm_campaign=1048&utm_source=git)** | Fairhaven, MA | On Site | Feb 01 |
+| ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697adbd817b11b1c2e41a9cd?utm_campaign=1048&utm_source=git)** | Michigan, United States | On Site | Feb 01 |
+| ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697aca119d60e431a16c7241?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Feb 01 |
+| ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697abde9f6fc293b0a2cb8c3?utm_campaign=1048&utm_source=git)** | New Jersey, United States | On Site | Feb 01 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Field Service Engineer Apprentice - Multiple Locations](https://jobright.ai/jobs/info/697f10e3ce48107c05432e0e?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Feb 01 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697ac6649d60e431a16c6ebd?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 01 |
+| ↳ | **[Summer 2026 FitLAB Fitting Internship (California, Chicago, Detroit, New Jersey, or Massachusetts)](https://jobright.ai/jobs/info/697ac8469d60e431a16c7082?utm_campaign=1048&utm_source=git)** | Illinois, United States | On Site | Feb 01 |
 | **[Robynex Automation](robynexautomation.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697f091c7f40342e15d7c5a9?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Feb 01 |
 | **[Hilti North America](http://www.hilti.com)** | **[Fire Protection Engineering Intern - Irving, TX - Summer 2026](https://jobright.ai/jobs/info/697b20891423772304eb389e?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[GIS Intern - Paid](https://jobright.ai/jobs/info/697f04777f40342e15d7c101?utm_campaign=1048&utm_source=git)** | Delray Beach, FL | On Site | Jan 31 |
@@ -66,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/697efc3cabff4c399a9da6d4?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 31 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/697efc26abff4c399a9da6ba?utm_campaign=1048&utm_source=git)** | Reston, VA, US | On Site | Jan 31 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 31 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69705976587dfa0bb55de56c?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jan 31 |
 | **[Robynex Automation](robynexautomation.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697ee735ce48107c05430ddb?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Mechvanta Engineering](mechvantaengineering.us)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/697edfd8ce48107c0543033d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 31 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Process Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b151b1e815524ae11fd9a0?utm_campaign=1048&utm_source=git)** | Woodstock, IL | On Site | Jan 31 |
@@ -95,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Building Performance Design Intern / Summer 2026](https://jobright.ai/jobs/info/6979773a9c90a224ecc32f1b?utm_campaign=1048&utm_source=git)** | Denver, Colorado, United States | Hybrid | Jan 31 |
 | **[Interstates](http://interstates.com)** | **[Apprentice Electrician Tech College Intern - Sioux Falls, SD](https://jobright.ai/jobs/info/68e3bb4f1852e62f007fd85c?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Jan 31 |
 | **[Ironclad](https://www.ironcladapp.com)** | **[Automation Quality Engineering Intern](https://jobright.ai/jobs/info/697e9d9bce48107c0542b0db?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
-| **[AeroMatrix 12](aeromatrix12.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e995aabff4c399a9d3a9c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Methuen Construction Company, Inc.](http://methuenconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/697e96777f40342e15d74b8c?utm_campaign=1048&utm_source=git)** | Plaistow, NH | On Site | Jan 31 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Internship.](https://jobright.ai/jobs/info/697eb60cabff4c399a9d5f16?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Airbuild Inc](https://www.airbuildinc.com)** | **[IoT Automation Engineering Intern](https://jobright.ai/jobs/info/697e9190ce48107c0542b018?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
@@ -137,7 +142,8 @@ For a complete list, click the following sortable link below:
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/697e55267f40342e15d71f9d?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e4f6dce48107c05428188?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Jan 31 |
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Temporary Laboratory Coordinator](https://jobright.ai/jobs/info/697e4c22ce48107c0542813c?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[QC Chemistry Intern](https://jobright.ai/jobs/info/697e4ad17f40342e15d71b50?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[R&D Engineering Intern](https://jobright.ai/jobs/info/697f1d3eabff4c399a9dc161?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
+| ↳ | **[QC Chemistry Intern](https://jobright.ai/jobs/info/697e4ad17f40342e15d71b50?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Controlling Intern](https://jobright.ai/jobs/info/697ec09e7f40342e15d773c1?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Microbiology Intern](https://jobright.ai/jobs/info/697e47a6ce48107c054280a2?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[EHS&S Intern](https://jobright.ai/jobs/info/697e477dce48107c0542808f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Cell Culture Development Co-op](https://jobright.ai/jobs/info/697e30a4abff4c399a9cf09a?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Jan 31 |
 | **[EUA](http://www.eua.com/)** | **[Student Engineering Intern Structural](https://jobright.ai/jobs/info/697e302dabff4c399a9cec06?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | ↳ | **[Student Engineering Intern Mechanical](https://jobright.ai/jobs/info/697e30277f40342e15d6fdfd?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
-| **[Parexel](http://www.parexel.com)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/697e2fee7f40342e15d6fdef?utm_campaign=1048&utm_source=git)** | Durham, NC | Hybrid | Jan 31 |
-| **[BioSpace](http://www.biospace.com/)** | **[R&D Clinical Pharmacology Modeling & Simulation - Grad Intern](https://jobright.ai/jobs/info/697e2cc77f40342e15d6fdc1?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Jan 31 |
-| ↳ | **[Internship - Data Engineering](https://jobright.ai/jobs/info/697e2c2cabff4c399a9ceae2?utm_campaign=1048&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/697e2b60ce48107c05426324?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 31 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Bachelor (Santa Clara, CA)](https://jobright.ai/jobs/info/697e2adbce48107c054262fe?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/697e290b7f40342e15d6fcbd?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
