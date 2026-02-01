@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbuild Inc](https://www.airbuildinc.com)** | **[IoT Automation Engineering Intern](https://jobright.ai/jobs/info/697e9190ce48107c0542b018?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Awetomaton Ltd](https://awetomaton.com)** | **[Engineering Intern - Platform Observability](https://jobright.ai/jobs/info/697e8c827f40342e15d74a6b?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
+| **[Path Construction](http://pathcc.com)** | **[Construction Intern - Immediate Opening (Harper College Project Site)](https://jobright.ai/jobs/info/697e8a11abff4c399a9d394c?utm_campaign=1048&utm_source=git)** | Arlington Heights, IL | On Site | Jan 31 |
+| **[Awetomaton Ltd](https://awetomaton.com)** | **[IT Intern](https://jobright.ai/jobs/info/697e897dabff4c399a9d38fe?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
+| **[Annaka's Paige](https://annakaspaige.org/)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/697e8632abff4c399a9d38a6?utm_campaign=1048&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | Hybrid | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Silicon Validation Engineering Intern](https://jobright.ai/jobs/info/6962a3b3a112b4026610f6df?utm_campaign=1048&utm_source=git)** | Nepean, Ontario, Canada | On Site | Jan 31 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/697e7fe4ce48107c0542ae60?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Jan 31 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern.](https://jobright.ai/jobs/info/697e7c5babff4c399a9d3764?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Jan 31 |
@@ -75,8 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Bunge](http://www.bunge.com)** | **[EHS Intern](https://jobright.ai/jobs/info/697e616dabff4c399a9d1598?utm_campaign=1048&utm_source=git)** | Emporia, KS | On Site | Jan 31 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/697e60e3abff4c399a9d153f?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Water Resources Engineering Data Discovery Intern](https://jobright.ai/jobs/info/697e606d7f40342e15d726fd?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
-| **[Prairieland FS, Inc.](https://www.prairielandfs.com/)** | **[Crop Scout Student Internship - Paloma/Golden, IL](https://jobright.ai/jobs/info/697e7f24abff4c399a9d37e0?utm_campaign=1048&utm_source=git)** | Paloma, IL | On Site | Jan 31 |
-| ↳ | **[Crop Scout Student Internship - Pleasant Hill, IL](https://jobright.ai/jobs/info/697e7f3babff4c399a9d37f5?utm_campaign=1048&utm_source=git)** | Pleasant Hill, IL | On Site | Jan 31 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Utilities (Engineering)](https://jobright.ai/jobs/info/697e5ef3ce48107c05428c68?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Jan 31 |
 | ↳ | **[2026 Summer Internship - Reliability & Maintenance (Engineering)](https://jobright.ai/jobs/info/697e5e96ce48107c05428c44?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Jan 31 |
 | **[Together AI](https://www.together.ai)** | **[Systems Research Engineer Intern- GPU Programming (Summer 2026)](https://jobright.ai/jobs/info/697e5db0abff4c399a9d14d7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
@@ -98,11 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697e4f267f40342e15d71bef?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Jan 31 |
 | **[Robynex Automation](robynexautomation.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697e4ea67f40342e15d71bcb?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 31 |
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Temporary Laboratory Coordinator](https://jobright.ai/jobs/info/697e4c22ce48107c0542813c?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
-| **[Awetomaton Ltd](https://awetomaton.com)** | **[IT Intern](https://jobright.ai/jobs/info/697e4c07ce48107c05428136?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/697e4ba4abff4c399a9d09b6?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Chemistry Intern](https://jobright.ai/jobs/info/697e4ad17f40342e15d71b50?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
-| **[Awetomaton Ltd](https://awetomaton.com)** | **[Engineering Intern - Platform Observability](https://jobright.ai/jobs/info/697e4aa9ce48107c054280c8?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Controlling Intern](https://jobright.ai/jobs/info/697e4a657f40342e15d71b22?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[R&D Engineering Intern](https://jobright.ai/jobs/info/697e49fbabff4c399a9d0922?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Automation Engineering Intern](https://jobright.ai/jobs/info/697e47c0ce48107c054280ad?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Microbiology Intern](https://jobright.ai/jobs/info/697e47a6ce48107c054280a2?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Industrial Engineering / Engineering Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/697e463bce48107c05427ff7?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697e3b797f40342e15d71912?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jan 31 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern, Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/697e37e8abff4c399a9d0685?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Jan 31 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G/6G System R&D)](https://jobright.ai/jobs/info/697e36b6ce48107c05427d59?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e36acce48107c05427d54?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Engineer Substation Operations Intern](https://jobright.ai/jobs/info/697e34e1abff4c399a9d062c?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Jan 31 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e338a7f40342e15d714a5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Turbomachinery Operations](https://jobright.ai/jobs/info/696b8f7b350cf4380312e8d0?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Traffic Engineer - Entry Level](https://jobright.ai/jobs/info/697e18b77f40342e15d6f6d4?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jan 31 |
 | **[PCL Construction](http://www.pcl.com)** | **[Field Engineer Internship](https://jobright.ai/jobs/info/697e17667f40342e15d6f622?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
+| **[ABB](https://global.abb/group/en)** | **[Automation Service Engineer - Internship](https://jobright.ai/jobs/info/692b51b94c474121999cda2b?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
