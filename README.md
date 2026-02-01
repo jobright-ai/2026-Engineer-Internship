@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697eb6af7f40342e15d76fd7?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 31 |
+| **[PATH](https://www.drinkpathwater.com)** | **[Construction Intern - Immediate Opening (Harper College Project Site)](https://jobright.ai/jobs/info/697eb3b27f40342e15d76f25?utm_campaign=1048&utm_source=git)** | Arlington Heights, Illinois, United States | On Site | Jan 31 |
+| **[MechNova](mechnova.us)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/697eb30fabff4c399a9d5de2?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 31 |
 | **[Bernhard](https://bernhard.com/)** | **[Engineering Intern - Emerging Technologies](https://jobright.ai/jobs/info/697ea937abff4c399a9d5750?utm_campaign=1048&utm_source=git)** | US-UT-Salt Lake City | On Site | Jan 31 |
 | ↳ | **[Engineering Intern - Emerging Technologies](https://jobright.ai/jobs/info/697ea8ff7f40342e15d768db?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, US | On Site | Jan 31 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/697ea895abff4c399a9d56ad?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Jan 31 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Ironclad](https://www.ironcladapp.com)** | **[Automation Quality Engineering Intern](https://jobright.ai/jobs/info/697e9d9bce48107c0542b0db?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e995aabff4c399a9d3a9c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Methuen Construction Company, Inc.](http://methuenconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/697e96777f40342e15d74b8c?utm_campaign=1048&utm_source=git)** | Plaistow, NH | On Site | Jan 31 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Internship.](https://jobright.ai/jobs/info/697eb60cabff4c399a9d5f16?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Airbuild Inc](https://www.airbuildinc.com)** | **[IoT Automation Engineering Intern](https://jobright.ai/jobs/info/697e9190ce48107c0542b018?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Awetomaton Ltd](https://awetomaton.com)** | **[Engineering Intern - Platform Observability](https://jobright.ai/jobs/info/697e8c827f40342e15d74a6b?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
 | **[Path Construction](http://pathcc.com)** | **[Construction Intern - Immediate Opening (Harper College Project Site)](https://jobright.ai/jobs/info/697e8a11abff4c399a9d394c?utm_campaign=1048&utm_source=git)** | Arlington Heights, IL | On Site | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Geotechnical Internship (Fargo)](https://jobright.ai/jobs/info/692004c1a49a885af9a35f4b?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate PhD Student (Year-Round) Machine Learning Applications for Cyber-Physical Power System Operations Intern](https://jobright.ai/jobs/info/6961c570f3f4cd132506c9fe?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Live Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697e1beaabff4c399a9ce58e?utm_campaign=1048&utm_source=git)** | Perry, GA | On Site | Jan 31 |
-| **[PCL Construction](http://www.pcl.com)** | **[Field Engineer Intern- Pasadena City College](https://jobright.ai/jobs/info/697e1bdaabff4c399a9ce585?utm_campaign=1048&utm_source=git)** | Glendale, CA | On Site | Jan 31 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/68c8b49a95f5211cd2ce8797?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jan 31 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69615bd4e7ed9a5731ba221a?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Jan 31 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/695ac5d19f1b381eb2734667?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
