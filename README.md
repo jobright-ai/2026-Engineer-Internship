@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robynex Automation](robynexautomation.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697f091c7f40342e15d7c5a9?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Feb 01 |
+| **[Hilti North America](http://www.hilti.com)** | **[Fire Protection Engineering Intern - Irving, TX - Summer 2026](https://jobright.ai/jobs/info/697b20891423772304eb389e?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[GIS Intern - Paid](https://jobright.ai/jobs/info/697f04777f40342e15d7c101?utm_campaign=1048&utm_source=git)** | Delray Beach, FL | On Site | Jan 31 |
 | **[Aalo Atomics](https://www.aalo.com)** | **[Mechanical Engineering Internship/Co-op](https://jobright.ai/jobs/info/697f04237f40342e15d7c094?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 31 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/697f0195ce48107c0543211b?utm_campaign=1048&utm_source=git)** | US-VA-Reston | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern -Test Engineering](https://jobright.ai/jobs/info/697e2b60ce48107c05426324?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Bachelor (Santa Clara, CA)](https://jobright.ai/jobs/info/697e2adbce48107c054262fe?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/697e290b7f40342e15d6fcbd?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 31 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/697e2896abff4c399a9cea26?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 31 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Specialist / Engineering (8-month) - Dartmouth, NS, Canada](https://jobright.ai/jobs/info/697e25197f40342e15d6fbfa?utm_campaign=1048&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
