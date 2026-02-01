@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Delray Beach](https://www.delraybeachfl.gov)** | **[GIS Intern - Paid](https://jobright.ai/jobs/info/697f04777f40342e15d7c101?utm_campaign=1048&utm_source=git)** | Delray Beach, FL | On Site | Jan 31 |
+| **[Aalo Atomics](https://www.aalo.com)** | **[Mechanical Engineering Internship/Co-op](https://jobright.ai/jobs/info/697f04237f40342e15d7c094?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jan 31 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/697f0195ce48107c0543211b?utm_campaign=1048&utm_source=git)** | US-VA-Reston | On Site | Jan 31 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Meshify Intern](https://jobright.ai/jobs/info/69627336a112b4026610d2f1?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Jan 31 |
+| **[MechAxis Dynamics](mechaxisdynamics.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/697efc3cabff4c399a9da6d4?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Jan 31 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/697efc26abff4c399a9da6ba?utm_campaign=1048&utm_source=git)** | Reston, VA, US | On Site | Jan 31 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 31 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69705976587dfa0bb55de56c?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jan 31 |
 | **[Robynex Automation](robynexautomation.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697ee735ce48107c05430ddb?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
@@ -135,9 +141,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EHS&S Intern](https://jobright.ai/jobs/info/697e477dce48107c0542808f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Validation Engineering Intern](https://jobright.ai/jobs/info/697ec7e7ce48107c0542d9e7?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Continuous Improvement Intern (Clifton, NJ)](https://jobright.ai/jobs/info/697e468dce48107c05428027?utm_campaign=1048&utm_source=git)** | Clifton, NJ | On Site | Jan 31 |
-| ↳ | **[Industrial Engineering / Engineering Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/697e463bce48107c05427ff7?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697e3b797f40342e15d71912?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jan 31 |
-| ↳ | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e36acce48107c05427d54?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
+| **[LiquidPiston](http://www.liquidpiston.com)** | **[Electrical Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/697f0105abff4c399a9dab6a?utm_campaign=1048&utm_source=git)** | Bloomfield, CT, US | On Site | Jan 31 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Industrial Engineering / Engineering Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/697e463bce48107c05427ff7?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697e36acce48107c05427d54?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Engineer Substation Operations Intern](https://jobright.ai/jobs/info/697e34e1abff4c399a9d062c?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Jan 31 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e338a7f40342e15d714a5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Cell Culture Development Co-op](https://jobright.ai/jobs/info/697e30a4abff4c399a9cf09a?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Jan 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/697e290b7f40342e15d6fcbd?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 31 |
 | ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/697e2896abff4c399a9cea26?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Specialist / Engineering (8-month) - Dartmouth, NS, Canada](https://jobright.ai/jobs/info/697e25197f40342e15d6fbfa?utm_campaign=1048&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Jan 31 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Peripheral Interventions R&D Intern](https://jobright.ai/jobs/info/697e24587f40342e15d6fb7e?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | Hybrid | Jan 31 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Continuous Improvement Associate (4-month) - Mississauga, ON, Canada](https://jobright.ai/jobs/info/697e2341abff4c399a9ce8c7?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 31 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/6958cb58aa05c26e7ab2ad7f?utm_campaign=1048&utm_source=git)** | Auburn, MI | On Site | Jan 31 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697e231e7f40342e15d6fad3?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Jan 31 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/695a24c3aa05c26e7ab3bc12?utm_campaign=1048&utm_source=git)** | Collegeville, PA | On Site | Jan 31 |
-| ↳ | **[2025-2026 Campus Internship - Research & Development (PhD)](https://jobright.ai/jobs/info/69392e5156b68f3dc4e6a5c2?utm_campaign=1048&utm_source=git)** | Deer Park, TX | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
