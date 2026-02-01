@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[R.V. Anderson Associates Limited](https://rvanderson.com)** | **[Co-op Engineering  Student](https://jobright.ai/jobs/info/697ed205abff4c399a9d727c?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697ece97abff4c399a9d6f42?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 31 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Stagiaire en Assurance Qualité](https://jobright.ai/jobs/info/697ece817f40342e15d77fac?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern Automation Engineering](https://jobright.ai/jobs/info/697ecac07f40342e15d77ad1?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jan 31 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineering Intern (5G/6G System R&D)](https://jobright.ai/jobs/info/697ec787abff4c399a9d69d3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697ec4d9ce48107c0542d8bb?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Research & Development (BS/MS)](https://jobright.ai/jobs/info/6947ea88d1953b5d11c10508?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jan 31 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[New Components & BWR Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697e207fce48107c054260d4?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 31 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697e1fc27f40342e15d6fa42?utm_campaign=1048&utm_source=git)** | Newark, NJ | Remote | Jan 31 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Process Development, Pilot Plant](https://jobright.ai/jobs/info/697390b8bc8e722e7b186090?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jan 31 |
-| **[HDR](http://www.hdrinc.com)** | **[Bridge Intern](https://jobright.ai/jobs/info/6950a6e8ce13cd1056588673?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Jan 31 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Mechanical Engineering Intern - Talent Pool](https://jobright.ai/jobs/info/697e1ee4abff4c399a9ce79d?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
