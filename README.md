@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bernhard](https://bernhard.com/)** | **[Engineering Intern - Emerging Technologies](https://jobright.ai/jobs/info/697ea937abff4c399a9d5750?utm_campaign=1048&utm_source=git)** | US-UT-Salt Lake City | On Site | Jan 31 |
+| ↳ | **[Engineering Intern - Emerging Technologies](https://jobright.ai/jobs/info/697ea8ff7f40342e15d768db?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, US | On Site | Jan 31 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/697ea895abff4c399a9d56ad?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Jan 31 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Building Performance Design Intern / Summer 2026](https://jobright.ai/jobs/info/6979773a9c90a224ecc32f1b?utm_campaign=1048&utm_source=git)** | Denver, Colorado, United States | Hybrid | Jan 31 |
 | **[Interstates](http://interstates.com)** | **[Apprentice Electrician Tech College Intern - Sioux Falls, SD](https://jobright.ai/jobs/info/68e3bb4f1852e62f007fd85c?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | On Site | Jan 31 |
 | **[Ironclad](https://www.ironcladapp.com)** | **[Automation Quality Engineering Intern](https://jobright.ai/jobs/info/697e9d9bce48107c0542b0db?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Annaka's Paige](https://annakaspaige.org/)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/697e8632abff4c399a9d38a6?utm_campaign=1048&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | Hybrid | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Silicon Validation Engineering Intern](https://jobright.ai/jobs/info/6962a3b3a112b4026610f6df?utm_campaign=1048&utm_source=git)** | Nepean, Ontario, Canada | On Site | Jan 31 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/697e7fe4ce48107c0542ae60?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Jan 31 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/697e7bfcce48107c0542ad89?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Butler-Warner Generation Plant Intern](https://jobright.ai/jobs/info/697e75cfce48107c0542aabb?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | ↳ | **[IT Cybersecurity Intern](https://jobright.ai/jobs/info/697e7547abff4c399a9d342b?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[New Components & BWR Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697e7531abff4c399a9d341c?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/68c8b49a95f5211cd2ce8797?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jan 31 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69615bd4e7ed9a5731ba221a?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Jan 31 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/695ac5d19f1b381eb2734667?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Jan 31 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Turbomachinery Operations](https://jobright.ai/jobs/info/696b8f7b350cf4380312e8d0?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Traffic Engineer - Entry Level](https://jobright.ai/jobs/info/697e18b77f40342e15d6f6d4?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
