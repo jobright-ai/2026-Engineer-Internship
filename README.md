@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/697f718d7f40342e15d82548?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 01 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f819cabff4c399a9e1829?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Feb 01 |
+| **[Pace Suburban Bus](https://pacebus.com)** | **[Intelligent Transportation Systems (ITS) Intern](https://jobright.ai/jobs/info/697f7df0ce48107c05438a13?utm_campaign=1048&utm_source=git)** | Arlington Heights, IL | On Site | Feb 01 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Biologics Drug Product Development Intern (PhD)](https://jobright.ai/jobs/info/697f7b627f40342e15d82641?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 01 |
+| ↳ | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (PhD)](https://jobright.ai/jobs/info/697f7b46ce48107c05438a04?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 01 |
+| ↳ | **[Facility Engineering Co-Op/Intern](https://jobright.ai/jobs/info/697f7aaeabff4c399a9e17a4?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 01 |
+| ↳ | **[Internship - Patient Engagement Solutions Analysis](https://jobright.ai/jobs/info/697f7aa9abff4c399a9e17a1?utm_campaign=1048&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
+| ↳ | **[Internship - Scientific Publications](https://jobright.ai/jobs/info/697f7aa5abff4c399a9e179f?utm_campaign=1048&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Process](https://jobright.ai/jobs/info/697f7174ce48107c054388ff?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Feb 01 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/696c49e6350cf43803136c15?utm_campaign=1048&utm_source=git)** | Kimball, TN | On Site | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Test Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68d6dc64d3fe025a3015c73b?utm_campaign=1048&utm_source=git)** | Wallops Island, VA | On Site | Feb 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - Quality Engineering](https://jobright.ai/jobs/info/696354b42cbf4e44756d098e?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/689ee20d79a9f96662553421?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Feb 01 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Manufacturing Intern-Crystal Springs, MS](https://jobright.ai/jobs/info/697c7afe727747250d572a45?utm_campaign=1048&utm_source=git)** | Crystal Springs, MS | On Site | Feb 01 |
-| **[Centennial Contractors Enterprises, Inc.](http://cce-inc.com)** | **[Intern - Stafford, VA](https://jobright.ai/jobs/info/69198f4745fb6f5ead8a984b?utm_campaign=1048&utm_source=git)** | Stafford, VA | On Site | Feb 01 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68cf04d7fb49c96ca6ea52b4?utm_campaign=1048&utm_source=git)** | Cadiz, OH | On Site | Feb 01 |
-| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (AI Infrastructure)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68d71224d3fe025a3015eaed?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain EHS Intern](https://jobright.ai/jobs/info/690d0fe24a1b456627b1d318?utm_campaign=1048&utm_source=git)** | Camp Hill, PA | On Site | Feb 01 |
-| **[State of Missouri](http://mo.gov)** | **[Intern - Dam Engineer - 5020451](https://jobright.ai/jobs/info/690cef6cd046ab6061cf0abc?utm_campaign=1048&utm_source=git)** | Rolla, MO | On Site | Feb 01 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Summer 2026)](https://jobright.ai/jobs/info/68b894d95b42bc4562825e17?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Feb 01 |
-| ↳ | **[Refining Chemical Engineering Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/689ee28183d13d1f5b6c3087?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
