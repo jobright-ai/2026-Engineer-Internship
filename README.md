@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering  Internship](https://jobright.ai/jobs/info/697fd7b17f40342e15d8911c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
+| **[Valence Labs](https://invivoai.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/697fd477ce48107c0543eeef?utm_campaign=1048&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Feb 01 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/697fd476ce48107c0543eeed?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 01 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Water Quality Specialist - Intern (LURM)](https://jobright.ai/jobs/info/697fcb84ce48107c0543d985?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 01 |
+| **[Banavo.AI](http://banavo.ai)** | **[Technical Intern](https://jobright.ai/jobs/info/697fcb03abff4c399a9e67a5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/697fcabd7f40342e15d874e6?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 01 |
 | **[Spacer Robotics](https://www.spacerrobotics.ai/)** | **[Robotics Engineering Intern](https://jobright.ai/jobs/info/697fc84cce48107c0543d7b0?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering   Intern](https://jobright.ai/jobs/info/697fc4e0abff4c399a9e5b02?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Indianapolis, IN](https://jobright.ai/jobs/info/697fc4beabff4c399a9e5aa4?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Internship / Arnold, MO](https://jobright.ai/jobs/info/697fc4817f40342e15d867eb?utm_campaign=1048&utm_source=git)** | Arnold, MO | On Site | Feb 01 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[MRICD Non-Kinetic Threats and Medical Countermeasures Research Internship/Fellowship](https://jobright.ai/jobs/info/697fc1c3ce48107c0543c9f0?utm_campaign=1048&utm_source=git)** | Gunpowder, MD | On Site | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b799d51ade4306aa64c855?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Feb 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/697f528fce48107c054372a0?utm_campaign=1048&utm_source=git)** | Naples, FL | On Site | Feb 01 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6919ea7c15b4156367187a2d?utm_campaign=1048&utm_source=git)** | Chillicothe, OH | On Site | Feb 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/697f528cce48107c05437291?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Feb 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Soil and Crop Modeling Engineering Intern](https://jobright.ai/jobs/info/69798a33d7df290257fbe0ef?utm_campaign=1048&utm_source=git)** | New Holland, PA | On Site | Feb 01 |
-| **[MercyOne](https://www.mercyone.org/)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6955fd39aa05c26e7ab03461?utm_campaign=1048&utm_source=git)** | Mason City, IA | On Site | Feb 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/697f524e7f40342e15d81762?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
