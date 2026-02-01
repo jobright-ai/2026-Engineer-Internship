@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern Automation Engineering](https://jobright.ai/jobs/info/697ecac07f40342e15d77ad1?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jan 31 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineering Intern (5G/6G System R&D)](https://jobright.ai/jobs/info/697ec787abff4c399a9d69d3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/697ec4d9ce48107c0542d8bb?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Jan 31 |
+| ↳ | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/697ec485ce48107c0542d89b?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Jan 31 |
+| ↳ | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/697ec3ce7f40342e15d773f8?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Jan 31 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebdd07f40342e15d77306?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 31 |
+| ↳ | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebd637f40342e15d772c5?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jan 31 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova FACTS Internship - Summer 2026](https://jobright.ai/jobs/info/6962b4822cbf4e44756c94a1?utm_campaign=1048&utm_source=git)** | Saratoga Springs, NY | On Site | Jan 31 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697eb6af7f40342e15d76fd7?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 31 |
 | **[PATH](https://www.drinkpathwater.com)** | **[Construction Intern - Immediate Opening (Harper College Project Site)](https://jobright.ai/jobs/info/697eb3b27f40342e15d76f25?utm_campaign=1048&utm_source=git)** | Arlington Heights, Illinois, United States | On Site | Jan 31 |
 | **[MechNova](mechnova.us)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/697eb30fabff4c399a9d5de2?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 31 |
@@ -111,10 +119,12 @@ For a complete list, click the following sortable link below:
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Temporary Laboratory Coordinator](https://jobright.ai/jobs/info/697e4c22ce48107c0542813c?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/697e4ba4abff4c399a9d09b6?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Chemistry Intern](https://jobright.ai/jobs/info/697e4ad17f40342e15d71b50?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
+| ↳ | **[Controlling Intern](https://jobright.ai/jobs/info/697ec09e7f40342e15d773c1?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[R&D Engineering Intern](https://jobright.ai/jobs/info/697e49fbabff4c399a9d0922?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Automation Engineering Intern](https://jobright.ai/jobs/info/697e47c0ce48107c054280ad?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Microbiology Intern](https://jobright.ai/jobs/info/697e47a6ce48107c054280a2?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[EHS&S Intern](https://jobright.ai/jobs/info/697e477dce48107c0542808f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
+| ↳ | **[Validation Engineering Intern](https://jobright.ai/jobs/info/697ec7e7ce48107c0542d9e7?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Continuous Improvement Intern (Clifton, NJ)](https://jobright.ai/jobs/info/697e468dce48107c05428027?utm_campaign=1048&utm_source=git)** | Clifton, NJ | On Site | Jan 31 |
 | ↳ | **[Industrial Engineering / Engineering Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/697e463bce48107c05427ff7?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697e3b797f40342e15d71912?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jan 31 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Process Development, Pilot Plant](https://jobright.ai/jobs/info/697390b8bc8e722e7b186090?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jan 31 |
 | **[HDR](http://www.hdrinc.com)** | **[Bridge Intern](https://jobright.ai/jobs/info/6950a6e8ce13cd1056588673?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Jan 31 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[Mechanical Engineering Intern - Talent Pool](https://jobright.ai/jobs/info/697e1ee4abff4c399a9ce79d?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jan 31 |
-| **[Amgen](http://www.amgen.com)** | **[R&D Computational Chemistry - Grad Internship](https://jobright.ai/jobs/info/69739eac206da320f49d9198?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Intrinsic](https://www.intrinsic.ai)** | **[Research Internship: Agentic AI for Human Robot Interaction](https://jobright.ai/jobs/info/6944fc7aa7227b3ece66a317?utm_campaign=1048&utm_source=git)** | Mountain View, California | On Site | Jan 31 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/68b8f7a007090163b6ba67a8?utm_campaign=1048&utm_source=git)** | Elizabethtown, KY | On Site | Jan 31 |
-| ↳ | **[Water Intern](https://jobright.ai/jobs/info/68eff3ad9821486c423c8180?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Jan 31 |
-| **[Amgen](http://www.amgen.com)** | **[Summer Intern, Medical Sciences - Early Development, Oncology – US Remo](https://jobright.ai/jobs/info/6973eaf637785856350dbb78?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Environmental Health & Safety (Newark, OH)](https://jobright.ai/jobs/info/697e1d087f40342e15d6f868?utm_campaign=1048&utm_source=git)** | Newark, OH | On Site | Jan 31 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Software Engineer, Predictive Planner Research](https://jobright.ai/jobs/info/690116d4f8ce7a040fdbbeaf?utm_campaign=1048&utm_source=git)** | Mountain View, CA USA | Hybrid | Jan 31 |
-| **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Geotechnical Internship (Fargo)](https://jobright.ai/jobs/info/692004c1a49a885af9a35f4b?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Jan 31 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate PhD Student (Year-Round) Machine Learning Applications for Cyber-Physical Power System Operations Intern](https://jobright.ai/jobs/info/6961c570f3f4cd132506c9fe?utm_campaign=1048&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Live Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697e1beaabff4c399a9ce58e?utm_campaign=1048&utm_source=git)** | Perry, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
