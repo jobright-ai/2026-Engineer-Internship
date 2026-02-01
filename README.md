@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jan 31 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69705976587dfa0bb55de56c?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jan 31 |
 | **[Robynex Automation](robynexautomation.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697ee735ce48107c05430ddb?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jan 31 |
 | **[Mechvanta Engineering](mechvantaengineering.us)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/697edfd8ce48107c0543033d?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Jan 31 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Process Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b151b1e815524ae11fd9a0?utm_campaign=1048&utm_source=git)** | Woodstock, IL | On Site | Jan 31 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebdd07f40342e15d77306?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Research Scientist Intern, MSL Infra](https://jobright.ai/jobs/info/697ebd637f40342e15d772c5?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jan 31 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova FACTS Internship - Summer 2026](https://jobright.ai/jobs/info/6962b4822cbf4e44756c94a1?utm_campaign=1048&utm_source=git)** | Saratoga Springs, NY | On Site | Jan 31 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/697eb6af7f40342e15d76fd7?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Jan 31 |
 | **[PATH](https://www.drinkpathwater.com)** | **[Construction Intern - Immediate Opening (Harper College Project Site)](https://jobright.ai/jobs/info/697eb3b27f40342e15d76f25?utm_campaign=1048&utm_source=git)** | Arlington Heights, Illinois, United States | On Site | Jan 31 |
 | **[MechNova](mechnova.us)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/697eb30fabff4c399a9d5de2?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Jan 31 |
 | **[Bernhard](https://bernhard.com/)** | **[Engineering Intern - Emerging Technologies](https://jobright.ai/jobs/info/697ea937abff4c399a9d5750?utm_campaign=1048&utm_source=git)** | US-UT-Salt Lake City | On Site | Jan 31 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Temporary Laboratory Coordinator](https://jobright.ai/jobs/info/697e4c22ce48107c0542813c?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[QC Chemistry Intern](https://jobright.ai/jobs/info/697e4ad17f40342e15d71b50?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Controlling Intern](https://jobright.ai/jobs/info/697ec09e7f40342e15d773c1?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
-| ↳ | **[R&D Engineering Intern](https://jobright.ai/jobs/info/697e49fbabff4c399a9d0922?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[QC Microbiology Intern](https://jobright.ai/jobs/info/697e47a6ce48107c054280a2?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[EHS&S Intern](https://jobright.ai/jobs/info/697e477dce48107c0542808f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | ↳ | **[Validation Engineering Intern](https://jobright.ai/jobs/info/697ec7e7ce48107c0542d9e7?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
