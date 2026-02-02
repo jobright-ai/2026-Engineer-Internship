@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrara](https://www.ferrara.com)** | **[Manufacturing Internship Program 2026](https://jobright.ai/jobs/info/691a9049bcdbf3560c9d89e5?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe438ce48107c0543feb8?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Feb 01 |
 | ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe421abff4c399a9e8cbf?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Feb 01 |
 | ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3f1abff4c399a9e8c86?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Feb 01 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Water Quality Specialist - Intern (LURM)](https://jobright.ai/jobs/info/697fcb84ce48107c0543d985?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 01 |
 | **[Banavo.AI](http://banavo.ai)** | **[Technical Intern](https://jobright.ai/jobs/info/697fcb03abff4c399a9e67a5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/697fcabd7f40342e15d874e6?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 01 |
-| **[Spacer Robotics](https://www.spacerrobotics.ai/)** | **[Robotics Engineering Intern](https://jobright.ai/jobs/info/697fc84cce48107c0543d7b0?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Indianapolis, IN](https://jobright.ai/jobs/info/697fc4beabff4c399a9e5aa4?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Internship / Arnold, MO](https://jobright.ai/jobs/info/697fc4817f40342e15d867eb?utm_campaign=1048&utm_source=git)** | Arnold, MO | On Site | Feb 01 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[MRICD Non-Kinetic Threats and Medical Countermeasures Research Internship/Fellowship](https://jobright.ai/jobs/info/697fc1c3ce48107c0543c9f0?utm_campaign=1048&utm_source=git)** | Gunpowder, MD | On Site | Feb 01 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern - Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/697f8b06ce48107c0543a39e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 01 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697f87eece48107c0543a341?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Research & Development Intern](https://jobright.ai/jobs/info/697f81e0ce48107c05438a94?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Feb 01 |
 | **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/697f81cc7f40342e15d826c7?utm_campaign=1048&utm_source=git)** | Wellsburg, WV | On Site | Feb 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f819cabff4c399a9e1829?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Rail](https://jobright.ai/jobs/info/68c299088753a565272fc2c6?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Feb 01 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Feb 01 |
 | **[GKN Aerospace](https://www.gknaerospace.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690d8c4ed046ab6061cf7087?utm_campaign=1048&utm_source=git)** | El Cajon, CA | On Site | Feb 01 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
