@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Spring Internship - Full-Time - Mine Engineering](https://jobright.ai/jobs/info/696aab0f350cf43803119b86?utm_campaign=1048&utm_source=git)** | Morenci, AZ | On Site | Feb 02 |
+| ↳ | **[2026 Summer Internship - Industrial Hygiene - Site Locations](https://jobright.ai/jobs/info/696aa1f0350cf43803119081?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
+| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Intern - Seasonal - Engineering Public Outreach Coordination](https://jobright.ai/jobs/info/69805d59abff4c399a9f1c99?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Feb 02 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6933cc5df131d96e484673c8?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | Feb 02 |
+| **[FieldAI](https://www.fieldai.com)** | **[Field Application Engineer / Intern  - Mineral, Virginia (Part-time)](https://jobright.ai/jobs/info/6980580f7f40342e15d924b9?utm_campaign=1048&utm_source=git)** | Mineral, VA | On Site | Feb 01 |
+| **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Internship- Construction Safety](https://jobright.ai/jobs/info/69645fc025e187150780c716?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[XPEL TECHNOLOGIES CORP](http://sanantonio-clearbra.com)** | **[R&D Intern](https://jobright.ai/jobs/info/698054b0ce48107c05448554?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | **[Canadian Standards Association](https://www.csagroup.org/standards/)** | **[Research Intern (Contract)](https://jobright.ai/jobs/info/6980542d7f40342e15d92165?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2026 Summer Intern Program](https://jobright.ai/jobs/info/698050177f40342e15d91e58?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 01 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Process Validation](https://jobright.ai/jobs/info/696472cba112b402661252cc?utm_campaign=1048&utm_source=git)** | Verona, WI | On Site | Feb 01 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/698033eb7f40342e15d9035a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69803306abff4c399a9ef40f?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern - Electronics Engineer](https://jobright.ai/jobs/info/698056e77f40342e15d923b4?utm_campaign=1048&utm_source=git)** | United States-Florida-Melbourne | On Site | Feb 01 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/698030c57f40342e15d8fd71?utm_campaign=1048&utm_source=git)** | State College, PA | On Site | Feb 01 |
 | ↳ | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/698030957f40342e15d8fcb6?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Feb 01 |
 | **[BrickRed Systems](http://brickredsys.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69802f98abff4c399a9ee973?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Feb 01 |
@@ -128,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[WestRock Company](http://www.westrock.com)** | **[Safety/Quality Intern - Summer May-Aug](https://jobright.ai/jobs/info/6978484d52f3c27ec64488d9?utm_campaign=1048&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 01 |
 | **[Valence Labs](https://invivoai.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/697fd477ce48107c0543eeef?utm_campaign=1048&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Feb 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/697fd476ce48107c0543eeed?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 01 |
-| **[Banavo.AI](http://banavo.ai)** | **[Technical Intern](https://jobright.ai/jobs/info/697fcb03abff4c399a9e67a5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/697fcabd7f40342e15d874e6?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Indianapolis, IN](https://jobright.ai/jobs/info/697fc4beabff4c399a9e5aa4?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Internship / Arnold, MO](https://jobright.ai/jobs/info/697fc4817f40342e15d867eb?utm_campaign=1048&utm_source=git)** | Arnold, MO | On Site | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697faf0babff4c399a9e3d61?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Security Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697faf01ce48107c0543aeaf?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Thompson Engineering Summer Collegiate Internship](https://jobright.ai/jobs/info/697faed5ce48107c0543ae8f?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | Feb 01 |
-| **[Sigma](http://sigmacomputing.com)** | **[Security Engineer Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697faec77f40342e15d84b47?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/697faebcabff4c399a9e3d1a?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
-| **[SCS Engineers](https://scsengineers.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/697fae9babff4c399a9e3d02?utm_campaign=1048&utm_source=git)** | Harrisburg, PA | On Site | Feb 01 |
-| **[Sigma](http://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae7eabff4c399a9e3cf7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/68f188bdf462172a5a7d9a76?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Feb 01 |
-| **[Sigma](http://sigmacomputing.com)** | **[Data Platform Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae08abff4c399a9e3caa?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
