@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XPEL TECHNOLOGIES CORP](http://sanantonio-clearbra.com)** | **[R&D Intern](https://jobright.ai/jobs/info/698054b0ce48107c05448554?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
+| **[Canadian Standards Association](https://www.csagroup.org/standards/)** | **[Research Intern (Contract)](https://jobright.ai/jobs/info/6980542d7f40342e15d92165?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2026 Summer Intern Program](https://jobright.ai/jobs/info/698050177f40342e15d91e58?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 01 |
+| **[Quesify.net](quesify.net)** | **[UNPAID NEUROCHEMISTRY INTERNSHIP](https://jobright.ai/jobs/info/69804d16abff4c399a9f11c9?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Feb 01 |
+| **[North American Electric Reliability Corporation (NERC)](http://www.nerc.com/)** | **[Cybersecurity Risk Information Sharing Program Intern - (Summer)](https://jobright.ai/jobs/info/69804c1bce48107c0544805f?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | Remote | Feb 01 |
+| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Safety](https://jobright.ai/jobs/info/696a79e7350cf43803116eef?utm_campaign=1048&utm_source=git)** | Berlin, Pennsylvania, United States | Hybrid | Feb 01 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/698042bc7f40342e15d9113d?utm_campaign=1048&utm_source=git)** | Westerville, OH | Hybrid | Feb 01 |
 | **[Hach](http://www.hach.com)** | **[Aquatic Informatics - Machine Learning Co-Op (Intern)](https://jobright.ai/jobs/info/698041cb7f40342e15d9105f?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Industrial Engineering Intern, Spring 2027](https://jobright.ai/jobs/info/69803e35abff4c399a9f0319?utm_campaign=1048&utm_source=git)** | Bay Lake, FL, USA | On Site | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae7eabff4c399a9e3cf7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/68f188bdf462172a5a7d9a76?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Data Platform Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae08abff4c399a9e3caa?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
-| **[LeFrak](http://lefrak.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697faaa3abff4c399a9e3add?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Feb 01 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697fa4b8abff4c399a9e35d1?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 01 |
-| ↳ | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697fa1b5ce48107c0543a591?utm_campaign=1048&utm_source=git)** | Newark, NJ | Remote | Feb 01 |
-| **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9e5ece48107c0543a53d?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
-| **[Woman's Hospital](http://www.womans.org/)** | **[Industrial Engineering - Summer Internship](https://jobright.ai/jobs/info/697f9b637f40342e15d841f1?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
