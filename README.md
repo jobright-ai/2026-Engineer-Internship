@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/698042bc7f40342e15d9113d?utm_campaign=1048&utm_source=git)** | Westerville, OH | Hybrid | Feb 01 |
+| **[Hach](http://www.hach.com)** | **[Aquatic Informatics - Machine Learning Co-Op (Intern)](https://jobright.ai/jobs/info/698041cb7f40342e15d9105f?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Industrial Engineering Intern, Spring 2027](https://jobright.ai/jobs/info/69803e35abff4c399a9f0319?utm_campaign=1048&utm_source=git)** | Bay Lake, FL, USA | On Site | Feb 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern (Remote - USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/69803ddd7f40342e15d90f5b?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Ride Development Engineering Intern, Orlando, Summer 2026](https://jobright.ai/jobs/info/69803ce47f40342e15d90ed1?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 01 |
+| **[CERATIZIT](http://www.ceratizit.com/)** | **[EHS Co-op/Intern](https://jobright.ai/jobs/info/69803b85ce48107c054471c7?utm_campaign=1048&utm_source=git)** | Towanda, PA, USA | On Site | Feb 01 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Process Validation](https://jobright.ai/jobs/info/696472cba112b402661252cc?utm_campaign=1048&utm_source=git)** | Verona, WI | On Site | Feb 01 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/698033eb7f40342e15d9035a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69803306abff4c399a9ef40f?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
@@ -110,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3edabff4c399a9e8c80?utm_campaign=1048&utm_source=git)** | Brandon, MS | On Site | Feb 01 |
 | ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3e5abff4c399a9e8c76?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Feb 01 |
 | **[The H+H Group](https://www.hhautomotive.com/)** | **[AVENUE SCHOLARS - APPRENTICESHIP / INTERNSHIP](https://jobright.ai/jobs/info/69803a66ce48107c0544716f?utm_campaign=1048&utm_source=git)** | Papillion, NE | On Site | Feb 01 |
+| ↳ | **[AVENUE SCHOLARS - APPRENTICESHIP / INTERNSHIP](https://jobright.ai/jobs/info/69803ad9ce48107c0544718d?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Feb 01 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Systems Development Intern](https://jobright.ai/jobs/info/690f243844146d3b6ec5a5a0?utm_campaign=1048&utm_source=git)** | South Sioux City, NE | On Site | Feb 01 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/697fdb55ce48107c0543f785?utm_campaign=1048&utm_source=git)** | McLean, VA | Remote | Feb 01 |
 | **[WestRock Company](http://www.westrock.com)** | **[Safety/Quality Intern - Summer May-Aug](https://jobright.ai/jobs/info/6978484d52f3c27ec64488d9?utm_campaign=1048&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 01 |
@@ -133,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Infinity Systems Engineering](http://infinity.aero/)** | **[Intern - Thermal Sciences](https://jobright.ai/jobs/info/697fb6dfce48107c0543b273?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Feb 01 |
 | **[Valence](https://www.getvalence.com)** | **[Lab Technologist Internship](https://jobright.ai/jobs/info/697fb2e0ce48107c0543afe5?utm_campaign=1048&utm_source=git)** | Lynwood, CA | On Site | Feb 01 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-Op or Intern - Quality Engineering](https://jobright.ai/jobs/info/697fb259abff4c399a9e3e2c?utm_campaign=1048&utm_source=git)** | New Castle, IN, US, 47362 | On Site | Feb 01 |
-| **[Marine Solutions, Inc.](https://www.msimarinesolutions.com/)** | **[Civil Engineer Summer Intern](https://jobright.ai/jobs/info/696ea67c5fc86241853d75e9?utm_campaign=1048&utm_source=git)** | Paducah, KY | On Site | Feb 01 |
 | **[Psionic](https://psionicnav.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/697faf79abff4c399a9e3dd7?utm_campaign=1048&utm_source=git)** | Hampton, VA | On Site | Feb 01 |
+| **[Marine Solutions, Inc.](https://www.msimarinesolutions.com/)** | **[Title                                                   Civil Engineer Summer Intern](https://jobright.ai/jobs/info/696ea67c5fc86241853d75e9?utm_campaign=1048&utm_source=git)** | Paducah, KY | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697faf0babff4c399a9e3d61?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Security Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697faf01ce48107c0543aeaf?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Thompson Engineering Summer Collegiate Internship](https://jobright.ai/jobs/info/697faed5ce48107c0543ae8f?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | Feb 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9e5ece48107c0543a53d?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Industrial Engineering - Summer Internship](https://jobright.ai/jobs/info/697f9b637f40342e15d841f1?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
-| **[Cohere](https://cohere.com)** | **[Research Internship (Spring 2026)](https://jobright.ai/jobs/info/68e6ee7ce8daec61499b0b12?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[Research & Development Intern](https://jobright.ai/jobs/info/697f81e0ce48107c05438a94?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Feb 01 |
-| **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/697f81cc7f40342e15d826c7?utm_campaign=1048&utm_source=git)** | Wellsburg, WV | On Site | Feb 01 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Feb 01 |
-| **[Pace Suburban Bus](https://pacebus.com)** | **[Intelligent Transportation Systems (ITS) Intern](https://jobright.ai/jobs/info/697f7df0ce48107c05438a13?utm_campaign=1048&utm_source=git)** | Arlington Heights, IL | On Site | Feb 01 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Biologics Drug Product Development Intern (PhD)](https://jobright.ai/jobs/info/697f7b627f40342e15d82641?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
