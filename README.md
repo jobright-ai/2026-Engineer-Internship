@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emerson](http://www.emerson.com)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/698019d5ce48107c05443dfe?utm_campaign=1048&utm_source=git)** | Brenham, TX | On Site | Feb 01 |
+| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Engineering Assistant Intern](https://jobright.ai/jobs/info/6969771f639b452fb57f57c2?utm_campaign=1048&utm_source=git)** | Coldwater, OH | On Site | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Supplier Performance Engineering Intern](https://jobright.ai/jobs/info/69801955abff4c399a9ecdc5?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
+| ↳ | **[Cybersecurity Engineering Intern](https://jobright.ai/jobs/info/69801946abff4c399a9ecdbe?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
+| ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69801911ce48107c05443dcd?utm_campaign=1048&utm_source=git)** | Brenham, TX | On Site | Feb 01 |
+| ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/698018d97f40342e15d8da3f?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Feb 01 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Engineering Internship - Mechanical](https://jobright.ai/jobs/info/6980154cabff4c399a9ec86d?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/6980150fce48107c0544385f?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
+| **[Jacobs](http://www.jacobs.com)** | **[Construction Management/ Civil Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/698014997f40342e15d8d4d7?utm_campaign=1048&utm_source=git)** | Miami, FL | Hybrid | Feb 01 |
+| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/6980120ece48107c05443818?utm_campaign=1048&utm_source=git)** | Storrs, CT, USA | On Site | Feb 01 |
+| ↳ | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/698010acabff4c399a9ec515?utm_campaign=1048&utm_source=git)** | Philadelphia, PA, USA | On Site | Feb 01 |
+| ↳ | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/69800f8f7f40342e15d8cf31?utm_campaign=1048&utm_source=git)** | State College, PA, USA | On Site | Feb 01 |
+| ↳ | **[Construction Intern - Summer 2026 (Northeast)](https://jobright.ai/jobs/info/69800f8d7f40342e15d8cf30?utm_campaign=1048&utm_source=git)** | Syracuse, NY, USA | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/6980086c7f40342e15d8cda4?utm_campaign=1048&utm_source=git)** | 1951 Highway 290 West, Brenham, TX, 77833, US | On Site | Feb 01 |
 | ↳ | **[Supplier Performance Engineering Intern](https://jobright.ai/jobs/info/69800851abff4c399a9ebfa5?utm_campaign=1048&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
 | ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69800743abff4c399a9ebf01?utm_campaign=1048&utm_source=git)** | 1951 Highway 290 West, Brenham, TX, 77833, US | On Site | Feb 01 |
@@ -64,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cybersecurity Engineering Intern](https://jobright.ai/jobs/info/698006987f40342e15d8cbc7?utm_campaign=1048&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
 | **[Spacer Robotics](https://www.spacerrobotics.ai/)** | **[Robotics Engineering Intern](https://jobright.ai/jobs/info/69800231ce48107c05442e8b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[X-Rite](http://www.xrite.com)** | **[Aquatic Informatics - Machine Learning Co-Op (Intern)](https://jobright.ai/jobs/info/697fffcb7f40342e15d8c6ee?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 01 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/697fff42abff4c399a9eb8f9?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Feb 01 |
 | **[Isuzu North America](http://www.isuzu.com/)** | **[AI & Autonomous Driving Intern](https://jobright.ai/jobs/info/697ffde97f40342e15d8c490?utm_campaign=1048&utm_source=git)** | Plymouth - Plymouth, MI 48170 | On Site | Feb 01 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineer Internship (5G/6G System R&D)](https://jobright.ai/jobs/info/697ffc9dce48107c05442787?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/697ffba97f40342e15d8c1c4?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
@@ -119,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697fa4b8abff4c399a9e35d1?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 01 |
 | ↳ | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697fa1b5ce48107c0543a591?utm_campaign=1048&utm_source=git)** | Newark, NJ | Remote | Feb 01 |
 | **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9ee9ce48107c0543a572?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697f9ee2ce48107c0543a56e?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Industrial Engineering - Summer Internship](https://jobright.ai/jobs/info/697f9b637f40342e15d841f1?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newegg](https://www.newegg.com)** | **[AI Project Intern – Computer Vision](https://jobright.ai/jobs/info/693376ffa0dde7020e2ee43b?utm_campaign=1048&utm_source=git)** | Diamond Bar, CA | On Site | Feb 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Quality Engineering Intern - Cleveland Manufacturing](https://jobright.ai/jobs/info/6902e72400a1816c41ea275b?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Construction Discipline Engineering (Electrical, Mechanical or Civil Engineering)](https://jobright.ai/jobs/info/697f68457f40342e15d82328?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
-| **[AeroMatrix 12](aeromatrix12.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697f67bc7f40342e15d822d5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Novelis](http://novelis.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/695a16c2aa05c26e7ab3b384?utm_campaign=1048&utm_source=git)** | Bay Minette, AL | On Site | Feb 01 |
-| **[Clinton Management](https://www.clintonmanagement.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697f65aaabff4c399a9e1411?utm_campaign=1048&utm_source=git)** | Levine Builders - NYC/Douglaston, NY - New York, NY 11102 | On Site | Feb 01 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Associate Engineer Intern](https://jobright.ai/jobs/info/697f64b77f40342e15d82285?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 01 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineer - Entry Level](https://jobright.ai/jobs/info/68d755fc7a37c712687c8c78?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Feb 01 |
-| ↳ | **[Civil Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68d657c64736ff202fdd2cf7?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 01 |
-| ↳ | **[Environmental Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68b8d661ea901c0d269f9f04?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Feb 01 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Substation Engineering Intern](https://jobright.ai/jobs/info/68f2e19b9a65fd34585819c5?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Feb 01 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Water Resource Intern](https://jobright.ai/jobs/info/69588208f1f8465b79ef1e94?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Feb 01 |
-| ↳ | **[Grade Control Intern](https://jobright.ai/jobs/info/695723b8aa05c26e7ab13a50?utm_campaign=1048&utm_source=git)** | Red Dog Mine, AK | On Site | Feb 01 |
-| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern](https://jobright.ai/jobs/info/68d5c3f91f7fb2169ab1386d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
