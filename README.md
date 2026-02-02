@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emerson](http://www.emerson.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/698024297f40342e15d8e1eb?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Natural Resources Intern Paid Internship](https://jobright.ai/jobs/info/698023f9abff4c399a9ed545?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Feb 01 |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/68cd49b3b2a74e1837ed4e48?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
+| ↳ | **[Ground Systems Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68d6074d63d77d6f6f3f3dcd?utm_campaign=1048&utm_source=git)** | Mississippi, United States | On Site | Feb 01 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69802064abff4c399a9ed1e1?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/698019d5ce48107c05443dfe?utm_campaign=1048&utm_source=git)** | Brenham, TX | On Site | Feb 01 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Engineering Assistant Intern](https://jobright.ai/jobs/info/6969771f639b452fb57f57c2?utm_campaign=1048&utm_source=git)** | Coldwater, OH | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Supplier Performance Engineering Intern](https://jobright.ai/jobs/info/69801955abff4c399a9ecdc5?utm_campaign=1048&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
@@ -96,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3e5abff4c399a9e8c76?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Feb 01 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Systems Development Intern](https://jobright.ai/jobs/info/690f243844146d3b6ec5a5a0?utm_campaign=1048&utm_source=git)** | South Sioux City, NE | On Site | Feb 01 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/697fdb55ce48107c0543f785?utm_campaign=1048&utm_source=git)** | McLean, VA | Remote | Feb 01 |
+| **[WestRock Company](http://www.westrock.com)** | **[Safety/Quality Intern - Summer May-Aug](https://jobright.ai/jobs/info/6978484d52f3c27ec64488d9?utm_campaign=1048&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 01 |
 | **[Valence Labs](https://invivoai.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/697fd477ce48107c0543eeef?utm_campaign=1048&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Feb 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/697fd476ce48107c0543eeed?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 01 |
 | **[Banavo.AI](http://banavo.ai)** | **[Technical Intern](https://jobright.ai/jobs/info/697fcb03abff4c399a9e67a5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 01 |
@@ -130,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[LeFrak](http://lefrak.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697faaa3abff4c399a9e3add?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Leadership Development Program – Chemical & Process Engineering](https://jobright.ai/jobs/info/697fa4b8abff4c399a9e35d1?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 01 |
 | ↳ | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/697fa1b5ce48107c0543a591?utm_campaign=1048&utm_source=git)** | Newark, NJ | Remote | Feb 01 |
-| **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9ee9ce48107c0543a572?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
+| **[CRH](http://crh.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/697f9e5ece48107c0543a53d?utm_campaign=1048&utm_source=git)** | Poteau, OK | On Site | Feb 01 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/697f9e4babff4c399a9e3423?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Industrial Engineering - Summer Internship](https://jobright.ai/jobs/info/697f9b637f40342e15d841f1?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Turbomachinery Intern Summer 2026](https://jobright.ai/jobs/info/68d6e725894705799a2eea45?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ce184ae23def7af55c2155?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 01 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Intern - Talent Pool](https://jobright.ai/jobs/info/697f684fce48107c054386db?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Engineering Intern, Mechanical](https://jobright.ai/jobs/info/68b83f2f5b42bc456282343b?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
-| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Process](https://jobright.ai/jobs/info/697f6bb17f40342e15d82476?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 01 |
-| ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/697f6b94ce48107c05438805?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Feb 01 |
-| ↳ | **[Engineer Intern - Design](https://jobright.ai/jobs/info/697f6b6d7f40342e15d8243e?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 01 |
-| **[Newegg](https://www.newegg.com)** | **[AI Project Intern – Computer Vision](https://jobright.ai/jobs/info/693376ffa0dde7020e2ee43b?utm_campaign=1048&utm_source=git)** | Diamond Bar, CA | On Site | Feb 01 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Quality Engineering Intern - Cleveland Manufacturing](https://jobright.ai/jobs/info/6902e72400a1816c41ea275b?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
-| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Construction Discipline Engineering (Electrical, Mechanical or Civil Engineering)](https://jobright.ai/jobs/info/697f68457f40342e15d82328?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
