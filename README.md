@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/698078897f40342e15d94d3a?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 02 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Student/Intern](https://jobright.ai/jobs/info/698074107f40342e15d94bd4?utm_campaign=1048&utm_source=git)** | 20699 Westminster Highway, Richmond, BC, V6V 1B3, CA | On Site | Feb 02 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Field and Shop High School Student Intern](https://jobright.ai/jobs/info/698074007f40342e15d94bc0?utm_campaign=1048&utm_source=git)** | Mesa, AZ, US | On Site | Feb 02 |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern,  Innovation Engineering (Equipment & Automation)](https://jobright.ai/jobs/info/69648915a112b402661271e7?utm_campaign=1048&utm_source=git)** | Verona, WI | On Site | Feb 02 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Quality & Waste Management Services](https://jobright.ai/jobs/info/6980723e49964d25b5e3413b?utm_campaign=1048&utm_source=git)** | Tempe, AZ, US | Hybrid | Feb 02 |
+| **[ALLETE](http://allete.com)** | **[Internship - Wind Technician](https://jobright.ai/jobs/info/698071a57f40342e15d949bc?utm_campaign=1048&utm_source=git)** | New Salem, ND | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Show Control Hardware Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698070ecabff4c399a9f3f1d?utm_campaign=1048&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
-| **[ALLETE](http://allete.com)** | **[Internship - Drafting](https://jobright.ai/jobs/info/6980704f49964d25b5e33ece?utm_campaign=1048&utm_source=git)** | Duluth, MN | On Site | Feb 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Design and Engineering Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806d7349964d25b5e3384f?utm_campaign=1048&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 02 |
+| ↳ | **[WDI Design and Engineering Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806d7349964d25b5e3384f?utm_campaign=1048&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Plant Controls Intern](https://jobright.ai/jobs/info/697a7f74f6fc293b0a2c51d4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | ↳ | **[Operations Engineering  Intern, Summer 2026](https://jobright.ai/jobs/info/6940cb1650bbaf765052cda9?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Audio & Visual Engineering Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/69806c7c49964d25b5e336f0?utm_campaign=1048&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MechNova](mechnova.us)** | **[Intern, Cyber Security](https://jobright.ai/jobs/info/697ff2327f40342e15d8a8fb?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Small Scale Process Development](https://jobright.ai/jobs/info/69619087e7ed9a5731ba6ace?utm_campaign=1048&utm_source=git)** | Verona, Wisconsin, United States | On Site | Feb 01 |
 | **[Ferrero](https://www.ferrero.com)** | **[Industrial Internship](https://jobright.ai/jobs/info/6973cc1637785856350d9de5?utm_campaign=1048&utm_source=git)** | North Canton, OH | On Site | Feb 01 |
-| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/68fa8c7e67272b29af730abf?utm_campaign=1048&utm_source=git)** | North Canton, OH | On Site | Feb 01 |
-| **[Formlabs](http://www.formlabs.com)** | **[Hardware R&D Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697fee06abff4c399a9e97f3?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 01 |
-| **[Ferrara](https://www.ferrara.com)** | **[Process Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697417aa37785856350dffcf?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
-| ↳ | **[Manufacturing Internship Program 2026](https://jobright.ai/jobs/info/691a9049bcdbf3560c9d89e5?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
-| **[City of Brooklyn Park](https://www.linkedin.com/company/73612)** | **[Intern - Environmental Health](https://jobright.ai/jobs/info/69806213ce48107c05449ed4?utm_campaign=1048&utm_source=git)** | Brooklyn Park, MN | Hybrid | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
