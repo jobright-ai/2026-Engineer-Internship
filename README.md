@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe438ce48107c0543feb8?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Feb 01 |
+| ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe421abff4c399a9e8cbf?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Feb 01 |
+| ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3f1abff4c399a9e8c86?utm_campaign=1048&utm_source=git)** | Franklin, TN | On Site | Feb 01 |
+| ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3edabff4c399a9e8c80?utm_campaign=1048&utm_source=git)** | Brandon, MS | On Site | Feb 01 |
+| ↳ | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/697fe3e5abff4c399a9e8c76?utm_campaign=1048&utm_source=git)** | New Orleans, LA | On Site | Feb 01 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Systems Development Intern](https://jobright.ai/jobs/info/690f243844146d3b6ec5a5a0?utm_campaign=1048&utm_source=git)** | South Sioux City, NE | On Site | Feb 01 |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/697fdb55ce48107c0543f785?utm_campaign=1048&utm_source=git)** | McLean, VA | Remote | Feb 01 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering  Internship](https://jobright.ai/jobs/info/697fd7b17f40342e15d8911c?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 01 |
 | **[Valence Labs](https://invivoai.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/697fd477ce48107c0543eeef?utm_campaign=1048&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Feb 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/697fd476ce48107c0543eeed?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 01 |
@@ -76,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[MRICD Non-Kinetic Threats and Medical Countermeasures Research Internship/Fellowship](https://jobright.ai/jobs/info/697fbe26abff4c399a9e4ca1?utm_campaign=1048&utm_source=git)** | Gunpowder, MD | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)](https://jobright.ai/jobs/info/697fbdffce48107c0543c1fa?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-Op or Intern - Quality Engineering](https://jobright.ai/jobs/info/697fbdd87f40342e15d859e1?utm_campaign=1048&utm_source=git)** | New Castle, IN | On Site | Feb 01 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/697fba19ce48107c0543b91b?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[AV Internship](https://jobright.ai/jobs/info/697fb707ce48107c0543b2d3?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | **[Infinity Systems Engineering](http://infinity.aero/)** | **[Intern - Thermal Sciences](https://jobright.ai/jobs/info/697fb6dfce48107c0543b273?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Feb 01 |
 | **[Valence](https://www.getvalence.com)** | **[Lab Technologist Internship](https://jobright.ai/jobs/info/697fb2e0ce48107c0543afe5?utm_campaign=1048&utm_source=git)** | Lynwood, CA | On Site | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Rail](https://jobright.ai/jobs/info/68c299088753a565272fc2c6?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Feb 01 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Feb 01 |
 | **[GKN Aerospace](https://www.gknaerospace.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/690d8c4ed046ab6061cf7087?utm_campaign=1048&utm_source=git)** | El Cajon, CA | On Site | Feb 01 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Feb 01 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Feb 01 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Environmental, Health and Safety (EHS) Intern (Summer 2026)](https://jobright.ai/jobs/info/690d3032d046ab6061cf3fcd?utm_campaign=1048&utm_source=git)** | Richland Center, WI | On Site | Feb 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b799d51ade4306aa64c855?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Graduate Internship Program](https://jobright.ai/jobs/info/690d4b6c221b890c278059fa?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Feb 01 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Southeast - Summer 2026](https://jobright.ai/jobs/info/697f528fce48107c054372a0?utm_campaign=1048&utm_source=git)** | Naples, FL | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
