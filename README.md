@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dresser Utility Solutions](https://dresserutility.com)** | **[HSE Intern](https://jobright.ai/jobs/info/6987b2c88ca8121a3a6a3c2f?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Feb 07 |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Risk Management Real Estate (Right Of Way) Intern](https://jobright.ai/jobs/info/6987b0e08ca8121a3a6a3444?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Feb 07 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Environmental Technician Intern / Kent, OH](https://jobright.ai/jobs/info/6987afdf8da7a6120462c703?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Feb 07 |
+| ↳ | **[Environmental Technician Intern / Columbus, OH](https://jobright.ai/jobs/info/6987aed50f6f7e7a2ce2e3fa?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
+| **[Voltus](https://www.voltus.co)** | **[Security Engineering Intern](https://jobright.ai/jobs/info/6987ae380f6f7e7a2ce2e3c5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 07 |
+| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/6987add20f6f7e7a2ce2e3a4?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Feb 07 |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Electrical Engineering](https://jobright.ai/jobs/info/6987ad898ca8121a3a6a2c2b?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 07 |
+| ↳ | **[2026 Summer Intern-Mechanical, Process, Structural or Civil Engineering](https://jobright.ai/jobs/info/6987ac638ca8121a3a6a2bd8?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 07 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Radioconjugates Intern – Summer 2026](https://jobright.ai/jobs/info/6987aaac0f6f7e7a2ce2e28e?utm_campaign=1048&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 07 |
+| **[Town of Bridgewater MA](http://www.bridgewaterma.org)** | **[Internal Only - Light Equipment Operator](https://jobright.ai/jobs/info/6987a9898ca8121a3a6a2a29?utm_campaign=1048&utm_source=git)** | Bridgewater, MA | On Site | Feb 07 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Radiochemistry Intern – Summer 2026](https://jobright.ai/jobs/info/6987a7298da7a6120462b754?utm_campaign=1048&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 07 |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Systems Planning Engineering](https://jobright.ai/jobs/info/6987a62e0f6f7e7a2ce2df70?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 07 |
+| **[Sibley County](https://www.co.sibley.mn.us/)** | **[Seasonal Engineering/Construction Technician/Intern](https://jobright.ai/jobs/info/6987a1240f6f7e7a2ce2dd2e?utm_campaign=1048&utm_source=git)** | Gaylord, MN | On Site | Feb 07 |
+| **[Xometry](https://www.xometry.com)** | **[Additive Technician Intern](https://jobright.ai/jobs/info/6959b970f1f8465b79f02b1f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69879d338da7a6120462ab58?utm_campaign=1048&utm_source=git)** | Napoleon, OH | On Site | Feb 07 |
-| **[AGRILAND FS](https://agrilandfs.com)** | **[Agronomy Operations internship](https://jobright.ai/jobs/info/69879d318da7a6120462ab55?utm_campaign=1048&utm_source=git)** | Moravia, IA | On Site | Feb 07 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical  Engineering  Internship](https://jobright.ai/jobs/info/69879cd20f6f7e7a2ce2d9a2?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 07 |
 | **[Gallagher Asphalt](https://www.gallagherasphalt.com/)** | **[Safety Intern (Construction - Thornton, IL)](https://jobright.ai/jobs/info/69879cc00f6f7e7a2ce2d983?utm_campaign=1048&utm_source=git)** | Thornton, IL | On Site | Feb 07 |
-| **[AGRILAND FS](https://agrilandfs.com)** | **[Agronomy Operations internship](https://jobright.ai/jobs/info/69879bfc0f6f7e7a2ce2d89a?utm_campaign=1048&utm_source=git)** | Knoxville, IA | On Site | Feb 07 |
 | **[The Clearing House](https://www.theclearinghouse.org)** | **[2026 Summer Internship - Network Operations Center (NOC)](https://jobright.ai/jobs/info/698799c38da7a6120462a858?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/698799858ca8121a3a6a1eb5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | Remote | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/698799308ca8121a3a6a1e64?utm_campaign=1048&utm_source=git)** | Bulls Gap, TN | On Site | Feb 07 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6966a4737a34f5392055215d?utm_campaign=1048&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern · Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/698763850f6f7e7a2ce2a4ee?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/693339a5f131d96e48460d6f?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/698763108ca8121a3a69edc9?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Feb 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/698763090f6f7e7a2ce2a4af?utm_campaign=1048&utm_source=git)** | Parma, OH | On Site | Feb 07 |
-| ↳ | **[Facilities Intern](https://jobright.ai/jobs/info/698763048ca8121a3a69edc4?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/698762db0f6f7e7a2ce2a487?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| **[HOLT Group](https://holtgrp.com)** | **[Welding Intern- College](https://jobright.ai/jobs/info/69326b7e764507023d1ae66a?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Feb 07 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Materials Intern](https://jobright.ai/jobs/info/6987627f8da7a6120462777b?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/698762608ca8121a3a69ed61?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Fire and Life Safety Engineer in Training (Active-Duty Service Member Only) DOD Skillbridge Program](https://jobright.ai/jobs/info/69164c0d9c388539cbdf9983?utm_campaign=1048&utm_source=git)** | Arlington, VA | Hybrid | Feb 07 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Data Engineer Intern 2026](https://jobright.ai/jobs/info/696afd43350cf43803123b1e?utm_campaign=1048&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Technical Enablement Specialist Intern 2026](https://jobright.ai/jobs/info/69676b20639b452fb57d0cd7?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
-| ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6966a1bb5ad3a93f8231f047?utm_campaign=1048&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Fire and Life Safety Engineer in Training (Active-Duty Service Member Only) DOD Skillbridge Program](https://jobright.ai/jobs/info/6950afc4ce13cd105658890d?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
