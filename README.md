@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Spread Electric Cooperative, Inc.](https://www.gsec.coop/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/698818c70f6f7e7a2ce35991?utm_campaign=1048&utm_source=git)** | Amarillo, TX 79101 | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/698800a00f6f7e7a2ce335c5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6987fbfd0f6f7e7a2ce32aa1?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 07 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Field Sensing Intern](https://jobright.ai/jobs/info/6987f8da8da7a6120462fa27?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Intern - Kiewit Energy Canada (Summer 2026)](https://jobright.ai/jobs/info/698769bc8da7a61204627be9?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Roanoke College Scholar (ET25162)](https://jobright.ai/jobs/info/694edb0a29655e4dd65869ca?utm_campaign=1048&utm_source=git)** | Greater Roanoke Area | On Site | Feb 07 |
 | **[Fermilab](http://fnal.gov)** | **[LBNF/DUNE FCSF Internship in South Dakota](https://jobright.ai/jobs/info/69338070f131d96e48463e6d?utm_campaign=1048&utm_source=git)** | Lead, SD | On Site | Feb 07 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Device & Packaging Technologies](https://jobright.ai/jobs/info/698767248ca8121a3a69eed3?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
