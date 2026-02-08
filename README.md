@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 07 |
 | **[Golden Spread Electric Cooperative, Inc.](https://www.gsec.coop/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/698818c70f6f7e7a2ce35991?utm_campaign=1048&utm_source=git)** | Amarillo, TX 79101 | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/698800a00f6f7e7a2ce335c5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6987fbfd0f6f7e7a2ce32aa1?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 07 |
@@ -69,6 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - AWS Public Cloud Administrator](https://jobright.ai/jobs/info/6987e4488ca8121a3a6a4d9a?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Feb 07 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineer Internship (5G and 6G Systems R&D)](https://jobright.ai/jobs/info/6987e19c8da7a6120462d890?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Intern, Engineering - 27053](https://jobright.ai/jobs/info/6987d24d8da7a6120462d77d?utm_campaign=1048&utm_source=git)** | Adelphi, MD | On Site | Feb 07 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Materials Intern (Summer 2026)](https://jobright.ai/jobs/info/69882a2d8da7a61204634220?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 07 |
+| ↳ | **[Print Process Intern (Summer 2026)](https://jobright.ai/jobs/info/69882b328da7a612046342ca?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 07 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Sterilization Quality Engineer Summer Intern 2026](https://jobright.ai/jobs/info/69851a9a0f6f7e7a2cdfa2a0?utm_campaign=1048&utm_source=git)** | Coventry, RI | On Site | Feb 07 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Mechanistic Pharmacology - RNAi Mechanisms & Functional Genomics](https://jobright.ai/jobs/info/69607748a1bbea1d9a7b4c9c?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Feb 07 |
 | **[Wade Trim](http://wadetrim.com)** | **[IT - AI Civil Engineering Intern - 2876](https://jobright.ai/jobs/info/6987bbac8ca8121a3a6a451c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 07 |
 | **[Dresser Utility Solutions](https://dresserutility.com)** | **[HSE Intern](https://jobright.ai/jobs/info/6987b2c88ca8121a3a6a3c2f?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Maintenance Summer Internship](https://jobright.ai/jobs/info/688ae3f909808a6103e51f78?utm_campaign=1048&utm_source=git)** | Cactus, TX | On Site | Feb 07 |
 | **[Paramount Resources](http://www.paramountres.com/)** | **[Summer Student Field Engineering Technologist - Kaybob](https://jobright.ai/jobs/info/696b11885fc86241853a5ea4?utm_campaign=1048&utm_source=git)** | Fox Creek, Alberta, Canada | On Site | Feb 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae00e9f961617fe21ec6f?utm_campaign=1048&utm_source=git)** | Carrollton, GA | On Site | Feb 07 |
-| **[Siemens](https://www.siemens.com)** | **[Protection & Automation Electrical Engineering Summer - Fall Internship](https://jobright.ai/jobs/info/696b0879350cf43803124c59?utm_campaign=1048&utm_source=git)** | Wendell, NC | On Site | Feb 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Intern - Kiewit Energy Canada (Summer 2026)](https://jobright.ai/jobs/info/698769bc8da7a61204627be9?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
-| **[TMEIC](https://www.tmeic.com/)** | **[Intern - Roanoke College Scholar (ET25162)](https://jobright.ai/jobs/info/694edb0a29655e4dd65869ca?utm_campaign=1048&utm_source=git)** | Greater Roanoke Area | On Site | Feb 07 |
-| **[Fermilab](http://fnal.gov)** | **[LBNF/DUNE FCSF Internship in South Dakota](https://jobright.ai/jobs/info/69338070f131d96e48463e6d?utm_campaign=1048&utm_source=git)** | Lead, SD | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
