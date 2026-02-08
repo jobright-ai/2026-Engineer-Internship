@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JARDUM](https://jardum.com)** | **[mechatronics intern](https://jobright.ai/jobs/info/6987b8fe0f6f7e7a2ce2fd36?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 07 |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Mechanistic Pharmacology - RNAi Mechanisms & Functional Genomics](https://jobright.ai/jobs/info/69607748a1bbea1d9a7b4c9c?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Feb 07 |
+| **[Wade Trim](http://wadetrim.com)** | **[IT - AI Civil Engineering Intern - 2876](https://jobright.ai/jobs/info/6987bbac8ca8121a3a6a451c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 07 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Water Quality Specialist - Intern (LURM)](https://jobright.ai/jobs/info/6987b3de8ca8121a3a6a3e4b?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 07 |
 | **[Dresser Utility Solutions](https://dresserutility.com)** | **[HSE Intern](https://jobright.ai/jobs/info/6987b2c88ca8121a3a6a3c2f?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Feb 07 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Risk Management Real Estate (Right Of Way) Intern](https://jobright.ai/jobs/info/6987b0e08ca8121a3a6a3444?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Feb 07 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Sibley County](https://www.co.sibley.mn.us/)** | **[Seasonal Engineering/Construction Technician/Intern](https://jobright.ai/jobs/info/6987a1240f6f7e7a2ce2dd2e?utm_campaign=1048&utm_source=git)** | Gaylord, MN | On Site | Feb 07 |
 | **[Xometry](https://www.xometry.com)** | **[Additive Technician Intern](https://jobright.ai/jobs/info/6959b970f1f8465b79f02b1f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69879d338da7a6120462ab58?utm_campaign=1048&utm_source=git)** | Napoleon, OH | On Site | Feb 07 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical  Engineering  Internship](https://jobright.ai/jobs/info/69879cd20f6f7e7a2ce2d9a2?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 07 |
 | **[Gallagher Asphalt](https://www.gallagherasphalt.com/)** | **[Safety Intern (Construction - Thornton, IL)](https://jobright.ai/jobs/info/69879cc00f6f7e7a2ce2d983?utm_campaign=1048&utm_source=git)** | Thornton, IL | On Site | Feb 07 |
 | **[The Clearing House](https://www.theclearinghouse.org)** | **[2026 Summer Internship - Network Operations Center (NOC)](https://jobright.ai/jobs/info/698799c38da7a6120462a858?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/698799858ca8121a3a6a1eb5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | Remote | Feb 07 |
