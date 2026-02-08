@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/68fa9ea4b2c86843bf2104fc?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Feb 08 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-Op, Building Technology (Spring/Summer 2026)](https://jobright.ai/jobs/info/68c355ebb8c22d3828470fd5?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Feb 08 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Mechanical Design Engineer - Intern](https://jobright.ai/jobs/info/691790a215b4156367178f94?utm_campaign=1048&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 08 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4173be396b25cb5c656fd?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Feb 08 |
+| **[Amrize](https://www.amrize.com)** | **[Health & Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/691aa9f415b4156367189a49?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Feb 08 |
+| **[KLA](https://www.kla.com)** | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/6969be0b1703f05405abb9f6?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Feb 08 |
+| **[GALLO](http://www.gallocareers.com)** | **[Winemaking & Spirits Distillation Internship 2026 July - December](https://jobright.ai/jobs/info/69690107639b452fb57ecd5b?utm_campaign=1048&utm_source=git)** | Livingston, CA | On Site | Feb 08 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Operations intern](https://jobright.ai/jobs/info/696bd2cf350cf43803131742?utm_campaign=1048&utm_source=git)** | Freeman, SD | On Site | Feb 08 |
+| **[Clarios](https://www.clarios.com/)** | **[Safety Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/6917a04245fb6f5ead89cc3f?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
+| **[KLA](https://www.kla.com)** | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/6969bc3af25a3800669872f9?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 08 |
+| ↳ | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/6969c46a639b452fb57faf0d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/696bd35c350cf43803131772?utm_campaign=1048&utm_source=git)** | Ruthton, MN | On Site | Feb 08 |
 | **[KLA](https://www.kla.com)** | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/68fa9dd567272b29af731e9f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 08 |
 | ↳ | **[Advanced Algorithm Intern](https://jobright.ai/jobs/info/6969d7ebf25a380066989d55?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Feb 08 |
 | **[STR](https://www.str.us/)** | **[Machine Learning Computer Vision MS/PhD Summer Internship](https://jobright.ai/jobs/info/68ccd17bb274cd205ab4f89e?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | Feb 08 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Structural Intern Engineer](https://jobright.ai/jobs/info/698876518da7a61204638ef4?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Feb 08 |
 | **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Assistant Project Engineer (Summer Intern)](https://jobright.ai/jobs/info/68a649a933dd7158bbc9f299?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Feb 08 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Intern Geotechnical Field Tech - Denver](https://jobright.ai/jobs/info/6988726c8ca8121a3a6aff23?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Feb 08 |
+| **[State of Colorado](http://www.colorado.gov)** | **[Intern Geotechnical Field Tech - Denver](https://jobright.ai/jobs/info/6988726c8ca8121a3a6aff23?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Feb 08 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Disposables Engineering)](https://jobright.ai/jobs/info/696750d8639b452fb57cea09?utm_campaign=1048&utm_source=git)** | Allen, TX | On Site | Feb 08 |
 | **[Carl Buddig and Company](https://buddig.com/)** | **[QC Summer Intern (1752)](https://jobright.ai/jobs/info/69886ffc0f6f7e7a2ce3b612?utm_campaign=1048&utm_source=git)** | SH - CBC - South Holland, IL 60473 | On Site | Feb 08 |
 | **[Ardurra](https://ardurra.com/)** | **[Southwest Region Intern (AZ, CA, NM, NV)](https://jobright.ai/jobs/info/69165f2b9c388539cbdfa6ee?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Feb 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Geotechnical Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68dd04d044d32141e0bf3b1f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 08 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher [Seed – Multimodal Interaction & World Model - Unified Model] – 2026 Start (PhD)](https://jobright.ai/jobs/info/68a05327cc9ee94dc911efdc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | ↳ | **[Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce82c8846f0b04af67a88a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| **[Lennox](http://www.lennox.com)** | **[AI & Analytics Intern](https://jobright.ai/jobs/info/695949c9f1f8465b79efe1e7?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Feb 08 |
-| ↳ | **[AI Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6959d946f1f8465b79f0377d?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Feb 08 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineering Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac228?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Feb 08 |
-| **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/693179963b6d6f265f4ea7a8?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Feb 08 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Traffic Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ac3b745fb6f5ead8ad8d1?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 08 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Electrical Engineering Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c1919c233c7d3e64d0254f?utm_campaign=1048&utm_source=git)** | Dickinson County, MI | On Site | Feb 08 |
-| ↳ | **[Environment, Health, and Safety (EHS) Intern - The Toro Company](https://jobright.ai/jobs/info/6932bdf5f131d96e4845de68?utm_campaign=1048&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Engineering Intern Spring 2027](https://jobright.ai/jobs/info/698858758ca8121a3a6af039?utm_campaign=1048&utm_source=git)** | St. Lucie County, FL | Remote | Feb 08 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[CONSTRUCTION SUPERVISOR SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317b77fa28370be26bbedf?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Feb 08 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Gene Therapy Research](https://jobright.ai/jobs/info/693a6be556b68f3dc4e7c914?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
