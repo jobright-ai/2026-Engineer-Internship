@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Joyce Theater Foundation, Inc.](http://joyce.org)** | **[Development Intern](https://jobright.ai/jobs/info/698900da8ca8121a3a6b68fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 08 |
+| **[Albaugh, LLC](http://albaughllc.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6988fb288ca8121a3a6b6524?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/6988f75e8ca8121a3a6b5857?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Feb 08 |
+| **[Albaugh, LLC](http://albaughllc.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6988f5a30f6f7e7a2ce411ff?utm_campaign=1048&utm_source=git)** | St Joe | On Site | Feb 08 |
+| ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6988f5888da7a6120463ee98?utm_campaign=1048&utm_source=git)** | St Joe | On Site | Feb 08 |
+| ↳ | **[Chemical Engineer Intern](https://jobright.ai/jobs/info/6988f5390f6f7e7a2ce41108?utm_campaign=1048&utm_source=git)** | St Joe | On Site | Feb 08 |
+| ↳ | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6988f3b58ca8121a3a6b5644?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
+| ↳ | **[Chemical Engineer Intern](https://jobright.ai/jobs/info/6988f3b08ca8121a3a6b5642?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
 | **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Building and Inspection Services Summer Intern](https://jobright.ai/jobs/info/6988f29b8da7a6120463ec29?utm_campaign=1048&utm_source=git)** | Mount Prospect, IL | On Site | Feb 08 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Oligonucleotide Process Development](https://jobright.ai/jobs/info/69619563a112b40266102d02?utm_campaign=1048&utm_source=git)** | Verona, Wisconsin, United States | On Site | Feb 08 |
 | **[DRMP](http://drmp.com)** | **[Survey Intern](https://jobright.ai/jobs/info/69126ca9ea9ab01b82bf28c7?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd9209ddc10244dd680f76?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Signal Integrity Engineer Intern (Cloud Platform Optics) - Master's Degree](https://jobright.ai/jobs/info/6917f3aebcdbf3560c9ccf23?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68faf13b9e8e925ac6c87b40?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Feb 08 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Aerospace and Defense, Material Pricing and Product Data](https://jobright.ai/jobs/info/69185b5515b4156367181c22?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/68c388276031587f8458ba51?utm_campaign=1048&utm_source=git)** | Lakeville, MN | On Site | Feb 08 |
-| **[Skanska](http://skanska.com)** | **[Geotechnical Fall 2025 - Part-Time Intern](https://jobright.ai/jobs/info/68c371c96031587f8458ae8d?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 08 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fae4b03c99cc1d960272da?utm_campaign=1048&utm_source=git)** | East Lansing, MI | On Site | Feb 08 |
-| **[Skanska](http://skanska.com)** | **[2026 Summer Internship (Heavy Civil Construction)](https://jobright.ai/jobs/info/68dee2df09bda65a4b62eb93?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
-| **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/68240a58baafd6a8ba106af5?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Feb 08 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Engineering Intern Spring 2027](https://jobright.ai/jobs/info/6988a19e8ca8121a3a6b2620?utm_campaign=1048&utm_source=git)** | Decatur, AL | On Site | Feb 08 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Equipment Engineering Intern](https://jobright.ai/jobs/info/691d3b157481340785ed5299?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
