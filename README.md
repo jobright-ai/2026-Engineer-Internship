@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JARDUM](https://jardum.com)** | **[mechatronics intern](https://jobright.ai/jobs/info/6987b8fe0f6f7e7a2ce2fd36?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 07 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Water Quality Specialist - Intern (LURM)](https://jobright.ai/jobs/info/6987b3de8ca8121a3a6a3e4b?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 07 |
 | **[Dresser Utility Solutions](https://dresserutility.com)** | **[HSE Intern](https://jobright.ai/jobs/info/6987b2c88ca8121a3a6a3c2f?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Feb 07 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Risk Management Real Estate (Right Of Way) Intern](https://jobright.ai/jobs/info/6987b0e08ca8121a3a6a3444?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Feb 07 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Environmental Technician Intern / Kent, OH](https://jobright.ai/jobs/info/6987afdf8da7a6120462c703?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/69671147639b452fb57ca96f?utm_campaign=1048&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
 | ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/697ee323ce48107c054307e9?utm_campaign=1048&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6966a4737a34f5392055215d?utm_campaign=1048&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
-| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Intern · Remote (USA) / Bus./Econ/Math Majors](https://jobright.ai/jobs/info/698763850f6f7e7a2ce2a4ee?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/693339a5f131d96e48460d6f?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
