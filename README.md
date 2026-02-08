@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Building and Inspection Services Summer Intern](https://jobright.ai/jobs/info/6988f29b8da7a6120463ec29?utm_campaign=1048&utm_source=git)** | Mount Prospect, IL | On Site | Feb 08 |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Oligonucleotide Process Development](https://jobright.ai/jobs/info/69619563a112b40266102d02?utm_campaign=1048&utm_source=git)** | Verona, Wisconsin, United States | On Site | Feb 08 |
+| **[DRMP](http://drmp.com)** | **[Survey Intern](https://jobright.ai/jobs/info/69126ca9ea9ab01b82bf28c7?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Command Center and Utility Services](https://jobright.ai/jobs/info/6988ef140f6f7e7a2ce407f9?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
+| **[IBM](http://www.ibm.com)** | **[Data Engineer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/6988ef108da7a6120463e121?utm_campaign=1048&utm_source=git)** | Lansing, MI | On Site | Feb 08 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern - Environment, Health & Safety(EH&S)](https://jobright.ai/jobs/info/6988eeed8ca8121a3a6b4fb9?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
+| ↳ | **[College Intern -Engineering](https://jobright.ai/jobs/info/6988eec68da7a6120463e109?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
+| ↳ | **[College Intern -Engineering(Construction)](https://jobright.ai/jobs/info/6988eec28ca8121a3a6b4f93?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Transmission Planning Intern](https://jobright.ai/jobs/info/6988ede98ca8121a3a6b4eaf?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 08 |
+| **[HFS Company](http://hfscompany.com)** | **[Architectural / Engineering Intern (Summer - Onsite)](https://jobright.ai/jobs/info/6988eb0f0f6f7e7a2ce40571?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical  Engineering  Intern](https://jobright.ai/jobs/info/6988eac48da7a6120463de78?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[Co-Op/College Internship -Engineering or Construction](https://jobright.ai/jobs/info/6988ea710f6f7e7a2ce40544?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
 | **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/6988e7608ca8121a3a6b4b4c?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69365438f131d96e48470b6c?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[CSL](https://www.csl.com)** | **[2026 Summer Process Engineering Internship](https://jobright.ai/jobs/info/6972db9598522904c697ae60?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | Hybrid | Feb 08 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[Intern](https://jobright.ai/jobs/info/68240a58baafd6a8ba106af5?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Feb 08 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Engineering Intern Spring 2027](https://jobright.ai/jobs/info/6988a19e8ca8121a3a6b2620?utm_campaign=1048&utm_source=git)** | Decatur, AL | On Site | Feb 08 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Equipment Engineering Intern](https://jobright.ai/jobs/info/691d3b157481340785ed5299?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Feb 08 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fade5c3c99cc1d96026fc8?utm_campaign=1048&utm_source=git)** | Marquette, MI | On Site | Feb 08 |
-| **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[Quality Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/695bdef2f1f8465b79f1df1b?utm_campaign=1048&utm_source=git)** | Dassel, MN | On Site | Feb 08 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Safety](https://jobright.ai/jobs/info/696a79e7350cf43803116eef?utm_campaign=1048&utm_source=git)** | Berlin, Pennsylvania, United States | Hybrid | Feb 08 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Complex Systems Diagnostics Intern](https://jobright.ai/jobs/info/69889eae8ca8121a3a6b25fc?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 08 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Manufacturing Engineering (Summer 2026)](https://jobright.ai/jobs/info/69179cc0bcdbf3560c9c95fd?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 08 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Power Systems Engineer Intern - Spring](https://jobright.ai/jobs/info/6960fa92f3f4cd132505fc03?utm_campaign=1048&utm_source=git)** | Waterloo, CA | Hybrid | Feb 08 |
-| **[Marshalltown](https://marshalltown.com)** | **[Tool & Die Intern](https://jobright.ai/jobs/info/69889b6e8da7a6120463b5e0?utm_campaign=1048&utm_source=git)** | Marshalltown Iowa - Marshalltown, IA 50158 | On Site | Feb 08 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Parenteral Bioanalytical Intern (PDS&T) (PhD)](https://jobright.ai/jobs/info/6917b83a15b415636717ad7c?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6917e62845fb6f5ead89fa6a?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI | On Site | Feb 08 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Power System Engineer Intern](https://jobright.ai/jobs/info/696ce116350cf4380313f861?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 08 |
-| **[UPS](http://www.ups.com)** | **[Health & Safety Intern - Summer 2026](https://jobright.ai/jobs/info/6916dcf26f36db06ef05a5aa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Test Manufacturing and Process Engineering](https://jobright.ai/jobs/info/69185cb8bcdbf3560c9d1b7c?utm_campaign=1048&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
