@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/698850948da7a61204636728?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | Feb 08 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Lighting Designer/Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69884c5a8da7a61204636684?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Feb 08 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Designer Intern  Paid Internship](https://jobright.ai/jobs/info/69884c4a8da7a6120463666f?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Feb 08 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Engineering Intern  Paid Internship](https://jobright.ai/jobs/info/69884c410f6f7e7a2ce39080?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Feb 08 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Spring 2026 - CMTA](https://jobright.ai/jobs/info/69884bc90f6f7e7a2ce39052?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69884bc30f6f7e7a2ce3904f?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
+| **[SIFCO Industries, Inc](http://sifco.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/698849d28ca8121a3a6ad85e?utm_campaign=1048&utm_source=git)** | Orange - QAF - Orange, CA 92867 | On Site | Feb 08 |
+| **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966b3755ad3a93f823204e9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 08 |
 | **[Charter Next Generation](https://cnginc.com/)** | **[Innovation Lab Internship](https://jobright.ai/jobs/info/69883a888da7a612046359e4?utm_campaign=1048&utm_source=git)** | Milton, WI | On Site | Feb 07 |
 | ↳ | **[Mechanical Engineer Internship](https://jobright.ai/jobs/info/69883a2d8ca8121a3a6acb59?utm_campaign=1048&utm_source=git)** | Milton, WI | On Site | Feb 07 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Engineer Intern- Supply Chain](https://jobright.ai/jobs/info/69882e060f6f7e7a2ce36d49?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Operations FP&A Intern](https://jobright.ai/jobs/info/68dd8bc4ddc10244dd6809c1?utm_campaign=1048&utm_source=git)** | Lakeville, MA | Hybrid | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[DLR Occupational Safety & Industrial Hygiene Interns, Fall 2026](https://jobright.ai/jobs/info/698778718ca8121a3a6a09e5?utm_campaign=1048&utm_source=git)** | Anaheim, CA | On Site | Feb 07 |
 | **[Skanska](http://skanska.com)** | **[Geotechnical Summer 2026 Internship](https://jobright.ai/jobs/info/68c1d2563fd8b059a20f2e96?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/698777bf8da7a612046295a2?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 07 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/696b5a0adb26b618950ef16a?utm_campaign=1048&utm_source=git)** | Big Spring, TX | On Site | Feb 07 |
 | **[CN](http://www.cn.ca)** | **[Intern, Mechanical- FR](https://jobright.ai/jobs/info/69817d3149964d25b5e47acc?utm_campaign=1048&utm_source=git)** | Gary, IN | On Site | Feb 07 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2026 Intern](https://jobright.ai/jobs/info/68de8bb944d32141e0c00956?utm_campaign=1048&utm_source=git)** | District of Columbia, United States | On Site | Feb 07 |
 | **[CN](http://www.cn.ca)** | **[Intern, Design & Construction Officer- FR](https://jobright.ai/jobs/info/6987779e8da7a61204629595?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Feb 07 |
 | **[Insight](https://www.insight.com)** | **[Data Intern](https://jobright.ai/jobs/info/6982e30e348f733a5c36030c?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Feb 07 |
-| ↳ | **[Microsoft Cloud, Data & AI Intern](https://jobright.ai/jobs/info/696ba4065fc86241853afe8d?utm_campaign=1048&utm_source=git)** | Columbus, OH | Hybrid | Feb 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Intern - Kiewit Energy Canada (Summer 2026)](https://jobright.ai/jobs/info/698792c58ca8121a3a6a1847?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 07 |
-| **[Gast](http://www.gastmfg.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69164161286ccf0a15133cf6?utm_campaign=1048&utm_source=git)** | Benton Harbor, MI | On Site | Feb 07 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Process Engineering (Inspection and Packaging)](https://jobright.ai/jobs/info/69175e10370fde633d07f6e7?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Feb 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Evaluation and Alignment](https://jobright.ai/jobs/info/696b93b2db26b618950f20ae?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 07 |
-| **[ASML](https://www.asml.com)** | **[Internship - Optical Engineering Summer 2026](https://jobright.ai/jobs/info/6916cb229c388539cbdfeb79?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
-| **[metalenz](https://www.metalenz.com/)** | **[Computational Imaging Engineer Intern](https://jobright.ai/jobs/info/69422f7a50bbaf76505411a9?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
