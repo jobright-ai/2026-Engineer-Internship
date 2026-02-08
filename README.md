@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/6988d5028ca8121a3a6b44ae?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 08 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/6988d4b98ca8121a3a6b4497?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Feb 08 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69363e64764507023d1c2018?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
+| **[Arconic](https://www.arconic.com)** | **[Intern – COE Smart Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/68c4b18c7279451d6a036dc8?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
+| **[Omaha Public Power District](https://www.oppd.com/)** | **[Utility Line Intern](https://jobright.ai/jobs/info/6917a6e6bcdbf3560c9c9e30?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Feb 08 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Environmental Engineering Intern](https://jobright.ai/jobs/info/68ded82809bda65a4b62e39e?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Feb 08 |
+| **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd50d5fc86241853b1ff0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 08 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computer Vision & ML (Summer)](https://jobright.ai/jobs/info/696c22b65fc86241853b4bce?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Feb 08 |
+| **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bcd8a350cf4380313164a?utm_campaign=1048&utm_source=git)** | Silicon Valley, CA | On Site | Feb 08 |
+| ↳ | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd6b15fc86241853b2065?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 08 |
+| **[Arconic](https://www.arconic.com)** | **[Intern - Industrial Engineer](https://jobright.ai/jobs/info/68cfee10fb49c96ca6eacb9b?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Feb 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Network Observability](https://jobright.ai/jobs/info/6954c44b463e8c60813333b9?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Feb 08 |
 | **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6988c7e48ca8121a3a6b4280?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd022db26b618950f4940?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Feb 08 |
@@ -111,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7fe350cf438031317d9?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fae8809e8e925ac6c8753d?utm_campaign=1048&utm_source=git)** | Naperville, IL | On Site | Feb 08 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[2026 Advanced Manufacturing Engineering Intern Opportunities](https://jobright.ai/jobs/info/6988a9038da7a6120463b76c?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/6988a8cc8ca8121a3a6b272a?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Ports)](https://jobright.ai/jobs/info/6917c20645fb6f5ead89e577?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 08 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Workplace Health & Safety](https://jobright.ai/jobs/info/6934524d764507023d1bcbd4?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd4e55fc86241853b1fe4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ChampionX](https://www.championx.com)** | **[Supply Chain Engineer Intern](https://jobright.ai/jobs/info/6964b074a112b40266128507?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Feb 08 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Mechanical Engineering Intern - Wharton, TX](https://jobright.ai/jobs/info/68cd78f41ad6b16f02899fc5?utm_campaign=1048&utm_source=git)** | Wharton, TX | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[Technical Intern (Roadside Management)](https://jobright.ai/jobs/info/690c86b1221b890c277fe937?utm_campaign=1048&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 siRNA Conjugate Development Intern (PhD)](https://jobright.ai/jobs/info/6917b5aebcdbf3560c9ca8f8?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
-| **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[Supply Chain and Inventory Optimization Internship](https://jobright.ai/jobs/info/68e0703b1852e62f007ead83?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Feb 08 |
-| **[Arcadis](http://www.arcadis.com)** | **[Water Engineer Summer Intern](https://jobright.ai/jobs/info/68fccfb2e04ac838fb5ace4e?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Feb 08 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Field Intern (Chemist)](https://jobright.ai/jobs/info/6971a5cb587dfa0bb55f50f0?utm_campaign=1048&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Fall 2026 - CMTA](https://jobright.ai/jobs/info/696c9e40350cf4380313c59f?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | Feb 08 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Process and Applications (SCM)](https://jobright.ai/jobs/info/69186ac045fb6f5ead8a53b4?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
-| **[Hirecrap](https://www.hirecrap.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/69888ef18da7a6120463ad79?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c43f1d14bb275ce0191d76?utm_campaign=1048&utm_source=git)** | Oklee, MN | On Site | Feb 08 |
-| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68a8c70f6acf96396f722b2d?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Process and Manufacturing Engineer](https://jobright.ai/jobs/info/6918485e15b4156367181222?utm_campaign=1048&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
