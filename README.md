@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charter Next Generation](https://cnginc.com/)** | **[Innovation Lab Internship](https://jobright.ai/jobs/info/69883a888da7a612046359e4?utm_campaign=1048&utm_source=git)** | Milton, WI | On Site | Feb 07 |
+| ↳ | **[Mechanical Engineer Internship](https://jobright.ai/jobs/info/69883a2d8ca8121a3a6acb59?utm_campaign=1048&utm_source=git)** | Milton, WI | On Site | Feb 07 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Engineer Intern- Supply Chain](https://jobright.ai/jobs/info/69882e060f6f7e7a2ce36d49?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
+| **[Boralex Inc.](http://www.boralex.com/home)** | **[Intern - Environment](https://jobright.ai/jobs/info/69857e4b0f6f7e7a2ce04fea?utm_campaign=1048&utm_source=git)** | South Glens Falls, NY | Hybrid | Feb 07 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 07 |
 | **[Golden Spread Electric Cooperative, Inc.](https://www.gsec.coop/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/698818c70f6f7e7a2ce35991?utm_campaign=1048&utm_source=git)** | Amarillo, TX 79101 | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/698800a00f6f7e7a2ce335c5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
@@ -64,13 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Field Sensing Intern](https://jobright.ai/jobs/info/6987f8da8da7a6120462fa27?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Feb 07 |
 | **[Olsson](https://www.olsson.com)** | **[Structural Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966a9065ad3a93f8231f900?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 07 |
 | **[Wade Trim](http://wadetrim.com)** | **[IT - AI Civil Engineering Intern - 2876](https://jobright.ai/jobs/info/6987ee358da7a6120462e18a?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 07 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Equipment Leasing Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7a68da7a6120462dd2a?utm_campaign=1048&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
-| ↳ | **[Automation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e68d0f6f7e7a2ce307ed?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Automation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e68d0f6f7e7a2ce307ed?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[Fairfield County, Ohio](https://www.fairfieldcountyohio.gov)** | **[Environmental Health Intern/Mosquito Control Technician](https://jobright.ai/jobs/info/6987e4c98ca8121a3a6a4e29?utm_campaign=1048&utm_source=git)** | Lancaster, OH | On Site | Feb 07 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - AWS Public Cloud Administrator](https://jobright.ai/jobs/info/6987e4488ca8121a3a6a4d9a?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Feb 07 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineer Internship (5G and 6G Systems R&D)](https://jobright.ai/jobs/info/6987e19c8da7a6120462d890?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Intern, Engineering - 27053](https://jobright.ai/jobs/info/6987d24d8da7a6120462d77d?utm_campaign=1048&utm_source=git)** | Adelphi, MD | On Site | Feb 07 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Materials Intern (Summer 2026)](https://jobright.ai/jobs/info/69882a2d8da7a61204634220?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 07 |
+| ↳ | **[PhD Intern - Materials Science (Summer 2026)](https://jobright.ai/jobs/info/69882ebf8ca8121a3a6abce8?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 07 |
 | ↳ | **[Print Process Intern (Summer 2026)](https://jobright.ai/jobs/info/69882b328da7a612046342ca?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Feb 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Sterilization Quality Engineer Summer Intern 2026](https://jobright.ai/jobs/info/69851a9a0f6f7e7a2cdfa2a0?utm_campaign=1048&utm_source=git)** | Coventry, RI | On Site | Feb 07 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Mechanistic Pharmacology - RNAi Mechanisms & Functional Genomics](https://jobright.ai/jobs/info/69607748a1bbea1d9a7b4c9c?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Evaluation and Alignment](https://jobright.ai/jobs/info/696b93b2db26b618950f20ae?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 07 |
 | **[ASML](https://www.asml.com)** | **[Internship - Optical Engineering Summer 2026](https://jobright.ai/jobs/info/6916cb229c388539cbdfeb79?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | **[metalenz](https://www.metalenz.com/)** | **[Computational Imaging Engineer Intern](https://jobright.ai/jobs/info/69422f7a50bbaf76505411a9?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Feb 07 |
-| **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69876c5f0f6f7e7a2ce2a890?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Feb 07 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Maintenance Summer Internship](https://jobright.ai/jobs/info/688ae3f909808a6103e51f78?utm_campaign=1048&utm_source=git)** | Cactus, TX | On Site | Feb 07 |
-| **[Paramount Resources](http://www.paramountres.com/)** | **[Summer Student Field Engineering Technologist - Kaybob](https://jobright.ai/jobs/info/696b11885fc86241853a5ea4?utm_campaign=1048&utm_source=git)** | Fox Creek, Alberta, Canada | On Site | Feb 07 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae00e9f961617fe21ec6f?utm_campaign=1048&utm_source=git)** | Carrollton, GA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
