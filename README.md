@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68a5263f33dd7158bbc97905?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/6943859350bbaf7650557704?utm_campaign=1048&utm_source=git)** | Nacogdoches, TX | On Site | Feb 08 |
+| ↳ | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae0d79f961617fe21ecd1?utm_campaign=1048&utm_source=git)** | Russellville, AL | On Site | Feb 08 |
+| ↳ | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/69392fc6ac80bb5492bbcc18?utm_campaign=1048&utm_source=git)** | Guntersville, AL | On Site | Feb 08 |
+| **[Constellation](https://www.constellationenergy.com/)** | **[Power Technical Intern - Fort Worth, TX](https://jobright.ai/jobs/info/68c333ed5001f8077bf62262?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Quality - Remote (Summer 2026)](https://jobright.ai/jobs/info/6988b3398ca8121a3a6b28bd?utm_campaign=1048&utm_source=git)** | Washington, DC | Remote | Feb 08 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/68cddaaf1ad6b16f0289f789?utm_campaign=1048&utm_source=git)** | Live Oak, FL | On Site | Feb 08 |
+| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Mechanical Engineering](https://jobright.ai/jobs/info/6988b2450f6f7e7a2ce3dff5?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 08 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68cfffdf846f0b04af686e85?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
+| **[LevelUp Consulting, LLC](https://levelupflorida.com/)** | **[Civil Engineer Summer Intern](https://jobright.ai/jobs/info/6988b0818da7a6120463b890?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
+| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Electrical Engineering](https://jobright.ai/jobs/info/6988b04e8da7a6120463b887?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 08 |
+| **[MechAxis Dynamics](mechaxisdynamics.us)** | **[2026 Mechanical Engineering Intern Opportunities](https://jobright.ai/jobs/info/6988af848ca8121a3a6b283a?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Finite Element Analysis Intern](https://jobright.ai/jobs/info/68dea8b044d32141e0c015cf?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Feb 08 |
 | **[Vortexion Labs](vortexionlabs.us)** | **[2026 Mechanical Engineering Intern Opportunities](https://jobright.ai/jobs/info/6988ac978da7a6120463b7d8?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/6988ac8b8ca8121a3a6b27f4?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Feb 08 |
 | ↳ | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/6988abe70f6f7e7a2ce3defd?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Feb 08 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Operations Intern](https://jobright.ai/jobs/info/68c51992db52c07d288410c0?utm_campaign=1048&utm_source=git)** | Shipman, IL | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Improve I-70 (3 Positions)](https://jobright.ai/jobs/info/68e06b6ab99ec3563b0cf3c3?utm_campaign=1048&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, AI Core Machine Learning (PhD)](https://jobright.ai/jobs/info/6965b84b2cbf4e44756f6394?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
-| **[ATI](https://www.forging.com)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/68c3342463829b0a8a500d23?utm_campaign=1048&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Operations Intern](https://jobright.ai/jobs/info/696bd5f75fc86241853b202c?utm_campaign=1048&utm_source=git)** | Selby, SD | On Site | Feb 08 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Technology Solutions Designer Intern/Co-op Spring 2026 - CMTA](https://jobright.ai/jobs/info/696c9fad5fc86241853bcec6?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Feb 08 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Intern, Highways](https://jobright.ai/jobs/info/68a6754b758f2e4ac3fe4eec?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Feb 08 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Fall 2026 - CMTA](https://jobright.ai/jobs/info/696ca14c5fc86241853bcf12?utm_campaign=1048&utm_source=git)** | Annapolis, MD | On Site | Feb 08 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Product Design Engineering (PhD)](https://jobright.ai/jobs/info/698883240f6f7e7a2ce3b914?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 08 |
-| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68c903a695f5211cd2ced187?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 QTAS Intern - Bispecific Antibody Stability for In Vivo Studies (PhD)](https://jobright.ai/jobs/info/6917b2bb45fb6f5ead89db12?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 08 |
-| ↳ | **[2026 BioCMC (Chemistry, Manufacturing, and Control) Drug Substance Intern (PhD)](https://jobright.ai/jobs/info/68df43a86be63b6ec996e08e?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 08 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Health, Safety and Environmental](https://jobright.ai/jobs/info/68d725ccd3fe025a3015f505?utm_campaign=1048&utm_source=git)** | Hagerstown, MD | On Site | Feb 08 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Chemical Engineer - Internship](https://jobright.ai/jobs/info/69344282764507023d1bc81b?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Feb 08 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Product Design Engineering (PhD)](https://jobright.ai/jobs/info/698880828ca8121a3a6b01c9?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
-| **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Assistant Project Engineer (Summer Intern)](https://jobright.ai/jobs/info/68a64ab7758f2e4ac3fe40ec?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
