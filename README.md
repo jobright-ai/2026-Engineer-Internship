@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/698800a00f6f7e7a2ce335c5?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6987fbfd0f6f7e7a2ce32aa1?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 07 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Field Sensing Intern](https://jobright.ai/jobs/info/6987f8da8da7a6120462fa27?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Feb 07 |
+| **[Olsson](https://www.olsson.com)** | **[Structural Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966a9065ad3a93f8231f900?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 07 |
+| **[Wade Trim](http://wadetrim.com)** | **[IT - AI Civil Engineering Intern - 2876](https://jobright.ai/jobs/info/6987ee358da7a6120462e18a?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 07 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Equipment Leasing Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7a68da7a6120462dd2a?utm_campaign=1048&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
-| ↳ | **[Automation Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7548da7a6120462dcde?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | ↳ | **[Automation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e68d0f6f7e7a2ce307ed?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[Fairfield County, Ohio](https://www.fairfieldcountyohio.gov)** | **[Environmental Health Intern/Mosquito Control Technician](https://jobright.ai/jobs/info/6987e4c98ca8121a3a6a4e29?utm_campaign=1048&utm_source=git)** | Lancaster, OH | On Site | Feb 07 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - AWS Public Cloud Administrator](https://jobright.ai/jobs/info/6987e4488ca8121a3a6a4d9a?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Feb 07 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineer Internship (5G and 6G Systems R&D)](https://jobright.ai/jobs/info/6987e19c8da7a6120462d890?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineering Talent Internship](https://jobright.ai/jobs/info/6987de8e8da7a6120462d859?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 07 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Intern, Engineering - 27053](https://jobright.ai/jobs/info/6987d24d8da7a6120462d77d?utm_campaign=1048&utm_source=git)** | Adelphi, MD | On Site | Feb 07 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Mechanistic Pharmacology - RNAi Mechanisms & Functional Genomics](https://jobright.ai/jobs/info/69607748a1bbea1d9a7b4c9c?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Feb 07 |
 | **[Wade Trim](http://wadetrim.com)** | **[IT - AI Civil Engineering Intern - 2876](https://jobright.ai/jobs/info/6987bbac8ca8121a3a6a451c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 07 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Environmental Technician Intern / Kent, OH](https://jobright.ai/jobs/info/6987afdf8da7a6120462c703?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Feb 07 |
 | ↳ | **[Environmental Technician Intern / Columbus, OH](https://jobright.ai/jobs/info/6987aed50f6f7e7a2ce2e3fa?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
 | **[Voltus](https://www.voltus.co)** | **[Security Engineering Intern](https://jobright.ai/jobs/info/6987ae380f6f7e7a2ce2e3c5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/6987add20f6f7e7a2ce2e3a4?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Feb 07 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Electrical Engineering](https://jobright.ai/jobs/info/6987ad898ca8121a3a6a2c2b?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 07 |
 | ↳ | **[2026 Summer Intern-Mechanical, Process, Structural or Civil Engineering](https://jobright.ai/jobs/info/6987ac638ca8121a3a6a2bd8?utm_campaign=1048&utm_source=git)** | Aiken, SC | On Site | Feb 07 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Radioconjugates Intern – Summer 2026](https://jobright.ai/jobs/info/6987aaac0f6f7e7a2ce2e28e?utm_campaign=1048&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 07 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Cloud Intern](https://jobright.ai/jobs/info/696ba35a5fc86241853afe53?utm_campaign=1048&utm_source=git)** | Charlotte, NC | Hybrid | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Occupational Safety & Industrial Hygiene Interns, Fall 2026](https://jobright.ai/jobs/info/69877a200f6f7e7a2ce2c32d?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 07 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Operations FP&A Intern](https://jobright.ai/jobs/info/68dd8bc4ddc10244dd6809c1?utm_campaign=1048&utm_source=git)** | Lakeville, MA | Hybrid | Feb 07 |
-| **[CN](http://www.cn.ca)** | **[Intern, Mechanical- EN](https://jobright.ai/jobs/info/696e24fa5fc86241853cdea5?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[DLR Occupational Safety & Industrial Hygiene Interns, Fall 2026](https://jobright.ai/jobs/info/698778718ca8121a3a6a09e5?utm_campaign=1048&utm_source=git)** | Anaheim, CA | On Site | Feb 07 |
 | **[Skanska](http://skanska.com)** | **[Geotechnical Summer 2026 Internship](https://jobright.ai/jobs/info/68c1d2563fd8b059a20f2e96?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/698777bf8da7a612046295a2?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Roanoke College Scholar (ET25162)](https://jobright.ai/jobs/info/694edb0a29655e4dd65869ca?utm_campaign=1048&utm_source=git)** | Greater Roanoke Area | On Site | Feb 07 |
 | **[Fermilab](http://fnal.gov)** | **[LBNF/DUNE FCSF Internship in South Dakota](https://jobright.ai/jobs/info/69338070f131d96e48463e6d?utm_campaign=1048&utm_source=git)** | Lead, SD | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Device & Packaging Technologies](https://jobright.ai/jobs/info/698767248ca8121a3a69eed3?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Feb 07 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6987671b8ca8121a3a69eece?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
