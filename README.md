@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/6989404e8ca8121a3a6b8de5?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
+| ↳ | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/6989402b8da7a61204642134?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
+| **[Leidos](https://www.leidos.com)** | **[Radar Signal Processing Engineer Intern](https://jobright.ai/jobs/info/69893b360f6f7e7a2ce44562?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Feb 08 |
+| **[Fairfield County, Ohio](https://www.fairfieldcountyohio.gov)** | **[Environmental Health Intern/Mosquito Control Technician](https://jobright.ai/jobs/info/698936a40f6f7e7a2ce4440e?utm_campaign=1048&utm_source=git)** | Lancaster, OH | On Site | Feb 08 |
+| **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Engineering Intern- Inverter - J0049470](https://jobright.ai/jobs/info/69740e9737785856350df43e?utm_campaign=1048&utm_source=git)** | Greenfield, IN | On Site | Feb 08 |
+| **[The Matchbox](https://thematchbox.inc)** | **[Spring 2026 AI Automation Intern](https://jobright.ai/jobs/info/698936608ca8121a3a6b88d6?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 08 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[CAD Designer Student](https://jobright.ai/jobs/info/698930bc8ca8121a3a6b845e?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 08 |
+| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Mechanical-Electrical-Plumbing Engineering Intern](https://jobright.ai/jobs/info/68cb93669e3a822f5d2487c3?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 08 |
+| **[G.I.S.](http://www.gisy.com)** | **[Intern](https://jobright.ai/jobs/info/69892d5c8da7a6120464046c?utm_campaign=1048&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Hybrid | Feb 08 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/6989241c8da7a6120464000e?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/6989186a8da7a6120463ff32?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/698915598da7a6120463fed2?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Feb 08 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7fe350cf438031317d9?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fae8809e8e925ac6c8753d?utm_campaign=1048&utm_source=git)** | Naperville, IL | On Site | Feb 08 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[2026 Advanced Manufacturing Engineering Intern Opportunities](https://jobright.ai/jobs/info/6988a9038da7a6120463b76c?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
-| **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Ports)](https://jobright.ai/jobs/info/6917c20645fb6f5ead89e577?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 08 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Workplace Health & Safety](https://jobright.ai/jobs/info/6934524d764507023d1bcbd4?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
-| **[PwC](http://pwc.com)** | **[AI Engineering/Data Scientist - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd4e55fc86241853b1fe4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Mechanical Engineering Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/697ee6d0ce48107c05430d0f?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Feb 08 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Safety Internship 2025/2026](https://jobright.ai/jobs/info/68df16ea5ab4977c2e94f620?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 08 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/6988a7dc0f6f7e7a2ce3de44?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Signal Integrity Engineer Intern (Cloud Platform Optics) - Master's Degree](https://jobright.ai/jobs/info/6917f3aebcdbf3560c9ccf23?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 08 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68faf13b9e8e925ac6c87b40?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Feb 08 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Aerospace and Defense, Material Pricing and Product Data](https://jobright.ai/jobs/info/69185b5515b4156367181c22?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
