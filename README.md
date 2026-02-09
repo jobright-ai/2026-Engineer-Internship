@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATI](https://www.atimaterials.com)** | **[Design Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68c331d75adaee6c9bda8194?utm_campaign=1048&utm_source=git)** | Cudahy, WI | On Site | Feb 09 |
+| **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Intern, Geotechnical Engineer](https://jobright.ai/jobs/info/6958b001f1f8465b79ef3c4c?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6947a1afd1953b5d11c0c119?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Michigan](https://jobright.ai/jobs/info/68ca590f46caff4db51fdc26?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI | On Site | Feb 09 |
+| **[Qnity](https://www.qnityelectronics.com/)** | **[Chemistry or Chemical Engineering Co-Op](https://jobright.ai/jobs/info/69864b558da7a6120460fd69?utm_campaign=1048&utm_source=git)** | Kingston, Ontario, Canada | On Site | Feb 09 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Edge Compute Architectures (PhD)](https://jobright.ai/jobs/info/696604825ad3a93f82316e5f?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Feb 09 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6982e9400f6f7e7a2cdc626e?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
+| **[Thermagia Engineering](thermagiaengineering.us)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/6989d0010f6f7e7a2ce4d97a?utm_campaign=1048&utm_source=git)** | Temple, TX | On Site | Feb 09 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 AI Research Intern](https://jobright.ai/jobs/info/68fc122693c49825ab109765?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Feb 09 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/6989cf8847434001cc67faab?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 09 |
+| **[Horizon Lane](horizonlane.us)** | **[Assurance – Technology Risk –  Intern](https://jobright.ai/jobs/info/6989cf6c0f6f7e7a2ce4d940?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
+| **[Domtar](http://www.domtar.com)** | **[Intern/Co-op - Electrical, Mechanical, Chemical, and Paper Science](https://jobright.ai/jobs/info/691a960345fb6f5ead8ac2bf?utm_campaign=1048&utm_source=git)** | Ashdown, AR | On Site | Feb 09 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Assurance – Technology Risk –  Intern](https://jobright.ai/jobs/info/6989c87e47434001cc67f66f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
-| **[ATI](https://www.forging.com)** | **[Engineering Intern - R&D, and Metallurgy - Summer 2026](https://jobright.ai/jobs/info/691024bdbb519377733ead4f?utm_campaign=1048&utm_source=git)** | Cudahy, WI | On Site | Feb 09 |
+| **[ATI](https://www.atimaterials.com)** | **[Engineering Intern - R&D, and Metallurgy - Summer 2026](https://jobright.ai/jobs/info/691024bdbb519377733ead4f?utm_campaign=1048&utm_source=git)** | Cudahy, WI | On Site | Feb 09 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://jobright.ai/jobs/info/68df424dfe896042b0b789e0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
 | **[Precision Castparts](http://precast.com)** | **[Engineering Co-op](https://jobright.ai/jobs/info/68e5ddfae8daec61499a56ac?utm_campaign=1048&utm_source=git)** | New London County, CT | On Site | Feb 09 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://jobright.ai/jobs/info/6965db2d5ad3a93f82314a0e?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 09 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lam Research](http://www.lamresearch.com)** | **[Process Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/6917f384bcdbf3560c9ccf18?utm_campaign=1048&utm_source=git)** | Tualatin, OR | Hybrid | Feb 09 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/6947abebd1953b5d11c0cb98?utm_campaign=1048&utm_source=git)** | Valley City, OH | On Site | Feb 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6988358a8ca8121a3a6ac1d4?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Feb 09 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Property Risk Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69842525348f733a5c38025e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
-| ↳ | **[Property Risk Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6982cae1348f733a5c35d27f?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 09 |
-| **[Novelis](http://novelis.com)** | **[Environmental, Health, and Safety Intern](https://jobright.ai/jobs/info/68faa60bedd190144238f924?utm_campaign=1048&utm_source=git)** | Guthrie, KY | On Site | Feb 09 |
-| ↳ | **[Electrical Technician Intern](https://jobright.ai/jobs/info/68faa513edd190144238f882?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Feb 09 |
-| **[JT4](https://www.jt4llc.com/)** | **[JT4 2026 Summer Internship - Las Vegas, NV](https://jobright.ai/jobs/info/68fc2a3ff55bb021a88a1157?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Feb 09 |
-| **[Novelis](http://novelis.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/695a1a64f1f8465b79f06d71?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Feb 09 |
-| ↳ | **[Process Engineer Intern](https://jobright.ai/jobs/info/690ffc4a183be660d2676c64?utm_campaign=1048&utm_source=git)** | Guthrie, KY | On Site | Feb 09 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6968c02f639b452fb57e881b?utm_campaign=1048&utm_source=git)** | Coppell, TX | Hybrid | Feb 09 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Enology Intern](https://jobright.ai/jobs/info/6989a5660f6f7e7a2ce4a3b0?utm_campaign=1048&utm_source=git)** | Montebello Upper | On Site | Feb 09 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid Survey College Internship/2026 Summer, District 4 Survey Dept. PN 20054142](https://jobright.ai/jobs/info/6989a4d647434001cc67c540?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Feb 09 |
-| ↳ | **[PAID Civil Engineering College Internship - District 4 - 2026 Summer Construction Program, Various PNs](https://jobright.ai/jobs/info/6989a4a20f6f7e7a2ce4a31a?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Feb 09 |
-| ↳ | **[Paid Civil Engineering College Internship - District 4 Planning & Engineering-Capital Programs Administration, Various PNs](https://jobright.ai/jobs/info/6989a4820f6f7e7a2ce4a300?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
