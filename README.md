@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/6989241c8da7a6120464000e?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Feb 08 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/6989186a8da7a6120463ff32?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/698915598da7a6120463fed2?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/6988e7608ca8121a3a6b4b4c?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69365438f131d96e48470b6c?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[CSL](https://www.csl.com)** | **[2026 Summer Process Engineering Internship](https://jobright.ai/jobs/info/6972db9598522904c697ae60?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | Hybrid | Feb 08 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Internship (5G and 6G Systems R&D)](https://jobright.ai/jobs/info/6988dc488da7a6120463d6a7?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6947c1cad1953b5d11c0f46d?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Feb 08 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/6988d5028ca8121a3a6b44ae?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69363e64764507023d1c2018?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
