@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynatrace](https://www.dynatrace.com)** | **[Engineering/Strategy Intern](https://jobright.ai/jobs/info/69898f0f0f6f7e7a2ce498a4?utm_campaign=1048&utm_source=git)** | Detroit, MI | Hybrid | Feb 08 |
+| **[CSL](https://www.csl.com)** | **[2026 Summer Process Engineering Internship](https://jobright.ai/jobs/info/6972d6b81d55d64a20533777?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | Hybrid | Feb 08 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 08 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Engineering Internship - Plantas (Evergreen)](https://jobright.ai/jobs/info/698975118ca8121a3a6bcda9?utm_campaign=1048&utm_source=git)** | VALLEJO PLANT | On Site | Feb 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[High School Student Research Intern - Civil Eng](https://jobright.ai/jobs/info/698973b18ca8121a3a6bcd6c?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Feb 08 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/6989186a8da7a6120463ff32?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/698915598da7a6120463fed2?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
+| **[Relay](https://relaypro.com)** | **[Generative AI Creative Intern, R&D (Part time, Spring Semester)](https://jobright.ai/jobs/info/69824977348f733a5c351686?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Feb 08 |
 | **[Wing Group](https://www.inflatablesolutions.com/)** | **[Intern- Manufacturing Engineer](https://jobright.ai/jobs/info/698903228ca8121a3a6b6a95?utm_campaign=1048&utm_source=git)** | Patten Company JAX - Jacksonville, FL 32218 | On Site | Feb 08 |
 | **[The Joyce Theater Foundation, Inc.](http://joyce.org)** | **[Development Intern](https://jobright.ai/jobs/info/698900da8ca8121a3a6b68fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[Albaugh, LLC](http://albaughllc.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6988fb288ca8121a3a6b6524?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Optical Engineer Intern](https://jobright.ai/jobs/info/6982d96f8232105a2d0b57d1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/6988bcda0f6f7e7a2ce3e0e3?utm_campaign=1048&utm_source=git)** | St. Louis City County, MO | Remote | Feb 08 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/6988bca78da7a6120463b9d6?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 08 |
-| **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Programmer Apprenticeship](https://jobright.ai/jobs/info/6988bc7b8da7a6120463b9cb?utm_campaign=1048&utm_source=git)** | Cut and Shoot, TX | Hybrid | Feb 08 |
-| **[BinkleyBarfield | DCCM](https://dccm.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/68fbf31df55bb021a889e6e6?utm_campaign=1048&utm_source=git)** | Texas, United States | On Site | Feb 08 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/688ae0459f961617fe21ec98?utm_campaign=1048&utm_source=git)** | Douglas, GA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
