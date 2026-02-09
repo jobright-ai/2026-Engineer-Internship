@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/698962bd8ca8121a3a6ba8a7?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Prognostics Design Summer Intern 2026](https://jobright.ai/jobs/info/698957f60f6f7e7a2ce4594b?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 08 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern - Mechanical](https://jobright.ai/jobs/info/698954f947434001cc677492?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Kulicke & Soffa](http://www.kns.com)** | **[Intern, BB Mechanical Engineering](https://jobright.ai/jobs/info/698954a047434001cc677472?utm_campaign=1048&utm_source=git)** | 1005 Virginia Drive, Fort Washington, PA, 19034, US | On Site | Feb 08 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69894cd18ca8121a3a6b9089?utm_campaign=1048&utm_source=git)** | Browns, IL | On Site | Feb 08 |
 | **[BBA Consultants](https://www.bba.ca/)** | **[Mechanical engineering intern - summer 2026](https://jobright.ai/jobs/info/698945568ca8121a3a6b8f83?utm_campaign=1048&utm_source=git)** | Rouyn-Noranda, Quebec, Canada | Hybrid | Feb 08 |
-| ↳ | **[Stagiaire en automatisation - Été 2026](https://jobright.ai/jobs/info/6989454e0f6f7e7a2ce448e9?utm_campaign=1048&utm_source=git)** | Mont-St-Hilaire, Quebec, Canada | On Site | Feb 08 |
 | ↳ | **[Mechanical engineering intern - summer 2026](https://jobright.ai/jobs/info/6989454c8ca8121a3a6b8f80?utm_campaign=1048&utm_source=git)** | Val-d’Or, Quebec, Canada | Hybrid | Feb 08 |
-| ↳ | **[Intern, Automation Engineering and System Integration - Summer 2026](https://jobright.ai/jobs/info/698945498ca8121a3a6b8f7f?utm_campaign=1048&utm_source=git)** | Saguenay, Quebec, Canada | On Site | Feb 08 |
-| ↳ | **[Intern, Automation - Summer 2026](https://jobright.ai/jobs/info/698945370f6f7e7a2ce448e2?utm_campaign=1048&utm_source=git)** | Mont-St-Hilaire, Quebec, Canada | On Site | Feb 08 |
 | ↳ | **[Intern, Mechanical Department - Summer 2026](https://jobright.ai/jobs/info/698944cb8da7a61204642296?utm_campaign=1048&utm_source=git)** | Saguenay, Quebec, Canada | On Site | Feb 08 |
 | **[Thatcher Company](http://tchem.com)** | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/698941398da7a612046421ce?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Feb 08 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/698941248ca8121a3a6b8e97?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/69392fc6ac80bb5492bbcc18?utm_campaign=1048&utm_source=git)** | Guntersville, AL | On Site | Feb 08 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Power Technical Intern - Fort Worth, TX](https://jobright.ai/jobs/info/68c333ed5001f8077bf62262?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Quality - Remote (Summer 2026)](https://jobright.ai/jobs/info/6988b3398ca8121a3a6b28bd?utm_campaign=1048&utm_source=git)** | Washington, DC | Remote | Feb 08 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/68cddaaf1ad6b16f0289f789?utm_campaign=1048&utm_source=git)** | Live Oak, FL | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
