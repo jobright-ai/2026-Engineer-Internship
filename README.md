@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69890fcd8da7a6120463fe71?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
+| **[Wing Group](https://www.inflatablesolutions.com/)** | **[Intern- Manufacturing Engineer](https://jobright.ai/jobs/info/698903228ca8121a3a6b6a95?utm_campaign=1048&utm_source=git)** | Patten Company JAX - Jacksonville, FL 32218 | On Site | Feb 08 |
 | **[The Joyce Theater Foundation, Inc.](http://joyce.org)** | **[Development Intern](https://jobright.ai/jobs/info/698900da8ca8121a3a6b68fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[Albaugh, LLC](http://albaughllc.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6988fb288ca8121a3a6b6524?utm_campaign=1048&utm_source=git)** | St Joseph, MO | On Site | Feb 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quantum Computing Algorithms Intern](https://jobright.ai/jobs/info/6988f75e8ca8121a3a6b5857?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Feb 08 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern -Engineering(Construction)](https://jobright.ai/jobs/info/6988eec28ca8121a3a6b4f93?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Transmission Planning Intern](https://jobright.ai/jobs/info/6988ede98ca8121a3a6b4eaf?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 08 |
 | **[HFS Company](http://hfscompany.com)** | **[Architectural / Engineering Intern (Summer - Onsite)](https://jobright.ai/jobs/info/6988eb0f0f6f7e7a2ce40571?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical  Engineering  Intern](https://jobright.ai/jobs/info/6988eac48da7a6120463de78?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 08 |
 | **[Metropolitan District Commission](https://themdc.org)** | **[Co-Op/College Internship -Engineering or Construction](https://jobright.ai/jobs/info/6988ea710f6f7e7a2ce40544?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
 | **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/6988e7608ca8121a3a6b4b4c?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69365438f131d96e48470b6c?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Mechanical Engineering Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/697ee6d0ce48107c05430d0f?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Feb 08 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Safety Internship 2025/2026](https://jobright.ai/jobs/info/68df16ea5ab4977c2e94f620?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 08 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Supplier Quality & Development Intern Opportunities](https://jobright.ai/jobs/info/6988a7dc0f6f7e7a2ce3de44?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 08 |
-| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd9209ddc10244dd680f76?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Signal Integrity Engineer Intern (Cloud Platform Optics) - Master's Degree](https://jobright.ai/jobs/info/6917f3aebcdbf3560c9ccf23?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 08 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68faf13b9e8e925ac6c87b40?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
