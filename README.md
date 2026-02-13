@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6933cc5df131d96e484673c8?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | Feb 12 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Defense Science and Technology Internship Graduate Computer Student - Summer 2026](https://jobright.ai/jobs/info/6972f7ac694e99351d143f72?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Feb 12 |
 | **[Legends Global](http://legends.net)** | **[Audio-Visual Intern](https://jobright.ai/jobs/info/698ec4820f6f7e7a2ceae6a1?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Feb 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6972e50798522904c697b8bd?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Feb 12 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Summer Internship- Computational Neuroscience Dr. Stamoulis Lab](https://jobright.ai/jobs/info/698ec0b80f6f7e7a2ceae2df?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Feb 12 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Survey/Geospatial Intern](https://jobright.ai/jobs/info/6972ffa2694e99351d144508?utm_campaign=1048&utm_source=git)** | Hamilton, OH | On Site | Feb 12 |
 | **[Legends Global](http://legends.net)** | **[Security Management Intern](https://jobright.ai/jobs/info/698ebc5f78b4502f12a599be?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Feb 12 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Reinforcement Learning, Robotics](https://jobright.ai/jobs/info/698ebaae78b4502f12a59872?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Feb 12 |
+| **[Arm](http://www.arm.com)** | **[Intern, Cloud AI Software Ecosystem Development](https://jobright.ai/jobs/info/698ee8b5f64d441a1651362f?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 12 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - DMPK](https://jobright.ai/jobs/info/6972d2de0488fd59f7d5cae3?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Feb 12 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/698eb9560f6f7e7a2ceadba6?utm_campaign=1048&utm_source=git)** | SD Metro Area | On Site | Feb 12 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/6972834f9b83b424830e735c?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 12 |
@@ -82,16 +85,19 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Factors Intern](https://jobright.ai/jobs/info/69728ae79b83b424830e7beb?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Engineering](https://jobright.ai/jobs/info/6972ee520488fd59f7d5e9fd?utm_campaign=1048&utm_source=git)** | Naples, FL | On Site | Feb 12 |
 | **[KTGY](http://ktgy.com)** | **[Planning Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e46b1d55d64a205347cf?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 12 |
+| **[Talen Energy](https://www.talenenergy.com/)** | **[Intern - IT Infrastructure & Operations](https://jobright.ai/jobs/info/6972b7544ccbf64f8df2c2d9?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Feb 12 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/69728e544ccbf64f8df28072?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Airport Facilities Maintenance Intern](https://jobright.ai/jobs/info/698eb4ccf64d441a16510392?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Feb 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb4b30f6f7e7a2cead7a9?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb4ab0f6f7e7a2cead79f?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Feb 12 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Robotic Hardware, Simulation and Data](https://jobright.ai/jobs/info/698eb47078b4502f12a593f7?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Feb 12 |
 | **[Motional](https://motional.com)** | **[2026 Summer Intern –PhD – Foundations: Localization](https://jobright.ai/jobs/info/698eb3920f6f7e7a2cead6e4?utm_campaign=1048&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Feb 12 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Relay Tech Intern Summer 2026 - Florida](https://jobright.ai/jobs/info/698ed63e78b4502f12a5ad81?utm_campaign=1048&utm_source=git)** | Monticello, FL | On Site | Feb 12 |
+| ↳ | **[Relay Tech Intern Summer 2026 - Florida](https://jobright.ai/jobs/info/698ed9cb78b4502f12a5b92c?utm_campaign=1048&utm_source=git)** | High Springs, FL | On Site | Feb 12 |
+| ↳ | **[Relay Tech Intern Summer 2026 - Florida](https://jobright.ai/jobs/info/698ed81b0f6f7e7a2ceaff5d?utm_campaign=1048&utm_source=git)** | Oviedo, FL | On Site | Feb 12 |
 | **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/698d56c40f6f7e7a2ce93486?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Feb 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Computational Materials Science, Hybrid](https://jobright.ai/jobs/info/69437f03dd382f5f56698ee2?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 12 |
 | **[MITRE](http://www.mitre.org)** | **[Cyber for Identity, Trust, and Assurance Intern](https://jobright.ai/jobs/info/698ed06b78b4502f12a5a8b8?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Feb 12 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student- Mechanical and Civil Engineering Lab Assistant](https://jobright.ai/jobs/info/698ed0d878b4502f12a5a924?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | Feb 12 |
 | **[JELD-WEN, Inc.](http://www.jeld-wen.com/)** | **[Summer 2026 Industrial Engineering Intern](https://jobright.ai/jobs/info/698ecb9c78b4502f12a5a47e?utm_campaign=1048&utm_source=git)** | Statesville, NC | On Site | Feb 12 |
 | ↳ | **[Summer 2026 Industrial Engineering Intern](https://jobright.ai/jobs/info/698ecdb778b4502f12a5a650?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Feb 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Construction Materials Testing Intern – Summer 2026](https://jobright.ai/jobs/info/6972a2b04ccbf64f8df2abbf?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Feb 12 |
@@ -113,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern-NMS Resiliency Automation](https://jobright.ai/jobs/info/698ed10c78b4502f12a5a957?utm_campaign=1048&utm_source=git)** | Herndon, VA | On Site | Feb 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ebe1df64d441a16510dd7?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eccfe78b4502f12a5a5a4?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Feb 12 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec1660f6f7e7a2ceae365?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec5170f6f7e7a2ceae723?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Feb 12 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec1660f6f7e7a2ceae365?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ecdd978b4502f12a5a666?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec5ebf64d441a165116ff?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Feb 12 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec06678b4502f12a59c8e?utm_campaign=1048&utm_source=git)** | Dickinson, ND | On Site | Feb 12 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/697289394ccbf64f8df27c57?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[GHD](http://www.ghd.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/698e9b6278b4502f12a57447?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Hybrid | Feb 12 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/6972b564584a1c1ef6fdc79b?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Feb 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Transmission Intern](https://jobright.ai/jobs/info/698e99e678b4502f12a57389?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Pharmaceutical Development](https://jobright.ai/jobs/info/697a83968dbbf73badc7aae5?utm_campaign=1048&utm_source=git)** | Orange County, CA | Hybrid | Feb 12 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Robotic Hardware, Simulation and Data](https://jobright.ai/jobs/info/698ec76f0f6f7e7a2ceae942?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Feb 12 |
 | ↳ | **[Research Intern - 3D Vision and Generation, Self-Driving](https://jobright.ai/jobs/info/698ec48f0f6f7e7a2ceae6aa?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Feb 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Industrial Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6972d92c1d55d64a20533a73?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Feb 12 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2669 - Hilcorp Geology Intern](https://jobright.ai/jobs/info/6972a0e2584a1c1ef6fdae25?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 12 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Materials Engineering Division (MED): Graduate Intern - Spring 2026](https://jobright.ai/jobs/info/6972a0fb9b83b424830ea62d?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Feb 12 |
-| ↳ | **[Atmospheric, Earth, & Energy Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972a6c54ccbf64f8df2b35f?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Feb 12 |
-| **[Molex](http://www.molex.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/6972afe2584a1c1ef6fdc282?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Feb 12 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[ES&H Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69729ce34ccbf64f8df29f1c?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Feb 12 |
-| **[Jacobs](http://www.jacobs.com)** | **[Environmental Compliance Engineering Intern-Multiple locations - Summer 2026](https://jobright.ai/jobs/info/69729b85584a1c1ef6fda255?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Feb 12 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Transportation Intern](https://jobright.ai/jobs/info/6972ae9d4ccbf64f8df2b9a7?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
