@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Intern (5G 6G Systems R&D)](https://jobright.ai/jobs/info/69914ca30f6f7e7a2ced8ed5?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Infrastructure & Platform Operations Intern](https://jobright.ai/jobs/info/699179d06ea51a7610f3e38f?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
+| **[Koontz Bryant Johnson Williams (KBJW)](https://kbjwgroup.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/699177460cc8ea15f1dc23fb?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Feb 14 |
+| **[Glencore](http://glencore.com)** | **[Summer Intern - Nickel/Ferro Alloys](https://jobright.ai/jobs/info/699173fb0f6f7e7a2cedd153?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 14 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/69916c7b0f6f7e7a2cedc6e9?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/699147b80f6f7e7a2ced8984?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/699144020f6f7e7a2ced88aa?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 14 |
 | ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/699135946ea51a7610f38833?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Feb 14 |
-| ↳ | **[Retail Field Summer Internship - SWINKY Division](https://jobright.ai/jobs/info/699135920cc8ea15f1dbc8f0?utm_campaign=1048&utm_source=git)** | Owensboro, KY | On Site | Feb 14 |
 | **[J. Fletcher Creamer & Son, Inc.](http://jfcson.com)** | **[Intern - Project Engineer](https://jobright.ai/jobs/info/699135600f6f7e7a2ced7931?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Feb 14 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6991355b0cc8ea15f1dbc8e0?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 14 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Body Shop Intern](https://jobright.ai/jobs/info/6989f4eb0f6f7e7a2ce50a78?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Feb 14 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Cybertection LLC](https://cybertection-guardbot.com)** | **[Internship Trainee](https://jobright.ai/jobs/info/6990dd3b6ea51a7610f34526?utm_campaign=1048&utm_source=git)** | Stevensville, MD | Remote | Feb 14 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Mechanical Drafter Intern](https://jobright.ai/jobs/info/6990da7a0cc8ea15f1db823d?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Feb 14 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/6990da426ea51a7610f344dc?utm_campaign=1048&utm_source=git)** | Lapeer, MI | On Site | Feb 14 |
-| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Constraint Modeling and Optimal Control](https://jobright.ai/jobs/info/6990d9f06ea51a7610f344b7?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Feb 14 |
 | **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[CMA Intern](https://jobright.ai/jobs/info/6990d9c70cc8ea15f1db81bd?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Feb 14 |
 | **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-op Fall 2026](https://jobright.ai/jobs/info/6990d6bd6ea51a7610f343a2?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Feb 14 |
 | **[ABB](https://global.abb/group/en)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6990caa96ea51a7610f33e0b?utm_campaign=1048&utm_source=git)** | New Berlin, Wisconsin, United States of America | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Toolmaker](https://jobright.ai/jobs/info/69744168bc8e722e7b193a9b?utm_campaign=1048&utm_source=git)** | Rochester, NH | On Site | Feb 14 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae74b9758f2e4ac3013b27?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Feb 14 |
 | ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae73ef758f2e4ac3013a3a?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Feb 14 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/697458b5bc8e722e7b196b0b?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
