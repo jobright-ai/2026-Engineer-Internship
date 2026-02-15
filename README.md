@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6992290e6ea51a7610f4545a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
+| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/699228670cc8ea15f1dc9ac1?utm_campaign=1048&utm_source=git)** | Flint, MI | On Site | Feb 15 |
+| **[Greenville Water](https://www.greenvillewater.com/)** | **[GIS Summer Intern / Part-time Temporary](https://jobright.ai/jobs/info/699227ec0cc8ea15f1dc9a74?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
+| **[AeroMatrix 12](aeromatrix12.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/699227760cc8ea15f1dc9a2b?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 15 |
+| **[Axcelis Technologies](http://www.axcelis.com)** | **[Manufacturing Engineer Co-op Production Support](https://jobright.ai/jobs/info/699226020f6f7e7a2cee4758?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Research Intern Program](https://jobright.ai/jobs/info/699223230cc8ea15f1dc97df?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Feb 15 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Internship (5G 6G Systems R&D)](https://jobright.ai/jobs/info/69921eb60cc8ea15f1dc95a0?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/699219740cc8ea15f1dc92b0?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68e82bbb09580a2fe57f4a66?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
@@ -108,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Egis](https://www.egis-group.com/fr)** | **[Intern, Transportation Structures](https://jobright.ai/jobs/info/6991f0e60f6f7e7a2cee2dc0?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 15 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6991f0a36ea51a7610f438a6?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Parenteral Bioanalytical Intern (PDS&T) (PhD)](https://jobright.ai/jobs/info/6991f0770f6f7e7a2cee2d7e?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Feb 15 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/6991f0520f6f7e7a2cee2d65?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[Cleaning Engineering Internship](https://jobright.ai/jobs/info/6991efd26ea51a7610f43823?utm_campaign=1048&utm_source=git)** | West Lebanon, NH | On Site | Feb 15 |
+| ↳ | **[Cleaning Engineering Internship](https://jobright.ai/jobs/info/6991efd26ea51a7610f43823?utm_campaign=1048&utm_source=git)** | West Lebanon, NH | On Site | Feb 15 |
 | ↳ | **[R&D Novel CAR Intern](https://jobright.ai/jobs/info/6991efc80f6f7e7a2cee2d31?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Feb 15 |
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6991edb60cc8ea15f1dc7e3e?utm_campaign=1048&utm_source=git)** | Red Bluff, CA | On Site | Feb 15 |
 | **[Gerdau North America](http://www.gerdau.com)** | **[2026 Engineering Leadership Development Program](https://jobright.ai/jobs/info/68cbdf11ba798c1a501d5b84?utm_campaign=1048&utm_source=git)** | Midlothian, TX | On Site | Feb 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd140ae23def7af55b4ee0?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Feb 15 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6921222000c9ee50eaecbfef?utm_campaign=1048&utm_source=git)** | Metamora, OH | On Site | Feb 15 |
 | **[Graco](http://graco.com/in/en/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/68cc28df16d00d2beeb1b0d8?utm_campaign=1048&utm_source=git)** | Erie, PA | On Site | Feb 15 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6991d1f90f6f7e7a2cee1558?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Feb 15 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Renewables Intern](https://jobright.ai/jobs/info/6977d1a152f3c27ec643f560?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Feb 15 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd11fdb2a74e1837ed1c28?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Feb 15 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Civil/Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e8082909580a2fe57f2778?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Feb 15 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6969bc771703f05405abb50a?utm_campaign=1048&utm_source=git)** | Kearney, NE | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
