@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/699123bb0cc8ea15f1dbbc72?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Feb 14 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Internship (5G 6G Systems R&D)](https://jobright.ai/jobs/info/69910fa76ea51a7610f3667a?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern Mechanical](https://jobright.ai/jobs/info/699100dc0cc8ea15f1dba3ec?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Process Engineer Intern – Big Sandy](https://jobright.ai/jobs/info/6990fc5b0cc8ea15f1dba3bb?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[IC Validation Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/694511f163141d18845495da?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae68dedaf1431824ca2d86?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Feb 14 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Quality Internship Program](https://jobright.ai/jobs/info/6990abcd0f6f7e7a2ced2296?utm_campaign=1048&utm_source=git)** | Sturtevant, WI | On Site | Feb 14 |
-| **[Sunflower Electric Power Corporation](https://www.sunflower.net/)** | **[Line Technician Intern](https://jobright.ai/jobs/info/6990ab570cc8ea15f1db7165?utm_campaign=1048&utm_source=git)** | Great Bend, KS | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
