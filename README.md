@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/699135946ea51a7610f38833?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Feb 14 |
+| **[FetchJobs.co](https://www.fetchjobs.co)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/699147b80f6f7e7a2ced8984?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/699144020f6f7e7a2ced88aa?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 14 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/699135946ea51a7610f38833?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Feb 14 |
 | ↳ | **[Retail Field Summer Internship - SWINKY Division](https://jobright.ai/jobs/info/699135920cc8ea15f1dbc8f0?utm_campaign=1048&utm_source=git)** | Owensboro, KY | On Site | Feb 14 |
 | **[J. Fletcher Creamer & Son, Inc.](http://jfcson.com)** | **[Intern - Project Engineer](https://jobright.ai/jobs/info/699135600f6f7e7a2ced7931?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Feb 14 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/6991355b0cc8ea15f1dbc8e0?utm_campaign=1048&utm_source=git)** | Sioux City, IA | On Site | Feb 14 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[RISE](http://www.riseengineering.com)** | **[Clean Energy Intern](https://jobright.ai/jobs/info/69912f510f6f7e7a2ced75c1?utm_campaign=1048&utm_source=git)** | Cranston, RI 02910 | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Infrastructure & Platform Operations Intern](https://jobright.ai/jobs/info/69912ce30cc8ea15f1dbc129?utm_campaign=1048&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineer Intern - Talent Pool](https://jobright.ai/jobs/info/699123bb0cc8ea15f1dbbc72?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Feb 14 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern Mechanical](https://jobright.ai/jobs/info/699100dc0cc8ea15f1dba3ec?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Process Engineer Intern – Big Sandy](https://jobright.ai/jobs/info/6990fc5b0cc8ea15f1dba3bb?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Feb 14 |
 | ↳ | **[Facilities Engineering Intern](https://jobright.ai/jobs/info/6990fbbb0cc8ea15f1dba38c?utm_campaign=1048&utm_source=git)** | Moon, PA | On Site | Feb 14 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Environmental Health Technician (Public Health Intern)](https://jobright.ai/jobs/info/6990f0fc0cc8ea15f1dba2a1?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Toolmaker](https://jobright.ai/jobs/info/69744168bc8e722e7b193a9b?utm_campaign=1048&utm_source=git)** | Rochester, NH | On Site | Feb 14 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae74b9758f2e4ac3013b27?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Feb 14 |
 | ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae73ef758f2e4ac3013a3a?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Feb 14 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Civil Engineering Intern](https://jobright.ai/jobs/info/697458b5bc8e722e7b196b0b?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
