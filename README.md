@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System Hardware Engineer Internship (5G 6G Systems R&D)](https://jobright.ai/jobs/info/69910fa76ea51a7610f3667a?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Engineering Intern Mechanical](https://jobright.ai/jobs/info/699100dc0cc8ea15f1dba3ec?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 14 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Process Engineer Intern – Big Sandy](https://jobright.ai/jobs/info/6990fc5b0cc8ea15f1dba3bb?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Feb 14 |
+| ↳ | **[Facilities Engineering Intern](https://jobright.ai/jobs/info/6990fbbb0cc8ea15f1dba38c?utm_campaign=1048&utm_source=git)** | Moon, PA | On Site | Feb 14 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Limited Term Environmental Health Technician (Public Health Intern)](https://jobright.ai/jobs/info/6990f0fc0cc8ea15f1dba2a1?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Feb 14 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Internship 2026](https://jobright.ai/jobs/info/6990efe86ea51a7610f36362?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 14 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Equipment Quality Intern](https://jobright.ai/jobs/info/6990ede50f6f7e7a2ced52b3?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
@@ -86,12 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccca65d99309000e5a3573?utm_campaign=1048&utm_source=git)** | Richland Center, WI | On Site | Feb 14 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Safety Intern - Field](https://jobright.ai/jobs/info/6954ae305bb7de448ef7b180?utm_campaign=1048&utm_source=git)** | Manhattan, KS | On Site | Feb 14 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Intern, Test Engineer](https://jobright.ai/jobs/info/6974448b206da320f49e67fd?utm_campaign=1048&utm_source=git)** | Palm Bay, FL | Hybrid | Feb 14 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Test Engineering  Internship](https://jobright.ai/jobs/info/6990c5330f6f7e7a2ced298f?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Feb 14 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Environmental Health & Safety (Distribution Center) Intern—Summer 2026](https://jobright.ai/jobs/info/693c25d950bbaf76504f7895?utm_campaign=1048&utm_source=git)** | Ellabell, GA | On Site | Feb 14 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud DevOps Engineer Intern- Hybrid/ Austin, TX](https://jobright.ai/jobs/info/6973f720bc8e722e7b18dd7f?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Feb 14 |
 | **[ABB](https://global.abb/group/en)** | **[Environment, Health & Safety Intern – Summer 2026](https://jobright.ai/jobs/info/6974519abc8e722e7b19608c?utm_campaign=1048&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Feb 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/693c8e5daa598a08c3ed618e?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Feb 14 |
-| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Mechanical Engineer Intern  (2025 - 2026)](https://jobright.ai/jobs/info/6990c1c50cc8ea15f1db77dd?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Industrial Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68cf25e3fb49c96ca6ea611c?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Feb 14 |
 | ↳ | **[Environmental Health & Safety (Distribution Center) Intern—Summer 2026](https://jobright.ai/jobs/info/69658dde2cbf4e44756f2019?utm_campaign=1048&utm_source=git)** | San Bernardino, CA | On Site | Feb 14 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[CAD Drafter Intern - Nuclear](https://jobright.ai/jobs/info/695a2e8c9f1b381eb272c9a2?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae68dedaf1431824ca2d86?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Feb 14 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Quality Internship Program](https://jobright.ai/jobs/info/6990abcd0f6f7e7a2ced2296?utm_campaign=1048&utm_source=git)** | Sturtevant, WI | On Site | Feb 14 |
 | **[Sunflower Electric Power Corporation](https://www.sunflower.net/)** | **[Line Technician Intern](https://jobright.ai/jobs/info/6990ab570cc8ea15f1db7165?utm_campaign=1048&utm_source=git)** | Great Bend, KS | On Site | Feb 14 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Oil, Gas, Chemical (Summer 2026)](https://jobright.ai/jobs/info/68ae4cb5daf1431824ca2211?utm_campaign=1048&utm_source=git)** | Ingleside, TX | On Site | Feb 14 |
-| **[Sunflower Electric Power Corporation](https://www.sunflower.net/)** | **[Line Technician Intern: Colby](https://jobright.ai/jobs/info/6990aac40f6f7e7a2ced2262?utm_campaign=1048&utm_source=git)** | Great Bend, KS | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
