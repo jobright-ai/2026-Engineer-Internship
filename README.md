@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Artificial intelligence intern](https://jobright.ai/jobs/info/6992d089e0bddb6acac1119c?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Feb 16 |
+| **[Ensora Health](https://www.therapybrands.com/)** | **[AI/ML Intern - Generative AI & Intelligent Systems](https://jobright.ai/jobs/info/6992e18481476f6176aa70a0?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Feb 16 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Supplier Engineering Intern](https://jobright.ai/jobs/info/696384ea2cbf4e44756d34ab?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 16 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Mechanical Engineering Co-Op - (July - December 2026)](https://jobright.ai/jobs/info/6992e11981476f6176aa7032?utm_campaign=1048&utm_source=git)** | McLeansville, NC | On Site | Feb 16 |
+| **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Quality Systems](https://jobright.ai/jobs/info/6992e0df81476f6176aa7019?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 16 |
+| **[Novelis](http://novelis.com)** | **[Electrical Technician Intern](https://jobright.ai/jobs/info/693bf0c8aa598a08c3ecf1a9?utm_campaign=1048&utm_source=git)** | Oswego, NY | On Site | Feb 16 |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[Energy Efficiency Intern](https://jobright.ai/jobs/info/6992dd48ce78e77b4fd6a436?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
+| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Process Engineering Co-Op](https://jobright.ai/jobs/info/698e56f70f6f7e7a2cea5e30?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Feb 16 |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[Water Quality Monitoring Intern](https://jobright.ai/jobs/info/6992dc7781476f6176aa6f07?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Feb 16 |
+| **[Atlas Energy Solutions](https://atlas.energy)** | **[Reliability / Maintenance Engineering Intern](https://jobright.ai/jobs/info/698ce44b78b4502f12a35bc1?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Feb 16 |
+| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/698e5b3b0f6f7e7a2cea62bc?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Feb 16 |
+| **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Quality Assurance Internship $19/HR](https://jobright.ai/jobs/info/6992daee81476f6176aa6e0e?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
+| **[American Electric Power](http://aep.com)** | **[Electrical Designer Intern - Roanoke, VA](https://jobright.ai/jobs/info/6964b2ad2cbf4e44756e2bbf?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Feb 16 |
+| **[GenPark](https://genpark.ai)** | **[Artificial intelligence intern](https://jobright.ai/jobs/info/6992da51e0bddb6acac116b8?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Feb 16 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Water Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6992d4d581476f6176aa6b01?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Feb 16 |
 | **[Exus Renewables North America](www.exus.us)** | **[Grid Interconnection Intern](https://jobright.ai/jobs/info/6992ca9dce78e77b4fd69a4e?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 15 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Urban Forestry](https://jobright.ai/jobs/info/6992bfa9e0bddb6acac108ed?utm_campaign=1048&utm_source=git)** | Hamilton, OH | On Site | Feb 15 |
 | **[CFD Research Corporation](https://www.cfd-research.com)** | **[INTERN - Multiphysics Modeling & Simulation – Summer 2026 (Huntsville, AL)](https://jobright.ai/jobs/info/697bf4b80b88cc7d6422e0c0?utm_campaign=1048&utm_source=git)** | Huntsville, AL, USA | On Site | Feb 15 |
@@ -70,7 +83,9 @@ For a complete list, click the following sortable link below:
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Ground Systems Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6992b4f7ce78e77b4fd669b6?utm_campaign=1048&utm_source=git)** | Mississippi, United States | On Site | Feb 15 |
 | ↳ | **[Fluid Systems Intern Summer 2026](https://jobright.ai/jobs/info/6992b49981476f6176aa3913?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
 | ↳ | **[Space Operations Intern](https://jobright.ai/jobs/info/6992b408e0bddb6acac0dffc?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
-| ↳ | **[Fluid Component Intern Summer 2026](https://jobright.ai/jobs/info/6992b0eb81476f6176aa3091?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
+| **[TriVector Services, Inc.](https://www.trivector.us)** | **[Intern](https://jobright.ai/jobs/info/6992d59781476f6176aa6b89?utm_campaign=1048&utm_source=git)** | Huntsville,AL,US | On Site | Feb 15 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Camp Zon Summer Intern 2026](https://jobright.ai/jobs/info/6992d8f7ce78e77b4fd6a1a5?utm_campaign=1048&utm_source=git)** | Boston | Hybrid | Feb 15 |
+| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Fluid Component Intern Summer 2026](https://jobright.ai/jobs/info/6992b0eb81476f6176aa3091?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6992b0c281476f6176aa3079?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Optical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6992afe781476f6176aa2e5d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 15 |
 | ↳ | **[Quality Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6992ada5ce78e77b4fd65e40?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Quantum Optics and Photonics Student Researcher Intern](https://jobright.ai/jobs/info/699200510f6f7e7a2cee3512?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Feb 15 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae5f8c758f2e4ac3013228?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/695df40f821f2713684b24b7?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Feb 15 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae4d62d627244576e52fba?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Feb 15 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/6903aba2d64a22104aa91908?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 15 |
-| **[Threemile Canyon Farms](https://www.threemilecanyonfarms.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/68e84632c72beb74cb31d153?utm_campaign=1048&utm_source=git)** | Boardman, OR | On Site | Feb 15 |
-| **[Vortexion Labs](vortexionlabs.us)** | **[Internship Program - Quality](https://jobright.ai/jobs/info/6991fc0f0f6f7e7a2cee32f7?utm_campaign=1048&utm_source=git)** | Sturtevant, WI | On Site | Feb 15 |
-| **[Twin City Fan & Blower](https://www.tcf.com/)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/6991fa1a0f6f7e7a2cee31fa?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Feb 15 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Quality Program Internship](https://jobright.ai/jobs/info/6991f8af0cc8ea15f1dc8330?utm_campaign=1048&utm_source=git)** | Beloit, WI | On Site | Feb 15 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/6991f6636ea51a7610f43b7f?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[QC Intern](https://jobright.ai/jobs/info/6991f2f60cc8ea15f1dc805c?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 15 |
-| ↳ | **[Operational Modelling Intern](https://jobright.ai/jobs/info/6991f2080cc8ea15f1dc7fda?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 15 |
-| ↳ | **[Quality Assurance Validation Intern](https://jobright.ai/jobs/info/6991f1a00cc8ea15f1dc7fb1?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 15 |
-| ↳ | **[Equipment Automation Intern](https://jobright.ai/jobs/info/6991f1860cc8ea15f1dc7fad?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 15 |
-| **[Egis](https://www.egis-group.com/fr)** | **[Intern, Transportation Structures](https://jobright.ai/jobs/info/6991f0e60f6f7e7a2cee2dc0?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 15 |
-| **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6991f0a36ea51a7610f438a6?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Parenteral Bioanalytical Intern (PDS&T) (PhD)](https://jobright.ai/jobs/info/6991f0770f6f7e7a2cee2d7e?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Feb 15 |
-| ↳ | **[Cleaning Engineering Internship](https://jobright.ai/jobs/info/6991efd26ea51a7610f43823?utm_campaign=1048&utm_source=git)** | West Lebanon, NH | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
