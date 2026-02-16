@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach USA](http://www.coachusa.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/699253e10f6f7e7a2cee6fac?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | Feb 15 |
+| **[MITRE](http://www.mitre.org)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/699253610f6f7e7a2cee6f72?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 15 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/699251b30cc8ea15f1dcc172?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/699249170f6f7e7a2cee65de?utm_campaign=1048&utm_source=git)** | Minooka, Illinois | On Site | Feb 15 |
+| ↳ | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/6992472d0f6f7e7a2cee6488?utm_campaign=1048&utm_source=git)** | Minooka, IL | On Site | Feb 15 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69923dcc6ea51a7610f46a73?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 15 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op. (Warehouse Solutions)](https://jobright.ai/jobs/info/699236a46ea51a7610f46348?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/6992365f6ea51a7610f462df?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Feb 15 |
@@ -69,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Mennel Milling Company](http://mennel.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69922c286ea51a7610f457ff?utm_campaign=1048&utm_source=git)** | Fostoria, OH | On Site | Feb 15 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Watersheds Summer Intern / Part-Time Temporary](https://jobright.ai/jobs/info/69922b826ea51a7610f45768?utm_campaign=1048&utm_source=git)** | Travelers Rest, SC | On Site | Feb 15 |
 | ↳ | **[Field Services Summer Intern / Part-Time Temporary](https://jobright.ai/jobs/info/69922b4a6ea51a7610f45716?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6992290e6ea51a7610f4545a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
+| **[Ocean Network Express North America](https://us.one-line.com)** | **[Internship- Ocean Network Express NA](https://jobright.ai/jobs/info/69924e050cc8ea15f1dcbc93?utm_campaign=1048&utm_source=git)** | Boise, ID, US | On Site | Feb 15 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/699228670cc8ea15f1dc9ac1?utm_campaign=1048&utm_source=git)** | Flint, MI | On Site | Feb 15 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[GIS Summer Intern / Part-time Temporary](https://jobright.ai/jobs/info/699227ec0cc8ea15f1dc9a74?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/699227760cc8ea15f1dc9a2b?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Feb 15 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Civil Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68eb2ae92f64880ca0b55ac7?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
 | **[Vontier](https://www.vontier.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/690c16654a1b456627b15f3c?utm_campaign=1048&utm_source=git)** | Duncansville, PA | On Site | Feb 15 |
-| **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Large AI Models for Digital Fabrication](https://jobright.ai/jobs/info/693d6864aa598a08c3ee2166?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 15 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Human Factors Intern](https://jobright.ai/jobs/info/697290fe9b83b424830e83ae?utm_campaign=1048&utm_source=git)** | Concord, MA | Hybrid | Feb 15 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd14a61ad6b16f02894a69?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Feb 15 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Mechanical Engineering Intern - Summer 2026 Semester](https://jobright.ai/jobs/info/69825ba30f6f7e7a2cdb8474?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
