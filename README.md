@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Nano-photonics Design (PhD)](https://jobright.ai/jobs/info/6905d159ff462851fe0009c6?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 16 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Watershed Protection – Drinking/Wastewater Labs](https://jobright.ai/jobs/info/697b247f1136d179eeee877a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/6993097be0bddb6acac14c7d?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Feb 16 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Water Treatment and Reclamation](https://jobright.ai/jobs/info/697b1df91136d179eeee823e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| ↳ | **[DWM Intern - 2026 College Student Summer Internship – Office of Safety Security and Emergency Management](https://jobright.ai/jobs/info/697b1c641423772304eb3420?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/6959750eaa05c26e7ab33504?utm_campaign=1048&utm_source=git)** | Rochester, NH | On Site | Feb 16 |
+| **[Los Angeles Lakers](https://heylink.me/link.indahjp/)** | **[Equipment Intern](https://jobright.ai/jobs/info/69930514e0bddb6acac14881?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Feb 16 |
+| **[CITI, Inc.](citi-inc.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/695dc815f1f8465b79f41504?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Feb 16 |
+| **[UES](https://www.teamues.com)** | **[Intern/Co-Op](https://jobright.ai/jobs/info/69897b4c47434001cc67b2e1?utm_campaign=1048&utm_source=git)** | Lebanon, TN | On Site | Feb 16 |
+| **[Nuro](https://nuro.ai)** | **[Software Engineer, ML Infrastructure - Internship](https://jobright.ai/jobs/info/69040dd9ff462851feff22f7?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Feb 16 |
+| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Airport Facilities Maintenance Intern](https://jobright.ai/jobs/info/698eb4ccf64d441a16510392?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Feb 16 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Engineering Services](https://jobright.ai/jobs/info/697b1abe1423772304eb323f?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Engineer 1 - Graduate Program](https://jobright.ai/jobs/info/6863e8b0f2906c665c3887ca?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Feb 16 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[2026 Wound Closure R&D Intern](https://jobright.ai/jobs/info/6992fe2fe0bddb6acac1419c?utm_campaign=1048&utm_source=git)** | Raritan, NJ | On Site | Feb 16 |
 | **[CITI, Inc.](citi-inc.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/695dc0a1efe5dd5cbd3d98ef?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Feb 16 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/6992708d0cc8ea15f1dcc694?utm_campaign=1048&utm_source=git)** | Brea, CA | On Site | Feb 15 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69926ecf0cc8ea15f1dcc5c2?utm_campaign=1048&utm_source=git)** | Chatham, Virginia, United States | On Site | Feb 15 |
 | **[Rydell](https://www.rydellcars.com)** | **[Automotive Service Technician Internship](https://jobright.ai/jobs/info/699286950cc8ea15f1dce6fa?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, 58201, US | On Site | Feb 15 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6992635f0cc8ea15f1dcc412?utm_campaign=1048&utm_source=git)** | Chatham, VA | On Site | Feb 15 |
-| **[Coach USA](http://www.coachusa.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/699253e10f6f7e7a2cee6fac?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | Feb 15 |
-| **[MITRE](http://www.mitre.org)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/699253610f6f7e7a2cee6f72?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 15 |
-| **[Vistra Corp.](https://vistracorp.com)** | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/699249170f6f7e7a2cee65de?utm_campaign=1048&utm_source=git)** | Minooka, Illinois | On Site | Feb 15 |
-| ↳ | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/6992472d0f6f7e7a2cee6488?utm_campaign=1048&utm_source=git)** | Minooka, IL | On Site | Feb 15 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69923dcc6ea51a7610f46a73?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 15 |
-| **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op. (Warehouse Solutions)](https://jobright.ai/jobs/info/699236a46ea51a7610f46348?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
-| ↳ | **[Manufacturing Engineer Co-op Supply Chain Support](https://jobright.ai/jobs/info/699235026ea51a7610f46164?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
-| **[Thompson Engineering](http://thompsonengineering.com)** | **[Thompson Engineering Summer Collegiate Internship](https://jobright.ai/jobs/info/699233ec0cc8ea15f1dca45b?utm_campaign=1048&utm_source=git)** | Tuscaloosa, AL | On Site | Feb 15 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Internship 2026](https://jobright.ai/jobs/info/699233a20f6f7e7a2cee5231?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Feb 15 |
-| **[EMIT Technologies, Inc.](http://emittechnologies.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/699230076ea51a7610f45c05?utm_campaign=1048&utm_source=git)** | Sheridan, WY | On Site | Feb 15 |
-| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Post Grad Intern](https://jobright.ai/jobs/info/697916bc88e2b47213bd30ec?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
