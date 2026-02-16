@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/699296e9ce78e77b4fd645fb?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Feb 15 |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Supply Chain Intern - Summer 2026 - Non-Engineering](https://jobright.ai/jobs/info/699291b0e0bddb6acac0b7da?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern](https://jobright.ai/jobs/info/699289680f6f7e7a2cee9888?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[Environmental Services Intern / Crothall Healthcare, Lifebridge Sinai](https://jobright.ai/jobs/info/6992864f6ea51a7610f497a1?utm_campaign=1048&utm_source=git)** | Randallstown, MD | On Site | Feb 15 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/699286340f6f7e7a2cee975e?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Feb 15 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Engineering Intern](https://jobright.ai/jobs/info/68e98e4e0930fe0bc46272d8?utm_campaign=1048&utm_source=git)** | Spokane Valley, WA | On Site | Feb 15 |
 | **[Skanska](http://skanska.com)** | **[2026  Intern Project Engineer](https://jobright.ai/jobs/info/6893f29af47efe2113967fd6?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Feb 15 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Quality (Summer 2026)](https://jobright.ai/jobs/info/68cb11b2d905e25191d9f49d?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 15 |
-| **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Battery Algorithms Intern](https://jobright.ai/jobs/info/6991dd500cc8ea15f1dc6d93?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 15 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6991dcb40f6f7e7a2cee1ccb?utm_campaign=1048&utm_source=git)** | Missouri, United States | Remote | Feb 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6974f152206da320f49f11fb?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 15 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
