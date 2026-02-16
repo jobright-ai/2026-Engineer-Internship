@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Artificial intelligence intern](https://jobright.ai/jobs/info/6992d089e0bddb6acac1119c?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Feb 16 |
 | **[Exus Renewables North America](www.exus.us)** | **[Grid Interconnection Intern](https://jobright.ai/jobs/info/6992ca9dce78e77b4fd69a4e?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 15 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Urban Forestry](https://jobright.ai/jobs/info/6992bfa9e0bddb6acac108ed?utm_campaign=1048&utm_source=git)** | Hamilton, OH | On Site | Feb 15 |
 | **[CFD Research Corporation](https://www.cfd-research.com)** | **[INTERN - Multiphysics Modeling & Simulation – Summer 2026 (Huntsville, AL)](https://jobright.ai/jobs/info/697bf4b80b88cc7d6422e0c0?utm_campaign=1048&utm_source=git)** | Huntsville, AL, USA | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sierra Pacific Industries](http://www.spi-ind.com)** | **[Engineer Intern - Design](https://jobright.ai/jobs/info/6991f0a36ea51a7610f438a6?utm_campaign=1048&utm_source=git)** | Medford, WI | On Site | Feb 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Parenteral Bioanalytical Intern (PDS&T) (PhD)](https://jobright.ai/jobs/info/6991f0770f6f7e7a2cee2d7e?utm_campaign=1048&utm_source=git)** | North Chicago, IL | On Site | Feb 15 |
 | ↳ | **[Cleaning Engineering Internship](https://jobright.ai/jobs/info/6991efd26ea51a7610f43823?utm_campaign=1048&utm_source=git)** | West Lebanon, NH | On Site | Feb 15 |
-| ↳ | **[R&D Novel CAR Intern](https://jobright.ai/jobs/info/6991efc80f6f7e7a2cee2d31?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
