@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/699296e9ce78e77b4fd645fb?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Feb 15 |
+| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Quality Engineering Intern Summer 2026](https://jobright.ai/jobs/info/6992ada5ce78e77b4fd65e40?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Feb 15 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Human Interactive Driving Intern – Human Aware Interaction and Learning](https://jobright.ai/jobs/info/6992a8dc81476f6176aa25f7?utm_campaign=1048&utm_source=git)** | Cambridge, MA | Hybrid | Feb 15 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6992a83081476f6176aa2460?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Feb 15 |
+| **[Sonaca North America](http://www.sonaca.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69929fe5ce78e77b4fd64d5f?utm_campaign=1048&utm_source=git)** | St Charles, MO | On Site | Feb 15 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Supply Chain Intern - Summer 2026 - Non-Engineering](https://jobright.ai/jobs/info/699291b0e0bddb6acac0b7da?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern](https://jobright.ai/jobs/info/699289680f6f7e7a2cee9888?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[Environmental Services Intern / Crothall Healthcare, Lifebridge Sinai](https://jobright.ai/jobs/info/6992864f6ea51a7610f497a1?utm_campaign=1048&utm_source=git)** | Randallstown, MD | On Site | Feb 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Manufacturing Leadership Development Program (MLDP): Operations Track Intern, May 2026](https://jobright.ai/jobs/info/68af3f5b7bcb7608b3d2bdad?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Feb 15 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Engineering Intern](https://jobright.ai/jobs/info/68e98e4e0930fe0bc46272d8?utm_campaign=1048&utm_source=git)** | Spokane Valley, WA | On Site | Feb 15 |
 | **[Skanska](http://skanska.com)** | **[2026  Intern Project Engineer](https://jobright.ai/jobs/info/6893f29af47efe2113967fd6?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Feb 15 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Quality (Summer 2026)](https://jobright.ai/jobs/info/68cb11b2d905e25191d9f49d?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Feb 15 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6991dcb40f6f7e7a2cee1ccb?utm_campaign=1048&utm_source=git)** | Missouri, United States | Remote | Feb 15 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6974f152206da320f49f11fb?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
