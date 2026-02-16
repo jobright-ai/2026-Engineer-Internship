@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern](https://jobright.ai/jobs/info/69927afc0cc8ea15f1dccbdd?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
+| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/6992708d0cc8ea15f1dcc694?utm_campaign=1048&utm_source=git)** | Brea, CA | On Site | Feb 15 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69926ecf0cc8ea15f1dcc5c2?utm_campaign=1048&utm_source=git)** | Chatham, Virginia, United States | On Site | Feb 15 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineer Internship (5G 6G Systems R&D)](https://jobright.ai/jobs/info/699269ca0cc8ea15f1dcc46e?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 15 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6992635f0cc8ea15f1dcc412?utm_campaign=1048&utm_source=git)** | Chatham, VA | On Site | Feb 15 |
+| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6992635f0cc8ea15f1dcc412?utm_campaign=1048&utm_source=git)** | Chatham, VA | On Site | Feb 15 |
 | **[Coach USA](http://www.coachusa.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/699253e10f6f7e7a2cee6fac?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | Feb 15 |
 | **[MITRE](http://www.mitre.org)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/699253610f6f7e7a2cee6f72?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 15 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/699251b30cc8ea15f1dcc172?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6974f152206da320f49f11fb?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 15 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Feb 15 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Civil Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68eb2ae92f64880ca0b55ac7?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
-| **[Vontier](https://www.vontier.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/690c16654a1b456627b15f3c?utm_campaign=1048&utm_source=git)** | Duncansville, PA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
