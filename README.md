@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern](https://jobright.ai/jobs/info/69927afc0cc8ea15f1dccbdd?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern](https://jobright.ai/jobs/info/699289680f6f7e7a2cee9888?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
+| **[Crothall Healthcare](https://www.crothall.com)** | **[Environmental Services Intern / Crothall Healthcare, Lifebridge Sinai](https://jobright.ai/jobs/info/6992864f6ea51a7610f497a1?utm_campaign=1048&utm_source=git)** | Randallstown, MD | On Site | Feb 15 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/699286340f6f7e7a2cee975e?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Feb 15 |
+| ↳ | **[Intern - Retail Field, Agronomy - Minnesota and South Dakota Division](https://jobright.ai/jobs/info/699284da0cc8ea15f1dcdca1?utm_campaign=1048&utm_source=git)** | Fairmont, MN | On Site | Feb 15 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Feb 15 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/6992708d0cc8ea15f1dcc694?utm_campaign=1048&utm_source=git)** | Brea, CA | On Site | Feb 15 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69926ecf0cc8ea15f1dcc5c2?utm_campaign=1048&utm_source=git)** | Chatham, Virginia, United States | On Site | Feb 15 |
-| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6992635f0cc8ea15f1dcc412?utm_campaign=1048&utm_source=git)** | Chatham, VA | On Site | Feb 15 |
+| **[Rydell](https://www.rydellcars.com)** | **[Automotive Service Technician Internship](https://jobright.ai/jobs/info/699286950cc8ea15f1dce6fa?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, 58201, US | On Site | Feb 15 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6992635f0cc8ea15f1dcc412?utm_campaign=1048&utm_source=git)** | Chatham, VA | On Site | Feb 15 |
 | **[Coach USA](http://www.coachusa.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/699253e10f6f7e7a2cee6fac?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | Feb 15 |
 | **[MITRE](http://www.mitre.org)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/699253610f6f7e7a2cee6f72?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 15 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/699251b30cc8ea15f1dcc172?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/699249170f6f7e7a2cee65de?utm_campaign=1048&utm_source=git)** | Minooka, Illinois | On Site | Feb 15 |
 | ↳ | **[Power Plant Operations Summer Intern](https://jobright.ai/jobs/info/6992472d0f6f7e7a2cee6488?utm_campaign=1048&utm_source=git)** | Minooka, IL | On Site | Feb 15 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69923dcc6ea51a7610f46a73?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 15 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Engineering Co-op. (Warehouse Solutions)](https://jobright.ai/jobs/info/699236a46ea51a7610f46348?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
-| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Engineering Interns - Summer 2026](https://jobright.ai/jobs/info/6992365f6ea51a7610f462df?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Feb 15 |
-| **[Axcelis Technologies](http://www.axcelis.com)** | **[Manufacturing Engineer Co-op Supply Chain Support](https://jobright.ai/jobs/info/699235026ea51a7610f46164?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
+| ↳ | **[Manufacturing Engineer Co-op Supply Chain Support](https://jobright.ai/jobs/info/699235026ea51a7610f46164?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Thompson Engineering Summer Collegiate Internship](https://jobright.ai/jobs/info/699233ec0cc8ea15f1dca45b?utm_campaign=1048&utm_source=git)** | Tuscaloosa, AL | On Site | Feb 15 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Internship 2026](https://jobright.ai/jobs/info/699233a20f6f7e7a2cee5231?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Feb 15 |
 | **[EMIT Technologies, Inc.](http://emittechnologies.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/699230076ea51a7610f45c05?utm_campaign=1048&utm_source=git)** | Sheridan, WY | On Site | Feb 15 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/699227760cc8ea15f1dc9a2b?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 15 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Manufacturing Engineer Co-op Production Support](https://jobright.ai/jobs/info/699226020f6f7e7a2cee4758?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Feb 15 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Research Intern Program](https://jobright.ai/jobs/info/699223230cc8ea15f1dc97df?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Feb 15 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/699219740cc8ea15f1dc92b0?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
 | **[Maximus](http://www.maximus.com/)** | **[DevOps Intern](https://jobright.ai/jobs/info/698a3d980f6f7e7a2ce54e97?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Mechanical Design Engineering Intern](https://jobright.ai/jobs/info/69923ce46ea51a7610f46979?utm_campaign=1048&utm_source=git)** | US-CA-Brea (Nuclear) | On Site | Feb 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/68e82bbb09580a2fe57f4a66?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Feb 15 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae4cb6d627244576e52f39?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Feb 15 |
 | **[Washington State Department of Transportation](https://wsdot.wa.gov)** | **[Transportation Planning Intern](https://jobright.ai/jobs/info/69920b110cc8ea15f1dc8b72?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Feb 15 |
 | **[Thermagia Engineering](thermagiaengineering.us)** | **[Internship Program - Research, Development & Application](https://jobright.ai/jobs/info/69920af60cc8ea15f1dc8b65?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
-| **[Coretek](https://www.coretek.com/)** | **[AI & Automation Intern](https://jobright.ai/jobs/info/699207b26ea51a7610f443ed?utm_campaign=1048&utm_source=git)** | Farmington Hills, MI | Hybrid | Feb 15 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Field Engineering Inspection Intern (Summer 26)](https://jobright.ai/jobs/info/68b0fb3004557a6c207b9192?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Feb 15 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[AMS CAD Intern - Bachelors Degree](https://jobright.ai/jobs/info/69317de3fa28370be26bc53f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 15 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Engineer I (BMS/FLS)](https://jobright.ai/jobs/info/6903f9f1d64a22104aa95811?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6991dcb40f6f7e7a2cee1ccb?utm_campaign=1048&utm_source=git)** | Missouri, United States | Remote | Feb 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Physicist/Scientist Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6974f152206da320f49f11fb?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 15 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/68cf63f7846f0b04af681ca1?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Feb 15 |
-| **[SSOE Group](https://www.ssoe.com/)** | **[Civil Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68eb2ae92f64880ca0b55ac7?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
