@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Arthur Companies](http://www.arthurcompanies.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/699a0f5b81476f6176b2b255?utm_campaign=1048&utm_source=git)** | Fisher, MN | On Site | Feb 21 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/699a0f4d81476f6176b2b247?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 21 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Design Engineering](https://jobright.ai/jobs/info/699a0d7ce0bddb6acac931bb?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Feb 21 |
+| **[Davidson Technologies](https://davidson-tech.com/)** | **[Windows System Administrator- Summer Internship](https://jobright.ai/jobs/info/699a0c2ace78e77b4fded7f3?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
 | **[Exus Renewables North America](www.exus.us)** | **[IT Intern](https://jobright.ai/jobs/info/699a0a8e81476f6176b2ae7f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 21 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/699a0955e0bddb6acac92ea3?utm_campaign=1048&utm_source=git)** | Clermont, KY | On Site | Feb 21 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/699a064e81476f6176b2ab93?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69616b04e7ed9a5731ba2f81?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Feb 21 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6999d734ce78e77b4fdeb2aa?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Feb 21 |
 | **[BRG](http://www.thinkbrg.com)** | **[Construction - 2026 Summer Associate (Intern) New York](https://jobright.ai/jobs/info/697d726b137a05102566953e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 21 |
-| **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/6995579ce0bddb6acac3e7c0?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Feb 21 |
-| **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Lab Intern - Riboli Family Winery](https://jobright.ai/jobs/info/697d4a8b727747250d5818f4?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Feb 21 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 Project Engineering Co-op/Internship - Big Island, VA](https://jobright.ai/jobs/info/697d519e727747250d581f50?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Feb 21 |
-| **[Veltrana Group](veltranagroup.us)** | **[Supplier Quality Engineer Graduate Intern](https://jobright.ai/jobs/info/6999d45d81476f6176b2893c?utm_campaign=1048&utm_source=git)** | Andover, MA | Remote | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
