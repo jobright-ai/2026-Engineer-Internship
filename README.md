@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Arthur Companies](http://www.arthurcompanies.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/699a0f5b81476f6176b2b255?utm_campaign=1048&utm_source=git)** | Fisher, MN | On Site | Feb 21 |
+| **[Pal AI](https://www.linkedin.com/company/107991267)** | **[AI/ML Engineering Interns](https://jobright.ai/jobs/info/699a4294ce78e77b4fdefc29?utm_campaign=1048&utm_source=git)** | New City, NY | On Site | Feb 21 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[RESEARCH ASST I (Student/Work Study)](https://jobright.ai/jobs/info/699a3162ce78e77b4fdef972?utm_campaign=1048&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
+| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
+| **[Snap-on](http://www.snapon.com)** | **[Electrical / Mechanical /Automotive Intern](https://jobright.ai/jobs/info/699a2b48ce78e77b4fdef8d2?utm_campaign=1048&utm_source=git)** | Lincolnshire, IL | On Site | Feb 21 |
+| **[WWC Engineering](https://wwcengineering.com)** | **[Survey Intern - Helena, MT](https://jobright.ai/jobs/info/699a1513ce78e77b4fdedc57?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Feb 21 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Facilities/Commercial Engineering Summer Intern](https://jobright.ai/jobs/info/699a1451e0bddb6acac9347a?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 21 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/699a0f4d81476f6176b2b247?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 21 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Design Engineering](https://jobright.ai/jobs/info/699a0d7ce0bddb6acac931bb?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Feb 21 |
-| **[Davidson Technologies](https://davidson-tech.com/)** | **[Windows System Administrator- Summer Internship](https://jobright.ai/jobs/info/699a0c2ace78e77b4fded7f3?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
 | **[Exus Renewables North America](www.exus.us)** | **[IT Intern](https://jobright.ai/jobs/info/699a0a8e81476f6176b2ae7f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 21 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/699a0955e0bddb6acac92ea3?utm_campaign=1048&utm_source=git)** | Clermont, KY | On Site | Feb 21 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/699a064e81476f6176b2ab93?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 21 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/6999f37ece78e77b4fded194?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Open Source LLM Clinical Research Pipeline Master's Intern](https://jobright.ai/jobs/info/6999f34ae0bddb6acac92a4c?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | ↳ | **[Young Adult Lipid Study Master's Intern](https://jobright.ai/jobs/info/6999f31be0bddb6acac92a3e?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
+| ↳ | **[Women on the Go Master's Intern](https://jobright.ai/jobs/info/699a1f2081476f6176b2ceb2?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Undergraduate Student Research Assistant in Computer Science/Cybersecurity](https://jobright.ai/jobs/info/6999ec9fce78e77b4fded08e?utm_campaign=1048&utm_source=git)** | San Angelo, TX | On Site | Feb 21 |
 | **[Hatch](https://www.hatch.com)** | **[Structural Designer Student - Winnipeg](https://jobright.ai/jobs/info/6999ec8ce0bddb6acac92956?utm_campaign=1048&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Control Laws (CLAWS) Tools Development (Summer 2026)](https://jobright.ai/jobs/info/697d5e37137a051025667e83?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 21 |
@@ -115,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Fireside Hearth & Home](https://www.fireside.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/6999e35ae0bddb6acac90ef6?utm_campaign=1048&utm_source=git)** | Halifax, PA | On Site | Feb 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/697d321f137a0510256640e5?utm_campaign=1048&utm_source=git)** | San Bernardino, CA | On Site | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/696164b6a112b402660fe909?utm_campaign=1048&utm_source=git)** | Poway, CA | On Site | Feb 21 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Engineering Intern - Mechanical](https://jobright.ai/jobs/info/6999e2dce0bddb6acac90edc?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Feb 21 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69615f38f3f4cd1325065750?utm_campaign=1048&utm_source=git)** | Kodiak, AK | On Site | Feb 21 |
+| ↳ | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69615f38f3f4cd1325065750?utm_campaign=1048&utm_source=git)** | Kodiak, AK | On Site | Feb 21 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6999e22e81476f6176b28ca6?utm_campaign=1048&utm_source=git)** | Wisconsin, United States | On Site | Feb 21 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Structural Engineering Summer Intern](https://jobright.ai/jobs/info/697e02f8abff4c399a9cca86?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69617389e7ed9a5731ba3a41?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
@@ -141,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Feb 21 |
 | **[Hatch](https://www.hatch.com)** | **[Hydrometallurgy Engineering Student](https://jobright.ai/jobs/info/697e02517f40342e15d6dccd?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 21 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Civil Engineering Summer Intern](https://jobright.ai/jobs/info/697e0bc1ce48107c05425671?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Feb 21 |
+| ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e0dd3ce48107c0542576a?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Feb 21 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Agentic AI Solution Engineering Intern - Summer 2026, Agentic AI Solution Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d7593137a051025669877?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy - AI](https://jobright.ai/jobs/info/6999db54ce78e77b4fdeb3b5?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Feb 21 |
 | **[Teradyne](http://www.teradyne.com)** | **[Design Engineer Intern, Summer 2026 (Teradyne, N Reading, MA)](https://jobright.ai/jobs/info/697e0715abff4c399a9cd4fc?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Feb 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6999d91e81476f6176b28a82?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Feb 21 |
 | ↳ | **[Geotechnical Intern](https://jobright.ai/jobs/info/6999d85e81476f6176b28a46?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Agriculture Seed and Variety Intern](https://jobright.ai/jobs/info/697d26ad3f57a3356966e28d?utm_campaign=1048&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
-| **[Siemens](https://www.siemens.com)** | **[Quantum-inspired Algorithms for Industrial Applications Researcher Internship](https://jobright.ai/jobs/info/6999d79f81476f6176b28a10?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Hybrid | Feb 21 |
-| **[Molex](http://www.molex.com)** | **[Advanced Manufacturing Engineer Intern](https://jobright.ai/jobs/info/697d4aeb727747250d581940?utm_campaign=1048&utm_source=git)** | Grand Blanc, MI | On Site | Feb 21 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Northwest District, Heavy Civil - Summer 2026](https://jobright.ai/jobs/info/69616b04e7ed9a5731ba2f81?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Feb 21 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6999d734ce78e77b4fdeb2aa?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Feb 21 |
-| **[BRG](http://www.thinkbrg.com)** | **[Construction - 2026 Summer Associate (Intern) New York](https://jobright.ai/jobs/info/697d726b137a05102566953e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
