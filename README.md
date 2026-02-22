@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pal AI](https://www.linkedin.com/company/107991267)** | **[AI/ML Engineering Interns](https://jobright.ai/jobs/info/699a4294ce78e77b4fdefc29?utm_campaign=1048&utm_source=git)** | New City, NY | On Site | Feb 21 |
+| **[Pacific Fusion](https://www.pacificfusion.com)** | **[Summer 2026 Internship - Mechanical Engineering, Pulser](https://jobright.ai/jobs/info/69819bcf7f40342e15dabf24?utm_campaign=1048&utm_source=git)** | Los Lunas, NM | On Site | Feb 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[RESEARCH ASST I (Student/Work Study)](https://jobright.ai/jobs/info/699a3162ce78e77b4fdef972?utm_campaign=1048&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
 | **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/68dd57be44d32141e0bf5cdf?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
 | **[Snap-on](http://www.snapon.com)** | **[Electrical / Mechanical /Automotive Intern](https://jobright.ai/jobs/info/699a2b48ce78e77b4fdef8d2?utm_campaign=1048&utm_source=git)** | Lincolnshire, IL | On Site | Feb 21 |
@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Exus Renewables North America](www.exus.us)** | **[IT Intern](https://jobright.ai/jobs/info/699a0a8e81476f6176b2ae7f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Feb 21 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/699a0955e0bddb6acac92ea3?utm_campaign=1048&utm_source=git)** | Clermont, KY | On Site | Feb 21 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Mechanical Engineering Intern 2026](https://jobright.ai/jobs/info/699a064e81476f6176b2ab93?utm_campaign=1048&utm_source=git)** | Sidney, OH | On Site | Feb 21 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Internship (5G 6G)](https://jobright.ai/jobs/info/699a002381476f6176b2aa2f?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 21 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Liaison and Stress Analysis Intern Engineer (Summer 2026)](https://jobright.ai/jobs/info/6999ff13e0bddb6acac92b8e?utm_campaign=1048&utm_source=git)** | Mirabel, Quebec, Canada | On Site | Feb 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Alberta](https://jobright.ai/jobs/info/6999fed6ce78e77b4fded2ad?utm_campaign=1048&utm_source=git)** | Fairview, Alberta, Canada | On Site | Feb 21 |
 | **[Dropbox](https://www.dropbox.com)** | **[PhD Machine Learning Intern (Summer 2026)](https://jobright.ai/jobs/info/6999fd0181476f6176b2a9fc?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6999d91e81476f6176b28a82?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Feb 21 |
 | ↳ | **[Geotechnical Intern](https://jobright.ai/jobs/info/6999d85e81476f6176b28a46?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Agriculture Seed and Variety Intern](https://jobright.ai/jobs/info/697d26ad3f57a3356966e28d?utm_campaign=1048&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
+| **[Siemens](https://www.siemens.com)** | **[Quantum-inspired Algorithms for Industrial Applications Researcher Internship](https://jobright.ai/jobs/info/6999d79f81476f6176b28a10?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
