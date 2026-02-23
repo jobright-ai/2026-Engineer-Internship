@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[Chemistry Intern](https://jobright.ai/jobs/info/69726394584a1c1ef6fd66cf?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 22 |
+| **[ABB](https://global.abb/group/en)** | **[Fort Smith Corporate Quality Intern- Summer 2026](https://jobright.ai/jobs/info/699b8b89e0bddb6acaca688b?utm_campaign=1048&utm_source=git)** | Fort Smith, Arkansas, United States of America | Hybrid | Feb 22 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[RESEARCH ASST I (Student/Work Study)](https://jobright.ai/jobs/info/699b8a81ce78e77b4fe015c4?utm_campaign=1048&utm_source=git)** | Flint, MI | Hybrid | Feb 22 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/699b7ea981476f6176b3e7c9?utm_campaign=1048&utm_source=git)** | Ashland, NE | On Site | Feb 22 |
 | ↳ | **[Intern - Retail Field, Agronomy/Operation - Western IA & NE Nebraska Division - Pipeline](https://jobright.ai/jobs/info/699b7a6f81476f6176b3e79d?utm_campaign=1048&utm_source=git)** | Emery, SD | On Site | Feb 22 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Nonclinical Archiving Intern](https://jobright.ai/jobs/info/699b7a1681476f6176b3e77f?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Feb 22 |
@@ -69,15 +72,13 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[FEA Engineer Intern (PICO) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/699b779ae0bddb6acaca66ec?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | ↳ | **[Student Researcher(Video Quality Analysis&Coding Strategy) - 2026 Start (PhD)](https://jobright.ai/jobs/info/699b7783e0bddb6acaca66e8?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/6999674cce78e77b4fde4454?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 22 |
-| **[Thermagia Engineering](thermagiaengineering.us)** | **[2026 Mechanical Engineering Intern Opportunities](https://jobright.ai/jobs/info/699b71df81476f6176b3e6b0?utm_campaign=1048&utm_source=git)** | Sidney, OH | Remote | Feb 22 |
-| **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69994a4281476f6176b1e6d3?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Feb 22 |
+| ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69994a4281476f6176b1e6d3?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Feb 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Data Architecture Intern - YEAR ROUND](https://jobright.ai/jobs/info/699b705de0bddb6acaca6627?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 22 |
 | **[AECOM](http://www.aecom.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/699b6febe0bddb6acaca660b?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Feb 22 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69994778ce78e77b4fde0bb6?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Feb 22 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Land](https://jobright.ai/jobs/info/699b687dce78e77b4fdff823?utm_campaign=1048&utm_source=git)** | Wayne, PA | On Site | Feb 22 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Butler-Warner Generation Plant Intern](https://jobright.ai/jobs/info/699b6421e0bddb6acaca4a9c?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Feb 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Occupational Health Summer Intern](https://jobright.ai/jobs/info/699b6406ce78e77b4fdff67b?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 22 |
-| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Head Component Testing](https://jobright.ai/jobs/info/699b6341e0bddb6acaca4a1e?utm_campaign=1048&utm_source=git)** | Placentia, CA | Hybrid | Feb 22 |
 | **[Blue Mountain](http://coolblue.com)** | **[Remote Security Analyst Internship](https://jobright.ai/jobs/info/699b61a381476f6176b3c9b4?utm_campaign=1048&utm_source=git)** | State College, PA | Remote | Feb 22 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Robotics Software Engineer](https://jobright.ai/jobs/info/699b61a381476f6176b3c9b8?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Feb 22 |
 | **[Octaura](https://www.octaura.com)** | **[Intern, Data Engineering](https://jobright.ai/jobs/info/699b60e581476f6176b3c939?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 22 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/693695b044eb324fb785c920?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Feb 22 |
 | **[Ferrovias](ferrovias.us)** | **[Summer Supplier - Quality Engineer Graduate Intern (R15060)](https://jobright.ai/jobs/info/699b4175ce78e77b4fdfeea3?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Feb 22 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Intern Battery Algorithms](https://jobright.ai/jobs/info/699b3ae5ce78e77b4fdfee29?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 22 |
-| **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Mechanical engineering Intern](https://jobright.ai/jobs/info/699b3ae381476f6176b3c24b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Feb 22 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Battery Algorithms & Controls Design Intern - Non Computer Science Backgrounds](https://jobright.ai/jobs/info/699b3acbce78e77b4fdfee24?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 22 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933bfdc764507023d1b8dc2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 22 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Undergraduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b39d481476f6176b3c1ed?utm_campaign=1048&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
