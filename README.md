@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Marine Maintenance Intern](https://jobright.ai/jobs/info/699bee98ce78e77b4fe087ec?utm_campaign=1048&utm_source=git)** | Catlettsburg, Kentucky | On Site | Feb 22 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Energy/Security Technician](https://jobright.ai/jobs/info/699be13b81476f6176b44b6e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Feb 22 |
 | **[Snackpass](https://www.snackpass.co)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/68d44010ffc1276de3fd8a78?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[New York State Parks, Recreation & Historic Preservation](https://parks.ny.gov/)** | **[Engineering Intern (SUNY Climate Corps/Park & Recreation Aide 4-6)](https://jobright.ai/jobs/info/699bce7881476f6176b420d9?utm_campaign=1048&utm_source=git)** | West Babylon, NY | On Site | Feb 22 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Ironclad](https://www.ironcladapp.com)** | **[Automation Quality Engineering Intern](https://jobright.ai/jobs/info/697e9d9bce48107c0542b0db?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 22 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[EHS&S Intern](https://jobright.ai/jobs/info/699bc3f281476f6176b4115a?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 22 |
 | **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Geotechnical Internship (Fargo)](https://jobright.ai/jobs/info/692004c1a49a885af9a35f4b?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Feb 22 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/699b3360e0bddb6acaca3059?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 22 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Process Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68b151b1e815524ae11fd9a0?utm_campaign=1048&utm_source=git)** | Woodstock, IL | On Site | Feb 22 |
 | **[Modular](https://www.modular.com)** | **[GenAI Optimization Intern](https://jobright.ai/jobs/info/697e0f4eabff4c399a9ce005?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | Feb 22 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Feb 22 |
