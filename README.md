@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantive](https://www.vantive.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6994c4fde0bddb6acac33cec?utm_campaign=1048&utm_source=git)** | Mountain Home, AR | On Site | Feb 22 |
+| **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Waste Water](https://jobright.ai/jobs/info/699b99b2e0bddb6acaca69ea?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | Feb 22 |
 | **[MITRE](http://www.mitre.org)** | **[Chemistry Intern](https://jobright.ai/jobs/info/69726394584a1c1ef6fd66cf?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Feb 22 |
 | **[ABB](https://global.abb/group/en)** | **[Fort Smith Corporate Quality Intern- Summer 2026](https://jobright.ai/jobs/info/699b8b89e0bddb6acaca688b?utm_campaign=1048&utm_source=git)** | Fort Smith, Arkansas, United States of America | Hybrid | Feb 22 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[RESEARCH ASST I (Student/Work Study)](https://jobright.ai/jobs/info/699b8a81ce78e77b4fe015c4?utm_campaign=1048&utm_source=git)** | Flint, MI | Hybrid | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6945b0ba63141d1884553df7?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Feb 22 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/699afb2a81476f6176b383de?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | Hybrid | Feb 22 |
 | **[ID Technology](https://www.idtechnology.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690eb11a44146d3b6ec56d1f?utm_campaign=1048&utm_source=git)** | Highlands Ranch, CO | On Site | Feb 22 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Purchasing](https://jobright.ai/jobs/info/69799f73ca92cf0d6a82e488?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Feb 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6946192c63141d188455c78a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
