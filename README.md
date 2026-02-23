@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/699bb4dcce78e77b4fe035d5?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 22 |
+| ↳ | **[Biomedical Technician Intern - Summer 2026](https://jobright.ai/jobs/info/699bb1dee0bddb6acaca863e?utm_campaign=1048&utm_source=git)** | Maine, United States | On Site | Feb 22 |
+| **[General Dynamics](https://www.gd.com)** | **[Quality Engineer - Intern](https://jobright.ai/jobs/info/699baff4ce78e77b4fe03363?utm_campaign=1048&utm_source=git)** | Cullman, AL, US | On Site | Feb 22 |
+| **[City of Kaukauna](https://kaukauna.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/699bafe1ce78e77b4fe0335b?utm_campaign=1048&utm_source=git)** | Kaukauna, WI | On Site | Feb 22 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineer Intern (5G 6G)](https://jobright.ai/jobs/info/699ba8f181476f6176b40495?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Electro](electrogum.com)** | **[Internship Opportunity (Electro)](https://jobright.ai/jobs/info/699ba717e0bddb6acaca6b3b?utm_campaign=1048&utm_source=git)** | Florida, United States | Remote | Feb 22 |
 | **[Deion](https://deion.io/)** | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/699ba3efe0bddb6acaca6b0a?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 22 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[Butler-Warner Generation Plant Intern](https://jobright.ai/jobs/info/699b6421e0bddb6acaca4a9c?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Feb 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Occupational Health Summer Intern](https://jobright.ai/jobs/info/699b6406ce78e77b4fdff67b?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 22 |
 | **[Blue Mountain](http://coolblue.com)** | **[Remote Security Analyst Internship](https://jobright.ai/jobs/info/699b61a381476f6176b3c9b4?utm_campaign=1048&utm_source=git)** | State College, PA | Remote | Feb 22 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Robotics Software Engineer](https://jobright.ai/jobs/info/699b61a381476f6176b3c9b8?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Feb 22 |
 | **[Octaura](https://www.octaura.com)** | **[Intern, Data Engineering](https://jobright.ai/jobs/info/699b60e581476f6176b3c939?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 22 |
 | **[GALLO](http://www.gallocareers.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/6986c5de8ca8121a3a693a82?utm_campaign=1048&utm_source=git)** | Modesto, CA | On Site | Feb 22 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - RPI](https://jobright.ai/jobs/info/699b5e5be0bddb6acaca47d0?utm_campaign=1048&utm_source=git)** | Wallingford, CT | On Site | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MechNova](mechnova.us)** | **[Engineering Internship](https://jobright.ai/jobs/info/699b0113e0bddb6acaca1dbd?utm_campaign=1048&utm_source=git)** | Manitowoc, WI | On Site | Feb 22 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/698c265991fdda424d58f0c7?utm_campaign=1048&utm_source=git)** | Burlington, MA | On Site | Feb 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6982d9d40f6f7e7a2cdc562d?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Electrical Engineer](https://jobright.ai/jobs/info/699aff4cce78e77b4fdfc90c?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Feb 22 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Technical Development](https://jobright.ai/jobs/info/6984393d8da7a612045e4d4c?utm_campaign=1048&utm_source=git)** | Norwood, MA | On Site | Feb 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6945b0ba63141d1884553df7?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
