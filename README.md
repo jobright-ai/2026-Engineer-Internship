@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern System Engineer- PhD, Santa Clara, CA](https://jobright.ai/jobs/info/69a36d57359fe034b1ce87d0?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | On Site | Feb 28 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/69a35f49359fe034b1ce8531?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 28 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Validation Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69a35e8fb600907a962992f0?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Feb 28 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69a35e8fb600907a962992f1?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 28 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69a35c620da45516f16c8e28?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Feb 28 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Summer Intern-2026](https://jobright.ai/jobs/info/69a35c460da45516f16c8e20?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
+| **[Vexra Engineering](vexraengineering.com)** | **[Engineer Intern - Mechanical](https://jobright.ai/jobs/info/69a354440da45516f16c8c8d?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
+| **[Mechronix](mechronix.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69a353f2359fe034b1ce82f1?utm_campaign=1048&utm_source=git)** | Nyack, NY | On Site | Feb 28 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – DevOps Engineering & Automation](https://jobright.ai/jobs/info/69a351a00da45516f16c8c01?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[Generative Manufacturing Engineering Design Intern](https://jobright.ai/jobs/info/69a3517fb600907a96298ff7?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Feb 28 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Tech Transfer Summer Intern 2026](https://jobright.ai/jobs/info/69a34f51359fe034b1ce8180?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
 | ↳ | **[CLIA Lab Summer Intern 2026](https://jobright.ai/jobs/info/69a34f05359fe034b1ce8138?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
-| **[WWC Engineering](https://wwcengineering.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a34e7e0da45516f16c8a85?utm_campaign=1048&utm_source=git)** | Casper, WY | On Site | Feb 28 |
 | **[DLB Associates](http://www.dlbassociates.com/)** | **[Systems Engineer I - Intern - Construction](https://jobright.ai/jobs/info/69a34d160da45516f16c89c6?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Design Engineer College Graduate](https://jobright.ai/jobs/info/69a34c180da45516f16c8921?utm_campaign=1048&utm_source=git)** | Temple, TX | Remote | Feb 28 |
 | **[WWC Engineering](https://wwcengineering.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a34903359fe034b1ce7c14?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Feb 28 |
 | **[Cisco](http://www.cisco.com)** | **[Hardware Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69a345b30da45516f16c81d5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, WiFi / BT](https://jobright.ai/jobs/info/69a345860da45516f16c8192?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
@@ -82,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Structural Engineer Intern, Transmission Line](https://jobright.ai/jobs/info/69193b9345fb6f5ead8a7a8e?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Internship (5G 6G Development)](https://jobright.ai/jobs/info/69a33a24359fe034b1ce70df?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- Bay Area Projects](https://jobright.ai/jobs/info/694ee048a2668b7f5452245d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 28 |
-| **[Delek US](http://www.delekus.com/about-us)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/696aff13db26b618950e7483?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
-| ↳ | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696afbf2db26b618950e703a?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Feb 28 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696afbf2db26b618950e703a?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Feb 28 |
+| ↳ | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/696aff13db26b618950e7483?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/696abef05fc862418539d474?utm_campaign=1048&utm_source=git)** | Logan, UT | On Site | Feb 28 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/696afb97db26b618950e6fb4?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6986aa708ca8121a3a690456?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Feb 28 |
@@ -96,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Graduate Internship - Earth and Environmental Science](https://jobright.ai/jobs/info/696ae1be350cf4380312086a?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Feb 28 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems](https://jobright.ai/jobs/info/696afda3350cf43803123b92?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/696ac82c350cf4380311da23?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Keter](http://www.keter.com/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69a3647c359fe034b1ce85b3?utm_campaign=1048&utm_source=git)** | Portersville, PA | On Site | Feb 28 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Process Controls Engineering Intern](https://jobright.ai/jobs/info/696b050f5fc86241853a4f89?utm_campaign=1048&utm_source=git)** | Tyler, TX | On Site | Feb 28 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Operations FP&A Intern](https://jobright.ai/jobs/info/68dd8bc4ddc10244dd6809c1?utm_campaign=1048&utm_source=git)** | Lakeville, MA | Hybrid | Feb 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Design & Construction Officer- FR](https://jobright.ai/jobs/info/699df6d8ce78e77b4fe31a70?utm_campaign=1048&utm_source=git)** | Homewood, IL | On Site | Feb 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/69862b058ca8121a3a68580a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Tool Design Intern](https://jobright.ai/jobs/info/6943045d94730b7398760c3b?utm_campaign=1048&utm_source=git)** | Fond du Lac, WI | On Site | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Maintenance Summer Internship](https://jobright.ai/jobs/info/697310431790715e866c12b4?utm_campaign=1048&utm_source=git)** | Beardstown, IL | On Site | Feb 28 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Health & Safety Internship](https://jobright.ai/jobs/info/69869f6e8da7a61204617c06?utm_campaign=1048&utm_source=git)** | West Lebanon, NH | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/698647eb8da7a6120460fa1b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
-| **[ASML](https://www.asml.com)** | **[Internship - Plasma and Laser Physics Engineer](https://jobright.ai/jobs/info/69338382f131d96e48463f6b?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
-| **[Centrus Energy Corp.](https://www.centrusenergy.com)** | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/69a322710da45516f16c6e16?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN, United States | On Site | Feb 28 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Safety Internship Program - Summer 2026](https://jobright.ai/jobs/info/68d724e245853d0e39ccd226?utm_campaign=1048&utm_source=git)** | Waxahachie, TX | On Site | Feb 28 |
-| **[England-Thims & Miller, Inc.](http://etminc.com)** | **[Water Utilities Engineer Intern](https://jobright.ai/jobs/info/66d0b394a852b522219c6d08?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
-| **[Etched](https://www.etched.com)** | **[RTL Intern](https://jobright.ai/jobs/info/6986be5a8da7a6120461aa65?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
