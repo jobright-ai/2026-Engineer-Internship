@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vexra Engineering](vexraengineering.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69a3775ab600907a96299739?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
+| **[Robynex Automation](robynexautomation.com)** | **[Supplier Quality Engineer Summer Intern](https://jobright.ai/jobs/info/69a374bf359fe034b1ce891a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Feb 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern System Engineer- PhD, Santa Clara, CA](https://jobright.ai/jobs/info/69a36d57359fe034b1ce87d0?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | On Site | Feb 28 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/69a35f49359fe034b1ce8531?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 28 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Validation Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69a35e8fb600907a962992f0?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer I](https://jobright.ai/jobs/info/6986373e8ca8121a3a68667b?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Feb 28 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Environmental (40959)](https://jobright.ai/jobs/info/69a326b2359fe034b1ce67af?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 28 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/69862b058ca8121a3a68580a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Tool Design Intern](https://jobright.ai/jobs/info/6943045d94730b7398760c3b?utm_campaign=1048&utm_source=git)** | Fond du Lac, WI | On Site | Feb 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Maintenance Summer Internship](https://jobright.ai/jobs/info/697310431790715e866c12b4?utm_campaign=1048&utm_source=git)** | Beardstown, IL | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
