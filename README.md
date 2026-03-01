@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Audio Systems Intern (May-Aug '26)](https://jobright.ai/jobs/info/69a3f0e1359fe034b1cedde4?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Feb 28 |
+| ↳ | **[AIS Audio Applications Engineering Intern (May - Aug '26)](https://jobright.ai/jobs/info/69a3f0bb359fe034b1ceddac?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Feb 28 |
+| ↳ | **[Wireless Audio & Gaming Systems Performance Intern (May - Aug '26)](https://jobright.ai/jobs/info/69a3f043b600907a9629ec02?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Feb 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/69a3ed090da45516f16ce483?utm_campaign=1048&utm_source=git)** | Eatonville, FL | On Site | Feb 28 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Timing Product Engineering Summer Intern](https://jobright.ai/jobs/info/69a3e5d80da45516f16cd5cd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | ↳ | **[RF Filter Design Summer Intern](https://jobright.ai/jobs/info/69a3e5d70da45516f16cd5cc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | ↳ | **[Test Engineer Summer Intern (May '26 - Aug ''26)](https://jobright.ai/jobs/info/69a3e5ba359fe034b1cecb7e?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Intern - Kiewit Energy Canada (Summer 2026)](https://jobright.ai/jobs/info/699d4a51ce78e77b4fe24fa1?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 28 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Structural Engineer Intern, Transmission Line](https://jobright.ai/jobs/info/69193b9345fb6f5ead8a7a8e?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- Bay Area Projects](https://jobright.ai/jobs/info/694ee048a2668b7f5452245d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 28 |
-| **[Delek US](http://www.delekus.com/about-us)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/696aff13db26b618950e7483?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
-| ↳ | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696afbf2db26b618950e703a?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Feb 28 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696afbf2db26b618950e703a?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Feb 28 |
+| ↳ | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/696aff13db26b618950e7483?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/696abef05fc862418539d474?utm_campaign=1048&utm_source=git)** | Logan, UT | On Site | Feb 28 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/696afb97db26b618950e6fb4?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6986aa708ca8121a3a690456?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Feb 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/69a334cb0da45516f16c78b4?utm_campaign=1048&utm_source=git)** | Cape Coral, FL | On Site | Feb 28 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/696a44f7db26b618950d73fc?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6986ae5a8da7a612046192e0?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Feb 28 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Applied Machine Learning Scientist Intern - PhD](https://jobright.ai/jobs/info/6931434b4c474121999ecda1?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Feb 28 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Engineering Technician Intern](https://jobright.ai/jobs/info/6989625747434001cc678162?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
-| **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Bridge](https://jobright.ai/jobs/info/68ddef5709bda65a4b624cb9?utm_campaign=1048&utm_source=git)** | Coral Gables, FL | On Site | Feb 28 |
-| **[CRH](http://crh.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69a3347d359fe034b1ce6fa3?utm_campaign=1048&utm_source=git)** | Hooksett, NH | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
