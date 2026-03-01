@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://jobright.ai/jobs/info/69a3c64a0da45516f16cc08d?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Mar 01 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69335ab2f131d96e48462689?utm_campaign=1048&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 01 |
+| **[ONEOK](http://www.oneok.com)** | **[Instrumentation & Electrical Technician Intern](https://jobright.ai/jobs/info/697d80d77f40342e15d646bd?utm_campaign=1048&utm_source=git)** | Bridgeport, TX | On Site | Mar 01 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/69a42b4fb600907a962a2883?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/69a42b40359fe034b1cf1b47?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Mar 01 |
+| **[Ardurra](https://ardurra.com/)** | **[Southwest Region Intern (AZ, CA, NM, NV)](https://jobright.ai/jobs/info/69165f2b9c388539cbdfa6ee?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Mar 01 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Simulator Engineering (Summer 2026)](https://jobright.ai/jobs/info/695dfc2432718e2b8ddbf518?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
+| **[Ardurra](https://ardurra.com/)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/691646606f36db06ef05480b?utm_campaign=1048&utm_source=git)** | Nampa, ID | On Site | Mar 01 |
+| **[Nokia Bell Labs](https://www.bell-labs.com/prize)** | **[Bell Labs Fiber Optics Intern](https://jobright.ai/jobs/info/693260faa0dde7020e2e6507?utm_campaign=1048&utm_source=git)** | New Providence, NJ | On Site | Mar 01 |
 | **[Ardurra](https://ardurra.com/)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/691654d19c388539cbdfa012?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Field Sensing Intern](https://jobright.ai/jobs/info/6987f8da8da7a6120462fa27?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 01 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026 - Energy Solutions - CMTA](https://jobright.ai/jobs/info/69a424410da45516f16d2365?utm_campaign=1048&utm_source=git)** | Media, PA | On Site | Mar 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/69a3bcb40da45516f16cb8ae?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Feb 28 |
 | **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966b3755ad3a93f823204e9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/69a3a7de359fe034b1cea4e6?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 28 |
-| **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a3a7c00da45516f16cae52?utm_campaign=1048&utm_source=git)** | Remote- USA | Remote | Feb 28 |
-| **[AeroMatrix 12](aeromatrix12.com)** | **[Mechanical engineering intern Talent Pool](https://jobright.ai/jobs/info/69a3a081359fe034b1ce9f72?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Feb 28 |
-| **[Museum of Science](http://www.mos.org)** | **[Workplace Health & Safety  College Internship](https://jobright.ai/jobs/info/698640098da7a6120460f094?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Feb 28 |
-| **[Okuma America Corporation](https://www.okuma.com)** | **[Mechanical Exchange Intern](https://jobright.ai/jobs/info/69a39baf359fe034b1ce9c72?utm_campaign=1048&utm_source=git)** | Corporate Headquarters - Charlotte, NC 28278 | On Site | Feb 28 |
-| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/69a39acfb600907a9629a8cc?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Feb 28 |
-| **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a395090da45516f16c9c65?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Intern, Computational Material](https://jobright.ai/jobs/info/69a3926bb600907a96299d6c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Atlas Energy Solutions](https://atlas.energy)** | **[Reliability / Maintenance Engineering Intern](https://jobright.ai/jobs/info/698ce44b78b4502f12a35bc1?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Feb 28 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[CLIA Lab Summer Intern 2026](https://jobright.ai/jobs/info/69a3904e359fe034b1ce8d1f?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
