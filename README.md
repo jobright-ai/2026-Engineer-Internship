@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Northern High Plains Division](https://jobright.ai/jobs/info/69a3bcb40da45516f16cb8ae?utm_campaign=1048&utm_source=git)** | Fort Morgan, CO | On Site | Feb 28 |
 | **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966b3755ad3a93f823204e9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69a3a80d0da45516f16cae68?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Feb 28 |
-| ↳ | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/69a3a7de359fe034b1cea4e6?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 28 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/69a3a7de359fe034b1cea4e6?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 28 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a3a7c00da45516f16cae52?utm_campaign=1048&utm_source=git)** | Remote- USA | Remote | Feb 28 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Mechanical engineering intern Talent Pool](https://jobright.ai/jobs/info/69a3a081359fe034b1ce9f72?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Feb 28 |
 | **[Museum of Science](http://www.mos.org)** | **[Workplace Health & Safety  College Internship](https://jobright.ai/jobs/info/698640098da7a6120460f094?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Feb 28 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Structural Engineer Intern, Transmission Line](https://jobright.ai/jobs/info/691aa30d45fb6f5ead8ac9e2?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Intern - Kiewit Energy Canada (Summer 2026)](https://jobright.ai/jobs/info/699d4a51ce78e77b4fe24fa1?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 28 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Structural Engineer Intern, Transmission Line](https://jobright.ai/jobs/info/69193b9345fb6f5ead8a7a8e?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Internship (5G 6G Development)](https://jobright.ai/jobs/info/69a33a24359fe034b1ce70df?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- Bay Area Projects](https://jobright.ai/jobs/info/694ee048a2668b7f5452245d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 28 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696afbf2db26b618950e703a?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Feb 28 |
 | ↳ | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/696aff13db26b618950e7483?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[Lighting Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68fab63067272b29af732e79?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/69a330c00da45516f16c7740?utm_campaign=1048&utm_source=git)** | Bloomington, IL | On Site | Feb 28 |
 | ↳ | **[Engineering Intern - Mechanical](https://jobright.ai/jobs/info/69a33078b600907a96297b66?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 28 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Environmental Health & Safety (Orange, VA)](https://jobright.ai/jobs/info/69a32ff60da45516f16c76cf?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
