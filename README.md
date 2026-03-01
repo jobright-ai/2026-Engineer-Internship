@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Supplier Quality Engineer Summer Intern](https://jobright.ai/jobs/info/69a4abedb600907a962a6c7a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Internship Program - Research, Development & Application](https://jobright.ai/jobs/info/69a4ab6bb600907a962a6c54?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Mar 01 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Industrial Engineering](https://jobright.ai/jobs/info/69976706e0bddb6acac61fed?utm_campaign=1048&utm_source=git)** | Trenton, NJ | On Site | Mar 01 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Jr. Non-Licensed Operator Summer Intern](https://jobright.ai/jobs/info/69a4a8acb600907a962a6b21?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Mar 01 |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Laboratory Services - Graduate Intern I](https://jobright.ai/jobs/info/69a4a61e359fe034b1cf5c8f?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
+| **[DynamoFL](https://dynamofl.com/)** | **[ML Research Engineer Intern &ndash; Dynamo Guard / Dynamo Eval / AgentWarden](https://jobright.ai/jobs/info/69a4a6150da45516f16d6801?utm_campaign=1048&utm_source=git)** | California, United States | Hybrid | Mar 01 |
+| **[Ferrovias](ferrovias.us)** | **[Supplier - Quality Engineer Graduate Intern](https://jobright.ai/jobs/info/69a4a37bb600907a962a67fc?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Mar 01 |
+| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Surveying Interns - Summer 2026](https://jobright.ai/jobs/info/69a4a0d2b600907a962a664b?utm_campaign=1048&utm_source=git)** | Mount Pleasant, MI | On Site | Mar 01 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Cornell Formulation Development](https://jobright.ai/jobs/info/69953d7181476f6176ad1f45?utm_campaign=1048&utm_source=git)** | Melrose Park, IL | On Site | Mar 01 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69a498d9b600907a962a5d51?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Mar 01 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Sensor Reasoning Models](https://jobright.ai/jobs/info/69a4986b0da45516f16d5a0c?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 01 |
@@ -139,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Ports)](https://jobright.ai/jobs/info/6917c20645fb6f5ead89e577?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 01 |
 | **[Cobb, Fendley & Associates, Inc.](http://cobbfendley.com)** | **[2026 Texas State University Career Fair, Internship & Graduate Engineer](https://jobright.ai/jobs/info/6997beccce78e77b4fdc1ff0?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 01 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6999547b81476f6176b1f896?utm_campaign=1048&utm_source=git)** | Sandy Springs, GA | Hybrid | Mar 01 |
-| **[Wilo USA](https://wilo.com/us/en_us/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69a45f66359fe034b1cf34de?utm_campaign=1048&utm_source=git)** | Cedarburg, WI | On Site | Mar 01 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Defense Science and Technology Internship Graduate Computer Student - Summer 2026](https://jobright.ai/jobs/info/6972f7ac694e99351d143f72?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 01 |
 | **[Bluecrest Partners](bluecrestpartners.net)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/69a45cab0da45516f16d3e9e?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/69799a12d7df290257fbf1fb?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/69a459570da45516f16d3deb?utm_campaign=1048&utm_source=git)** | Portland, TN | On Site | Mar 01 |
 | ↳ | **[Intern, Manufacturing Engineering (MA)](https://jobright.ai/jobs/info/69a45943b600907a962a3ff0?utm_campaign=1048&utm_source=git)** | Chicopee, MA | On Site | Mar 01 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fadf823c99cc1d960270e7?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Mar 01 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Electronics Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6959e793aa05c26e7ab38615?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Mar 01 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Mechanical Engineering Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/69913d226ea51a7610f38cd0?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Mar 01 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern/Co-Op – Civil/Environmental Engineer or Geologist](https://jobright.ai/jobs/info/696af3e1350cf4380312302a?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Mar 01 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Power Systems Engineer Intern - Spring](https://jobright.ai/jobs/info/6960fa92f3f4cd132505fc03?utm_campaign=1048&utm_source=git)** | Waterloo, CA | Hybrid | Mar 01 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[ES&H Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972ff3a694e99351d1444b9?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 01 |
-| **[ChampionX](https://www.championx.com)** | **[Supply Chain Engineer Intern](https://jobright.ai/jobs/info/699be78fe0bddb6acacad29c?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Mar 01 |
-| **[Valorantum](valorantum.us)** | **[Compliance Engineer Intern Opportunities 2026](https://jobright.ai/jobs/info/69a45210359fe034b1cf3203?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
