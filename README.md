@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Village of Fox Crossing](https://www.foxcrossingwi.gov/)** | **[Planning Intern](https://jobright.ai/jobs/info/69a386cfb600907a96299a77?utm_campaign=1048&utm_source=git)** | Neenah, WI | On Site | Feb 28 |
+| **[Greystar](http://greystar.com)** | **[Data Engineering Intern (Master's Level)](https://jobright.ai/jobs/info/69a3838f359fe034b1ce8c62?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Feb 28 |
+| ↳ | **[Data Engineering Intern (Master's Level)](https://jobright.ai/jobs/info/69a37fc5b600907a96299987?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
+| **[Robynex Automation](robynexautomation.com)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/69a37f43b600907a9629992a?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69a3775ab600907a96299739?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
 | **[Robynex Automation](robynexautomation.com)** | **[Supplier Quality Engineer Summer Intern](https://jobright.ai/jobs/info/69a374bf359fe034b1ce891a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Feb 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern System Engineer- PhD, Santa Clara, CA](https://jobright.ai/jobs/info/69a36d57359fe034b1ce87d0?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | On Site | Feb 28 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Maintenance Intern - Big Sandy Plant](https://jobright.ai/jobs/info/69a37f3fb600907a96299926?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | Feb 28 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Compliance Engineer Intern 2026](https://jobright.ai/jobs/info/69a35f49359fe034b1ce8531?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Feb 28 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Validation Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69a35e8fb600907a962992f0?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Feb 28 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69a35e8fb600907a962992f1?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[DV Intern](https://jobright.ai/jobs/info/6986c5ed0f6f7e7a2ce1e94c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/6986d14a8ca8121a3a695177?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 28 |
 | **[Etched](https://www.etched.com)** | **[Electrical Platform Intern](https://jobright.ai/jobs/info/6986c91b0f6f7e7a2ce1ea86?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Lonza](http://www.lonza.com)** | **[Quality Intern](https://jobright.ai/jobs/info/696b07c75fc86241853a535a?utm_campaign=1048&utm_source=git)** | Greenwood, SC | On Site | Feb 28 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Azure Storage](https://jobright.ai/jobs/info/69873a660f6f7e7a2ce280e0?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer I](https://jobright.ai/jobs/info/6986373e8ca8121a3a68667b?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Feb 28 |
-| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Environmental (40959)](https://jobright.ai/jobs/info/69a326b2359fe034b1ce67af?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/69862b058ca8121a3a68580a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
