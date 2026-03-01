@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olsson](https://www.olsson.com)** | **[Mechanical Engineering Internship - Federal Infrastructure](https://jobright.ai/jobs/info/6966b3755ad3a93f823204e9?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Central Iowa Division](https://jobright.ai/jobs/info/69a3a80d0da45516f16cae68?utm_campaign=1048&utm_source=git)** | Hancock, IA | On Site | Feb 28 |
+| ↳ | **[Intern - Retail Field, Agronomy - Central IL Division](https://jobright.ai/jobs/info/69a3a7de359fe034b1cea4e6?utm_campaign=1048&utm_source=git)** | New Boston, IL | On Site | Feb 28 |
+| **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a3a7c00da45516f16cae52?utm_campaign=1048&utm_source=git)** | Remote- USA | Remote | Feb 28 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Mechanical engineering intern Talent Pool](https://jobright.ai/jobs/info/69a3a081359fe034b1ce9f72?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Feb 28 |
+| **[Museum of Science](http://www.mos.org)** | **[Workplace Health & Safety  College Internship](https://jobright.ai/jobs/info/698640098da7a6120460f094?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Feb 28 |
+| **[Okuma America Corporation](https://www.okuma.com)** | **[Mechanical Exchange Intern](https://jobright.ai/jobs/info/69a39baf359fe034b1ce9c72?utm_campaign=1048&utm_source=git)** | Corporate Headquarters - Charlotte, NC 28278 | On Site | Feb 28 |
+| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/69a39acfb600907a9629a8cc?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Feb 28 |
 | **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a395090da45516f16c9c65?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Intern, Computational Material](https://jobright.ai/jobs/info/69a3926bb600907a96299d6c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Reliability / Maintenance Engineering Intern](https://jobright.ai/jobs/info/698ce44b78b4502f12a35bc1?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Feb 28 |
@@ -75,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Validation Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69a35e8fb600907a962992f0?utm_campaign=1048&utm_source=git)** | Superior, MI | On Site | Feb 28 |
 | **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Engineering Intern - Pearl River Plant](https://jobright.ai/jobs/info/69a35e8fb600907a962992f1?utm_campaign=1048&utm_source=git)** | Pearl River, MS | On Site | Feb 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69a35c620da45516f16c8e28?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Feb 28 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Summer Intern-2026](https://jobright.ai/jobs/info/69a35c460da45516f16c8e20?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/69a35c460da45516f16c8e20?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Engineer Intern - Mechanical](https://jobright.ai/jobs/info/69a354440da45516f16c8c8d?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – DevOps Engineering & Automation](https://jobright.ai/jobs/info/69a351a00da45516f16c8c01?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[Generative Manufacturing Engineering Design Intern](https://jobright.ai/jobs/info/69a3517fb600907a96298ff7?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Feb 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[Lighting Intern - New York (Summer 2026)](https://jobright.ai/jobs/info/68fab63067272b29af732e79?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/69a330c00da45516f16c7740?utm_campaign=1048&utm_source=git)** | Bloomington, IL | On Site | Feb 28 |
 | ↳ | **[Engineering Intern - Mechanical](https://jobright.ai/jobs/info/69a33078b600907a96297b66?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Feb 28 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Environmental Health & Safety (Orange, VA)](https://jobright.ai/jobs/info/69a32ff60da45516f16c76cf?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Feb 28 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Energy & Sustainability Services Intern](https://jobright.ai/jobs/info/69869c460f6f7e7a2ce1a77c?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/6986443c8da7a6120460f596?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
-| **[OpenEye, Cadence Molecular Sciences](http://www.eyesopen.com/)** | **[Intern – Scientific Developer Target Exploration](https://jobright.ai/jobs/info/699aaca3e0bddb6acac9c882?utm_campaign=1048&utm_source=git)** | Santa Fe, NM | On Site | Feb 28 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Fellow - PC- General Internal Medicine](https://jobright.ai/jobs/info/69a32a4db600907a962977b7?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Feb 28 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Machine Learning / AI Intern](https://jobright.ai/jobs/info/6986aa798ca8121a3a690469?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[HOLT Group](https://holtgrp.com)** | **[Welding Intern- College](https://jobright.ai/jobs/info/69326b7e764507023d1ae66a?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/69863b260f6f7e7a2ce11dad?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
