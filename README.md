@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69a395090da45516f16c9c65?utm_campaign=1048&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Intern, Computational Material](https://jobright.ai/jobs/info/69a3926bb600907a96299d6c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
+| **[Atlas Energy Solutions](https://atlas.energy)** | **[Reliability / Maintenance Engineering Intern](https://jobright.ai/jobs/info/698ce44b78b4502f12a35bc1?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Feb 28 |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[CLIA Lab Summer Intern 2026](https://jobright.ai/jobs/info/69a3904e359fe034b1ce8d1f?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
+| ↳ | **[Tech Transfer Summer Intern 2026](https://jobright.ai/jobs/info/69a39049359fe034b1ce8d1d?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
+| **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Industrial Engineering Intern - Operations & CapEx](https://jobright.ai/jobs/info/69a38c35b600907a96299abd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | **[Village of Fox Crossing](https://www.foxcrossingwi.gov/)** | **[Planning Intern](https://jobright.ai/jobs/info/69a386cfb600907a96299a77?utm_campaign=1048&utm_source=git)** | Neenah, WI | On Site | Feb 28 |
 | **[Greystar](http://greystar.com)** | **[Data Engineering Intern (Master's Level)](https://jobright.ai/jobs/info/69a3838f359fe034b1ce8c62?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Feb 28 |
 | ↳ | **[Data Engineering Intern (Master's Level)](https://jobright.ai/jobs/info/69a37fc5b600907a96299987?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69a35c620da45516f16c8e28?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Feb 28 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Summer Intern-2026](https://jobright.ai/jobs/info/69a35c460da45516f16c8e20?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Engineer Intern - Mechanical](https://jobright.ai/jobs/info/69a354440da45516f16c8c8d?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Feb 28 |
-| **[Mechronix](mechronix.us)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69a353f2359fe034b1ce82f1?utm_campaign=1048&utm_source=git)** | Nyack, NY | On Site | Feb 28 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – DevOps Engineering & Automation](https://jobright.ai/jobs/info/69a351a00da45516f16c8c01?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[The Institute for Advanced Learning and Research](https://www.ialr.org/)** | **[Generative Manufacturing Engineering Design Intern](https://jobright.ai/jobs/info/69a3517fb600907a96298ff7?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Feb 28 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Tech Transfer Summer Intern 2026](https://jobright.ai/jobs/info/69a34f51359fe034b1ce8180?utm_campaign=1048&utm_source=git)** | Brisbane, CA | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Machine Learning / AI Intern](https://jobright.ai/jobs/info/6986aa798ca8121a3a690469?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[HOLT Group](https://holtgrp.com)** | **[Welding Intern- College](https://jobright.ai/jobs/info/69326b7e764507023d1ae66a?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Feb 28 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/69863b260f6f7e7a2ce11dad?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 28 |
-| ↳ | **[Mechanical Engineer I](https://jobright.ai/jobs/info/69863b870f6f7e7a2ce11e18?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
-| **[BTD Manufacturing](http://btdmfg.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69a327790da45516f16c7143?utm_campaign=1048&utm_source=git)** | Lakeville, MN | On Site | Feb 28 |
-| **[Etched](https://www.etched.com)** | **[DV Intern](https://jobright.ai/jobs/info/6986c5ed0f6f7e7a2ce1e94c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/6986d14a8ca8121a3a695177?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Feb 28 |
-| **[Etched](https://www.etched.com)** | **[Electrical Platform Intern](https://jobright.ai/jobs/info/6986c91b0f6f7e7a2ce1ea86?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
