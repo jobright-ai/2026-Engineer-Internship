@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Timing Product Engineering Summer Intern](https://jobright.ai/jobs/info/69a3e5d80da45516f16cd5cd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| ↳ | **[RF Filter Design Summer Intern](https://jobright.ai/jobs/info/69a3e5d70da45516f16cd5cc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
+| ↳ | **[Test Engineer Summer Intern (May '26 - Aug ''26)](https://jobright.ai/jobs/info/69a3e5ba359fe034b1cecb7e?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| ↳ | **[Product Engineer Intern](https://jobright.ai/jobs/info/69a3e5a3b600907a9629da0f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| **[MediaTek](http://www.mediatek.com)** | **[[Summer 2026] Intern – Mixed-Signal IP DFT Engineering](https://jobright.ai/jobs/info/69a3e31d359fe034b1cec85d?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[LLM/Machine Learning Engineering Summer Intern](https://jobright.ai/jobs/info/69a3e031b600907a9629d6cc?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Feb 28 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Surveying Summer Internship](https://jobright.ai/jobs/info/69a3dcbc359fe034b1cec53c?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Feb 28 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern - Cyber Risk Management, Unit 42](https://jobright.ai/jobs/info/69a3dcbab600907a9629d44e?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 28 |
+| **[CRH](http://crh.com)** | **[Construction Internship  (May - Aug 2026)](https://jobright.ai/jobs/info/69a3dc78b600907a9629d39e?utm_campaign=1048&utm_source=git)** | Waco, TX | On Site | Feb 28 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ENVIRONMENTAL SERVICES INTERN](https://jobright.ai/jobs/info/69a3d36e0da45516f16cc94c?utm_campaign=1048&utm_source=git)** | Solano County, CA | On Site | Feb 28 |
 | ↳ | **[ENVIRONMENTAL SERVICES INTERN](https://jobright.ai/jobs/info/69a3d36db600907a9629cd71?utm_campaign=1048&utm_source=git)** | San Joaquin County, CA | On Site | Feb 28 |
 | ↳ | **[ENVIRONMENTAL SERVICES INTERN](https://jobright.ai/jobs/info/69a3d364b600907a9629cd67?utm_campaign=1048&utm_source=git)** | San Joaquin County, CA | On Site | Feb 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Engineering Technician Intern](https://jobright.ai/jobs/info/6989625747434001cc678162?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Bridge](https://jobright.ai/jobs/info/68ddef5709bda65a4b624cb9?utm_campaign=1048&utm_source=git)** | Coral Gables, FL | On Site | Feb 28 |
 | **[CRH](http://crh.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69a3347d359fe034b1ce6fa3?utm_campaign=1048&utm_source=git)** | Hooksett, NH | On Site | Feb 28 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69865c0b0f6f7e7a2ce141f4?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
-| **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/693073b24c474121999e5686?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Feb 28 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[System Engineer - Optical DSP Intern - PhD](https://jobright.ai/jobs/info/68dd9c6addc10244dd681f11?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/68dc6757accfd24b67e5525a?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Feb 28 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Facilities Engineer (Orange, VA)](https://jobright.ai/jobs/info/69a331540da45516f16c77a3?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Feb 28 |
-| **[RoboStruct Technologies](robostructtechnologies.com)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/69a33151b600907a96297bf7?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Feb 28 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineering - Summer](https://jobright.ai/jobs/info/69a3312ab600907a96297bdf?utm_campaign=1048&utm_source=git)** | Bloomington, IL | On Site | Feb 28 |
-| **[Etched](https://www.etched.com)** | **[ChipSim Intern](https://jobright.ai/jobs/info/6986bbfd8ca8121a3a6927ed?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Balchem Corporation](http://balchem.com)** | **[Quality Intern](https://jobright.ai/jobs/info/698677ac8da7a61204614221?utm_campaign=1048&utm_source=git)** | Montvale, NJ | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
