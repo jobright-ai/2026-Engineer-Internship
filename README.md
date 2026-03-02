@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[marquesmind](https://marquesmind.com)** | **[AI Associate Intern](https://jobright.ai/jobs/info/69a4e9c3b600907a962a819e?utm_campaign=1048&utm_source=git)** | DFW Metroplex | Remote | Mar 01 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Quality Internship Program](https://jobright.ai/jobs/info/69a4e97a0da45516f16d7fa1?utm_campaign=1048&utm_source=git)** | Sturtevant, WI | On Site | Mar 01 |
+| **[The International Council on Clean Transportation](http://theicct.org/)** | **[US Intern- Fuels](https://jobright.ai/jobs/info/69a4e9740da45516f16d7f9e?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
+| **[Arvento A](arventoa.com)** | **[Assurance – Technology Risk –  Intern](https://jobright.ai/jobs/info/69a4e969359fe034b1cf7465?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Mar 01 |
+| **[Vexra Engineering](vexraengineering.com)** | **[Battery Algorithms & Controls Design Intern](https://jobright.ai/jobs/info/69a4e75bb600907a962a7dc7?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Mar 01 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6971359b587dfa0bb55ebf5a?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Mar 01 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Cyber Security - Intern](https://jobright.ai/jobs/info/69a4e324b600907a962a7bcf?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Mar 01 |
+| **[Robynex Automation](robynexautomation.com)** | **[Battery Management Algorithms Internship](https://jobright.ai/jobs/info/69a4e316b600907a962a7bcd?utm_campaign=1048&utm_source=git)** | Newark, CA | Remote | Mar 01 |
 | **[Archer](https://www.archer.com)** | **[Fly-by-Wire Engineering Intern](https://jobright.ai/jobs/info/694ba4225d731211347031e5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States | On Site | Mar 01 |
 | **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Intern (5G/6G Development)](https://jobright.ai/jobs/info/69a4d8fb0da45516f16d78b3?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69a4d8b0b600907a962a79be?utm_campaign=1048&utm_source=git)** | Rockwall, TX | On Site | Mar 01 |
@@ -75,14 +83,12 @@ For a complete list, click the following sortable link below:
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Laboratory Services - Graduate Intern I](https://jobright.ai/jobs/info/69a4a61e359fe034b1cf5c8f?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[DynamoFL](https://dynamofl.com/)** | **[ML Research Engineer Intern &ndash; Dynamo Guard / Dynamo Eval / AgentWarden](https://jobright.ai/jobs/info/69a4a6150da45516f16d6801?utm_campaign=1048&utm_source=git)** | California, United States | Hybrid | Mar 01 |
 | **[Ferrovias](ferrovias.us)** | **[Supplier - Quality Engineer Graduate Intern](https://jobright.ai/jobs/info/69a4a37bb600907a962a67fc?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Mar 01 |
-| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Surveying Interns - Summer 2026](https://jobright.ai/jobs/info/69a4a0d2b600907a962a664b?utm_campaign=1048&utm_source=git)** | Mount Pleasant, MI | On Site | Mar 01 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Cornell Formulation Development](https://jobright.ai/jobs/info/69953d7181476f6176ad1f45?utm_campaign=1048&utm_source=git)** | Melrose Park, IL | On Site | Mar 01 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69a498d9b600907a962a5d51?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Mar 01 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Sensor Reasoning Models](https://jobright.ai/jobs/info/69a4986b0da45516f16d5a0c?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 01 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Mechanical Engineering Summer Internship](https://jobright.ai/jobs/info/69a4984eb600907a962a5c6c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Summer Intern - Biosciences R&D (Newark, DE)](https://jobright.ai/jobs/info/69997483e0bddb6acac8b2f9?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | Mar 01 |
 | **[CORRE, INC.](http://correinc.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a49646359fe034b1cf4d3b?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Mar 01 |
-| **[Rowe Professional Services Company](http://rowepsc.com)** | **[Surveying Interns - Summer 2026](https://jobright.ai/jobs/info/69a49350359fe034b1cf4b23?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Mar 01 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineering Intern – Entry Level](https://jobright.ai/jobs/info/69a4925db600907a962a5777?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69a4902c359fe034b1cf495b?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Intern, Engineering - 27053](https://jobright.ai/jobs/info/6987d24d8da7a6120462d77d?utm_campaign=1048&utm_source=git)** | Adelphi, MD | On Site | Mar 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charleston Water System](https://charlestonwater.com/)** | **[Distribution System Operator Apprentice/ DSO II (26-045)](https://jobright.ai/jobs/info/69a460ea0da45516f16d40d0?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Mar 01 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/699736a3e0bddb6acac5eb96?utm_campaign=1048&utm_source=git)** | Lowell, MA | Hybrid | Mar 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6917ab4515b415636717a498?utm_campaign=1048&utm_source=git)** | Morristown, NJ | Hybrid | Mar 01 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Structural Engineering Intern - Transmission & Distribution, Substation (Phoenix)](https://jobright.ai/jobs/info/698abfdc4db8972cec003939?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 01 |
-| **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6996b79ae0bddb6acac5592a?utm_campaign=1048&utm_source=git)** | Research Park, CA | Hybrid | Mar 01 |
-| ↳ | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6997042ee0bddb6acac5b1c1?utm_campaign=1048&utm_source=git)** | Rochester, MN | Hybrid | Mar 01 |
-| **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Ports)](https://jobright.ai/jobs/info/6917c20645fb6f5ead89e577?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 01 |
-| **[Cobb, Fendley & Associates, Inc.](http://cobbfendley.com)** | **[2026 Texas State University Career Fair, Internship & Graduate Engineer](https://jobright.ai/jobs/info/6997beccce78e77b4fdc1ff0?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 01 |
-| **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6999547b81476f6176b1f896?utm_campaign=1048&utm_source=git)** | Sandy Springs, GA | Hybrid | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
