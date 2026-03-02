@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - AI & Microsoft Copilot Enablement](https://jobright.ai/jobs/info/69a4c6f1b600907a962a74be?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | Mar 01 |
+| **[JVA, Inc.](https://jvajva.com/)** | **[Environmental College Intern](https://jobright.ai/jobs/info/6971a90e587dfa0bb55f5c2a?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Mar 01 |
+| **[Convergent Research](https://www.convergentresearch.org/)** | **[Computer Vision and Machine Learning Intern](https://jobright.ai/jobs/info/69a3c61eb600907a9629c403?utm_campaign=1048&utm_source=git)** | Watertown, MA | On Site | Mar 01 |
+| **[Knapheide](http://knapheide.com)** | **[Quality Control Intern](https://jobright.ai/jobs/info/697b43311136d179eeeebef2?utm_campaign=1048&utm_source=git)** | Quincy, IL | On Site | Mar 01 |
+| **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Mechanical Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/6997c3e281476f6176afef53?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 01 |
+| **[Vexra Engineering](vexraengineering.com)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/69a4b6b4359fe034b1cf61a9?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Remote | Mar 01 |
+| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Programming, Data Infrastructure, and Automation Intern- Summer 2026](https://jobright.ai/jobs/info/6992e78de0bddb6acac11dfe?utm_campaign=1048&utm_source=git)** | Orlando, FL | Hybrid | Mar 01 |
+| ↳ | **[Operational Technology Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a4b4530da45516f16d6c99?utm_campaign=1048&utm_source=git)** | Orlando, FL | Hybrid | Mar 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Supplier Quality Engineer Summer Intern](https://jobright.ai/jobs/info/69a4abedb600907a962a6c7a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Internship Program - Research, Development & Application](https://jobright.ai/jobs/info/69a4ab6bb600907a962a6c54?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Remote | Mar 01 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Industrial Engineering](https://jobright.ai/jobs/info/69976706e0bddb6acac61fed?utm_campaign=1048&utm_source=git)** | Trenton, NJ | On Site | Mar 01 |
@@ -73,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[CORRE, INC.](http://correinc.com)** | **[Civil Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a49646359fe034b1cf4d3b?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Mar 01 |
 | **[Rowe Professional Services Company](http://rowepsc.com)** | **[Surveying Interns - Summer 2026](https://jobright.ai/jobs/info/69a49350359fe034b1cf4b23?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Mar 01 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Mechanical Engineering Intern – Entry Level](https://jobright.ai/jobs/info/69a4925db600907a962a5777?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
-| **[AeroMatrix 12](aeromatrix12.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/69a49051b600907a962a5688?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69a4902c359fe034b1cf495b?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Intern, Engineering - 27053](https://jobright.ai/jobs/info/6987d24d8da7a6120462d77d?utm_campaign=1048&utm_source=git)** | Adelphi, MD | On Site | Mar 01 |
 | **[SEED (Electronic Arts)](https://seed.ea.com)** | **[Machine Learning PhD Internship - Gameplay-focused World Model - SEED - 8 Months](https://jobright.ai/jobs/info/69351bdda0dde7020e2f76e4?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Defense Science and Technology Internship Graduate Computer Student - Summer 2026](https://jobright.ai/jobs/info/6972f7ac694e99351d143f72?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 01 |
 | **[Bluecrest Partners](bluecrestpartners.net)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/69a45cab0da45516f16d3e9e?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/69799a12d7df290257fbf1fb?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
-| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-op Summer 2026](https://jobright.ai/jobs/info/69a4599cb600907a962a400e?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Mar 01 |
-| **[Thermagia Engineering](thermagiaengineering.us)** | **[Compliance Engineer Intern Opportunities 2026](https://jobright.ai/jobs/info/69a4599c359fe034b1cf332e?utm_campaign=1048&utm_source=git)** | St Louis, MO | Remote | Mar 01 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fade5c3c99cc1d96026fc8?utm_campaign=1048&utm_source=git)** | Marquette, MI | On Site | Mar 01 |
-| **[Ferrovias](ferrovias.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a4595bb600907a962a3ff9?utm_campaign=1048&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Mar 01 |
-| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/69a459570da45516f16d3deb?utm_campaign=1048&utm_source=git)** | Portland, TN | On Site | Mar 01 |
-| ↳ | **[Intern, Manufacturing Engineering (MA)](https://jobright.ai/jobs/info/69a45943b600907a962a3ff0?utm_campaign=1048&utm_source=git)** | Chicopee, MA | On Site | Mar 01 |
-| **[Benesch](https://www.benesch.com)** | **[Civil Construction Engineering Internship](https://jobright.ai/jobs/info/68fadf823c99cc1d960270e7?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
