@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectral AI](https://www.spectral-ai.com/)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69a5567bb600907a962afa40?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
+| **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a5446eb600907a962ae25d?utm_campaign=1048&utm_source=git)** | Warren, OH | On Site | Mar 02 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Yield Engineering Summer Intern](https://jobright.ai/jobs/info/69a54468b600907a962ae257?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 02 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Intern i Industrial Engineer](https://jobright.ai/jobs/info/69a543250da45516f16de070?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 01 |
+| ↳ | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69a54253b600907a962adf01?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 01 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Airport Division Intern](https://jobright.ai/jobs/info/69a53d1c0da45516f16dd7c5?utm_campaign=1048&utm_source=git)** | Oklahoma County | On Site | Mar 01 |
+| **[Atlassian](https://www.atlassian.com)** | **[Security Engineer Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/692293a3c0cefa13343d8549?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
 | **[Mustang Cat](https://www.mustangcat.com/)** | **[Think Big Technician Internship Program](https://jobright.ai/jobs/info/69a53004b600907a962acbf3?utm_campaign=1048&utm_source=git)** | Beaumont, TX | On Site | Mar 01 |
 | **[Aypa Power](https://www.aypa.com)** | **[Civil Drafting Engineer, Intern](https://jobright.ai/jobs/info/699395ca81476f6176ab281c?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 01 |
 | **[ERM](http://www.erm.com/)** | **[Intern, Demolition, Decontamination, and Decommissioning (DDD)](https://jobright.ai/jobs/info/69a529df359fe034b1cfb89a?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | On Site | Mar 01 |
@@ -115,9 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mechanical - Master Tradesperson (SkillBridge Intern) - 18127](https://jobright.ai/jobs/info/691adac0bcdbf3560c9db1c9?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
 | **[Arconic](https://www.arconic.com)** | **[Intern – COE Smart Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/68c4b18c7279451d6a036dc8?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Mar 01 |
 | **[City of Orlando Careers](https://www.governmentjobs.com/careers/orlando)** | **[City Planning Internship](https://jobright.ai/jobs/info/69a4818d359fe034b1cf431d?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
-| **[RoboStruct Technologies](robostructtechnologies.com)** | **[Engineer Intern - Mechanical](https://jobright.ai/jobs/info/69a4816db600907a962a5067?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Research Intern Program](https://jobright.ai/jobs/info/69a48161b600907a962a505c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 01 |
-| **[Benesch](https://www.benesch.com)** | **[Municipal Engineering Internship](https://jobright.ai/jobs/info/69a48149359fe034b1cf42da?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Mar 01 |
 | **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a480fa0da45516f16d4d79?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 01 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Immunology](https://jobright.ai/jobs/info/69a1a27c0da45516f16b0587?utm_campaign=1048&utm_source=git)** | Ashland, OH | On Site | Mar 01 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - ILS Engineering Intern](https://jobright.ai/jobs/info/69a3d6fab600907a9629cf04?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Mar 01 |
@@ -143,8 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pilgrim's Live Ops Summer Internship](https://jobright.ai/jobs/info/69392fc6ac80bb5492bbcc18?utm_campaign=1048&utm_source=git)** | Guntersville, AL | On Site | Mar 01 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Mechanical Engineering Intern - Wharton, TX](https://jobright.ai/jobs/info/68cd78f41ad6b16f02899fc5?utm_campaign=1048&utm_source=git)** | Wharton, TX | On Site | Mar 01 |
 | **[Rio Tinto](http://www.riotinto.com)** | **[Intern Program 2026/2027 - Process Engineer - Western Australia](https://jobright.ai/jobs/info/69a46a38359fe034b1cf39e3?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
-| **[Arvento A](arventoa.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69a46a0b0da45516f16d44ec?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Remote | Mar 01 |
-| **[Rio Tinto](http://www.riotinto.com)** | **[Intern Program 2026/2027 - Mining Engineer - Western Australia](https://jobright.ai/jobs/info/69a4698fb600907a962a46b3?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
+| ↳ | **[Intern Program 2026/2027 - Mining Engineer - Western Australia](https://jobright.ai/jobs/info/69a4698fb600907a962a46b3?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
 | ↳ | **[Intern Program 2026/2027 - Geotechnical Engineer - Western Australia](https://jobright.ai/jobs/info/69a46967b600907a962a469f?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
 | ↳ | **[Intern Program 2026/2027 - Hydrology and Hydrogeology - Western Australia](https://jobright.ai/jobs/info/69a46955b600907a962a4691?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
 | ↳ | **[Intern Program 2026/2027 - Mechanical Engineer - Western Australia](https://jobright.ai/jobs/info/69a469460da45516f16d44b9?utm_campaign=1048&utm_source=git)** | Brockman | On Site | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Mar 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern System Engineer- PhD, Santa Clara, CA](https://jobright.ai/jobs/info/69a466f80da45516f16d43f5?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 01 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Analog Power Design](https://jobright.ai/jobs/info/69a466cd359fe034b1cf3897?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Mar 01 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69a466b9b600907a962a459f?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | Remote | Mar 01 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Safety Internship 2025/2026](https://jobright.ai/jobs/info/68df16ea5ab4977c2e94f620?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68a5263f33dd7158bbc97905?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
