@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Archer](https://www.archer.com)** | **[Fly-by-Wire Engineering Intern](https://jobright.ai/jobs/info/694ba4225d731211347031e5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States | On Site | Mar 01 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[Hardware Systems Engineering Intern (5G/6G Development)](https://jobright.ai/jobs/info/69a4d8fb0da45516f16d78b3?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69a4d8b0b600907a962a79be?utm_campaign=1048&utm_source=git)** | Rockwall, TX | On Site | Mar 01 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - AI & Microsoft Copilot Enablement](https://jobright.ai/jobs/info/69a4c6f1b600907a962a74be?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | Mar 01 |
 | **[JVA, Inc.](https://jvajva.com/)** | **[Environmental College Intern](https://jobright.ai/jobs/info/6971a90e587dfa0bb55f5c2a?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Mar 01 |
 | **[Convergent Research](https://www.convergentresearch.org/)** | **[Computer Vision and Machine Learning Intern](https://jobright.ai/jobs/info/69a3c61eb600907a9629c403?utm_campaign=1048&utm_source=git)** | Watertown, MA | On Site | Mar 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Ports)](https://jobright.ai/jobs/info/6917c20645fb6f5ead89e577?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 01 |
 | **[Cobb, Fendley & Associates, Inc.](http://cobbfendley.com)** | **[2026 Texas State University Career Fair, Internship & Graduate Engineer](https://jobright.ai/jobs/info/6997beccce78e77b4fdc1ff0?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 01 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/6999547b81476f6176b1f896?utm_campaign=1048&utm_source=git)** | Sandy Springs, GA | Hybrid | Mar 01 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Defense Science and Technology Internship Graduate Computer Student - Summer 2026](https://jobright.ai/jobs/info/6972f7ac694e99351d143f72?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 01 |
-| **[Bluecrest Partners](bluecrestpartners.net)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/69a45cab0da45516f16d3e9e?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Mar 01 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Construction Intern](https://jobright.ai/jobs/info/69799a12d7df290257fbf1fb?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
