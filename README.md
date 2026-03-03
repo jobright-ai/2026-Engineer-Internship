@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Circuit and System Reliability Intern](https://jobright.ai/jobs/info/69a694da708b430a607afa96?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Maintenance - Intern](https://jobright.ai/jobs/info/69a69464708b430a607afa11?utm_campaign=1048&utm_source=git)** | Blair Mill Village East, PA | On Site | Mar 02 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Intern Physical Design Engineer - Summer 2026](https://jobright.ai/jobs/info/69a693e6708b430a607af90f?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Mar 02 |
+| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Continuous Improvement Intern - Summer 2026](https://jobright.ai/jobs/info/69a691d9f707784310afe5e9?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
+| **[ABB](https://global.abb/group/en)** | **[Process Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a691401a944544ef6337e0?utm_campaign=1048&utm_source=git)** | New Berlin, WI | On Site | Mar 02 |
+| ↳ | **[Automation Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6994ea0481476f6176acc07e?utm_campaign=1048&utm_source=git)** | New Berlin, WI | On Site | Mar 02 |
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Mission Assurance Intern](https://jobright.ai/jobs/info/69a68fe6708b430a607af3a7?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Maintenance - Intern](https://jobright.ai/jobs/info/69a68f26708b430a607af324?utm_campaign=1048&utm_source=git)** | Devon, PA | On Site | Mar 02 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Reliability Engineering](https://jobright.ai/jobs/info/69a68f101a944544ef6335a2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 02 |
@@ -88,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Renesas Electronics](https://www.renesas.com)** | **[Digital Design Engineer Intern](https://jobright.ai/jobs/info/69a6780e2c0d8b0f5cd0961f?utm_campaign=1048&utm_source=git)** | Duluth, GA | Hybrid | Mar 02 |
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program - Electrical Design and Analysis](https://jobright.ai/jobs/info/69a677a1d706a731db3865db?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
 | **[Amazon](https://amazon.com)** | **[Member of Technical Staff Intern (2026), Artificial General Intelligence (AGI)](https://jobright.ai/jobs/info/69a67747e567421f425779ba?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
+| **[Owens Corning](http://www.owenscorning.com/)** | **[Science & Technology Summer Intern (2026)](https://jobright.ai/jobs/info/69a692d91a944544ef6339bf?utm_campaign=1048&utm_source=git)** | Granville, OH | On Site | Mar 02 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Materials Engineering Division (MED): Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69a67659e567421f4257790a?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Mar 02 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Intern Physical Design Engineer - Summer 2026](https://jobright.ai/jobs/info/69a675112c0d8b0f5cd09337?utm_campaign=1048&utm_source=git)** | Austin (Oakhill, Office) | On Site | Mar 02 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Intern – Vision Language Model/Action (Masters)](https://jobright.ai/jobs/info/69a674f42c0d8b0f5cd0932a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony](https://www.sony.com)** | **[Intern, Cyber Threat Intelligence](https://jobright.ai/jobs/info/69a653ae2c0d8b0f5cd06b2a?utm_campaign=1048&utm_source=git)** | Virginia, United States | Hybrid | Mar 02 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, ATE Test Engineering (SMT8)](https://jobright.ai/jobs/info/69a65394e567421f42575218?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 02 |
 | **[Perlick](https://www.perlick.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6978306688e2b47213bc375c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[IT Intern - AI & Automation](https://jobright.ai/jobs/info/69a652542c0d8b0f5cd068bb?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Mar 02 |
-| **[SSOE Group](https://www.ssoe.com/)** | **[Mechanical Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69a652152c0d8b0f5cd0684e?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Mar 02 |
-| **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern I - Seasonal](https://jobright.ai/jobs/info/69a650f72c0d8b0f5cd0661d?utm_campaign=1048&utm_source=git)** | Roanoke, TX | On Site | Mar 02 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineer - Entry Level](https://jobright.ai/jobs/info/69a650e12c0d8b0f5cd065f2?utm_campaign=1048&utm_source=git)** | Celina, TX | On Site | Mar 02 |
-| **[Leidos](https://www.leidos.com)** | **[Information Technologies (IT) Intern](https://jobright.ai/jobs/info/69a650c4d706a731db3830ae?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 02 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Pilot Hall)](https://jobright.ai/jobs/info/69a650892c0d8b0f5cd06553?utm_campaign=1048&utm_source=git)** | Columbia, SC United States | On Site | Mar 02 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Masters Intern - Detection Physics](https://jobright.ai/jobs/info/69a6504f2c0d8b0f5cd06481?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
