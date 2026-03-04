@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 03 |
+| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance - SharePoint Web Development](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Mar 03 |
+| **[TE Connectivity](http://www.te.com)** | **[R&D Product Development Engineering Intern- REMOTE](https://jobright.ai/jobs/info/69a7d074637232443f653063?utm_campaign=1048&utm_source=git)** | Middletown, NJ | Remote | Mar 03 |
 | **[Flex](https://flex.com)** | **[Test Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a7cd1f637232443f65293c?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Mar 03 |
 | **[Moody Gardens®](https://www.moodygardens.org)** | **[MAINTENANCE ADMIN - Internship](https://jobright.ai/jobs/info/69a7cce0637232443f65291e?utm_campaign=1048&utm_source=git)** | Galveston, TX 77554 | On Site | Mar 03 |
 | **[Brad Hall Companies](https://bradhallfuel.com)** | **[Agronomy Intern](https://jobright.ai/jobs/info/69a7ccdb76bbe83d3afb4948?utm_campaign=1048&utm_source=git)** | BAS Blackfoot - Blackfoot, ID 83221 | On Site | Mar 03 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Hexagon US Federal](https://hexagonusfederal.com/)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/69a7bb0776bbe83d3afb31fe?utm_campaign=1048&utm_source=git)** | United States | On Site | Mar 03 |
 | **[mundane](mundane.co)** | **[robotic systems engineer intern](https://jobright.ai/jobs/info/69a7b9b0637232443f650b71?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Mar 03 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[EEIP Undergrad Intern - Energy Processes & Materials](https://jobright.ai/jobs/info/69a7b962637232443f650a72?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 03 |
+| **[RoboStruct Technologies](robostructtechnologies.com)** | **[Talent Pool - Mechanical Engineer - Intern](https://jobright.ai/jobs/info/69a7d99f76bbe83d3afb567f?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[ES&H Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972ff3a694e99351d1444b9?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 03 |
 | ↳ | **[Defense Science and Technology Internship Graduate Computer Student - Summer 2026](https://jobright.ai/jobs/info/6972f7ac694e99351d143f72?utm_campaign=1048&utm_source=git)** | Livermore, CA | Hybrid | Mar 03 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[2026 Environmental Sustainability Intern - Yosemite (Master's Degree)](https://jobright.ai/jobs/info/69a7b780637232443f650642?utm_campaign=1048&utm_source=git)** | Yosemite, CA, US, 95389 | Hybrid | Mar 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Columbus Engine Center Supply Chain Intern (Onsite)](https://jobright.ai/jobs/info/69a7af7e76bbe83d3afb1b8c?utm_campaign=1048&utm_source=git)** | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | On Site | Mar 03 |
 | **[Adams and Associates, Inc.](https://www.adamsaai.com/)** | **[Intern (Safety & Security) (61137)](https://jobright.ai/jobs/info/69a784ce76bbe83d3afae8d4?utm_campaign=1048&utm_source=git)** | Atterbury - Edinburgh, IN 46124 | On Site | Mar 03 |
 | **[Phillips Corporation](http://phillipscorp.com)** | **[Additive Intern](https://jobright.ai/jobs/info/699dab6ee0bddb6acacd0fcc?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Mar 03 |
-| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69a783cc76bbe83d3afae7db?utm_campaign=1048&utm_source=git)** | Hanover, PA | On Site | Mar 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Quality Automation Engineer](https://jobright.ai/jobs/info/69a783072672cb0acb4bfaa7?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Mar 03 |
-| **[Consertus](http://www.consertus.com)** | **[Student Internship for Engineering/Project Management/Technology/Artificial Intelligence (AI)](https://jobright.ai/jobs/info/69a7823c76bbe83d3afae646?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Mar 03 |
-| **[Archer](https://www.archer.com)** | **[Mass Properties Intern](https://jobright.ai/jobs/info/69a782092672cb0acb4bf999?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
