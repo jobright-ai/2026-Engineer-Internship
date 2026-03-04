@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crustdata (YC F24)](https://crustdata.com/)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/69a7e1ff637232443f653a54?utm_campaign=1048&utm_source=git)** | New York, NY, US | On Site | Mar 03 |
 | **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - GxP Compliance - SharePoint Web Development](https://jobright.ai/jobs/info/698a85684db8972cecffdfe2?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Mar 03 |
 | **[TE Connectivity](http://www.te.com)** | **[R&D Product Development Engineering Intern- REMOTE](https://jobright.ai/jobs/info/69a7d074637232443f653063?utm_campaign=1048&utm_source=git)** | Middletown, NJ | Remote | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deion](https://deion.io/)** | **[Agentic AI Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/69a7ba8b76bbe83d3afb30c0?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 03 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: 2026 - Columbus Engine Center Supply Chain Intern (Onsite)](https://jobright.ai/jobs/info/69a7af7e76bbe83d3afb1b8c?utm_campaign=1048&utm_source=git)** | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | On Site | Mar 03 |
 | **[Adams and Associates, Inc.](https://www.adamsaai.com/)** | **[Intern (Safety & Security) (61137)](https://jobright.ai/jobs/info/69a784ce76bbe83d3afae8d4?utm_campaign=1048&utm_source=git)** | Atterbury - Edinburgh, IN 46124 | On Site | Mar 03 |
-| **[Phillips Corporation](http://phillipscorp.com)** | **[Additive Intern](https://jobright.ai/jobs/info/699dab6ee0bddb6acacd0fcc?utm_campaign=1048&utm_source=git)** | Danville, VA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
