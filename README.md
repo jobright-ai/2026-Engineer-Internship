@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program –Mechanical Ground Support Equipment](https://jobright.ai/jobs/info/69aa6d549ca4e908ec65bfe0?utm_campaign=1048&utm_source=git)** | USA - El Segundo, CA | On Site | Mar 05 |
+| ↳ | **[Millennium Space Systems Summer 2026 Internship Program – Propulsion Engineering](https://jobright.ai/jobs/info/69aa6cd62ebd316bece22b59?utm_campaign=1048&utm_source=git)** | USA - El Segundo, CA | On Site | Mar 05 |
+| **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern - Product Engineering (R&D)](https://jobright.ai/jobs/info/69aa51151f59c56275e32c67?utm_campaign=1048&utm_source=git)** | Southington, CT | On Site | Mar 05 |
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Research Intern IEEM - Cardiovascular Lab - PRN; Days](https://jobright.ai/jobs/info/69aa68512ebd316bece2270e?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Environmental Field Chemist Internship](https://jobright.ai/jobs/info/69aa67ed1f59c56275e34060?utm_campaign=1048&utm_source=git)** | Eagan, MN | On Site | Mar 05 |
 | **[Agility Robotics](http://www.agilityrobotics.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa67ea2ebd316bece226b1?utm_campaign=1048&utm_source=git)** | Salem, OR | On Site | Mar 05 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program –Mechanical Ground Support Equipment](https://jobright.ai/jobs/info/69aa66a89ca4e908ec65baa3?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 05 |
 | ↳ | **[Millennium Space Systems Summer 2026 Internship Program – Propulsion Engineering](https://jobright.ai/jobs/info/69aa65a42ebd316bece22582?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 05 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69aa62341f59c56275e33c6f?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Mar 05 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - AI Learning Experience Researcher (LXR)](https://jobright.ai/jobs/info/69aa62301f59c56275e33c69?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | Mar 05 |
 | **[Schneider Electric](https://www.se.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/69aa622f1f59c56275e33c66?utm_campaign=1048&utm_source=git)** | Columbia, MO | On Site | Mar 05 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Manufacturing Operations Analyst](https://jobright.ai/jobs/info/69aa621f1f59c56275e33c47?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Mar 05 |
 | **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Industrial Decarbonization Intern, WRI Polsky Energy Center](https://jobright.ai/jobs/info/69aa43351f59c56275e31f42?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern - Product Development (R&D)](https://jobright.ai/jobs/info/69aa51532ebd316bece21357?utm_campaign=1048&utm_source=git)** | Southington, CT | On Site | Mar 05 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Flood Resilience Intern](https://jobright.ai/jobs/info/69aa514c1f59c56275e32c96?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 05 |
 | **[Introba](https://www.introba.com)** | **[Intern, Mechanical Engineering Designer](https://jobright.ai/jobs/info/69aa51262ebd316bece21306?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
-| **[ICU Medical](https://www.icumed.com/products/specialty/renal-systems/clearguard-hd)** | **[Intern - Product Engineering (R&D)](https://jobright.ai/jobs/info/69aa51151f59c56275e32c67?utm_campaign=1048&utm_source=git)** | Southington, CT | On Site | Mar 05 |
 | **[AlayaCare](http://www.alayacare.com)** | **[Developer - Intern](https://jobright.ai/jobs/info/69aa51132ebd316bece212f5?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 05 |
 | **[Introba](https://www.introba.com)** | **[Intern, Environmental Planner](https://jobright.ai/jobs/info/69aa510e1f59c56275e32c54?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
 | ↳ | **[Intern, Electrical Designer](https://jobright.ai/jobs/info/69aa50f09ca4e908ec65a872?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Aerospace Engineering Intern](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958c?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Defense Technologies Engineering Division (DTED): Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69aa3edf9ca4e908ec659564?utm_campaign=1048&utm_source=git)** | Livermore, CA, USA | On Site | Mar 05 |
 | **[Leidos](https://www.leidos.com)** | **[Mechanical Design Engineer Summer Intern](https://jobright.ai/jobs/info/69aa3e9a1f59c56275e318c7?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 05 |
+| **[Eastlink](http://eastlink.ca)** | **[Student, Radio Network Engineering](https://jobright.ai/jobs/info/69aa6c7f2ebd316bece22b21?utm_campaign=1048&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Mar 05 |
 | **[Life Extension](https://www.lifeextension.com/)** | **[Intern, Scientific Affairs](https://jobright.ai/jobs/info/69aa3cf59ca4e908ec659308?utm_campaign=1048&utm_source=git)** | Florida, Fort Lauderdale, FL, US | Hybrid | Mar 05 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Household Waste Technician Internship](https://jobright.ai/jobs/info/69aa3cc59ca4e908ec6592ce?utm_campaign=1048&utm_source=git)** | 3227 Terminal Drive, Eagan, MN, 55121, US | On Site | Mar 05 |
 | ↳ | **[Environmental Field Projects Internship](https://jobright.ai/jobs/info/69aa3cc59ca4e908ec6592d2?utm_campaign=1048&utm_source=git)** | 6679 S Supply Way, Boise, ID, 83716, US | On Site | Mar 05 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Sustainable Buildings & AI Research Internship](https://jobright.ai/jobs/info/69aa3c119ca4e908ec659209?utm_campaign=1048&utm_source=git)** | California, USA - Remote | Remote | Mar 05 |
 | **[AECOM Hunt](https://aecom.com/services/construction-management/aecom-hunt/)** | **[Integrated Experiences Intern](https://jobright.ai/jobs/info/69aa3b9f1f59c56275e31618?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
 | ↳ | **[Information & Communications Technology Intern](https://jobright.ai/jobs/info/69aa3b9e1f59c56275e31612?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
-| ↳ | **[Mission Critical Intern](https://jobright.ai/jobs/info/69aa3b941f59c56275e315fd?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
 | ↳ | **[Cybersecurity Intern](https://jobright.ai/jobs/info/69aa3b949ca4e908ec659176?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
+| ↳ | **[Mission Critical Intern](https://jobright.ai/jobs/info/69aa3b941f59c56275e315fd?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
 | ↳ | **[Wireless Intern](https://jobright.ai/jobs/info/69aa3b6d2ebd316bece1fe8a?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Mar 05 |
 | **[United Contractor Services, LLC](https://www.unitedcs.com)** | **[Commercial Construction Internship - Austin, TX](https://jobright.ai/jobs/info/69aa3b479ca4e908ec6590ee?utm_campaign=1048&utm_source=git)** | Austin,TX,US | On Site | Mar 05 |
 | **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69aa3b472ebd316bece1fe44?utm_campaign=1048&utm_source=git)** | Prescott, Arizona, United States | On Site | Mar 05 |
 | **[Life Extension](https://www.lifeextension.com/)** | **[Intern, Manufacturing and Technical Services](https://jobright.ai/jobs/info/69aa39742ebd316bece1fc80?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Mar 05 |
 | **[BWBR](https://www.bwbr.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69aa39732ebd316bece1fc79?utm_campaign=1048&utm_source=git)** | Omaha, NE, US | On Site | Mar 05 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Household Waste Technician Internship](https://jobright.ai/jobs/info/69aa39442ebd316bece1fc63?utm_campaign=1048&utm_source=git)** | 3227 Terminal Drive, Eagan, MN, 55121, US | On Site | Mar 05 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern- Signal Processing](https://jobright.ai/jobs/info/69aa39432ebd316bece1fc54?utm_campaign=1048&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
