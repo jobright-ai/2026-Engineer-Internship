@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Engineering Intern SSBO](https://jobright.ai/jobs/info/69abbfc62747003c3d517bfa?utm_campaign=1048&utm_source=git)** | Clackamas, OR | On Site | Mar 06 |
+| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Quality Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69abbccf7e1fab39d3836d95?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 06 |
+| **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Data Engineer Intern](https://jobright.ai/jobs/info/69abb687142d5b4265fd0129?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 06 |
+| ↳ | **[Millennium Space Systems Summer 2026 Internship Program – Astrodynamics Intern](https://jobright.ai/jobs/info/69abb63c2747003c3d515af6?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 06 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Student Intern 2026 - Mechanical](https://jobright.ai/jobs/info/697a5471b4589b4ee87c9eff?utm_campaign=1048&utm_source=git)** | Muscatine, IA | On Site | Mar 06 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Research Assistant Clay Phacelia Stevens](https://jobright.ai/jobs/info/69abb1792747003c3d514dfa?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | Mar 06 |
 | **[TE Connectivity](http://www.te.com)** | **[Power Integrity Intern](https://jobright.ai/jobs/info/69abacdb7e1fab39d383322e?utm_campaign=1048&utm_source=git)** | Middletown, OH | Hybrid | Mar 06 |
 | **[Humanola](https://www.humanola.com/)** | **[Robotics Engineer Intern](https://jobright.ai/jobs/info/69abaca72747003c3d514535?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Mar 06 |
 | **[OmniAb, Inc.](http://www.omniab.com/)** | **[Summer Intern, Antibody Screening Technologies (BSc)](https://jobright.ai/jobs/info/69a62829b600907a962c0ad4?utm_campaign=1048&utm_source=git)** | Emeryville, CA | On Site | Mar 06 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Alstom](https://www.alstom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ab94f72747003c3d51180b?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 06 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Engineering Assistant](https://jobright.ai/jobs/info/69ab9673142d5b4265fcb89d?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 06 |
 | **[Pure Storage](http://www.purestorage.com)** | **[AI Engineering Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69ab956a142d5b4265fcb4d8?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
-| **[ITA Group, Inc.](https://www.itagroup.com)** | **[AI Intern](https://jobright.ai/jobs/info/69abb1e5142d5b4265fceb66?utm_campaign=1048&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
-| ↳ | **[Business Process Automation Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514e9e?utm_campaign=1048&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
+| **[United States Golf Association (USGA)](http://www.usga.org)** | **[Technical Intern](https://jobright.ai/jobs/info/69abb48b2747003c3d51567a?utm_campaign=1048&utm_source=git)** | Pinehurst, NC, USA | Hybrid | Mar 06 |
+| **[ITA Group, Inc.](https://www.itagroup.com)** | **[Business Process Automation Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514e9e?utm_campaign=1048&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
+| ↳ | **[AI Intern](https://jobright.ai/jobs/info/69abb1e5142d5b4265fceb66?utm_campaign=1048&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
 | ↳ | **[Awards Services AI Specialist Intern](https://jobright.ai/jobs/info/69abb1e2142d5b4265fceb5e?utm_campaign=1048&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
 | **[Until](https://www.untillabs.com)** | **[Biology/Biochemistry Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69ab969c2747003c3d511f09?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Quality Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69ab9528142d5b4265fcb390?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 06 |
 | **[Keystone Consulting Engineers, Inc.](http://keystoneconsultingengineers.com)** | **[Intern - Civil Engineer](https://jobright.ai/jobs/info/69abb0652747003c3d51475c?utm_campaign=1048&utm_source=git)** | 5012 Medical Center Circle, Allentown, PA, USA | On Site | Mar 06 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Security Analyst](https://jobright.ai/jobs/info/69abb0532747003c3d51473f?utm_campaign=1048&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Mar 06 |
-| **[Kodiak](http://www.kodiak.ai)** | **[Fall 2026 Intern, Perception](https://jobright.ai/jobs/info/69ab918b2747003c3d5110e0?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Mar 06 |
-| **[Acumed](http://www.acumed.net)** | **[MECOP Intern](https://jobright.ai/jobs/info/69ab92fb7e1fab39d382ff52?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Mar 06 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ab73f77e1fab39d382f805?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
