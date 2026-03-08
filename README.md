@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtran](http://www.adtran.com)** | **[Intern](https://jobright.ai/jobs/info/69743d83bc8e722e7b193768?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 08 |
+| **[The Wine Group](http://thewinegroup.com/)** | **[Seasonal Grower Relations Intern - Woodbridge](https://jobright.ai/jobs/info/6973ff24bc8e722e7b18e356?utm_campaign=1048&utm_source=git)** | Acampo, CA | On Site | Mar 08 |
+| **[HDR](http://www.hdrinc.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6958707c9f1b381eb2715e58?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Mar 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern - Data-Search-TikTok Recommendation Team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697853ce39f7f96cc6d0c31f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
+| **[Intralox](http://www.intralox.com)** | **[Intralox Baltimore Internship-Summer 2026](https://jobright.ai/jobs/info/68cd183ae23def7af55b5196?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Mar 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (AI Model Optimization) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69abba4c2747003c3d5167bb?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - (UNDERGRAD ONLY - distributed systems, Deep Learning, LLM, NLP)](https://jobright.ai/jobs/info/69ad47f3142d5b4265fe7472?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Mar 08 |
+| **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, Computational Physics-Shape Optimization](https://jobright.ai/jobs/info/6973f593206da320f49df97a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[EHS Intern](https://jobright.ai/jobs/info/6996948681476f6176ae7887?utm_campaign=1048&utm_source=git)** | Troy, IL | On Site | Mar 08 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Summer 26](https://jobright.ai/jobs/info/68cbb2f59e3a822f5d24ac43?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 08 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Geotechnical Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/697c68b23f57a335696616a5?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 08 |
 | **[GHD](http://www.ghd.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/68e6d62ae8daec61499af6ea?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Mar 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - NAND Storage Strategic Roadmap Planning  & Client SSD TPM](https://jobright.ai/jobs/info/69aa75761f59c56275e348e5?utm_campaign=1048&utm_source=git)** | Boise, ID | Hybrid | Mar 08 |
 | ↳ | **[Intern - IT MFG](https://jobright.ai/jobs/info/69a5c5300da45516f16e6e5f?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 08 |
@@ -132,29 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[Support Enablement Engineer Intern  (Summer 2026)](https://jobright.ai/jobs/info/697c6847727747250d571980?utm_campaign=1048&utm_source=git)** | Canada | Remote | Mar 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer I](https://jobright.ai/jobs/info/6903abbcd64a22104aa9191e?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Mar 07 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Engineering Intern/Co-Op (Massillon, OH)](https://jobright.ai/jobs/info/68f875de6de2db04dc3df5b9?utm_campaign=1048&utm_source=git)** | Massillon, OH | On Site | Mar 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae6991758f2e4ac30135b6?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae629d758f2e4ac30132ba?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Mar 07 |
+| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae629d758f2e4ac30132ba?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Mar 07 |
 | ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae54af758f2e4ac3012ce3?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Mar 07 |
+| ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae6991758f2e4ac30135b6?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Mar 07 |
 | ↳ | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae6ce2d627244576e53c66?utm_campaign=1048&utm_source=git)** | Covington, LA | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6882daf1431824ca2d3b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6d6cdaf1431824ca2f2e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Buildings (Summer 2026)](https://jobright.ai/jobs/info/68ae5db0daf1431824ca293f?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae6cc5daf1431824ca2e9d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 07 |
 | ↳ | **[Safety Internship - Infrastructure East (Summer 2026)](https://jobright.ai/jobs/info/68ae7808daf1431824ca3373?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Mar 07 |
+| ↳ | **[Safety Internship - Buildings (Summer 2026)](https://jobright.ai/jobs/info/68ae5db0daf1431824ca293f?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Mar 07 |
+| ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6882daf1431824ca2d3b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 07 |
+| ↳ | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae6cc5daf1431824ca2e9d?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 07 |
+| ↳ | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae6d6cdaf1431824ca2f2e?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
 | **[Auld & White Constructors](http://auld-white.com)** | **[Field Construction Intern](https://jobright.ai/jobs/info/69acdd967e1fab39d3845b9c?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 07 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer AI/ML Intern (Bachelors/Masters Santa Clara, CA)](https://jobright.ai/jobs/info/69ac4e3f142d5b4265fda36a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ac64a7142d5b4265fdab6c?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Mar 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Machine Learning and Optimization](https://jobright.ai/jobs/info/69568de09f1b381eb26fca1c?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineering Summer Interns](https://jobright.ai/jobs/info/6903f8b0ff462851feff1472?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Mar 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae73ef758f2e4ac3013a3a?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Buildings (Summer 2026)](https://jobright.ai/jobs/info/68ae74f9758f2e4ac3013b74?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 07 |
-| **[Varda Space Industries](http://varda.com)** | **[Mechanical Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68cd7b80e23def7af55baa30?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae53ced627244576e531f2?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Mar 07 |
-| **[Varda Space Industries](http://varda.com)** | **[Guidance, Navigation & Controls (GNC) Internship - Summer 2026](https://jobright.ai/jobs/info/68cf4f9edbd9fb154ede6423?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 07 |
-| **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2026)](https://jobright.ai/jobs/info/68ae5f3ddaf1431824ca2a23?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Marine (Summer 2026)](https://jobright.ai/jobs/info/68ae7a08daf1431824ca360f?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Oil, Gas, Chemical (Summer 2026)](https://jobright.ai/jobs/info/68ae4bf4daf1431824ca216d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Power (Summer 2026)](https://jobright.ai/jobs/info/68ae4e02daf1431824ca2322?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Buildings (Summer 2026)](https://jobright.ai/jobs/info/68ae6cfcdaf1431824ca2ed0?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 07 |
-| ↳ | **[Safety Internship - Infrastructure West (Summer 2026)](https://jobright.ai/jobs/info/68ae4d22daf1431824ca225f?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
