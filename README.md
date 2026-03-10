@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Etch Service Business Focal Intern- Bachelor/Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698e1bc978b4502f12a4e83a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 09 |
+| **[Clinical Labs Of Hawai'i, LLP](https://www.clinicallabs.com)** | **[Laboratory Assistant Intern - Oahu](https://jobright.ai/jobs/info/69af5e54749500645093d891?utm_campaign=1048&utm_source=git)** | Aiea, HI | On Site | Mar 09 |
+| **[GEI Consultants, Inc.](http://www.geiconsultants.com)** | **[Engineering and Construction Intern](https://jobright.ai/jobs/info/69af5b2b6b21de023e608550?utm_campaign=1048&utm_source=git)** | Marquette, MI | On Site | Mar 09 |
+| **[Safran](http://www.safran-group.com)** | **[Intern - Sustaining Engineering](https://jobright.ai/jobs/info/69af5b016b21de023e6084f5?utm_campaign=1048&utm_source=git)** | Brea, CA | On Site | Mar 09 |
+| **[City of Greeley](https://greeleygov.com)** | **[Intern II - Instrument & Controls](https://jobright.ai/jobs/info/69af5aeb749500645093d795?utm_campaign=1048&utm_source=git)** | Greeley, CO | On Site | Mar 09 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Manufacturing Mechanical Engineer, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/69af5acf749500645093d75b?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 09 |
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69af58e3dfaeda6ff597739b?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Mar 09 |
 | **[Sartorius](http://sartorius.com)** | **[Research Intern-Onsite- Oakville, Canada](https://jobright.ai/jobs/info/69af58c2dfaeda6ff5977374?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 09 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Quality Management Internship - Bachelor Level - Summer 2026](https://jobright.ai/jobs/info/69af58936b21de023e608436?utm_campaign=1048&utm_source=git)** | Dedham, MA | Hybrid | Mar 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern (Bridges) - Summer 2026](https://jobright.ai/jobs/info/69af3e63749500645093c3bb?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Mar 09 |
 | ↳ | **[Instruments & Controls CAD Intern](https://jobright.ai/jobs/info/69af3e47749500645093c338?utm_campaign=1048&utm_source=git)** | Corvallis, OR | Hybrid | Mar 09 |
 | **[E-470 Public Highway Authority](https://www.e-470.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69af3e3f6b21de023e60714b?utm_campaign=1048&utm_source=git)** | Aurora, CO | On Site | Mar 09 |
-| **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - Manufacturing / Production Engineering](https://jobright.ai/jobs/info/69af3e236b21de023e607125?utm_campaign=1048&utm_source=git)** | Torrington, CT | On Site | Mar 09 |
-| ↳ | **[Internship - Engineeering / Catalyst](https://jobright.ai/jobs/info/69af3e0cdfaeda6ff5975fd1?utm_campaign=1048&utm_source=git)** | Danbury, CT | On Site | Mar 09 |
-| ↳ | **[Internship - Environmental, Health & Safety (EHS)](https://jobright.ai/jobs/info/69af3df16b21de023e6070ec?utm_campaign=1048&utm_source=git)** | Torrington, CT | On Site | Mar 09 |
-| **[Malibu Boats](http://www.malibuboats.com/)** | **[Engineering Design and Fabrication Co-Op](https://jobright.ai/jobs/info/69af3d8c6b21de023e60703b?utm_campaign=1048&utm_source=git)** | Loudon, TN | On Site | Mar 09 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[Ecology Intern](https://jobright.ai/jobs/info/69a7954b76bbe83d3afaf706?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Mar 09 |
-| **[Redwood County, MN](https://redwoodcounty-mn.us/)** | **[Highway Engineering Intern](https://jobright.ai/jobs/info/69af3d4d749500645093c0dd?utm_campaign=1048&utm_source=git)** | Redwood County Highway Department - Redwood Falls - Redwood Falls, MN 56283 | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
