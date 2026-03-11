@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lasko Products](https://www.lasko.com/)** | **[Quality Assurance Summer Internship](https://jobright.ai/jobs/info/6976e0bd3778585635106644?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 10 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Site Planning](https://jobright.ai/jobs/info/69b0accf0b2db6275c050e37?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Mar 10 |
+| **[Daybreak Foods, Inc.](http://daybreakfoods.com)** | **[Production or Processing Internship- Michigan](https://jobright.ai/jobs/info/69b0aca97495006450976c47?utm_campaign=1048&utm_source=git)** | Lake Mills, WI | On Site | Mar 10 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Civil Engineering (Summer)](https://jobright.ai/jobs/info/69b0ac9b0b2db6275c050d8f?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
+| **[Schneider Electric](https://www.se.com)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/69b0ac26dfaeda6ff59afae0?utm_campaign=1048&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Mar 10 |
+| **[Interlinked](https://interlynked.wixstudio.com/interlinked)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/69b0ac1fdfaeda6ff59afab4?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 10 |
+| **[B&I Contractors Inc.](http://bandiflorida.com)** | **[Estimating Associate - Summer Internship](https://jobright.ai/jobs/info/69b0abd4dfaeda6ff59af9a3?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Mar 10 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Unpaid Research Intern](https://jobright.ai/jobs/info/69b0ab58dfaeda6ff59af810?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 10 |
 | **[EDL](https://edlenergy.com/)** | **[Intern - Environmental Compliance](https://jobright.ai/jobs/info/69b0a9f27495006450976309?utm_campaign=1048&utm_source=git)** | East Lansing, MI | On Site | Mar 10 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer I](https://jobright.ai/jobs/info/69b0a9e374950064509762ae?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Mar 10 |
 | **[EDL](https://edlenergy.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69b0a9c70b2db6275c050508?utm_campaign=1048&utm_source=git)** | Johnston, RI | On Site | Mar 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Manufacturing Electrical Engineer, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/69b0a9aedfaeda6ff59af3cd?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 10 |
 | **[Audible](http://www.audible.com)** | **[Applied Scientist Intern](https://jobright.ai/jobs/info/69b0a99d0b2db6275c0503df?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Mar 10 |
 | **[LangPal](www.lang-pal.com)** | **[AI/ML Engineer Student Intern (Unpaid)](https://jobright.ai/jobs/info/69b0a988749500645097613c?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Schneider Electric](https://www.se.com)** | **[Channel Partner Technical Intern](https://jobright.ai/jobs/info/69b0a95d0b2db6275c0502dc?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
+| **[Schneider Electric](https://www.se.com)** | **[Channel Partner Technical Intern](https://jobright.ai/jobs/info/69b0a95d0b2db6275c0502dd?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Genesis Molecular AI](https://genesis.ml/)** | **[Chemistry Intern](https://jobright.ai/jobs/info/69b0a9580b2db6275c0502ca?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Process Optimization Intern](https://jobright.ai/jobs/info/69b0a9550b2db6275c0502c5?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | ↳ | **[Channel Partner Technical Intern](https://jobright.ai/jobs/info/69b0a915dfaeda6ff59af154?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CFMOTO USA](https://cfmotousa.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69b090800b2db6275c04bf07?utm_campaign=1048&utm_source=git)** | Twin Cities Area | On Site | Mar 10 |
 | **[Skyways](http://skyways.com)** | **[Computer Vision and Robotics Intern](https://jobright.ai/jobs/info/69b0907a7495006450971038?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[CFMOTO USA](https://cfmotousa.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69b090750b2db6275c04bece?utm_campaign=1048&utm_source=git)** | Twin Cities Area | On Site | Mar 10 |
-| **[Physics World](https://physicsworld.com/)** | **[National Security Engineering Division (NSED) Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69b090707495006450971015?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Mar 10 |
-| ↳ | **[Materials Engineering Division (MED): Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69b090650b2db6275c04be83?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Mar 10 |
-| **[Employee Owned Holdings, Inc.](https://www.eoh-inc.com/)** | **[Supreme Integrated Technology - Mechanical Engineer Internship 2026](https://jobright.ai/jobs/info/69b08cbd0b2db6275c04b764?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 10 |
-| **[Falcomm](https://www.myfalcomm.com/)** | **[ML Software Engineer Intern - AI/CAD Integration](https://jobright.ai/jobs/info/69b08cbc0b2db6275c04b759?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern_PTIN5C](https://jobright.ai/jobs/info/69b08cb80b2db6275c04b74b?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Mar 10 |
-| **[Jacobs](http://www.jacobs.com)** | **[LACCD Spring 2026 Intern](https://jobright.ai/jobs/info/69b08c8c74950064509707d7?utm_campaign=1048&utm_source=git)** | Monterey Park, CA | On Site | Mar 10 |
-| **[Accelevation LLC](https://www.accelevationllc.com/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69b08c78749500645097079c?utm_campaign=1048&utm_source=git)** | Miamisburg, OH | On Site | Mar 10 |
-| **[Vancity](http://www.vancity.com)** | **[Cloud Engineering Intern - DevOps & SRE  (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69b08c707495006450970773?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
