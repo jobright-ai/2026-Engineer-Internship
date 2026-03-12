@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlpHa Measurement Solutions, LLC](https://www.alpha-measure.com)** | **[Mechanical Engineer INTERNSHIP](https://jobright.ai/jobs/info/69b2739ead360c0340a74c51?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| **[The Kinsley Group](http://kinsley-group.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b27377ae2a534885e99094?utm_campaign=1048&utm_source=git)** | East Granby, CT | On Site | Mar 12 |
+| **[Arrowhead Products](https://www.arrowheadproducts.net)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69b27128ae2a534885e989e2?utm_campaign=1048&utm_source=git)** | Arrowhead Products - Los Alamitos, CA 90720 | On Site | Mar 12 |
+| **[BD](https://www.bd.com)** | **[Machine Design and Automation Intern](https://jobright.ai/jobs/info/69b26e9da8ac8e70ff6650ff?utm_campaign=1048&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 12 |
+| ↳ | **[Intern, Research & Development](https://jobright.ai/jobs/info/69b26e37ad360c0340a73746?utm_campaign=1048&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Mar 12 |
 | **[Nortech Systems, Inc.](http://www.nortechsys.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b26e05ad360c0340a736f7?utm_campaign=1048&utm_source=git)** | Bemidji, MN | On Site | Mar 12 |
 | **[TAI](https://www.tai.inc)** | **[Instrument Tech - Summer Intern](https://jobright.ai/jobs/info/69b26d89a8ac8e70ff664ee2?utm_campaign=1048&utm_source=git)** | Linthicum Heights, MD | On Site | Mar 12 |
 | **[Figure](https://www.figure.ai)** | **[Quality Engineering Intern [Summer 2026]New](https://jobright.ai/jobs/info/69b26d7ea8ac8e70ff664eca?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
@@ -85,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - DSP/Systems Engineering](https://jobright.ai/jobs/info/69b23998ad360c0340a6f64a?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Packaging Engineering Intern (Remote)](https://jobright.ai/jobs/info/69b23959ae2a534885e92e1e?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Intern Project Engineer - Summer 2026](https://jobright.ai/jobs/info/69b23945a8ac8e70ff660ea7?utm_campaign=1048&utm_source=git)** | Watsonville, CA | On Site | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Underground Asset Strategy Intern](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660980?utm_campaign=1048&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Automation Engineer Intern (Sacramento)](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660982?utm_campaign=1048&utm_source=git)** | West Sacramento Resource Management Ctr | Hybrid | Mar 11 |
 | ↳ | **[Distribution Asset Strategy Engineer Intern (Electric Engineering Planning and Strategy)](https://jobright.ai/jobs/info/69b23779a8ac8e70ff66097f?utm_campaign=1048&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 11 |
-| ↳ | **[System Automation Engineer Intern (Sacramento)](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660982?utm_campaign=1048&utm_source=git)** | West Sacramento Resource Management Ctr | Hybrid | Mar 11 |
+| ↳ | **[Electric Underground Asset Strategy Intern](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660980?utm_campaign=1048&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 11 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Production Planning](https://jobright.ai/jobs/info/69b2375bae2a534885e92d9d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Automation Engineer Intern (Sacramento)](https://jobright.ai/jobs/info/69b2373bad360c0340a6f100?utm_campaign=1048&utm_source=git)** | West Sacramento | Hybrid | Mar 11 |
 | ↳ | **[Distribution Asset Strategy Engineer Intern (Electric Engineering Planning and Strategy)](https://jobright.ai/jobs/info/69b23736ad360c0340a6f0f4?utm_campaign=1048&utm_source=git)** | San Ramon | Hybrid | Mar 11 |
@@ -112,16 +117,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NSIP Undergrad Internship - Emerging Threats & Technologies Division](https://jobright.ai/jobs/info/69b24e7fa8ac8e70ff662115?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Kirby-Smith Machinery, Inc.](http://kirby-smith.com)** | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24a93a8ac8e70ff661f68?utm_campaign=1048&utm_source=git)** | McAlester, OK | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24b76ae2a534885e93e81?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24b76ae2a534885e93e80?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24a8ca8ac8e70ff661f61?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24cd2ad360c0340a707bb?utm_campaign=1048&utm_source=git)** | Amarillo, TX | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24a8ca8ac8e70ff661f61?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24b76ae2a534885e93e80?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24cd7ad360c0340a707ca?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24bb8ae2a534885e93ecf?utm_campaign=1048&utm_source=git)** | Abilene, TX | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24e7ea8ac8e70ff662112?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24a93a8ac8e70ff661f67?utm_campaign=1048&utm_source=git)** | Hewitt, TX | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24b7bae2a534885e93e8f?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24bb0ae2a534885e93ec3?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24c8aad360c0340a70799?utm_campaign=1048&utm_source=git)** | Van Alstyne, TX | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24e7ea8ac8e70ff662112?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24b7bae2a534885e93e8f?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24a93a8ac8e70ff661f67?utm_campaign=1048&utm_source=git)** | Hewitt, TX | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24bb0ae2a534885e93ec3?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b24cd2ad360c0340a707ba?utm_campaign=1048&utm_source=git)** | Chico, TX | On Site | Mar 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (technical)](https://jobright.ai/jobs/info/69b22a3fd04c69566c74dff4?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Undergrad Internship - Emerging Threats & Technologies Division](https://jobright.ai/jobs/info/69b22a0765de58104c71a071?utm_campaign=1048&utm_source=git)** | Washington, DC | Remote | Mar 11 |
@@ -137,24 +142,19 @@ For a complete list, click the following sortable link below:
 | **[Dessert Holdings](https://www.dessertholdings.com/)** | **[R & D Intern (Food Manufacturing)](https://jobright.ai/jobs/info/69b2297e65de58104c71a002?utm_campaign=1048&utm_source=git)** | Aurora, CO | On Site | Mar 11 |
 | **[KLA](https://www.kla.com)** | **[Opto-Mechanical Intern](https://jobright.ai/jobs/info/69b2296f65de58104c719fd0?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
 | **[Spectral AI](https://www.spectral-ai.com/)** | **[Deep Learning Data Science Intern](https://jobright.ai/jobs/info/69af2dc66b21de023e6054e1?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 11 |
-| **[Kirby-Smith Machinery, Inc.](http://kirby-smith.com)** | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f7548f140066e866e1?utm_campaign=1048&utm_source=git)** | Lubbock, TX, 79404, US | On Site | Mar 11 |
+| **[Kirby-Smith Machinery, Inc.](http://kirby-smith.com)** | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f7548f140066e866e2?utm_campaign=1048&utm_source=git)** | Odessa, TX, 79765, US | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f7548f140066e866e1?utm_campaign=1048&utm_source=git)** | Lubbock, TX, 79404, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f7548f140066e866df?utm_campaign=1048&utm_source=git)** | Tulsa, OK, 74116, US | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f7548f140066e866e2?utm_campaign=1048&utm_source=git)** | Odessa, TX, 79765, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f6548f140066e866de?utm_campaign=1048&utm_source=git)** | Amarillo, TX, 79103, US | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f3d04c69566c74de03?utm_campaign=1048&utm_source=git)** | Abilene, TX, 79601, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f3d04c69566c74de05?utm_campaign=1048&utm_source=git)** | Hewitt, TX, 76643, US | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f3d04c69566c74de03?utm_campaign=1048&utm_source=git)** | Abilene, TX, 79601, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f3d04c69566c74de02?utm_campaign=1048&utm_source=git)** | Van Alstyne, TX, 75495, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228f2d04c69566c74ddfe?utm_campaign=1048&utm_source=git)** | Chico, TX, 76431, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a465de58104c719edf?utm_campaign=1048&utm_source=git)** | McAlester, OK, 74501, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a365de58104c719ede?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, 73127, US | On Site | Mar 11 |
-| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a265de58104c719edd?utm_campaign=1048&utm_source=git)** | Kansas City, KS, 66111, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a265de58104c719edc?utm_campaign=1048&utm_source=git)** | Dallas, TX, 75241, US | On Site | Mar 11 |
 | ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a265de58104c719edb?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, 76106, US | On Site | Mar 11 |
+| ↳ | **[Heavy Equipment Intern - Service Technician](https://jobright.ai/jobs/info/69b228a265de58104c719edd?utm_campaign=1048&utm_source=git)** | Kansas City, KS, 66111, US | On Site | Mar 11 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Developer Intern (May- September)](https://jobright.ai/jobs/info/69b2289e548f140066e86694?utm_campaign=1048&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Mar 11 |
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Cyber Center of Excellence (COE) Intern - Summer 2026](https://jobright.ai/jobs/info/69b2287e65de58104c719ebb?utm_campaign=1048&utm_source=git)** | Beavercreek Office - Beavercreek, OH 45431 | Hybrid | Mar 11 |
-| **[Lynden](https://www.lynden.com)** | **[IT Data Engineer Intern](https://jobright.ai/jobs/info/69b22876548f140066e8666d?utm_campaign=1048&utm_source=git)** | 18000 International Blvd, SeaTac, WA 98188, USA | On Site | Mar 11 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Developer Intern (May- September)](https://jobright.ai/jobs/info/69b2283565de58104c719e8b?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 11 |
-| ↳ | **[Developer Intern (May- September)](https://jobright.ai/jobs/info/69b2283565de58104c719e8c?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 11 |
-| ↳ | **[Developer Intern (May- September)](https://jobright.ai/jobs/info/69b22805d04c69566c74ddc5?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 11 |
-| ↳ | **[Developer Intern (May- September)](https://jobright.ai/jobs/info/69b22804d04c69566c74ddc2?utm_campaign=1048&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
