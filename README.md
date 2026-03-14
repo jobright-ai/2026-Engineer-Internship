@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Scenic Automation](https://jobright.ai/jobs/info/69b4ef1f06c1ba00c5468de1?utm_campaign=1048&utm_source=git)** | New Windsor, NY | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Scenic Shop Floor,  Rotational](https://jobright.ai/jobs/info/69b4ef1606c1ba00c5468dd3?utm_campaign=1048&utm_source=git)** | New Windsor, NY | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4eed03b74eb1e2c826b3c?utm_campaign=1048&utm_source=git)** | New Windsor, NY | On Site | Mar 13 |
+| **[Genmab](https://www.genmab.com)** | **[AI Lab Intern](https://jobright.ai/jobs/info/69b4ee123b74eb1e2c826a9b?utm_campaign=1048&utm_source=git)** | Princeton | Hybrid | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Shop Operations & Production Hybrid](https://jobright.ai/jobs/info/69b4e83506c1ba00c5467dbd?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 13 |
-| ↳ | **[Summer Intern - Lighting Technology](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0b?utm_campaign=1048&utm_source=git)** | Secaucus, NJ | On Site | Mar 13 |
 | ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
+| ↳ | **[Summer Intern - Lighting Technology](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0b?utm_campaign=1048&utm_source=git)** | Secaucus, NJ | On Site | Mar 13 |
 | **[Univar Solutions](https://www.univarsolutions.com)** | **[Sample Coordinator Summer Intern](https://jobright.ai/jobs/info/69b4e58f06c1ba00c5467a54?utm_campaign=1048&utm_source=git)** | North York, Ontario, Canada | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern - Camera Prep Tech](https://jobright.ai/jobs/info/69b4e57a06c1ba00c5467a27?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Cambrex](http://www.cambrex.com)** | **[Intern - Chemical Engineering](https://jobright.ai/jobs/info/69b4e2eb569738374139ea4b?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 13 |
@@ -105,14 +109,14 @@ For a complete list, click the following sortable link below:
 | **[Penn United Technologies, Inc.](http://pennunited.com)** | **[Intern - Manufacturing shop intern](https://jobright.ai/jobs/info/69b4c48306c1ba00c54643bb?utm_campaign=1048&utm_source=git)** | Warminster, PA | On Site | Mar 13 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Digital Twin of Liquid Crystal Optical Circuit Switch (OCS)](https://jobright.ai/jobs/info/69b4c4813b74eb1e2c822381?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Scenic Automation](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822223?utm_campaign=1048&utm_source=git)** | New Windsor, NY, US | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c822218?utm_campaign=1048&utm_source=git)** | US-NY-New Windsor | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Shop Operations & Production Hybrid](https://jobright.ai/jobs/info/69b4c35706c1ba00c546425c?utm_campaign=1048&utm_source=git)** | US-NV-Las Vegas | Hybrid | Mar 13 |
 | ↳ | **[Summer Intern - Camera Prep Tech](https://jobright.ai/jobs/info/69b4c35706c1ba00c546425e?utm_campaign=1048&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
 | ↳ | **[Summer Intern- Scenic Shop Floor,  Rotational](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c822210?utm_campaign=1048&utm_source=git)** | New Windsor, NY, US | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Shop Operations & Production Hybrid](https://jobright.ai/jobs/info/69b4c35706c1ba00c546425c?utm_campaign=1048&utm_source=git)** | US-NV-Las Vegas | Hybrid | Mar 13 |
 | ↳ | **[Summer Intern- Shop- LED](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c82220e?utm_campaign=1048&utm_source=git)** | US-FL-Orlando | On Site | Mar 13 |
 | ↳ | **[Summer Intern- Shop- LED](https://jobright.ai/jobs/info/69b4c35706c1ba00c5464261?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4c3563b74eb1e2c82220d?utm_campaign=1048&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c822218?utm_campaign=1048&utm_source=git)** | US-NY-New Windsor | On Site | Mar 13 |
 | ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4c35606c1ba00c5464251?utm_campaign=1048&utm_source=git)** | New Windsor, NY, US | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4c3563b74eb1e2c82220d?utm_campaign=1048&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
 | ↳ | **[Summer Intern - Lighting Technology](https://jobright.ai/jobs/info/69b4c3563b74eb1e2c82220c?utm_campaign=1048&utm_source=git)** | Secaucus, NJ, US | On Site | Mar 13 |
 | ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4c35506c1ba00c5464247?utm_campaign=1048&utm_source=git)** | Van Nuys, CA, US | On Site | Mar 13 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69b4c30606c1ba00c546414e?utm_campaign=1048&utm_source=git)** | Detroit Metro | On Site | Mar 13 |
@@ -121,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[Electronics/Mechatronics Co-op](https://jobright.ai/jobs/info/69b4c2a53b74eb1e2c822065?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 13 |
 | **[U.S. Tsubaki Automotive](https://www.ustsubaki.com/business-units/automotive/)** | **[Manufacturing, Product and QC Engineering Intern](https://jobright.ai/jobs/info/69b4c29d569738374139b037?utm_campaign=1048&utm_source=git)** | Holyoke, MA | On Site | Mar 13 |
 | **[AECOM](http://www.aecom.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69b4c29d569738374139b038?utm_campaign=1048&utm_source=git)** | Chelmsford, MA | Hybrid | Mar 13 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Enterprise Asset Management (EAM) Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69b4c28106c1ba00c5464094?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 13 |
-| ↳ | **[Data Engineer, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69b4c28106c1ba00c5464097?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Engineer, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69b4c28106c1ba00c5464097?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| ↳ | **[Enterprise Asset Management (EAM) Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69b4c28106c1ba00c5464094?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Foundations District - Canada - Summer 2026](https://jobright.ai/jobs/info/69b4c27c06c1ba00c546408d?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
 | **[UGI Utilities, Inc.](https://www.ugi.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b4c274569738374139afb3?utm_campaign=1048&utm_source=git)** | Middletown, PA | On Site | Mar 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Foundations District - Canada - Summer 2026](https://jobright.ai/jobs/info/69b4c26d06c1ba00c5464073?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montgomery County Green Bank](http://mcgreenbank.org/)** | **[Clean Energy Analyst/Associate Internship](https://jobright.ai/jobs/info/69b4b66b5697383741398ec1?utm_campaign=1048&utm_source=git)** | Rockville, MD | Hybrid | Mar 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Engineering Intern - Kiewit Foundations District - Canada - Summer 2026](https://jobright.ai/jobs/info/69b4b4da5697383741398e4b?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
 | **[Mission Bank](https://www.missionbank.com/)** | **[Operations System Intern](https://jobright.ai/jobs/info/69b4d40d06c1ba00c54653ba?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Mar 13 |
-| **[Capgemini Engineering](https://www.capgemini.com/in-en/about-us/who-we-are/our-brands/capgemini-engineering/)** | **[Industrial Engineer Summer Intern (Onsite, Kinston NC)](https://jobright.ai/jobs/info/69b4d4523b74eb1e2c823337?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 13 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Electrical Engineering Intern](https://jobright.ai/jobs/info/69b4b33706c1ba00c5462709?utm_campaign=1048&utm_source=git)** | Arden Hills, MN | On Site | Mar 13 |
-| **[Draper](https://www.draper.com)** | **[Hardware ASIC Engineer Intern](https://jobright.ai/jobs/info/69b4b30206c1ba00c546268b?utm_campaign=1048&utm_source=git)** | Odon, IN | On Site | Mar 13 |
-| ↳ | **[Mechanical Analysis Engineer Intern](https://jobright.ai/jobs/info/69b4b2f55697383741398d46?utm_campaign=1048&utm_source=git)** | Odon, IN | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
