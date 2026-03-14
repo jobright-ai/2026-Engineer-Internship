@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bel](https://www.groupe-bel.com/)** | **[R&D Formulation Intern - Traverse City](https://jobright.ai/jobs/info/699926adce78e77b4fddd68a?utm_campaign=1048&utm_source=git)** | Traverse City, MI | On Site | Mar 14 |
+| **[Ferrara](https://www.ferrara.com)** | **[IT Internship Program 2026](https://jobright.ai/jobs/info/6999281de0bddb6acac83146?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineer](https://jobright.ai/jobs/info/69990446ce78e77b4fdda16d?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Mar 14 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Pharmaceutical Engineering, Drug Product, PDM](https://jobright.ai/jobs/info/699936ae81476f6176b1c348?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Mar 14 |
+| **[EnerSys](http://enersys.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6998cadd81476f6176b1353c?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Mar 14 |
+| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[New Product Development Co-op Summer 2026](https://jobright.ai/jobs/info/69986c4e81476f6176b0dceb?utm_campaign=1048&utm_source=git)** | North Olmsted, OH | Hybrid | Mar 14 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Harnessing Technician Intern (Summer 2026)](https://jobright.ai/jobs/info/6986f1978da7a6120462016c?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Mar 14 |
+| **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6998e91181476f6176b14e7a?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Solid Waste Intern](https://jobright.ai/jobs/info/69a2868db600907a9628e0d4?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 14 |
+| ↳ | **[Coastal Restoration Intern](https://jobright.ai/jobs/info/69880d078da7a612046315e1?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Mar 14 |
+| ↳ | **[Solid Waste Intern](https://jobright.ai/jobs/info/6994041681476f6176abb0b9?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
+| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69267c32d47de4798ecd7a77?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6926937ad47de4798ecd8296?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Substation Structural Engineering Intern](https://jobright.ai/jobs/info/69a8123fd010537e743261f5?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Mar 14 |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/69a3e7bab600907a9629ddc9?utm_campaign=1048&utm_source=git)** | Jurupa Valley, CA | On Site | Mar 14 |
+| **[Xylem](https://heimplanet.com/)** | **[Summer Intern - Project Engineer](https://jobright.ai/jobs/info/69983409ce78e77b4fdceb59?utm_campaign=1048&utm_source=git)** | Holland, MI | On Site | Mar 14 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Enterprise Data Management](https://jobright.ai/jobs/info/699907ca81476f6176b17caf?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Mar 14 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Process Engineering Co-op (Fall 2026)](https://jobright.ai/jobs/info/69991bc781476f6176b19887?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Advanced Thermal Modeling Intern](https://jobright.ai/jobs/info/69a5e151359fe034b1d09571?utm_campaign=1048&utm_source=git)** | Southfield, MI | On Site | Mar 14 |
@@ -104,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4eed03b74eb1e2c826b3c?utm_campaign=1048&utm_source=git)** | New Windsor, NY | On Site | Mar 13 |
 | **[Genmab](https://www.genmab.com)** | **[AI Lab Intern](https://jobright.ai/jobs/info/69b4ee123b74eb1e2c826a9b?utm_campaign=1048&utm_source=git)** | Princeton | Hybrid | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Shop Operations & Production Hybrid](https://jobright.ai/jobs/info/69b4e83506c1ba00c5467dbd?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | Hybrid | Mar 13 |
-| ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[Summer Intern - Lighting Technology](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0b?utm_campaign=1048&utm_source=git)** | Secaucus, NJ | On Site | Mar 13 |
+| ↳ | **[Summer Intern- Lighting Department](https://jobright.ai/jobs/info/69b4e7a03b74eb1e2c825c0c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Univar Solutions](https://www.univarsolutions.com)** | **[Sample Coordinator Summer Intern](https://jobright.ai/jobs/info/69b4e58f06c1ba00c5467a54?utm_campaign=1048&utm_source=git)** | North York, Ontario, Canada | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern - Camera Prep Tech](https://jobright.ai/jobs/info/69b4e57a06c1ba00c5467a27?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Cambrex](http://www.cambrex.com)** | **[Intern - Chemical Engineering](https://jobright.ai/jobs/info/69b4e2eb569738374139ea4b?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 13 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MediaTek](http://www.mediatek.com)** | **[2026 Intern-RF System Design Engineer](https://jobright.ai/jobs/info/69b4ca6706c1ba00c54646af?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[ERMCO-ECI](http://ermco-eci.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/69b4ca603b74eb1e2c822617?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 13 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69b4ca323b74eb1e2c8225d1?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
-| ↳ | **[Wet Lab Scientist Intern](https://jobright.ai/jobs/info/69b4ca1706c1ba00c546463d?utm_campaign=1048&utm_source=git)** | Hercules, CA | On Site | Mar 13 |
-| ↳ | **[Scientist Intern](https://jobright.ai/jobs/info/69b4ca1006c1ba00c546462a?utm_campaign=1048&utm_source=git)** | Hercules, CA | On Site | Mar 13 |
-| **[City of Farmington - Farmington, New Mexico](http://www.fmtn.org/)** | **[Public Works Intern](https://jobright.ai/jobs/info/69b4c9f03b74eb1e2c822578?utm_campaign=1048&utm_source=git)** | Farmington,NM,US | On Site | Mar 13 |
-| **[Boston Dynamics](http://bostondynamics.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69b4c53a3b74eb1e2c822448?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 13 |
-| **[Targa Resources](https://www.targaresources.com)** | **[Mechanical Engineering Intern - Operations](https://jobright.ai/jobs/info/69b4c529569738374139b726?utm_campaign=1048&utm_source=git)** | Mont Belvieu, TX | On Site | Mar 13 |
-| **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Technology Transfer Intern - KUCTC](https://jobright.ai/jobs/info/69b4c51c3b74eb1e2c822428?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 13 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern-Lithography Engineer](https://jobright.ai/jobs/info/69b4c48c06c1ba00c54643d3?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 13 |
-| **[Penn United Technologies, Inc.](http://pennunited.com)** | **[Intern - Manufacturing shop intern](https://jobright.ai/jobs/info/69b4c48306c1ba00c54643bb?utm_campaign=1048&utm_source=git)** | Warminster, PA | On Site | Mar 13 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Digital Twin of Liquid Crystal Optical Circuit Switch (OCS)](https://jobright.ai/jobs/info/69b4c4813b74eb1e2c822381?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 13 |
-| **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Scenic Automation](https://jobright.ai/jobs/info/69b4c3583b74eb1e2c822223?utm_campaign=1048&utm_source=git)** | New Windsor, NY, US | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Scenic Technical Design and Engineering](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c822218?utm_campaign=1048&utm_source=git)** | US-NY-New Windsor | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Shop Operations & Production Hybrid](https://jobright.ai/jobs/info/69b4c35706c1ba00c546425c?utm_campaign=1048&utm_source=git)** | US-NV-Las Vegas | Hybrid | Mar 13 |
-| ↳ | **[Summer Intern- Scenic Shop Floor,  Rotational](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c822210?utm_campaign=1048&utm_source=git)** | New Windsor, NY, US | On Site | Mar 13 |
-| ↳ | **[Summer Intern - Camera Prep Tech](https://jobright.ai/jobs/info/69b4c35706c1ba00c546425e?utm_campaign=1048&utm_source=git)** | US-CA-Van Nuys | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Shop- LED](https://jobright.ai/jobs/info/69b4c3573b74eb1e2c82220e?utm_campaign=1048&utm_source=git)** | US-FL-Orlando | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Shop- LED](https://jobright.ai/jobs/info/69b4c35706c1ba00c5464261?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
