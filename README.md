@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Environmental Planning Intern](https://jobright.ai/jobs/info/69b5dfc63b74eb1e2c83a6e2?utm_campaign=1048&utm_source=git)** | Macon, GA | On Site | Mar 14 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Automation Engineer Intern](https://jobright.ai/jobs/info/69b5de083b74eb1e2c83a5d5?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Mar 14 |
+| **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Construction Manager Intern](https://jobright.ai/jobs/info/69b5ddfe3b74eb1e2c83a5c9?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Mar 14 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Materials Engineer Co‑op/Intern (TCAD Modeling) - Doctorate (Gloucester, MA)](https://jobright.ai/jobs/info/69b5ddd43b74eb1e2c83a5a6?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Mar 14 |
+| **[Redwood Credit Union](http://www.redwoodcu.org)** | **[AI Development Intern](https://jobright.ai/jobs/info/69b5d81d06c1ba00c547c4d2?utm_campaign=1048&utm_source=git)** | Napa, CA | On Site | Mar 14 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Safety Intern](https://jobright.ai/jobs/info/69b5d45906c1ba00c547bf55?utm_campaign=1048&utm_source=git)** | Wapakoneta, OH | On Site | Mar 14 |
 | **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Land Intern](https://jobright.ai/jobs/info/69b5d19256973837413b2f4b?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Mar 14 |
 | **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69b5ce5056973837413b2e97?utm_campaign=1048&utm_source=git)** | Wrightstown, WI | On Site | Mar 14 |
@@ -75,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[Valence](https://www.getvalence.com)** | **[Intern - Seattle](https://jobright.ai/jobs/info/69b5b94b56973837413b271a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | **[Atlanta Botanical Garden](https://atlantabg.org)** | **[Horticulture Intern - Gainesville](https://jobright.ai/jobs/info/69b5b93556973837413b26dc?utm_campaign=1048&utm_source=git)** | Gainesville, GA | On Site | Mar 14 |
 | **[Rexel USA](https://www.rexelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/69b5b5343b74eb1e2c8382e8?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5bc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69b5b3b33b74eb1e2c8380c3?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Retaining Walls Intern](https://jobright.ai/jobs/info/69b5b3b33b74eb1e2c8380c5?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Greater Salt Lake Municipal Services District](http://msd.utah.gov)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/69b5b06d06c1ba00c547a1ae?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e1125ce48107c05425ab3?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
 | ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automation Engineer Intern - Parts Summer 2026](https://jobright.ai/jobs/info/697d5aa03f57a33569673bfc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa4d261f59c56275e326a2?utm_campaign=1048&utm_source=git)** | Peru, IL | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689ce610faa4e875e826bb17?utm_campaign=1048&utm_source=git)** | South Burlington, VT | On Site | Mar 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Civil Engineering Intern - Environmental Services, Environmental Engineering (Richmond)](https://jobright.ai/jobs/info/69b39b66ad360c0340a8be77?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Mar 14 |
 | **[CertiK](https://www.certik.com/)** | **[Blockchain Security Expert Intern - AI Track](https://jobright.ai/jobs/info/68288d020add149fa6d39170?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
-| **[K1](https://k1app.com/)** | **[AI Automation Intern](https://jobright.ai/jobs/info/69b586db56973837413ad752?utm_campaign=1048&utm_source=git)** | Manhattan Beach, CA | Hybrid | Mar 14 |
-| **[Pieper Automation](https://pieperautomation.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69b586bf06c1ba00c5477034?utm_campaign=1048&utm_source=git)** | Wrightstown, WI | On Site | Mar 14 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6998d07481476f6176b139fa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
-| **[INNIO Group](https://www.innio.com/en/)** | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6998dc8581476f6176b144a2?utm_campaign=1048&utm_source=git)** | Welland, Ontario, Canada | On Site | Mar 14 |
-| **[Avant](https://www.avant.com)** | **[Cyber Threat Operations Summer Internship](https://jobright.ai/jobs/info/69a333fc0da45516f16c789d?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
