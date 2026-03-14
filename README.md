@@ -57,19 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Berkeley Electric Cooperative, Inc.](https://www.berkeleyelectric.coop/)** | **[College Intern - Engineering Assistant](https://jobright.ai/jobs/info/69b5be4f56973837413b29af?utm_campaign=1048&utm_source=git)** | Moncks Corner, SC | On Site | Mar 14 |
-| ↳ | **[College Intern -GIS Mapping Assistant](https://jobright.ai/jobs/info/69b5be4556973837413b298c?utm_campaign=1048&utm_source=git)** | Moncks Corner, SC | On Site | Mar 14 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Safety Intern](https://jobright.ai/jobs/info/69b5d45906c1ba00c547bf55?utm_campaign=1048&utm_source=git)** | Wapakoneta, OH | On Site | Mar 14 |
+| **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Land Intern](https://jobright.ai/jobs/info/69b5d19256973837413b2f4b?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Mar 14 |
+| **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69b5ce5056973837413b2e97?utm_campaign=1048&utm_source=git)** | Wrightstown, WI | On Site | Mar 14 |
+| **[Intrado](https://www.intrado.com/)** | **[Intern AI Integration & System Engineering](https://jobright.ai/jobs/info/69b5ce3b06c1ba00c547bc75?utm_campaign=1048&utm_source=git)** | Longmont, CO | Hybrid | Mar 14 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Automation Intern](https://jobright.ai/jobs/info/69b5cccb56973837413b2de9?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Mar 14 |
+| ↳ | **[Civil/Structural Drafting Intern](https://jobright.ai/jobs/info/69b5ccca56973837413b2de6?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Mar 14 |
+| **[APTIM](https://www.aptim.com/)** | **[Fuels Engineering Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b5cb2e56973837413b2c9d?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Mar 14 |
+| **[City of St. Charles, MO](https://www.stcharlescitymo.gov)** | **[Planning Division Internship](https://jobright.ai/jobs/info/69b5cb1c3b74eb1e2c83988e?utm_campaign=1048&utm_source=git)** | St Charles, MO | On Site | Mar 14 |
+| **[Capstone Research Corporation](https://capstoneresearchcorp.com)** | **[SkillBridge Systems Analyst Internship](https://jobright.ai/jobs/info/69b5cb1b3b74eb1e2c83988c?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
+| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Process)](https://jobright.ai/jobs/info/69b5c6fc56973837413b2c2c?utm_campaign=1048&utm_source=git)** | Palmer, MA | On Site | Mar 14 |
+| **[State of Alaska](http://alaska.gov/)** | **[Student Intern 1/2 Flex (PCN 25IN1802)](https://jobright.ai/jobs/info/69b5c6e656973837413b2c11?utm_campaign=1048&utm_source=git)** | Juneau, AK | On Site | Mar 14 |
+| **[LONG Building Technologies](http://long.com)** | **[Safety Intern](https://jobright.ai/jobs/info/69b5c37806c1ba00c547b917?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Mar 14 |
 | **[BBA Consultants](https://www.bba.ca/)** | **[Electrical Engineering Intern - starting summer 2026](https://jobright.ai/jobs/info/69a81a2d1dfc787e9aa34910?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 14 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Analog/RF Design Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/6944ca9da7227b3ece66737a?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, System Performance Modeling - Thermodynamics (Summer 2026)](https://jobright.ai/jobs/info/697d5a75137a051025667a3a?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 14 |
 | **[Valence](https://www.getvalence.com)** | **[Intern - Seattle](https://jobright.ai/jobs/info/69b5b94b56973837413b271a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
-| **[Berkeley Electric Cooperative, Inc.](https://www.berkeleyelectric.coop/)** | **[College Intern - Fleet Maintenance Assistant](https://jobright.ai/jobs/info/69b5b94a56973837413b2716?utm_campaign=1048&utm_source=git)** | Moncks Corner, SC | On Site | Mar 14 |
-| **[Evans & Dixon, LLC](http://evans-dixon.com)** | **[IT AI Intern](https://jobright.ai/jobs/info/69b5b93e56973837413b26f2?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
 | **[Atlanta Botanical Garden](https://atlantabg.org)** | **[Horticulture Intern - Gainesville](https://jobright.ai/jobs/info/69b5b93556973837413b26dc?utm_campaign=1048&utm_source=git)** | Gainesville, GA | On Site | Mar 14 |
-| **[DMI Companies, Inc.](http://dmicompanies.com)** | **[Intern - Chemistry](https://jobright.ai/jobs/info/69b5b8eb3b74eb1e2c8391b8?utm_campaign=1048&utm_source=git)** | Monongahela, PA | On Site | Mar 14 |
 | **[Rexel USA](https://www.rexelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/69b5b5343b74eb1e2c8382e8?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5bc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -86,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e1125ce48107c05425ab3?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
 | ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automation Engineer Intern - Parts Summer 2026](https://jobright.ai/jobs/info/697d5aa03f57a33569673bfc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa4d261f59c56275e326a2?utm_campaign=1048&utm_source=git)** | Peru, IL | On Site | Mar 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6998d07481476f6176b139fa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[INNIO Group](https://www.innio.com/en/)** | **[Electrical Engineering Co-op](https://jobright.ai/jobs/info/6998dc8581476f6176b144a2?utm_campaign=1048&utm_source=git)** | Welland, Ontario, Canada | On Site | Mar 14 |
 | **[Avant](https://www.avant.com)** | **[Cyber Threat Operations Summer Internship](https://jobright.ai/jobs/info/69a333fc0da45516f16c789d?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/6998dd38e0bddb6acac7c7ce?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Mar 14 |
-| **[INNIO Group](https://www.innio.com/en/)** | **[Quality Engineering Co-op](https://jobright.ai/jobs/info/6998d736e0bddb6acac7c273?utm_campaign=1048&utm_source=git)** | Welland, Ontario, Canada | On Site | Mar 14 |
-| **[US LBM](http://uslbm.com)** | **[US LBM Credit Intern](https://jobright.ai/jobs/info/6998fd19e0bddb6acac7f086?utm_campaign=1048&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 14 |
-| **[Qualus](https://qualuscorp.com/)** | **[Intern- P&C](https://jobright.ai/jobs/info/69991322ce78e77b4fddb111?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 14 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Mechanical Engineer (Hybrid)](https://jobright.ai/jobs/info/699926e7ce78e77b4fddd6f5?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 14 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Quantum Research Scientist Intern, Device and Architecture Theory, AWS Center for Quantum Computing](https://jobright.ai/jobs/info/6961c90ee7ed9a5731ba99c4?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | Mar 14 |
-| **[Jacobs](http://www.jacobs.com)** | **[Structural Engineering Intern - Advanced Facilities ELE - E](https://jobright.ai/jobs/info/69618433a112b402661010cc?utm_campaign=1048&utm_source=git)** | Moon, PA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
