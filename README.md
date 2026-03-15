@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Industrial Corp](http://globalindustrialinc.com)** | **[Intern Transportation Management](https://jobright.ai/jobs/info/69b6f3b856973837413c246b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 15 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933bfdc764507023d1b8dc2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 15 |
+| **[MercyOne](https://www.mercyone.org/)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6955fd39aa05c26e7ab03461?utm_campaign=1048&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant](https://jobright.ai/jobs/info/69b6f09906c1ba00c548aed5?utm_campaign=1048&utm_source=git)** | Orange, CA | On Site | Mar 15 |
+| **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern Chemist](https://jobright.ai/jobs/info/69b6f0863b74eb1e2c848e81?utm_campaign=1048&utm_source=git)** | Petrolia, PA | On Site | Mar 15 |
+| **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Alberta](https://jobright.ai/jobs/info/6999fed6ce78e77b4fded2ad?utm_campaign=1048&utm_source=git)** | Fairview, Alberta, Canada | On Site | Mar 15 |
+| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6589fb49c96ca6e9fed0?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 15 |
 | **[Dropbox](https://www.dropbox.com)** | **[PhD Machine Learning Intern (Summer 2026)](https://jobright.ai/jobs/info/69a64a0d2c0d8b0f5cd05996?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/693695b044eb324fb785c920?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Mar 15 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Mar 15 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 15 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Mar 15 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Intern - 2026](https://jobright.ai/jobs/info/69b6eade56973837413c2324?utm_campaign=1048&utm_source=git)** | Montgomery, MN | On Site | Mar 15 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Mar 15 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Mar 15 |
@@ -93,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/68b799d51ade4306aa64c855?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Mar 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[System Protection Engineer Intern - Fresno](https://jobright.ai/jobs/info/69b6bf1b3b74eb1e2c847cf9?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Mar 15 |
 | **[Siemens](https://www.siemens.com)** | **[Quantum-inspired Algorithms for Industrial Applications Researcher Internship](https://jobright.ai/jobs/info/6999d79f81476f6176b28a10?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Hybrid | Mar 15 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6982d9d40f6f7e7a2cdc562d?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 15 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Structural Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d5993137a051025667912?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Mar 15 |
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Rail](https://jobright.ai/jobs/info/68c299088753a565272fc2c6?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Mar 15 |
 | ↳ | **[Civil Engineering Intern - Rail](https://jobright.ai/jobs/info/68c2895d03b99f6b34295125?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 15 |
@@ -131,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/697d0a78727747250d57c095?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | Mar 15 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Substation Intern, P&C](https://jobright.ai/jobs/info/697d857fce48107c0541b6e5?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Mar 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Cybersecurity](https://jobright.ai/jobs/info/697d5a303f57a33569673b68?utm_campaign=1048&utm_source=git)** | Garden Grove, CA | On Site | Mar 15 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Intern – Vision Language Model/Action (PhD)](https://jobright.ai/jobs/info/69a62374b600907a962c0637?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Mar 15 |
-| ↳ | **[2026 Summer Intern – AI/ML Intern – Sensor Encoder (PhD)](https://jobright.ai/jobs/info/69a62044b600907a962c0333?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 15 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Intern – Sensor Encoder (PhD)](https://jobright.ai/jobs/info/69a62044b600907a962c0333?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 15 |
+| ↳ | **[2026 Summer Intern – AI/ML Intern – Vision Language Model/Action (PhD)](https://jobright.ai/jobs/info/69a62374b600907a962c0637?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Mar 15 |
 | **[Exiger](http://www.exiger.com)** | **[Defense Sustainment Integration Intern (Summer 2026)](https://jobright.ai/jobs/info/6961bc3ee7ed9a5731ba9048?utm_campaign=1048&utm_source=git)** | Huntsville, AL | Hybrid | Mar 15 |
 | ↳ | **[CyberSecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b2e7e7ed9a5731ba86e8?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
 | **[Gemini](https://gemini.com)** | **[Security GRC Intern (Summer 2026)](https://jobright.ai/jobs/info/6945bff263141d1884554d16?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Hardware Integration and Test Intern](https://jobright.ai/jobs/info/6944c1b4a7227b3ece666c8a?utm_campaign=1048&utm_source=git)** | Foster City, CA | On Site | Mar 15 |
 | **[Rigetti Computing](http://www.rigetti.com)** | **[Rigetti 2026 Internship Opportunities](https://jobright.ai/jobs/info/690d55a0d046ab6061cf56b4?utm_campaign=1048&utm_source=git)** | Fremont, CA | Hybrid | Mar 15 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Systems Mechanical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/691ac415bcdbf3560c9da551?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 15 |
-| **[SPX Technologies](https://www.spx.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68cf7270846f0b04af68215b?utm_campaign=1048&utm_source=git)** | Michigan City, IN | On Site | Mar 15 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Land/Site Development, Internship](https://jobright.ai/jobs/info/689a294cfaa4e875e825650b?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Mar 15 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[New Components & BWR Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69a26d800da45516f16bb5a6?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Mechanical Intern](https://jobright.ai/jobs/info/698820e18da7a61204633cdc?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 15 |
-| ↳ | **[Bridge Intern](https://jobright.ai/jobs/info/69882c658ca8121a3a6ab4a0?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 15 |
-| **[Netflix](https://www.netflix.com)** | **[Machine Learning Engineer Intern, (MS/PhD) 2026](https://jobright.ai/jobs/info/69af8a136b21de023e60befb?utm_campaign=1048&utm_source=git)** | Los Gatos, CA | On Site | Mar 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Power Intern](https://jobright.ai/jobs/info/6987f4190f6f7e7a2ce31f18?utm_campaign=1048&utm_source=git)** | Greater Bismarck Area | On Site | Mar 15 |
-| ↳ | **[Bridge Intern](https://jobright.ai/jobs/info/69a3b115359fe034b1ceaa8a?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[GRC Team Intern (Summer 2026)](https://jobright.ai/jobs/info/697d5cc2137a051025667c91?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 15 |
-| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Machine Learning Engineer Intern (TikTok- Video Recommendation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69449aa250bbaf765056a300?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
