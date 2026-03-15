@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Summer Student, Maint & Engineering Intern](https://jobright.ai/jobs/info/69b61faa06c1ba00c547f8a1?utm_campaign=1048&utm_source=git)** | Geismar, LA | On Site | Mar 14 |
+| **[CFD Research Corporation](https://www.cfd-research.com)** | **[INTERN - Hypersonic Research Engineer – M&S Summer 2026 (Huntsville, AL)](https://jobright.ai/jobs/info/698e7033f64d441a1650b029?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
+| **[Atlas Energy Solutions](https://atlas.energy)** | **[Safety Engineering Intern – Unpaid Internship](https://jobright.ai/jobs/info/6997c0b781476f6176afeaf9?utm_campaign=1048&utm_source=git)** | Washington, Pennsylvania | On Site | Mar 14 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b612d656973837413b5070?utm_campaign=1048&utm_source=git)** | Portsmouth, NH | On Site | Mar 14 |
 | ↳ | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b60dc306c1ba00c547e553?utm_campaign=1048&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 14 |
-| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
-| ↳ | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| ↳ | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | ↳ | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/69b60b8106c1ba00c547e4c2?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
 | ↳ | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b593b606c1ba00c547820e?utm_campaign=1048&utm_source=git)** | Lake City, PA | On Site | Mar 14 |
 | ↳ | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b1a3f3d04c69566c73ebdd?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Mar 14 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Quantum Error Correction](https://jobright.ai/jobs/info/69455cf69516540735376ed8?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Mar 14 |
-| **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e7?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Mar 14 |
-| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern - Requirements Management (40964)](https://jobright.ai/jobs/info/69b5b3c03b74eb1e2c8380da?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Mar 14 |
-| **[Locus Robotics](http://www.locusrobotics.com)** | **[Product Quality Internship (Summer 2026)](https://jobright.ai/jobs/info/6994bc3ece78e77b4fd8bc94?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
