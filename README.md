@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Quality Summer 2026 Intern](https://jobright.ai/jobs/info/6999bcd1e0bddb6acac90497?utm_campaign=1048&utm_source=git)** | Arden, NC | On Site | Mar 15 |
+| ↳ | **[EHS Summer 2026 Intern](https://jobright.ai/jobs/info/6999c113ce78e77b4fdeacae?utm_campaign=1048&utm_source=git)** | Arden, NC | On Site | Mar 15 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6988324c0f6f7e7a2ce3736d?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Mar 15 |
+| ↳ | **[Electrical Intern (Summer 2026)](https://jobright.ai/jobs/info/68ba01645f38327491863446?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 15 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Design Verification (AI/ML Engineer)](https://jobright.ai/jobs/info/6999a9fa81476f6176b2795f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
-| ↳ | **[Intern - Technology - AMAIS](https://jobright.ai/jobs/info/6999aad9ce78e77b4fde9aab?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 15 |
+| ↳ | **[Intern - Technology - AMAIS](https://jobright.ai/jobs/info/6999a95ace78e77b4fde88cd?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 15 |
 | ↳ | **[Intern - SPG Operations/AI](https://jobright.ai/jobs/info/6999ab3ace78e77b4fdea2aa?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Mar 15 |
 | ↳ | **[Intern – Memory Systems Architecture & AI Accelerators](https://jobright.ai/jobs/info/6999aa6b81476f6176b27980?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Engineering MVCA Summer 2026 Intern](https://jobright.ai/jobs/info/69ad20f5142d5b4265fe415f?utm_campaign=1048&utm_source=git)** | Arden, NC | On Site | Mar 15 |
@@ -130,11 +134,11 @@ For a complete list, click the following sortable link below:
 | **[Valence](https://www.getvalence.com)** | **[Intern - Seattle](https://jobright.ai/jobs/info/69b5b94b56973837413b271a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | **[Atlanta Botanical Garden](https://atlantabg.org)** | **[Horticulture Intern - Gainesville](https://jobright.ai/jobs/info/69b5b93556973837413b26dc?utm_campaign=1048&utm_source=git)** | Gainesville, GA | On Site | Mar 14 |
 | **[Rexel USA](https://www.rexelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/69b5b5343b74eb1e2c8382e8?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5bc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Retaining Walls Intern](https://jobright.ai/jobs/info/69b5b3b33b74eb1e2c8380c5?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Greater Salt Lake Municipal Services District](http://msd.utah.gov)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/69b5b06d06c1ba00c547a1ae?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Civil Engineer (Transmission Line Design)](https://jobright.ai/jobs/info/69998483e0bddb6acac8cc4c?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e1125ce48107c05425ab3?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
 | ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automation Engineer Intern - Parts Summer 2026](https://jobright.ai/jobs/info/697d5aa03f57a33569673bfc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa4d261f59c56275e326a2?utm_campaign=1048&utm_source=git)** | Peru, IL | On Site | Mar 14 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Civil/Site Engineering Intern](https://jobright.ai/jobs/info/69447df094730b739877bb5e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[Diagnostic Technician Intern](https://jobright.ai/jobs/info/69b5a96f56973837413b0346?utm_campaign=1048&utm_source=git)** | Manhattan, KS | On Site | Mar 14 |
-| **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[SkillBridge Intern - Airframe Structure Mechanic](https://jobright.ai/jobs/info/682b7e5e3d1db86ce87051d1?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Mar 14 |
-| **[First American](http://www.firstam.com)** | **[Data Engineering Intern - REMOTE](https://jobright.ai/jobs/info/6999028fe0bddb6acac7f80d?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Remote | Mar 14 |
-| **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6998e4bae0bddb6acac7cef2?utm_campaign=1048&utm_source=git)** | Clermont, KY | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
