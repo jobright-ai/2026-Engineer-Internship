@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Summer Student, Maint & Engineering Intern](https://jobright.ai/jobs/info/69b61faa06c1ba00c547f8a1?utm_campaign=1048&utm_source=git)** | Geismar, LA | On Site | Mar 14 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Indigenous Summer Intern](https://jobright.ai/jobs/info/69b6306706c1ba00c5480624?utm_campaign=1048&utm_source=git)** | Moose Factory, Ontario, Canada | On Site | Mar 14 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69b6305b06c1ba00c5480617?utm_campaign=1048&utm_source=git)** | Arborfield 456, Saskatchewan, Canada | On Site | Mar 14 |
 | **[CFD Research Corporation](https://www.cfd-research.com)** | **[INTERN - Hypersonic Research Engineer – M&S Summer 2026 (Huntsville, AL)](https://jobright.ai/jobs/info/698e7033f64d441a1650b029?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Safety Engineering Intern – Unpaid Internship](https://jobright.ai/jobs/info/6997c0b781476f6176afeaf9?utm_campaign=1048&utm_source=git)** | Washington, Pennsylvania | On Site | Mar 14 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b612d656973837413b5070?utm_campaign=1048&utm_source=git)** | Portsmouth, NH | On Site | Mar 14 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e1125ce48107c05425ab3?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
 | ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automation Engineer Intern - Parts Summer 2026](https://jobright.ai/jobs/info/697d5aa03f57a33569673bfc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa4d261f59c56275e326a2?utm_campaign=1048&utm_source=git)** | Peru, IL | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Maintenance & Reliability Intern](https://jobright.ai/jobs/info/69990c8881476f6176b18231?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 14 |
 | **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b593b606c1ba00c547820e?utm_campaign=1048&utm_source=git)** | Lake City, PA | On Site | Mar 14 |
 | ↳ | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b1a3f3d04c69566c73ebdd?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Mar 14 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Quantum Error Correction](https://jobright.ai/jobs/info/69455cf69516540735376ed8?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
