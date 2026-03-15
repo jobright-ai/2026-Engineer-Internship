@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69b63d8356973837413b81f7?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 14 |
+| **[Boston Dynamics](http://bostondynamics.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69b639aa3b74eb1e2c83eb53?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
+| **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Senior Deployment Specialist](https://jobright.ai/jobs/info/69b637f93b74eb1e2c83eb21?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Mar 14 |
+| ↳ | **[Robot Application Engineer](https://jobright.ai/jobs/info/69b636a23b74eb1e2c83eaa1?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Mar 14 |
+| **[Abacus Insights](https://abacusinsights.com)** | **[Data Engineer Intern (Internship)](https://jobright.ai/jobs/info/69b6355d3b74eb1e2c83ea85?utm_campaign=1048&utm_source=git)** | Remote- USA | Remote | Mar 14 |
+| **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Principal, Talent Management & Workforce Planning](https://jobright.ai/jobs/info/69b6354706c1ba00c5480c4c?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Mar 14 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Mar 14 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Indigenous Summer Intern](https://jobright.ai/jobs/info/69b6306706c1ba00c5480624?utm_campaign=1048&utm_source=git)** | Moose Factory, Ontario, Canada | On Site | Mar 14 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69b6305b06c1ba00c5480617?utm_campaign=1048&utm_source=git)** | Arborfield 456, Saskatchewan, Canada | On Site | Mar 14 |
 | **[CFD Research Corporation](https://www.cfd-research.com)** | **[INTERN - Hypersonic Research Engineer – M&S Summer 2026 (Huntsville, AL)](https://jobright.ai/jobs/info/698e7033f64d441a1650b029?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Safety Engineering Intern – Unpaid Internship](https://jobright.ai/jobs/info/6997c0b781476f6176afeaf9?utm_campaign=1048&utm_source=git)** | Washington, Pennsylvania | On Site | Mar 14 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b612d656973837413b5070?utm_campaign=1048&utm_source=git)** | Portsmouth, NH | On Site | Mar 14 |
 | ↳ | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b60dc306c1ba00c547e553?utm_campaign=1048&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 14 |
-| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
-| ↳ | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| ↳ | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | ↳ | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/69b60b8106c1ba00c547e4c2?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
 | ↳ | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Mechanical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d5e31727747250d58418e?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Mar 14 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Field Test Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d2ce4727747250d57f395?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 14 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 Project Engineering Co-op/Internship - Big Island, VA](https://jobright.ai/jobs/info/699bca6281476f6176b41d21?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Mar 14 |
-| **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b3c8b8ad360c0340a8e873?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 14 |
-| **[CME Associates](http://cmeusa1.com)** | **[Intern - Municipal](https://jobright.ai/jobs/info/697cdad13f57a33569668849?utm_campaign=1048&utm_source=git)** | East Brunswick, NJ | On Site | Mar 14 |
-| **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b5970906c1ba00c5478924?utm_campaign=1048&utm_source=git)** | Little Falls, MN | On Site | Mar 14 |
-| **[Honeywell](http://www.honeywell.com)** | **[Aerospace Development Program - Engineering - Summer 2026 Intern (URDP) (US Person Required)](https://jobright.ai/jobs/info/697edb7ece48107c0542eefa?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 14 |
-| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Maintenance & Reliability Intern](https://jobright.ai/jobs/info/69990c8881476f6176b18231?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 14 |
-| **[Molex](http://www.molex.com)** | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b593b606c1ba00c547820e?utm_campaign=1048&utm_source=git)** | Lake City, PA | On Site | Mar 14 |
-| ↳ | **[Molex Engineering Internship Program 2026](https://jobright.ai/jobs/info/69b1a3f3d04c69566c73ebdd?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
