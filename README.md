@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loftware](http://www.loftware.com)** | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b612d656973837413b5070?utm_campaign=1048&utm_source=git)** | Portsmouth, NH | On Site | Mar 14 |
+| ↳ | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b60dc306c1ba00c547e553?utm_campaign=1048&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 14 |
+| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| ↳ | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| ↳ | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/69b60b8106c1ba00c547e4c2?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
 | ↳ | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
 | **[VRC Engineered Solutions](https://www.vrc-es.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b6072856973837413b402c?utm_campaign=1048&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Mar 14 |
@@ -105,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e1125ce48107c05425ab3?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/697e092e7f40342e15d6ede7?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d60ea3f57a335696742b0?utm_campaign=1048&utm_source=git)** | Austin, TX | Remote | Mar 14 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d6dc73f57a3356967528d?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Mar 14 |
 | ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Mar 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automation Engineer Intern - Parts Summer 2026](https://jobright.ai/jobs/info/697d5aa03f57a33569673bfc?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69aa4d261f59c56275e326a2?utm_campaign=1048&utm_source=git)** | Peru, IL | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e7?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Mar 14 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern - Requirements Management (40964)](https://jobright.ai/jobs/info/69b5b3c03b74eb1e2c8380da?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Mar 14 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Product Quality Internship (Summer 2026)](https://jobright.ai/jobs/info/6994bc3ece78e77b4fd8bc94?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Mar 14 |
-| **[Maybell Quantum](https://www.maybellquantum.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/698bd93d06d9b0622495ffc0?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Mar 14 |
-| **[GPD Group](http://gpdgroup.com)** | **[Civil Engineering Water Modeling Co-op](https://jobright.ai/jobs/info/6998a48bce78e77b4fdd3e62?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Mar 14 |
-| **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Lab Intern - Riboli Family Winery](https://jobright.ai/jobs/info/69a3d76e359fe034b1cec3b8?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Mar 14 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689ce2ed79a9f9666253bea0?utm_campaign=1048&utm_source=git)** | Plattsburgh, NY | On Site | Mar 14 |
-| **[ASML](https://www.asml.com)** | **[Internship, Production Engineer Summer 2026](https://jobright.ai/jobs/info/69992652e0bddb6acac82e2d?utm_campaign=1048&utm_source=git)** | Wilton Center, CT | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
