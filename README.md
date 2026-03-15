@@ -57,7 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Warren Equipment Company](http://www.warren-equipment.com)** | **[Tech Intern 1](https://jobright.ai/jobs/info/69b665fc3b74eb1e2c842de5?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Mar 15 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Design Verification (AI/ML Engineer)](https://jobright.ai/jobs/info/6999a9fa81476f6176b2795f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
+| ↳ | **[Intern - Technology - AMAIS](https://jobright.ai/jobs/info/6999aad9ce78e77b4fde9aab?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 15 |
+| ↳ | **[Intern - SPG Operations/AI](https://jobright.ai/jobs/info/6999ab3ace78e77b4fdea2aa?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Mar 15 |
+| ↳ | **[Intern – Memory Systems Architecture & AI Accelerators](https://jobright.ai/jobs/info/6999aa6b81476f6176b27980?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Engineering MVCA Summer 2026 Intern](https://jobright.ai/jobs/info/69ad20f5142d5b4265fe415f?utm_campaign=1048&utm_source=git)** | Arden, NC | On Site | Mar 15 |
+| **[Areté](http://www.arete.com)** | **[Science & Software Development Intern](https://jobright.ai/jobs/info/698a855f4db8972cecffdfd2?utm_campaign=1048&utm_source=git)** | Falls Church, VA | On Site | Mar 15 |
+| **[Grifols Shared Services North America, Inc.](https://www.linkedin.com/company/56758682)** | **[Intern - Utilities](https://jobright.ai/jobs/info/69b675cd3b74eb1e2c844c03?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 15 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/69a1e0cdb600907a962836a2?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
+| **[Aurora Flight Sciences](http://www.aurora.aero)** | **[Manufacturing Technician High School Intern](https://jobright.ai/jobs/info/697a839e8dbbf73badc7aaf0?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 15 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Safety Intern](https://jobright.ai/jobs/info/69a9f9522ebd316bece1b647?utm_campaign=1048&utm_source=git)** | Fenton, MI | On Site | Mar 15 |
+| ↳ | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/69a1dc56359fe034b1cd24c7?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
+| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/69a9efcb9ca4e908ec6537d3?utm_campaign=1048&utm_source=git)** | Livonia, MI | On Site | Mar 15 |
+| ↳ | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/69ad0f6a7e1fab39d3848405?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | Mar 15 |
+| ↳ | **[Civil Engineering Intern (Hiring for May 2026) - Ohio](https://jobright.ai/jobs/info/69a1dcfa0da45516f16b2feb?utm_campaign=1048&utm_source=git)** | Akron metropolitan area, OH | On Site | Mar 15 |
+| **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69af2d66749500645093a682?utm_campaign=1048&utm_source=git)** | Richmond, Virginia | On Site | Mar 15 |
+| **[VRC Engineered Solutions](https://www.vrc-es.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b668d156973837413bc52e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 15 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[PPI Specialist Intern](https://jobright.ai/jobs/info/69b6689956973837413bc426?utm_campaign=1048&utm_source=git)** | Marietta, OH | On Site | Mar 15 |
+| **[Warren Equipment Company](http://www.warren-equipment.com)** | **[Tech Intern 1](https://jobright.ai/jobs/info/69b6688f56973837413bc3e7?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Mar 15 |
+| ↳ | **[Tech Intern 1](https://jobright.ai/jobs/info/69b6687d06c1ba00c5485ed9?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Mar 15 |
+| ↳ | **[Tech Intern 1](https://jobright.ai/jobs/info/69b665fc3b74eb1e2c842de5?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Mar 15 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69b65a8306c1ba00c548334e?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Mar 15 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Internship - Industrial Engineering - Huntsville, AL](https://jobright.ai/jobs/info/6978282c88e2b47213bc2918?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
 | ↳ | **[Internship - Process Engineering - Huntsville, AL](https://jobright.ai/jobs/info/69782695fdeb8243a27b1b74?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
@@ -114,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5bc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Retaining Walls Intern](https://jobright.ai/jobs/info/69b5b3b33b74eb1e2c8380c5?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Greater Salt Lake Municipal Services District](http://msd.utah.gov)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/69b5b06d06c1ba00c547a1ae?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Civil Engineer (Transmission Line Design)](https://jobright.ai/jobs/info/69998483e0bddb6acac8cc4c?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[SkillBridge Intern - Airframe Structure Mechanic](https://jobright.ai/jobs/info/682b7e5e3d1db86ce87051d1?utm_campaign=1048&utm_source=git)** | Arkansas, United States | On Site | Mar 14 |
 | **[First American](http://www.firstam.com)** | **[Data Engineering Intern - REMOTE](https://jobright.ai/jobs/info/6999028fe0bddb6acac7f80d?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Remote | Mar 14 |
 | **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6998e4bae0bddb6acac7cef2?utm_campaign=1048&utm_source=git)** | Clermont, KY | On Site | Mar 14 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architectural Intern- Summer 2026](https://jobright.ai/jobs/info/697d2b5b137a051025662e24?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Mar 14 |
-| **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Transportation - Summer 2026](https://jobright.ai/jobs/info/6961bb91a112b40266104c52?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 14 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Systems Test Engineer (SkillBridge Intern) - 26005](https://jobright.ai/jobs/info/690d3f194a1b456627b1fb30?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Mar 14 |
-| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Mechanical Engineer (Hybrid)](https://jobright.ai/jobs/info/699925ce81476f6176b1aa42?utm_campaign=1048&utm_source=git)** | Duluth, MN | Hybrid | Mar 14 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d83517f40342e15d64d33?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 14 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Industrial Engineering Internship](https://jobright.ai/jobs/info/698674d78da7a61204613f31?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, Electric Maintenance Planning & Reliability](https://jobright.ai/jobs/info/697d7650727747250d585f02?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Mar 14 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Civil Drafting Intern](https://jobright.ai/jobs/info/6959e8b6f1f8465b79f03e21?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Mar 14 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69461dc37d506e3808f16ec4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[FedRAMP and Cloud Security Internship 2026](https://jobright.ai/jobs/info/6999323ae0bddb6acac83f8c?utm_campaign=1048&utm_source=git)** | Illinois, United States | Remote | Mar 14 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Electrical Engineer Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6999e118ce78e77b4fdeb4e8?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 14 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Structural Engineering Summer Intern](https://jobright.ai/jobs/info/697e02f8abff4c399a9cca86?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 Process Control Engineer Co-op/Internship - Big Island, VA](https://jobright.ai/jobs/info/699be5fece78e77b4fe07d75?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Mar 14 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Network Engineering Intern](https://jobright.ai/jobs/info/6999a41981476f6176b25f85?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
-| **[RS&H](http://www.rsandh.com/)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d035e727747250d57baba?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Mar 14 |
-| **[Molex](http://www.molex.com)** | **[Advanced Manufacturing Engineer Intern](https://jobright.ai/jobs/info/697d4aeb727747250d581940?utm_campaign=1048&utm_source=git)** | Grand Blanc, MI | On Site | Mar 14 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/697d55b4137a05102566760a?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
-| **[Skanska](http://skanska.com)** | **[2026 Summer Internship (Heavy Civil Construction)](https://jobright.ai/jobs/info/6945089294730b7398784210?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
-| **[Arconic](https://www.arconic.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/69198f6445fb6f5ead8a98e7?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
