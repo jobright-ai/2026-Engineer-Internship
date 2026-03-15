@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warren Equipment Company](http://www.warren-equipment.com)** | **[Tech Intern 1](https://jobright.ai/jobs/info/69b665fc3b74eb1e2c842de5?utm_campaign=1048&utm_source=git)** | Odessa, TX | On Site | Mar 15 |
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69b65a8306c1ba00c548334e?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Mar 15 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://catalysts.basf.com/industries/precious-and-base-metals)** | **[Internship - Industrial Engineering - Huntsville, AL](https://jobright.ai/jobs/info/6978282c88e2b47213bc2918?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
 | ↳ | **[Internship - Process Engineering - Huntsville, AL](https://jobright.ai/jobs/info/69782695fdeb8243a27b1b74?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Safety Engineering Intern – Unpaid Internship](https://jobright.ai/jobs/info/6997c0b781476f6176afeaf9?utm_campaign=1048&utm_source=git)** | Washington, Pennsylvania | On Site | Mar 14 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b612d656973837413b5070?utm_campaign=1048&utm_source=git)** | Portsmouth, NH | On Site | Mar 14 |
 | ↳ | **[Summer Internship - Professional Services (AI Automation)](https://jobright.ai/jobs/info/69b60dc306c1ba00c547e553?utm_campaign=1048&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 14 |
-| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
-| ↳ | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Mechanical Operations)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8c?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
+| ↳ | **[Manufacturing Engineering Intern (Mass Spectrometry)](https://jobright.ai/jobs/info/69b60c9056973837413b4f8b?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | ↳ | **[Research & Development Engineering Intern](https://jobright.ai/jobs/info/69b60b8106c1ba00c547e4c2?utm_campaign=1048&utm_source=git)** | Palmer, Massachusetts, United States | On Site | Mar 14 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Survey Services Intern](https://jobright.ai/jobs/info/68cd0bcbe23def7af55b44e2?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
 | ↳ | **[Environmental Services Intern](https://jobright.ai/jobs/info/68cd037a4d568306aabd1796?utm_campaign=1048&utm_source=git)** | Latham, NY | On Site | Mar 14 |
@@ -105,14 +106,13 @@ For a complete list, click the following sortable link below:
 | **[IMI](http://www.imiplc.com)** | **[Manufacturing Engineering Intern (Process)](https://jobright.ai/jobs/info/69b5c6fc56973837413b2c2c?utm_campaign=1048&utm_source=git)** | Palmer, MA | On Site | Mar 14 |
 | **[State of Alaska](http://alaska.gov/)** | **[Student Intern 1/2 Flex (PCN 25IN1802)](https://jobright.ai/jobs/info/69b5c6e656973837413b2c11?utm_campaign=1048&utm_source=git)** | Juneau, AK | On Site | Mar 14 |
 | **[LONG Building Technologies](http://long.com)** | **[Safety Intern](https://jobright.ai/jobs/info/69b5c37806c1ba00c547b917?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Mar 14 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Electrical Engineering Intern - starting summer 2026](https://jobright.ai/jobs/info/69a81a2d1dfc787e9aa34910?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 14 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Analog/RF Design Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/6944ca9da7227b3ece66737a?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, System Performance Modeling - Thermodynamics (Summer 2026)](https://jobright.ai/jobs/info/697d5a75137a051025667a3a?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 14 |
 | **[Valence](https://www.getvalence.com)** | **[Intern - Seattle](https://jobright.ai/jobs/info/69b5b94b56973837413b271a?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | **[Atlanta Botanical Garden](https://atlantabg.org)** | **[Horticulture Intern - Gainesville](https://jobright.ai/jobs/info/69b5b93556973837413b26dc?utm_campaign=1048&utm_source=git)** | Gainesville, GA | On Site | Mar 14 |
 | **[Rexel USA](https://www.rexelusa.com/)** | **[Intern](https://jobright.ai/jobs/info/69b5b5343b74eb1e2c8382e8?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Mar 14 |
-| **[City of New York](http://www1.nyc.gov)** | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
-| ↳ | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Information Security Intern](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d75?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| ↳ | **[Mechanical Engineering Intern, Boilers](https://jobright.ai/jobs/info/69b5b3ed56973837413b0d74?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/69b5b3dc06c1ba00c547a5bc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Technical Affairs Intern, Engineering](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cc?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | ↳ | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/69b5b3b43b74eb1e2c8380cb?utm_campaign=1048&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Industrial Engineering Internship](https://jobright.ai/jobs/info/698674d78da7a61204613f31?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, Electric Maintenance Planning & Reliability](https://jobright.ai/jobs/info/697d7650727747250d585f02?utm_campaign=1048&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Mar 14 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Civil Drafting Intern](https://jobright.ai/jobs/info/6959e8b6f1f8465b79f03e21?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Mar 14 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/699294e5e0bddb6acac0b90a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 14 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69461dc37d506e3808f16ec4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[FedRAMP and Cloud Security Internship 2026](https://jobright.ai/jobs/info/6999323ae0bddb6acac83f8c?utm_campaign=1048&utm_source=git)** | Illinois, United States | Remote | Mar 14 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Electrical Engineer Intern - Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/6999e118ce78e77b4fdeb4e8?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Advanced Manufacturing Engineer Intern](https://jobright.ai/jobs/info/697d4aeb727747250d581940?utm_campaign=1048&utm_source=git)** | Grand Blanc, MI | On Site | Mar 14 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/697d55b4137a05102566760a?utm_campaign=1048&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
 | **[Skanska](http://skanska.com)** | **[2026 Summer Internship (Heavy Civil Construction)](https://jobright.ai/jobs/info/6945089294730b7398784210?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
+| **[Arconic](https://www.arconic.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/69198f6445fb6f5ead8a98e7?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
