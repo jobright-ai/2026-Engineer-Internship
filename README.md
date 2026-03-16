@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Facilities Internship](https://jobright.ai/jobs/info/69b7737856973837413c933c?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Mar 15 |
+| **[Forj Medical](https://forjmedical.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69b048b47495006450963c3b?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Mar 15 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/697d7351137a05102566962e?utm_campaign=1048&utm_source=git)** | Jurupa Valley, CA | On Site | Mar 15 |
 | **[Fosbel Inc.](http://fosbel.com)** | **[Mechanical Design Engineering Intern (AutoDesk Inventor)](https://jobright.ai/jobs/info/69b75a263b74eb1e2c84e3c4?utm_campaign=1048&utm_source=git)** | Brook Park, OH | On Site | Mar 15 |
 | **[Continental](https://www.continental.com)** | **[Plant Engineering Summer Intern](https://jobright.ai/jobs/info/69aa2afe1f59c56275e2f8e2?utm_campaign=1048&utm_source=git)** | Mount Vernon, IL | On Site | Mar 15 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Elliott Aviation](http://elliottaviation.com)** | **[DoD SkillBridge Service Technician Intern](https://jobright.ai/jobs/info/69b70e2a06c1ba00c548dc4f?utm_campaign=1048&utm_source=git)** | Milan, IL | On Site | Mar 15 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Engineering Intern 2 - 27275](https://jobright.ai/jobs/info/699b4490e0bddb6acaca42ce?utm_campaign=1048&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 15 |
 | **[Scout Space](https://scout.space)** | **[GNC (Guidance, Navigation, and Controls) and Astrodynamics Engineering Intern](https://jobright.ai/jobs/info/692df2334c474121999d49e2?utm_campaign=1048&utm_source=git)** | Reston, VA - Remote | Remote | Mar 15 |
+| **[HARRYSoftware](https://www.linkedin.com/company/143786)** | **[Conservation Intern](https://jobright.ai/jobs/info/69b7714506c1ba00c549288b?utm_campaign=1048&utm_source=git)** | Naples,FL,US | On Site | Mar 15 |
 | **[Global Industrial Corp](http://globalindustrialinc.com)** | **[Intern Transportation Management](https://jobright.ai/jobs/info/69b6f3b856973837413c246b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 15 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933bfdc764507023d1b8dc2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 15 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Mar 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TAIT](http://www.taittowers.com)** | **[Welding Intern](https://jobright.ai/jobs/info/69615c31f3f4cd13250653fc?utm_campaign=1048&utm_source=git)** | Lititz, PA | On Site | Mar 15 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Vehicle Perception (Internship)](https://jobright.ai/jobs/info/6962155925e18715077ef372?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Stores Economics and Science](https://jobright.ai/jobs/info/69b6acfd3b74eb1e2c846421?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
-| **[Gemini](https://gemini.com)** | **[Security Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6945bed6951654073537db80?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
-| **[Xometry](https://www.xometry.com)** | **[Assembly and Rework Intern](https://jobright.ai/jobs/info/695e9d09a112b402660d45c0?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 15 |
-| **[Kensho Technologies](https://kensho.com)** | **[Research Scientist - Summer Intern 2026](https://jobright.ai/jobs/info/694a020463141d1884599191?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
