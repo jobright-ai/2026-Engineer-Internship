@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[Manufacturing Intern (Summer 2026)](https://jobright.ai/jobs/info/69b799bc56973837413cbcde?utm_campaign=1048&utm_source=git)** | Germantown, WI | On Site | Mar 15 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69b7b2953b74eb1e2c854cb8?utm_campaign=1048&utm_source=git)** | Collierville, TN | On Site | Mar 16 |
+| ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/69b7ad483b74eb1e2c853e54?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Mar 16 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/69a69a3c708b430a607b0211?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | Mar 15 |
+| **[STERIS](http://steris.com)** | **[Health, Safety, and Environmental (HSE) Intern](https://jobright.ai/jobs/info/699e62d2ce78e77b4fe3983a?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Mar 15 |
+| **[Teradyne](http://www.teradyne.com)** | **[Engineering Technician Intern Summer 2026 (Teradyne, Deer Park Il)](https://jobright.ai/jobs/info/69b7a3ce06c1ba00c549578c?utm_campaign=1048&utm_source=git)** | Deer Park, IL | On Site | Mar 15 |
 | **[Kulicke & Soffa](http://www.kns.com)** | **[Intern, BB Process  Engineering](https://jobright.ai/jobs/info/69b7945b3b74eb1e2c852d0f?utm_campaign=1048&utm_source=git)** | 1005 Virginia Drive, Fort Washington, PA, 19034, US | On Site | Mar 15 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/69b7901556973837413cb71f?utm_campaign=1048&utm_source=git)** | Sierra Vista, AZ | On Site | Mar 15 |
 | ↳ | **[TekSynap Internship- Proposals](https://jobright.ai/jobs/info/69b790143b74eb1e2c852cb8?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Mar 15 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Scout Space](https://scout.space)** | **[GNC (Guidance, Navigation, and Controls) and Astrodynamics Engineering Intern](https://jobright.ai/jobs/info/692df2334c474121999d49e2?utm_campaign=1048&utm_source=git)** | Reston, VA - Remote | Remote | Mar 15 |
 | **[HARRYSoftware](https://www.linkedin.com/company/143786)** | **[Conservation Intern](https://jobright.ai/jobs/info/69b7714506c1ba00c549288b?utm_campaign=1048&utm_source=git)** | Naples,FL,US | On Site | Mar 15 |
 | **[Global Industrial Corp](http://globalindustrialinc.com)** | **[Intern Transportation Management](https://jobright.ai/jobs/info/69b6f3b856973837413c246b?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 15 |
-| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933bfdc764507023d1b8dc2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 15 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Mar 15 |
+| **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae0236105227d118a1078?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933bfdc764507023d1b8dc2?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 15 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae1198043103d4f223b3c?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 15 |
 | **[MercyOne](https://www.mercyone.org/)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6955fd39aa05c26e7ab03461?utm_campaign=1048&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant](https://jobright.ai/jobs/info/69b6f09906c1ba00c548aed5?utm_campaign=1048&utm_source=git)** | Orange, CA | On Site | Mar 15 |
@@ -110,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce6589fb49c96ca6e9fed0?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 15 |
 | **[Dropbox](https://www.dropbox.com)** | **[PhD Machine Learning Intern (Summer 2026)](https://jobright.ai/jobs/info/69a64a0d2c0d8b0f5cd05996?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/693695b044eb324fb785c920?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Mar 15 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 15 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Mar 15 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6933cde3a0dde7020e2f210f?utm_campaign=1048&utm_source=git)** | Arvada, CO | On Site | Mar 15 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c8f11b95f5211cd2cebd19?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 15 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Intern - 2026](https://jobright.ai/jobs/info/69b6eade56973837413c2324?utm_campaign=1048&utm_source=git)** | Montgomery, MN | On Site | Mar 15 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Mar 15 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Mar 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ID Technology](https://www.idtechnology.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690eb11a44146d3b6ec56d1f?utm_campaign=1048&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 15 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/698c265991fdda424d58f0c7?utm_campaign=1048&utm_source=git)** | Burlington, MA | On Site | Mar 15 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship - Technician](https://jobright.ai/jobs/info/694613acd1953b5d11bf3405?utm_campaign=1048&utm_source=git)** | Galesburg, MI | On Site | Mar 15 |
-| **[GALLO](http://www.gallocareers.com)** | **[Process Technology & WSE Engineering Internship 2026](https://jobright.ai/jobs/info/692f80c14c474121999dfc26?utm_campaign=1048&utm_source=git)** | Lodi, CA | On Site | Mar 15 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/6945d824d1953b5d11beeaf5?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Mar 15 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Engineering/Development Intern/Co-op](https://jobright.ai/jobs/info/69b6b9b93b74eb1e2c847637?utm_campaign=1048&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Mar 15 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Supplier Technical Engineer](https://jobright.ai/jobs/info/699cc62081476f6176b55855?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
