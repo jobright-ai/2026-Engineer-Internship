@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EA Engineering, Science, and Technology, Inc., PBC](http://eaest.com/)** | **[GIS Summer Intern](https://jobright.ai/jobs/info/69b912723b74eb1e2c870727?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Mar 17 |
 | **[Crustdata (YC F24)](https://crustdata.com/)** | **[ML Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69b9027c3b74eb1e2c86e644?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Mar 17 |
 | **[Future AGI](https://futureagi.com)** | **[DevRel Partner US (Intern)](https://jobright.ai/jobs/info/69b8fece06c1ba00c54b0819?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 17 |
 | **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69af2d72749500645093a6cd?utm_campaign=1048&utm_source=git)** | Raleigh, North Carolina | On Site | Mar 16 |
@@ -105,16 +106,16 @@ For a complete list, click the following sortable link below:
 | **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Electrical](https://jobright.ai/jobs/info/69b8b9b206c1ba00c54ae8b8?utm_campaign=1048&utm_source=git)** | Houston,TX,US | On Site | Mar 16 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b89b413b74eb1e2c8672ea?utm_campaign=1048&utm_source=git)** | Greenville, Texas | On Site | Mar 16 |
 | **[Sierra Space](https://sierraspace.com)** | **[Summer 2026 Mechanical Engineer Intern - Durham, NC](https://jobright.ai/jobs/info/69b89b3a3b74eb1e2c8672ba?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Mar 16 |
-| **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69b89b1b56973837413dfd63?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Mar 16 |
-| ↳ | **[Field Engineer Intern - Kiewit Power Delivery (Summer 2026)](https://jobright.ai/jobs/info/69b89b1b56973837413dfd62?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Mar 16 |
-| ↳ | **[Field Engineer Intern - Kiewit Power Delivery (Summer 2026)](https://jobright.ai/jobs/info/69b89b1a56973837413dfd60?utm_campaign=1048&utm_source=git)** | Westlake, TX | On Site | Mar 16 |
+| **[Kiewit](http://www.kiewit.com)** | **[Field Engineer Intern - Kiewit Power Delivery (Summer 2026)](https://jobright.ai/jobs/info/69b89b1b56973837413dfd62?utm_campaign=1048&utm_source=git)** | Orange, TX | On Site | Mar 16 |
+| ↳ | **[Project Controls Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69b89b1b56973837413dfd63?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Mar 16 |
 | ↳ | **[Field Engineer Intern - Kiewit Power Delivery (Summer 2026)](https://jobright.ai/jobs/info/69b89b1a3b74eb1e2c86725e?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Mar 16 |
+| ↳ | **[Field Engineer Intern - Kiewit Power Delivery (Summer 2026)](https://jobright.ai/jobs/info/69b89b1a56973837413dfd60?utm_campaign=1048&utm_source=git)** | Westlake, TX | On Site | Mar 16 |
 | **[Weeks Marine, Inc.](http://www.weeksmarine.com)** | **[Year Round Dredging Intern - Weeks Marine](https://jobright.ai/jobs/info/69b89b143b74eb1e2c867254?utm_campaign=1048&utm_source=git)** | New Orleans, LA | Hybrid | Mar 16 |
 | ↳ | **[Year Round Dredging Intern - Weeks Marine](https://jobright.ai/jobs/info/69b89b143b74eb1e2c867255?utm_campaign=1048&utm_source=git)** | Houma, LA | Hybrid | Mar 16 |
 | ↳ | **[Year Round Dredging Intern - Weeks Marine](https://jobright.ai/jobs/info/69b89b0506c1ba00c54a95ee?utm_campaign=1048&utm_source=git)** | Covington, LA | Hybrid | Mar 16 |
-| **[Ukpeaġvik Iñupiat Corporation](https://uicalaska.com/)** | **[Project Engineer (Intern) - Qayaq Construction](https://jobright.ai/jobs/info/69b8bce456973837413e5b4f?utm_campaign=1048&utm_source=git)** | US-AK-Wasilla | On Site | Mar 16 |
+| **[Ukpeaġvik Iñupiat Corporation](https://uicalaska.com/)** | **[Project Engineer (Intern) - Qayaq Construction](https://jobright.ai/jobs/info/69b8bc323b74eb1e2c86c8ae?utm_campaign=1048&utm_source=git)** | Wasilla, AK, US | On Site | Mar 16 |
 | ↳ | **[Project Engineer (Intern) - Qayaq Construction](https://jobright.ai/jobs/info/69b8bc2e06c1ba00c54aeaf8?utm_campaign=1048&utm_source=git)** | Wasilla,AK,USA | On Site | Mar 16 |
-| ↳ | **[Project Engineer (Intern) - Qayaq Construction](https://jobright.ai/jobs/info/69b8bc323b74eb1e2c86c8ae?utm_campaign=1048&utm_source=git)** | Wasilla, AK, US | On Site | Mar 16 |
+| ↳ | **[Project Engineer (Intern) - Qayaq Construction](https://jobright.ai/jobs/info/69b8bce456973837413e5b4f?utm_campaign=1048&utm_source=git)** | US-AK-Wasilla | On Site | Mar 16 |
 | **[Reliance Test & Technology, LLC](https://www.rtt-jv.com/homepage/)** | **[Optical Sciences Summer Intern (767)](https://jobright.ai/jobs/info/69b8bce456973837413e5b53?utm_campaign=1048&utm_source=git)** | Patuxent River, MD, US | On Site | Mar 16 |
 | ↳ | **[Optical Sciences Summer Intern (767)](https://jobright.ai/jobs/info/69b8bc2f06c1ba00c54aeb09?utm_campaign=1048&utm_source=git)** | US-MD-Patuxent River | On Site | Mar 16 |
 | ↳ | **[Optical Sciences Summer Intern (767)](https://jobright.ai/jobs/info/69b8bc323b74eb1e2c86c8b2?utm_campaign=1048&utm_source=git)** | Onsite | On Site | Mar 16 |
@@ -124,13 +125,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CAD Intern - Survey](https://jobright.ai/jobs/info/69b8bc353b74eb1e2c86c8bd?utm_campaign=1048&utm_source=git)** | Tyler, TX, US | On Site | Mar 16 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer (Cyber)](https://jobright.ai/jobs/info/69b8bc353b74eb1e2c86c8bf?utm_campaign=1048&utm_source=git)** | Manassas, VA, US | On Site | Mar 16 |
 | ↳ | **[Intern Engineer (Cyber)](https://jobright.ai/jobs/info/69b8bce556973837413e5b75?utm_campaign=1048&utm_source=git)** | US-VA-Manassas | On Site | Mar 16 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Actuators Test Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69b8bc363b74eb1e2c86c8c0?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA, US | On Site | Mar 16 |
-| ↳ | **[Actuators Test Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69b8bce556973837413e5b6a?utm_campaign=1048&utm_source=git)** | US-CA-Santa Cruz | On Site | Mar 16 |
-| **[EarthWorks Inc.](https://www.earth.works)** | **[Internship](https://jobright.ai/jobs/info/69b8bb3a56973837413e5942?utm_campaign=1048&utm_source=git)** | Houston,TX,US | On Site | Mar 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/69b8b9b306c1ba00c54ae8b9?utm_campaign=1048&utm_source=git)** | Alvarado,TX,US | On Site | Mar 16 |
-| **[Cook Medical](http://www.cookmedical.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b8bc2d06c1ba00c54aeae5?utm_campaign=1048&utm_source=git)** | US-IN-West Lafayette | On Site | Mar 16 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Actuators Test Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69b8bce556973837413e5b6a?utm_campaign=1048&utm_source=git)** | US-CA-Santa Cruz | On Site | Mar 16 |
+| ↳ | **[Actuators Test Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69b8bc363b74eb1e2c86c8c0?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA, US | On Site | Mar 16 |
+| **[EarthWorks Inc.](https://www.earth.works)** | **[Internship](https://jobright.ai/jobs/info/69b8b9b306c1ba00c54ae8b9?utm_campaign=1048&utm_source=git)** | Alvarado,TX,US | On Site | Mar 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/69b8bb3a56973837413e5942?utm_campaign=1048&utm_source=git)** | Houston,TX,US | On Site | Mar 16 |
+| **[Cook Medical](http://www.cookmedical.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b8bc2d3b74eb1e2c86c895?utm_campaign=1048&utm_source=git)** | West Lafayette, IN, US | On Site | Mar 16 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69b8bc2d06c1ba00c54aeae5?utm_campaign=1048&utm_source=git)** | US-IN-West Lafayette | On Site | Mar 16 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69b8bce456973837413e5b4c?utm_campaign=1048&utm_source=git)** | West Lafayette IN United States | On Site | Mar 16 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69b8bc2d3b74eb1e2c86c895?utm_campaign=1048&utm_source=git)** | West Lafayette, IN, US | On Site | Mar 16 |
 | **[Steely](https://www.steely.cc)** | **[Reverse Engineer Intern Summer 2026](https://jobright.ai/jobs/info/69b895c13b74eb1e2c866e8c?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Mar 16 |
 | **[Geo. M. Martin Company](https://www.geomartin.com/)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69b8952706c1ba00c54a8ffa?utm_campaign=1048&utm_source=git)** | Emeryville, CA | On Site | Mar 16 |
 | **[Lochner](http://hwlochner.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/69b8bb043b74eb1e2c86c73e?utm_campaign=1048&utm_source=git)** | Denver, CO 80202 | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rochester Electronics, LLC](https://www.rocelec.com)** | **[Intern](https://jobright.ai/jobs/info/69b889523b74eb1e2c8660e6?utm_campaign=1048&utm_source=git)** | Newburyport, MA | On Site | Mar 16 |
 | **[XPO](https://www.xpo.com)** | **[Tech Program Intern III (DevOps Engineering)](https://jobright.ai/jobs/info/69b889473b74eb1e2c8660cd?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Mar 16 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Digital Infrastructure](https://jobright.ai/jobs/info/69b8880b56973837413deaf9?utm_campaign=1048&utm_source=git)** | Rochester, NY | Hybrid | Mar 16 |
-| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Field Intern](https://jobright.ai/jobs/info/69b887bb56973837413deab6?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
