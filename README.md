@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Mar 18 |
+| **[Crysteel Manufacturing](https://www.crysteel.com)** | **[Environmental Health & Safety Intern](https://jobright.ai/jobs/info/69bb961e06c1ba00c54e3323?utm_campaign=1048&utm_source=git)** | Lake Crystal, MN | On Site | Mar 18 |
+| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Clinical Lab Scientist - Laboratory - Per Diem 8 Hours Day (Non-Union, Non-Exempt)](https://jobright.ai/jobs/info/69bb906b06c1ba00c54e2dcb?utm_campaign=1048&utm_source=git)** | Arcadia, CA | On Site | Mar 18 |
+| **[Burkentine Real Estate Group](https://burkentine.com)** | **[Land Development & Site Work Intern](https://jobright.ai/jobs/info/69bb8c383b74eb1e2c8a08c4?utm_campaign=1048&utm_source=git)** | Hanover,PA,US | On Site | Mar 18 |
 | **[Draper](https://www.draper.com)** | **[HWIL & Real Time Simulation Intern](https://jobright.ai/jobs/info/69bb88015697383741418cb6?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Engineering](https://jobright.ai/jobs/info/69bb82f83b74eb1e2c89edc4?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Mar 18 |
 | **[Vulcan Elements](https://www.vulcanelements.com)** | **[Materials and Process Engineering Internship](https://jobright.ai/jobs/info/69a7d50b1fc3d83b780959b9?utm_campaign=1048&utm_source=git)** | Research Triangle Park, NC | On Site | Mar 18 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[GFT](https://www.gftinc.com)** | **[Intern - Environmental Science](https://jobright.ai/jobs/info/69bb6b2b3b74eb1e2c89d32d?utm_campaign=1048&utm_source=git)** | Mechanicsburg, PA | On Site | Mar 18 |
 | **[Calix](http://www.calix.com)** | **[Business Continuity Intern](https://jobright.ai/jobs/info/69bb4d763b74eb1e2c89b9f5?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/69bb67a33b74eb1e2c89d231?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 18 |
-| ↳ | **[Mechanical Engineering Summer Intern](https://jobright.ai/jobs/info/69bb674406c1ba00c54ddb91?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 18 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Quality Control Internship](https://jobright.ai/jobs/info/69bb67303b74eb1e2c89d1c1?utm_campaign=1048&utm_source=git)** | Truesdale, MO | On Site | Mar 18 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, AI Workforce Engineering - June 2026](https://jobright.ai/jobs/info/69bb671a5697383741416565?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 18 |
 | **[Emerson](http://www.emerson.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69bb6711569738374141655c?utm_campaign=1048&utm_source=git)** | Marshalltown, IA | On Site | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDT Global](http://www.hdtglobal.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69bb52eb3b74eb1e2c89bc7b?utm_campaign=1048&utm_source=git)** | Geneva, Ohio, United States | On Site | Mar 18 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Student Intern - Engineering PD (Temporary)](https://jobright.ai/jobs/info/69bb52515697383741414d46?utm_campaign=1048&utm_source=git)** | Ephrata, Washington, United States | On Site | Mar 18 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[GC Applications & Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69bb52505697383741414d42?utm_campaign=1048&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 18 |
-| **[Tokyo Electron US](http://www.tel.com)** | **[Automation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bb518c5697383741414c97?utm_campaign=1048&utm_source=git)** | Chaska, MN | On Site | Mar 18 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Controls Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bb518a5697383741414c8c?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Mar 18 |
-| **[Varda Space Industries](http://varda.com)** | **[Mechanical Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69bb6db406c1ba00c54de02f?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
