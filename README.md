@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - SOE Research Assistant](https://jobright.ai/jobs/info/69be3635393a1008f74416bb?utm_campaign=1048&utm_source=git)** | Orem, UT | Remote | Mar 20 |
+| **[Ardurra](https://ardurra.com/)** | **[Public Works Engineering Intern](https://jobright.ai/jobs/info/69be3e6c482822729300fdf8?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Mar 20 |
+| **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Cancer Biology](https://jobright.ai/jobs/info/69be3aac393a1008f7442151?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 20 |
+| **[HII](https://hii.com)** | **[SKILLBRIDGE INTERN - HEALTH AND SAFETY ANALYST 1](https://jobright.ai/jobs/info/69be390d393a1008f7442069?utm_campaign=1048&utm_source=git)** | Pascagoula, MS | On Site | Mar 20 |
 | **[MWH](https://mwhconstructors.com)** | **[Construction Intern - MWH](https://jobright.ai/jobs/info/69be2eadb106024562839884?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Mar 20 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/69be2a59393a1008f74407a1?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Mar 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, IT Enterprise Application - Manufacturing](https://jobright.ai/jobs/info/69be2a19482822729300e44a?utm_campaign=1048&utm_source=git)** | Georgetown, ON | Hybrid | Mar 20 |
@@ -66,8 +68,10 @@ For a complete list, click the following sortable link below:
 | **[CX2](https://www.cx2.com/)** | **[Electrical Engineering Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/69b27122a8ac8e70ff665e2c?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 20 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Post Harvest - Genetics Intern](https://jobright.ai/jobs/info/69b6684c06c1ba00c5485d56?utm_campaign=1048&utm_source=git)** | Watsonville, CA | On Site | Mar 20 |
 | **[BART](http://www.bart.gov/)** | **[Engineering Internship](https://jobright.ai/jobs/info/69be1efd482822729300d966?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Mar 20 |
+| **[Coty](https://www.coty.com/)** | **[PACKAGING TECHNOLOGIST INTERN](https://jobright.ai/jobs/info/69be4299393a1008f7442ce7?utm_campaign=1048&utm_source=git)** | Other DC Sites UK | On Site | Mar 20 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I Summer 2026 - Tifton Ga](https://jobright.ai/jobs/info/69be1e74b10602456283861d?utm_campaign=1048&utm_source=git)** | Tifton, GA | On Site | Mar 20 |
 | **[Knorr Brake Company](http://knorrbrake.com)** | **[Intern Engineer, Mechanical](https://jobright.ai/jobs/info/69be1dff393a1008f743fc9c?utm_campaign=1048&utm_source=git)** | Westminster, MD | On Site | Mar 20 |
+| **[Amperesand](https://amperesand.io/)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69be3e6c482822729300fdf7?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Mar 20 |
 | **[Sierra Lobo, Inc.](http://www.sierralobo.com/)** | **[Electrical Test Engineer INTERN](https://jobright.ai/jobs/info/69be1d4e482822729300d7bb?utm_campaign=1048&utm_source=git)** | Greater Cleveland | On Site | Mar 20 |
 | **[Cadence](https://www.cadence.com)** | **[Reinforcement Learning (Physical AI) Intern](https://jobright.ai/jobs/info/69be1965b106024562838094?utm_campaign=1048&utm_source=git)** | Home Place, IN | On Site | Mar 20 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[R&D, Mechanical Engineering - Bio Med Intern](https://jobright.ai/jobs/info/69be026c393a1008f743ddfd?utm_campaign=1048&utm_source=git)** | Trumbull, CT | On Site | Mar 20 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/69bdf879393a1008f743d122?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/69bdf874b10602456283596a?utm_campaign=1048&utm_source=git)** | Panama City, FL | Hybrid | Mar 20 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Microwave/Accelerator Engineering Intern](https://jobright.ai/jobs/info/69a93f2679f3f4037f4415b2?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 20 |
-| **[LiveTrends Design Group](http://livetrendsdesign.com/)** | **[Grower Intern](https://jobright.ai/jobs/info/69be1ad5393a1008f743f8aa?utm_campaign=1048&utm_source=git)** | Mount Dora, FL | On Site | Mar 20 |
 | **[Illinois Department of Natural Resources](http://www.dnr.illinois.gov)** | **[CIVIL ENGINEER II](https://jobright.ai/jobs/info/69bdf7c8482822729300aa2d?utm_campaign=1048&utm_source=git)** | Springfield, IL | On Site | Mar 20 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern - Electrical Engineering](https://jobright.ai/jobs/info/69bdf63db106024562835628?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Electrical Engineering](https://jobright.ai/jobs/info/69bdf638482822729300a473?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
-| ↳ | **[Intern - Fab Process Engineering](https://jobright.ai/jobs/info/69bdf638482822729300a467?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
-| ↳ | **[Intern, Silicon Photonics R&D](https://jobright.ai/jobs/info/69bdf638482822729300a470?utm_campaign=1048&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 20 |
-| ↳ | **[Intern, NPI lab and VCSEL R&D](https://jobright.ai/jobs/info/69bdf638482822729300a46d?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Silicon Photonics R&D](https://jobright.ai/jobs/info/69bdf637482822729300a45f?utm_campaign=1048&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 20 |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Fab Process Engineering](https://jobright.ai/jobs/info/69bdf638482822729300a467?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
+| ↳ | **[Intern - Electrical Engineering](https://jobright.ai/jobs/info/69bdf638482822729300a473?utm_campaign=1048&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
