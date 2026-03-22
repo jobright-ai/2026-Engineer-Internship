@@ -57,6 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumentum](https://www.lumentum.com/en)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/69bcc5ff4828227293feb2ee?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| **[Airgas](http://airgas.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a26c62b600907a9628bb60?utm_campaign=1048&utm_source=git)** | Twinsburg, OH | On Site | Mar 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696ad923350cf4380311f9f0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[2026 Summer Engineer Intern](https://jobright.ai/jobs/info/68ddaed044d32141e0bfa2be?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Mar 22 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Mechanical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/691a958215b4156367188f91?utm_campaign=1048&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 22 |
+| ↳ | **[Electromechanical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/691accf515b415636718abe5?utm_campaign=1048&utm_source=git)** | Blairsville, PA | On Site | Mar 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (Compute Platform - Database Acceleration)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68cefa1dfb49c96ca6ea4a0c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| ↳ | **[Machine Learning Engineer Intern (Monetization GenAI) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69aa820e1f59c56275e35f97?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Planning Intern](https://jobright.ai/jobs/info/6987081d0f6f7e7a2ce24262?utm_campaign=1048&utm_source=git)** | Taylor, TX | On Site | Mar 22 |
+| ↳ | **[Transportation Planning Intern](https://jobright.ai/jobs/info/69b3911ead360c0340a8b45f?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Metallurgical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68f80624ec6dbe7073fd0683?utm_campaign=1048&utm_source=git)** | Ogden, UT | On Site | Mar 22 |
+| **[HDR](http://www.hdrinc.com)** | **[Roadway Intern](https://jobright.ai/jobs/info/698814770f6f7e7a2ce34540?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Mar 22 |
+| ↳ | **[Civil Engineering Intern/Co-op](https://jobright.ai/jobs/info/698800290f6f7e7a2ce332d7?utm_campaign=1048&utm_source=git)** | Greater Cleveland | On Site | Mar 22 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ENGINEER INDUSTRIAL SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69316b5a3b6d6f265f4e84f2?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 22 |
+| **[AltaLink](http://altalink.ca)** | **[Transmission Lines Engineer](https://jobright.ai/jobs/info/69bfbc507798f73e35e498c7?utm_campaign=1048&utm_source=git)** | Calgary, AB | On Site | Mar 22 |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Security for AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a921922580d3183f015678?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Health and Safety Intern](https://jobright.ai/jobs/info/698653548da7a612046107c0?utm_campaign=1048&utm_source=git)** | North Kingstown, RI | On Site | Mar 22 |
+| **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Antenna Measurement Intern](https://jobright.ai/jobs/info/698650218da7a61204610385?utm_campaign=1048&utm_source=git)** | Cedar Park, TX | On Site | Mar 22 |
+| ↳ | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/698658a08ca8121a3a688faf?utm_campaign=1048&utm_source=git)** | Cedar Park, TX | On Site | Mar 22 |
+| ↳ | **[BIM/Revit Modeler Intern](https://jobright.ai/jobs/info/6986605a8ca8121a3a689d21?utm_campaign=1048&utm_source=git)** | Wood Dale, IL | On Site | Mar 22 |
+| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69a6811cd706a731db387016?utm_campaign=1048&utm_source=git)** | Cedar Park, TX | On Site | Mar 22 |
+| **[HDR](http://www.hdrinc.com)** | **[SPS Engineering Intern](https://jobright.ai/jobs/info/69bfb8157798f73e35e49404?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Mar 22 |
+| **[American Water](http://amwater.com)** | **[Water Quality & Environmental Compliance Intern](https://jobright.ai/jobs/info/696af278350cf43803122d88?utm_campaign=1048&utm_source=git)** | Township of Delran, NJ | On Site | Mar 22 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FOREMAN SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317476fa28370be26bad4a?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 22 |
+| ↳ | **[ENGINEERING TECH SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69857f538da7a61204602033?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 22 |
+| ↳ | **[STRUCTURAL/CIVIL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS](https://jobright.ai/jobs/info/69316f2e4c474121999eeda9?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Mar 22 |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - SSEE Systems Specialist (Active Duty Service Members)](https://jobright.ai/jobs/info/6930a5fbef4b48533d14d666?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Mar 22 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Electrical (EIC) Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6986af468ca8121a3a690d4c?utm_campaign=1048&utm_source=git)** | Simsbury, CT | On Site | Mar 22 |
 | **[GHD](http://www.ghd.com)** | **[Construction Engineering Intern](https://jobright.ai/jobs/info/6986086d8ca8121a3a683649?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 22 |
 | ↳ | **[Construction Engineering Intern](https://jobright.ai/jobs/info/6985d63a0f6f7e7a2ce0b88b?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Mar 22 |
@@ -75,7 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Reliability / Maintenance Engineering Intern](https://jobright.ai/jobs/info/698ce44b78b4502f12a35bc1?utm_campaign=1048&utm_source=git)** | Kermit, TX | On Site | Mar 21 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf49f2482822729301d8b0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 21 |
 | **[Lula](https://lula.life/)** | **[Handyman (Atlanta)](https://jobright.ai/jobs/info/69bf4519393a1008f744f628?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Tenure-Track Faculty Position in Environmental Engineering](https://jobright.ai/jobs/info/69bfbc112c312363dcd2831a?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Mar 21 |
 | **[ŌURA](https://ouraring.com/how-it-works)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69ab3c762747003c3d50eadd?utm_campaign=1048&utm_source=git)** | Hybrid - San Diego, California | Hybrid | Mar 21 |
+| **[Barkbus](https://www.barkbus.com)** | **[Materials Engineering Intern](https://jobright.ai/jobs/info/69bfbc922c312363dcd2844b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician I](https://jobright.ai/jobs/info/69bf197e482822729301c2cf?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 | **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[Process Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf197ab106024562846f28?utm_campaign=1048&utm_source=git)** | Germantown, WI | On Site | Mar 21 |
 | **[General Dynamics](https://www.gd.com)** | **[Quality Engineer - Intern](https://jobright.ai/jobs/info/69bf0f0eb106024562846d88?utm_campaign=1048&utm_source=git)** | Marion, VA, US | On Site | Mar 21 |
@@ -102,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafd?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b2bb10602456284658c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a210a2b600907a96285e70?utm_campaign=1048&utm_source=git)** | Maitland, FL | On Site | Mar 21 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Environmental Health & Safety (Orange, VA)](https://jobright.ai/jobs/info/69a32ff60da45516f16c76cf?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Mar 21 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Test and Finish Equipment Engineer](https://jobright.ai/jobs/info/6985f4ea8ca8121a3a682856?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | Mar 21 |
@@ -128,33 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Student Intern](https://jobright.ai/jobs/info/69a22b47b600907a96287802?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Mar 21 |
 | ↳ | **[Architecture Student Intern](https://jobright.ai/jobs/info/69a224e6359fe034b1cd623a?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 21 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[HyperAutomation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bee30348282272930197b8?utm_campaign=1048&utm_source=git)** | Durham, NC | Hybrid | Mar 21 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[ITV Specialist Intern [6 -12 Months]](https://jobright.ai/jobs/info/6986b2658da7a612046198b5?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
-| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Machine Learning Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bee2f3393a1008f744bac1?utm_campaign=1048&utm_source=git)** | Durham, NC | Hybrid | Mar 21 |
-| **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696b01e1350cf43803124170?utm_campaign=1048&utm_source=git)** | El Dorado, AR | On Site | Mar 21 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Safety Intern - Field](https://jobright.ai/jobs/info/6969bd27f25a380066987537?utm_campaign=1048&utm_source=git)** | Manhattan, Kansas, United States | On Site | Mar 21 |
-| **[Arena](https://arena.im)** | **[AI Engineer intern](https://jobright.ai/jobs/info/69bee0e54828227293019746?utm_campaign=1048&utm_source=git)** | Cupertino, CA | On Site | Mar 21 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Engineer - Construction - Summer 2026](https://jobright.ai/jobs/info/69bee0b4393a1008f744ba6f?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 21 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69a221d1b600907a96286e45?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 21 |
-| ↳ | **[Architecture Student Intern](https://jobright.ai/jobs/info/69a221f70da45516f16b6abe?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Machine Learning / AI Intern](https://jobright.ai/jobs/info/69b3afb5a8ac8e70ff67f9d8?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6916f5d29c388539cbe00d42?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Mar 21 |
-| **[Kiewit](http://www.kiewit.com)** | **[Equipment Planner Intern - Kiewit Equipment Services - Western Canada - 2026](https://jobright.ai/jobs/info/69855024348f733a5c399a9c?utm_campaign=1048&utm_source=git)** | Vancouver, BC | On Site | Mar 21 |
-| **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69308d8eef4b48533d14c5b1?utm_campaign=1048&utm_source=git)** | Sanford, FL | On Site | Mar 21 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/698647eb8da7a6120460fa1b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 21 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Tool Design Intern](https://jobright.ai/jobs/info/69a9287e7ac93962b70919de?utm_campaign=1048&utm_source=git)** | Fond du Lac, WI | On Site | Mar 21 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Intern](https://jobright.ai/jobs/info/69bedc4e48282272930195b3?utm_campaign=1048&utm_source=git)** | Glencoe, MN | On Site | Mar 21 |
-| **[Kitsap County](https://www.kitsapgov.com)** | **[Internship - Construction Management - Roads](https://jobright.ai/jobs/info/69bedc3eb106024562844725?utm_campaign=1048&utm_source=git)** | Poulsbo, WA | On Site | Mar 21 |
-| **[Siemens](https://www.siemens.com)** | **[Machine Learning for Electronics Design Automation - Internship](https://jobright.ai/jobs/info/69a22368359fe034b1cd60cc?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Remote | Mar 21 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/69863eb68da7a6120460eef3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 21 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Energy & Sustainability Services Intern](https://jobright.ai/jobs/info/69869c460f6f7e7a2ce1a77c?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Mar 21 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Design/DSP/Verification Intern - PhD Degree](https://jobright.ai/jobs/info/69851721348f733a5c393f17?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
-| **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/69bedbb54828227293019542?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 21 |
-| **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69308fd0fa28370be26b1093?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | Mar 21 |
-| **[England-Thims & Miller, Inc.](http://etminc.com)** | **[Water Utilities Engineer Intern](https://jobright.ai/jobs/info/66d0b394a852b522219c6d08?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
-| **[Horrocks](http://www.horrocksengineers.com)** | **[Survey Technician Intern](https://jobright.ai/jobs/info/69bed7cfb10602456284464a?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Mar 21 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/698e742678b4502f12a54430?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 21 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[RevOps Intern](https://jobright.ai/jobs/info/69bed5e6393a1008f744b476?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Manufacturing Science Process Science](https://jobright.ai/jobs/info/69a318b3b600907a96296f66?utm_campaign=1048&utm_source=git)** | Lexington, MA | Hybrid | Mar 21 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 FitLAB Fitting Internship (Stamford, CT and Greenwich, CT)](https://jobright.ai/jobs/info/69a2579c359fe034b1cd9121?utm_campaign=1048&utm_source=git)** | Connecticut, United States | On Site | Mar 21 |
-| **[Siemens](https://www.siemens.com)** | **[Reasoning on Graph Representations in Engineering Design - Internship](https://jobright.ai/jobs/info/69a23079359fe034b1cd6e36?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
