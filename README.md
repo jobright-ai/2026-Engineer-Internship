@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern System Engineer- PhD, Santa Clara, CA](https://jobright.ai/jobs/info/69a466f80da45516f16d43f5?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 22 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Next-Gen Connectivity & Sensing Research (Summer)](https://jobright.ai/jobs/info/696c22c3db26b618950f765f?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Mar 22 |
+| **[Lonza](http://www.lonza.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/696afa51db26b618950e6de2?utm_campaign=1048&utm_source=git)** | Greenwood, SC | On Site | Mar 22 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/696ab3d3db26b618950df122?utm_campaign=1048&utm_source=git)** | Tyler, TX | On Site | Mar 22 |
+| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/696afb97db26b618950e6fb4?utm_campaign=1048&utm_source=git)** | Krotz Springs, LA | On Site | Mar 22 |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[ICT Summer Intern](https://jobright.ai/jobs/info/68dc6757accfd24b67e5525a?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Mar 22 |
+| **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/693073b24c474121999e5686?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Mar 22 |
+| **[Lonza](http://www.lonza.com)** | **[Quality Intern](https://jobright.ai/jobs/info/696b07c75fc86241853a535a?utm_campaign=1048&utm_source=git)** | Greenwood, SC | On Site | Mar 22 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Site Reliability Engineering Summer Intern](https://jobright.ai/jobs/info/68df094a5ab4977c2e94d0c0?utm_campaign=1048&utm_source=git)** | Triad Area | Hybrid | Mar 22 |
 | **[HARRYSoftware](https://www.linkedin.com/company/143786)** | **[Horticulture Intern](https://jobright.ai/jobs/info/69c025b72c312363dcd2c2b9?utm_campaign=1048&utm_source=git)** | Naples,FL,US | On Site | Mar 22 |
 | **[Arm](http://www.arm.com)** | **[Intern, Cloud AI Software Ecosystem Development](https://jobright.ai/jobs/info/69bcbf9045e08b3dc1f9849e?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Mar 22 |
@@ -89,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Plastics & Materials Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6914f70d9c388539cbdeefa8?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Mar 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69865c0b0f6f7e7a2ce141f4?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 22 |
 | **[Bowman Consulting](https://bowman.com)** | **[Civil Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/698650628da7a612046103d7?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 22 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Design Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/691510b06f36db06ef04b60f?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Mar 22 |
-| ↳ | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69151ece6f36db06ef04bec8?utm_campaign=1048&utm_source=git)** | Hamden, CT | On Site | Mar 22 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69151ece6f36db06ef04bec8?utm_campaign=1048&utm_source=git)** | Hamden, CT | On Site | Mar 22 |
+| ↳ | **[Design Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/691510b06f36db06ef04b60f?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Mar 22 |
 | **[ChampionX](https://www.championx.com)** | **[Supply Chain Engineer Intern](https://jobright.ai/jobs/info/69ae657c7c309707d4af9b73?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Manufacturing Execution Systems (MES) Intern - Summer 2026](https://jobright.ai/jobs/info/69871df18ca8121a3a69ac5c?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[Manufacturing Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/696ab874db26b618950df6e3?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia Bell Labs](https://www.bell-labs.com/prize)** | **[Bell Labs Fiber Optics Intern](https://jobright.ai/jobs/info/693260faa0dde7020e2e6507?utm_campaign=1048&utm_source=git)** | New Providence, NJ | On Site | Mar 22 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Network Engineer Intern](https://jobright.ai/jobs/info/68c2f4fe5001f8077bf5fa91?utm_campaign=1048&utm_source=git)** | Moraine, OH | On Site | Mar 22 |
 | **[A.O. Reed & Co.](https://aoreed.com/)** | **[Pre‑Construction/Construction Intern](https://jobright.ai/jobs/info/69a2a8bf359fe034b1cdfed6?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Mar 22 |
-| **[Nokia Bell Labs](https://www.bell-labs.com/prize)** | **[Bell Labs Optical Access Intl. Intern](https://jobright.ai/jobs/info/69b643af06c1ba00c5481b31?utm_campaign=1048&utm_source=git)** | New Providence, NJ | On Site | Mar 22 |
-| **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/69b3af88a8ac8e70ff67f92c?utm_campaign=1048&utm_source=git)** | Aurora, OH | On Site | Mar 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696adb675fc86241853a0888?utm_campaign=1048&utm_source=git)** | Kingfisher, OK | On Site | Mar 22 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/698670c48da7a61204613973?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Mar 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Analyst](https://jobright.ai/jobs/info/696a263adb26b618950d4f3c?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Mar 22 |
-| **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Reinforcement Learning, Self-Driving](https://jobright.ai/jobs/info/698fff2c0f6f7e7a2cec4871?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Mar 22 |
-| **[W.E. O'Neil Construction](http://www.weoneil.com)** | **[Assistant Project Engineer (Summer Intern)](https://jobright.ai/jobs/info/68a649bc33dd7158bbc9f2a6?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Mar 22 |
-| **[GPLA Structural Engineers and Builders](https://www.gplainc.com/)** | **[Structural Design Intern - GPLA](https://jobright.ai/jobs/info/693417f1f131d96e48469636?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
