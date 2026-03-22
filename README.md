@@ -79,14 +79,14 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69beef61b10602456284500c?utm_campaign=1048&utm_source=git)** | Ettrick, VA | On Site | Mar 21 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Network Operations Control Center](https://jobright.ai/jobs/info/69864af50f6f7e7a2ce12ddd?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | Mar 21 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computing and Artificial Intelligence (CAI) Division Post Master's Intern](https://jobright.ai/jobs/info/693425bd764507023d1bc1ba?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Mar 21 |
-| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafd?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b2bb10602456284658c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b2bb10602456284658c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a210a2b600907a96285e70?utm_campaign=1048&utm_source=git)** | Maitland, FL | On Site | Mar 21 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Environmental Health & Safety (Orange, VA)](https://jobright.ai/jobs/info/69a32ff60da45516f16c76cf?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Mar 21 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Test and Finish Equipment Engineer](https://jobright.ai/jobs/info/6985f4ea8ca8121a3a682856?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | Mar 21 |
