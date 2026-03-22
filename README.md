@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Machine Learning Intern](https://jobright.ai/jobs/info/69b8505b3b74eb1e2c85ee1b?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Benesch](https://www.benesch.com)** | **[Internship - Railroad Construction Engineering](https://jobright.ai/jobs/info/69b069f3dfaeda6ff59a3464?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | **[Matcon Limited](https://www.matconibc.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69bf67c82c312363dcd227de?utm_campaign=1048&utm_source=git)** | Benton Harbor, Michigan | On Site | Mar 21 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69bf67772c312363dcd22767?utm_campaign=1048&utm_source=git)** | Neilburg, SK | On Site | Mar 21 |
@@ -91,11 +92,11 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafd?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b2bb10602456284658c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a210a2b600907a96285e70?utm_campaign=1048&utm_source=git)** | Maitland, FL | On Site | Mar 21 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern D, Environmental Health & Safety (Orange, VA)](https://jobright.ai/jobs/info/69a32ff60da45516f16c76cf?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | Mar 21 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Test and Finish Equipment Engineer](https://jobright.ai/jobs/info/6985f4ea8ca8121a3a682856?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | Mar 21 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Mechanical Engineer Summer Intern](https://jobright.ai/jobs/info/698647eb8da7a6120460fa1b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 21 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Tool Design Intern](https://jobright.ai/jobs/info/69a9287e7ac93962b70919de?utm_campaign=1048&utm_source=git)** | Fond du Lac, WI | On Site | Mar 21 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Intern](https://jobright.ai/jobs/info/69bedc4e48282272930195b3?utm_campaign=1048&utm_source=git)** | Glencoe, MN | On Site | Mar 21 |
-| **[Kitsap County](https://www.kitsapgov.com)** | **[Internship - Construction Management - Roads](https://jobright.ai/jobs/info/69bedc3eb106024562844725?utm_campaign=1048&utm_source=git)** | Poulsbo, WA | On Site | Mar 21 |
+| **[Kitsap County](https://www.kitsapgov.com)** | **[Internship - Construction Management - Roads](https://jobright.ai/jobs/info/69bedc3eb106024562844727?utm_campaign=1048&utm_source=git)** | Poulsbo, WA | On Site | Mar 21 |
 | **[Siemens](https://www.siemens.com)** | **[Machine Learning for Electronics Design Automation - Internship](https://jobright.ai/jobs/info/69a22368359fe034b1cd60cc?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Remote | Mar 21 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/69863eb68da7a6120460eef3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Energy & Sustainability Services Intern](https://jobright.ai/jobs/info/69869c460f6f7e7a2ce1a77c?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Engineering](https://jobright.ai/jobs/info/69becb7e393a1008f744a7c7?utm_campaign=1048&utm_source=git)** | Firebaugh, CA | On Site | Mar 21 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[HEARING INSTRUMENT INTERN, FH - CLINIC-AUDIOLOGY](https://jobright.ai/jobs/info/69becb34393a1008f744a79e?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 21 |
 | ↳ | **[NUCLEAR MEDICINE/PET INTERN, FROEDTERT HOSPITAL](https://jobright.ai/jobs/info/69becb1a4828227293018409?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Mar 21 |
-| **[Motional](https://motional.com)** | **[2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://jobright.ai/jobs/info/69a1cf8a0da45516f16b275d?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
