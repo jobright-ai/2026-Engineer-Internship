@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[CMT Intern](https://jobright.ai/jobs/info/69c012247798f73e35e4cdf5?utm_campaign=1048&utm_source=git)** | Gahanna, OH | On Site | Mar 22 |
+| **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern Safety](https://jobright.ai/jobs/info/69c012077798f73e35e4cdcf?utm_campaign=1048&utm_source=git)** | Petrolia, PA | On Site | Mar 22 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Electrical Engineer Manufacturing Test Intern](https://jobright.ai/jobs/info/69840038348f733a5c37ac6d?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Quality Intern- Summer 2026](https://jobright.ai/jobs/info/69871e660f6f7e7a2ce26255?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[Controls Intern - Summer 2026](https://jobright.ai/jobs/info/696a69905fc8624185395f70?utm_campaign=1048&utm_source=git)** | Alto, MI | On Site | Mar 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6986ae5a8da7a612046192e0?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Mar 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ardurra](https://ardurra.com/)** | **[Southwest Region Intern (AZ, CA, NM, NV)](https://jobright.ai/jobs/info/6916763e286ccf0a1513650a?utm_campaign=1048&utm_source=git)** | Santa Fe, NM | On Site | Mar 22 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c2ca3e63829b0a8a4fcc42?utm_campaign=1048&utm_source=git)** | Langdon, ND | On Site | Mar 22 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Low Voltage Internship](https://jobright.ai/jobs/info/69a220d0b600907a96286d1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 22 |
-| **[Ardurra](https://ardurra.com/)** | **[Southwest Region Intern (AZ, CA, NM, NV)](https://jobright.ai/jobs/info/691653459c388539cbdf9ef4?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
-| **[Slate Auto](https://slate.auto)** | **[Lab Operations Intern](https://jobright.ai/jobs/info/69a40e990da45516f16d18f0?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Mar 22 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship/Co-op, Building Technology (Boston/Waltham)](https://jobright.ai/jobs/info/68df0b055ab4977c2e94d903?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
