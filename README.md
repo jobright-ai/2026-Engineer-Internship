@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bluegrass Sotheby's International Realty](http://bgsir.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69bf2117393a1008f744e5d6?utm_campaign=1048&utm_source=git)** | Lexington, KY | Hybrid | Mar 21 |
+| **[ŌURA](https://ouraring.com/how-it-works)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69ab3c762747003c3d50eadd?utm_campaign=1048&utm_source=git)** | Hybrid - San Diego, California | Hybrid | Mar 21 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician I](https://jobright.ai/jobs/info/69bf197e482822729301c2cf?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 | **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[Process Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf197ab106024562846f28?utm_campaign=1048&utm_source=git)** | Germantown, WI | On Site | Mar 21 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[3D Computer Vision Intern](https://jobright.ai/jobs/info/69bf1785b106024562846ee6?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 21 |
 | **[General Dynamics](https://www.gd.com)** | **[Quality Engineer - Intern](https://jobright.ai/jobs/info/69bf0f0eb106024562846d88?utm_campaign=1048&utm_source=git)** | Marion, VA, US | On Site | Mar 21 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Senior Data Analytics Solutions Architect](https://jobright.ai/jobs/info/69bf0e00482822729301bea9?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Manufacturing Engineer Intern - R10226294](https://jobright.ai/jobs/info/69bb20453b74eb1e2c898d96?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
@@ -84,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69beef61b10602456284500c?utm_campaign=1048&utm_source=git)** | Ettrick, VA | On Site | Mar 21 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Network Operations Control Center](https://jobright.ai/jobs/info/69864af50f6f7e7a2ce12ddd?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | Mar 21 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computing and Artificial Intelligence (CAI) Division Post Master's Intern](https://jobright.ai/jobs/info/693425bd764507023d1bc1ba?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Mar 21 |
-| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc1482822729301b889?utm_campaign=1048&utm_source=git)** | Aston, PA | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf8?utm_campaign=1048&utm_source=git)** | Elkview, WV | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafd?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Mar 21 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b2bb10602456284658c?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Mar 21 |
+| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b28393a1008f744dafb?utm_campaign=1048&utm_source=git)** | Beltsville, MD | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b29393a1008f744dafe?utm_campaign=1048&utm_source=git)** | Coraopolis, PA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0b24393a1008f744daf7?utm_campaign=1048&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
 | ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69bf0bc0482822729301b888?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[Strategic/Systems Engineering Internship - Morris, IL](https://jobright.ai/jobs/info/69698535f25a380066982a4f?utm_campaign=1048&utm_source=git)** | Morris, IL | On Site | Mar 21 |
 | **[Jacobs](http://www.jacobs.com)** | **[Buildings Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698572930f6f7e7a2ce0390c?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 21 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Enterprise Risk Analyst Intern](https://jobright.ai/jobs/info/69bc52875b89c002acf1ccd8?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 21 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68ca248cd4187c55157a668d?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
