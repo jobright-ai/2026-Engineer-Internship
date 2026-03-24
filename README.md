@@ -57,37 +57,41 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DevRev](https://devrev.ai)** | **[Member of Technical Staff Intern](https://jobright.ai/jobs/info/69c24ec92c312363dcd5ec2c?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Mar 24 |
+| **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/690d09f8d046ab6061cf1e49?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | Mar 24 |
+| **[Revvity](https://www.revvity.com/)** | **[AI DevOps Intern](https://jobright.ai/jobs/info/69c246d0c9ad035e829b040a?utm_campaign=1048&utm_source=git)** | Ontario, Canada | On Site | Mar 24 |
 | **[ECS](https://www.ecstech.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b62c4006c1ba00c54804c0?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Mar 24 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Site Reliability Engineer Intern](https://jobright.ai/jobs/info/69c238742c312363dcd5cba7?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 24 |
-| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2369675f7ff1cd810f2e5?utm_campaign=1048&utm_source=git)** | Indiana, United States | On Site | Mar 24 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2369675f7ff1cd810f2e6?utm_campaign=1048&utm_source=git)** | Mississippi, United States | On Site | Mar 24 |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2369675f7ff1cd810f2e6?utm_campaign=1048&utm_source=git)** | Mississippi, United States | On Site | Mar 24 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2369675f7ff1cd810f2e5?utm_campaign=1048&utm_source=git)** | Indiana, United States | On Site | Mar 24 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2369675f7ff1cd810f2e4?utm_campaign=1048&utm_source=git)** | New Jersey, United States | On Site | Mar 24 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb45?utm_campaign=1048&utm_source=git)** | Texas, United States | On Site | Mar 24 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb47?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Mar 24 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb44?utm_campaign=1048&utm_source=git)** | Iowa, United States | On Site | Mar 24 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb48?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | On Site | Mar 24 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb44?utm_campaign=1048&utm_source=git)** | Iowa, United States | On Site | Mar 24 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb45?utm_campaign=1048&utm_source=git)** | Texas, United States | On Site | Mar 24 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb46?utm_campaign=1048&utm_source=git)** | Vermont, United States | On Site | Mar 24 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2368b2c312363dcd5cb47?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Mar 24 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c23525c9ad035e829aeb31?utm_campaign=1048&utm_source=git)** | Washington, United States | On Site | Mar 23 |
 | **[Flex](https://flex.com)** | **[Test Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c230fbc9ad035e829ae9b0?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Mar 23 |
 | **[Agility Robotics](http://agilityrobotics.com/)** | **[R+D Mechanical Engineering Intern](https://jobright.ai/jobs/info/69c22ed0c9ad035e829ae902?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 23 |
+| **[Hamilton Health Sciences](https://www.hamiltonhealthsciences.ca)** | **[Remote Symptom Monitoring Equipment Biomedical Services Intern](https://jobright.ai/jobs/info/69c24b7fc9ad035e829b0d40?utm_campaign=1048&utm_source=git)** | Ontario-Hamilton | Remote | Mar 23 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69b85b3f3b74eb1e2c860fa8?utm_campaign=1048&utm_source=git)** | Allen, TX | Hybrid | Mar 23 |
 | **[EarthWorks Inc.](https://www.earth.works)** | **[Internship](https://jobright.ai/jobs/info/69ba83a85697383741400107?utm_campaign=1048&utm_source=git)** | Alvarado, TX | On Site | Mar 23 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[AI Software Engineer - Internship](https://jobright.ai/jobs/info/69c20bfec9ad035e829aa33a?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Mar 23 |
 | **[Snap-on](http://www.snapon.com)** | **[Manufacturing Mechanical Engineer Intern](https://jobright.ai/jobs/info/69c224ba75f7ff1cd810e9c8?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2230775f7ff1cd810e8d1?utm_campaign=1048&utm_source=git)** | Rhode Island, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2230775f7ff1cd810e8d0?utm_campaign=1048&utm_source=git)** | Illinois, United States | On Site | Mar 23 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4e?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Mar 23 |
-| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4d?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4c?utm_campaign=1048&utm_source=git)** | Connecticut, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4b?utm_campaign=1048&utm_source=git)** | Maine, United States | On Site | Mar 23 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4e?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Mar 23 |
+| ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c22149c9ad035e829adb4d?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c2213bc9ad035e829adb34?utm_campaign=1048&utm_source=git)** | South Carolina, United States | On Site | Mar 23 |
 | **[Field Fastener](https://fieldfastener.com/)** | **[Quality Lab Internship](https://jobright.ai/jobs/info/69c22113c9ad035e829adb29?utm_campaign=1048&utm_source=git)** | Machesney Park, IL | On Site | Mar 23 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c220f42c312363dcd5be54?utm_campaign=1048&utm_source=git)** | Nevada, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c220f32c312363dcd5be44?utm_campaign=1048&utm_source=git)** | Kentucky, United States | On Site | Mar 23 |
 | ↳ | **[Nuclear Systems Engineering Intern](https://jobright.ai/jobs/info/69c220f12c312363dcd5be3d?utm_campaign=1048&utm_source=git)** | Idaho, United States | On Site | Mar 23 |
 | **[NuScale Power](http://www.nuscalepower.com)** | **[Internship - Manufacturing](https://jobright.ai/jobs/info/69bb483f3b74eb1e2c89b84c?utm_campaign=1048&utm_source=git)** | Corvallis, OR | Hybrid | Mar 23 |
-| ↳ | **[Internship - Manufacturing](https://jobright.ai/jobs/info/69bb270a3b74eb1e2c899613?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Mar 23 |
 | ↳ | **[Internship - Manufacturing](https://jobright.ai/jobs/info/69bb483f3b74eb1e2c89b84a?utm_campaign=1048&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Mar 23 |
+| ↳ | **[Internship - Manufacturing](https://jobright.ai/jobs/info/69bb270a3b74eb1e2c899613?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | Mar 23 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Infrastructure](https://jobright.ai/jobs/info/69bc60f64828227293fe21f4?utm_campaign=1048&utm_source=git)** | Issaquah, WA | On Site | Mar 23 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round - Hydrodynamic Energy Systems, Hybrid](https://jobright.ai/jobs/info/69c21958c9ad035e829aca36?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 23 |
 | **[GALLO](http://www.gallocareers.com)** | **[Winemaking & Spirits Distillation Internship 2026 July - December](https://jobright.ai/jobs/info/6968d39df25a380066976211?utm_campaign=1048&utm_source=git)** | Healdsburg, CA | On Site | Mar 23 |
@@ -110,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[William Charles Construction Company, LLC,  a MasTec Company](https://www.williamcharlesconstruction.com/)** | **[Intern - Field Engineer](https://jobright.ai/jobs/info/69c208aac9ad035e829a788c?utm_campaign=1048&utm_source=git)** | Greater Indianapolis | On Site | Mar 23 |
 | **[PCL Construction](http://www.pcl.com)** | **[Engineering/Technical Student](https://jobright.ai/jobs/info/69c2075f2c312363dcd55b1a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 23 |
 | **[Jacobs](http://www.jacobs.com)** | **[Transportation/ Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c2074a2c312363dcd55aed?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69c2072f2c312363dcd55ad9?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Mar 23 |
-| ↳ | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69c2072d2c312363dcd55ad2?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Mar 23 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69c2072d2c312363dcd55ad2?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Laboratory Intern](https://jobright.ai/jobs/info/69a8d62c7ac93962b708afbd?utm_campaign=1048&utm_source=git)** | Haworth, NJ | On Site | Mar 23 |
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - H&H](https://jobright.ai/jobs/info/69c206ba2c312363dcd55a25?utm_campaign=1048&utm_source=git)** | Katy, TX | On Site | Mar 23 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Intern HVAC Mechanic (Paid)](https://jobright.ai/jobs/info/69c205b6c9ad035e829a74a0?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Aurora](https://www.auroragov.org/)** | **[Aurora Water Construction Intern](https://jobright.ai/jobs/info/69c1e3cd79e36d3a847ef26d?utm_campaign=1048&utm_source=git)** | Aurora, CO | On Site | Mar 23 |
 | **[Burgess & Niple](http://burgessniple.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69c1f3fd2c312363dcd5364a?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Mar 23 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Summer Researcher-25863](https://jobright.ai/jobs/info/69c1f3c779e36d3a847f0d69?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Genentech Manufacturing Engineer](https://jobright.ai/jobs/info/69c1f3c479e36d3a847f0d64?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Mar 23 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Electrical Engineer Internship - Morristown, TN](https://jobright.ai/jobs/info/69c1f39b75f7ff1cd8105a40?utm_campaign=1048&utm_source=git)** | Morristown, TN | On Site | Mar 23 |
-| **[Extreme Networks](http://www.extremenetworks.com)** | **[Summer Intern (Hardware Engineering)](https://jobright.ai/jobs/info/69c1f35b2c312363dcd53385?utm_campaign=1048&utm_source=git)** | Salem, NH | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
