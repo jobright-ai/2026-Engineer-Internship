@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palmer Hamilton, LLC](http://www.palmerhamilton.com/)** | **[Engineering Intern - CAD & Manufacturing Support](https://jobright.ai/jobs/info/69c374ec753c101b21574043?utm_campaign=1048&utm_source=git)** | Elkhorn, WI | On Site | Mar 24 |
+| **[SFS USA | Construction](https://us.sfs.com)** | **[2026 Summer Internship Program (Vocational Trainee)](https://jobright.ai/jobs/info/69c374c1753c101b21574012?utm_campaign=1048&utm_source=git)** | Medina, OH, US | On Site | Mar 24 |
+| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (Machine Learning)_Bilingual Mandarin](https://jobright.ai/jobs/info/69c36ef3753c101b21573415?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 24 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Turbomachinery Operations](https://jobright.ai/jobs/info/696b8f7b350cf4380312e8d0?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 24 |
+| **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69c36ec2753c101b215733ec?utm_campaign=1048&utm_source=git)** | Clovis, NM | On Site | Mar 24 |
+| **[TDA Research, Inc.](http://tda.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69c36d4394007a2195dfe1a6?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Mar 24 |
+| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Photonics and Thermal Research Intern](https://jobright.ai/jobs/info/69c36aab753c101b2157313d?utm_campaign=1048&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 24 |
 | **[UNCOMN](https://uncomn.com/)** | **[Summer 26 Intern - Cyber Analyst (Closing EOB 3/30)](https://jobright.ai/jobs/info/69c366507a7a0045db891db7?utm_campaign=1048&utm_source=git)** | O'Fallon, IL | On Site | Mar 24 |
 | **[City of Tulsa](https://www.cityoftulsa.org/)** | **[INTERNAL LISTING: CONSTRUCTION INSPECTOR APPRENTICE (PROGRESSION)](https://jobright.ai/jobs/info/69c3660394007a2195dfd49c?utm_campaign=1048&utm_source=git)** | Jackson, MS | On Site | Mar 24 |
 | **[TD](https://www.td.com)** | **[AI Research Intern - 8 months](https://jobright.ai/jobs/info/69c363657a7a0045db891c0b?utm_campaign=1048&utm_source=git)** | Toronto, Ontario | Hybrid | Mar 24 |
@@ -127,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Virginia Tech Chemistry Internship - Summer 2026](https://jobright.ai/jobs/info/69c33c9794007a2195df9201?utm_campaign=1048&utm_source=git)** | North Carolina, United States | On Site | Mar 24 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management-Mechanical Engineer](https://jobright.ai/jobs/info/69bb86f106c1ba00c54dfadc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 24 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Gas Transmission & Distribution Intern](https://jobright.ai/jobs/info/69c33a5a94007a2195df8fdd?utm_campaign=1048&utm_source=git)** | Concord SC | On Site | Mar 24 |
-| **[WGI](https://wginc.com/)** | **[Intern - Civil Summer 2026](https://jobright.ai/jobs/info/69c359ad94007a2195dfaef7?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
+| **[WGI](https://wginc.com/)** | **[Intern - Civil Summer 2026](https://jobright.ai/jobs/info/69c3592a7a7a0045db88f718?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Intern – Model Scaling Foundations (PhD)](https://jobright.ai/jobs/info/69c339f0753c101b2156de49?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 24 |
 | **[Aviation Technical Services](http://atsmro.com)** | **[Repair Engineer Intern](https://jobright.ai/jobs/info/69c339d594007a2195df8ed0?utm_campaign=1048&utm_source=git)** | PAE, 3121 109th St SW, Everett, Washington, United States of America | On Site | Mar 24 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor Military SkillBridge Internship / Material Specialist Intern (Odessa, TX)](https://jobright.ai/jobs/info/69c33910097a024c43d93950?utm_campaign=1048&utm_source=git)** | Odessa, Texas, United States | On Site | Mar 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Structural Bridge Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c331fb94007a2195df857a?utm_campaign=1048&utm_source=git)** | Champaign, IL | Hybrid | Mar 24 |
 | ↳ | **[Structural Bridge Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c331e2753c101b2156d979?utm_campaign=1048&utm_source=git)** | Lisle, IL | Hybrid | Mar 24 |
 | **[Lennar](http://lennar.com)** | **[Construction Intern](https://jobright.ai/jobs/info/69c331c7ec22f8310ab16ff9?utm_campaign=1048&utm_source=git)** | Plymouth, MN | On Site | Mar 24 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/69c3318b753c101b2156d8a9?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
-| ↳ | **[Tunnel Engineer Intern](https://jobright.ai/jobs/info/69c33173753c101b2156d86d?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Mar 24 |
-| **[Tri Pointe Homes](https://www.tripointehomes.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/69c3313094007a2195df833d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 24 |
-| **[William Charles Construction Company, LLC,  a MasTec Company](https://www.williamcharlesconstruction.com/)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/69c330f6ec22f8310ab16da5?utm_campaign=1048&utm_source=git)** | Clinton, IN | On Site | Mar 24 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Test Delivery Lead (Remote in USA)](https://jobright.ai/jobs/info/69c330dcec22f8310ab16cc7?utm_campaign=1048&utm_source=git)** | Texas, United States | Remote | Mar 24 |
-| **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - DevOps Engineer](https://jobright.ai/jobs/info/69c32eca94007a2195df7a90?utm_campaign=1048&utm_source=git)** | Chicago | On Site | Mar 24 |
-| **[Agility Robotics](http://agilityrobotics.com/)** | **[Robotics Software Engineering Intern](https://jobright.ai/jobs/info/69c32ec994007a2195df7a8e?utm_campaign=1048&utm_source=git)** | Onsite- Pittsburgh, PA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
