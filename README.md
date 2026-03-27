@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams County](https://www.williamscountyoh.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c6378d1b5ad02887380146?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Mar 27 |
+| **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69c636ade565c26a7001bcfb?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Mar 27 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69c63297e565c26a7001ba30?utm_campaign=1048&utm_source=git)** | Tisdale, SK | On Site | Mar 27 |
+| ↳ | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69c6328e1818a24cd84c160f?utm_campaign=1048&utm_source=git)** | Carberry, MB | On Site | Mar 27 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Plant Facilities Engineer 1 (40 Hour)(Hybrid)](https://jobright.ai/jobs/info/69c63260e565c26a7001ba23?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
+| **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[2026 Summer Intern - Engineering and Field Op](https://jobright.ai/jobs/info/69c631e2aa3c2c1995e0ae96?utm_campaign=1048&utm_source=git)** | Sahuarita, AZ, US | On Site | Mar 27 |
 | **[Indian River County Board of County Commissioners](https://www.ircgov.com/)** | **[Utilities- Engineering Intern](https://jobright.ai/jobs/info/69c62d6b1818a24cd84c0f2f?utm_campaign=1048&utm_source=git)** | Vero Beach, FL | On Site | Mar 27 |
 | **[Delaware Public Health District](http://www.delawarehealth.org)** | **[Environmental Health Intern - Water Quality](https://jobright.ai/jobs/info/69c62d13aa3c2c1995e0a9cb?utm_campaign=1048&utm_source=git)** | Delaware, OH | On Site | Mar 27 |
 | **[City of Champaign](https://champaignil.gov/)** | **[Planning Intern](https://jobright.ai/jobs/info/69c62d04aa3c2c1995e0a9c3?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Computational Lithography / Patterning Intern(7352)](https://jobright.ai/jobs/info/69c5d6831b5ad0288737a262?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Alberta Innovates](http://albertainnovates.ca)** | **[Technology Analyst, One Health](https://jobright.ai/jobs/info/69c5d67faa3c2c1995e053cc?utm_campaign=1048&utm_source=git)** | Edmonton, AB | Hybrid | Mar 26 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer - Application Engineer Intern (Santa Clara, CA)](https://jobright.ai/jobs/info/69c5d6091b5ad02887379fa1?utm_campaign=1048&utm_source=git)** | Santa Clara,CA | Hybrid | Mar 26 |
-| **[Framatome](http://www.framatome.com)** | **[Intern - Univ/Co-Op Tech](https://jobright.ai/jobs/info/69c5d2dd1b5ad02887379f59?utm_campaign=1048&utm_source=git)** | Pickering, ON | On Site | Mar 26 |
-| **[Stantec](http://www.stantec.com)** | **[Water Resources Designer](https://jobright.ai/jobs/info/69c5d22ce565c26a70015a6a?utm_campaign=1048&utm_source=git)** | Burnaby, BC | On Site | Mar 26 |
-| **[SonoThera](https://sonothera.com)** | **[Protein Analytics Intern](https://jobright.ai/jobs/info/69c5d22783ea553769fd05a3?utm_campaign=1048&utm_source=git)** | South San Francisco | On Site | Mar 26 |
-| ↳ | **[DNA Purification Intern](https://jobright.ai/jobs/info/69c5d22783ea553769fd05a2?utm_campaign=1048&utm_source=git)** | South San Francisco | On Site | Mar 26 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Permit Analyst](https://jobright.ai/jobs/info/69c5d0e31b5ad02887379e4c?utm_campaign=1048&utm_source=git)** | Red Deer, AB | On Site | Mar 26 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Aerospace and Defense, Material Pricing and Product Data](https://jobright.ai/jobs/info/69c5edde83ea553769fd14f2?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
-| **[Noblis](http://www.noblis.org)** | **[Summer 2026 - AI and Data Summer Transportation Internship](https://jobright.ai/jobs/info/69c5cf5aaa3c2c1995e04f02?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Vestas](http://www.vestas.com)** | **[Service Technician Intern- Windom, MN (Mountain Lake, MN, US)](https://jobright.ai/jobs/info/69c631951b5ad0288737fa33?utm_campaign=1048&utm_source=git)** | Mountain Lake, MN | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
