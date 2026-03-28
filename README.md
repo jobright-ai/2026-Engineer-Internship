@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Engineer Intern 2026 - Data Integration](https://jobright.ai/jobs/info/69c72e50e565c26a70026d29?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Mar 27 |
 | **[Canopy Aerospace & Defense](https://www.canopy-ad.com)** | **[Summer Engineer Intern](https://jobright.ai/jobs/info/69c72dc683ea553769fe16ea?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Mar 27 |
 | **[IBM](http://www.ibm.com)** | **[Data Engineer Intern 2026 - Advanced Analytics](https://jobright.ai/jobs/info/69c72da11818a24cd84cc69c?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | Mar 27 |
-| **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Structures Engineer Intern](https://jobright.ai/jobs/info/69c72d5aaa3c2c1995e1618b?utm_campaign=1048&utm_source=git)** | Greater Orlando | On Site | Mar 27 |
-| ↳ | **[Structures Engineer Intern](https://jobright.ai/jobs/info/69c72d5a1818a24cd84cc677?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 27 |
+| **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Structures Engineer Intern](https://jobright.ai/jobs/info/69c72d5a1818a24cd84cc677?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 27 |
+| ↳ | **[Structures Engineer Intern](https://jobright.ai/jobs/info/69c72d5aaa3c2c1995e1618b?utm_campaign=1048&utm_source=git)** | Greater Orlando | On Site | Mar 27 |
 | **[EMCOR Services Mesa Energy](https://www.mesaenergy.com)** | **[Intern - Engineer](https://jobright.ai/jobs/info/69c72c291b5ad0288738ad3d?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Mar 27 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[AI Intern](https://jobright.ai/jobs/info/69c72adcb773006330b76a9e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Remote | Mar 27 |
 | **[Level AI](https://thelevel.ai)** | **[Research Intern – Reinforcement Learning (RL)](https://jobright.ai/jobs/info/69c72adcb773006330b76a9f?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Mar 27 |
