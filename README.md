@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern (Drafting) - Summer 2026](https://jobright.ai/jobs/info/698f9c730cc8ea15f1da3390?utm_campaign=1048&utm_source=git)** | Rocky Mount, VA | On Site | Mar 28 |
+| **[Carson Group](https://www.carsongroup.com/)** | **[Tech Intern](https://jobright.ai/jobs/info/698fbea80f6f7e7a2cec0ae0?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
+| **[First American](http://www.firstam.com)** | **[Intern: Information Security- Governance and Risk](https://jobright.ai/jobs/info/69ab4e4e2747003c3d50fcf9?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
+| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
+| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698f95b20f6f7e7a2cebd992?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 28 |
 | **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/698fd5c50cc8ea15f1da6f2f?utm_campaign=1048&utm_source=git)** | McAllen, TX | On Site | Mar 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Engineering Intern/Co-Op (Massillon, OH)](https://jobright.ai/jobs/info/68f875de6de2db04dc3df5b9?utm_campaign=1048&utm_source=git)** | Massillon, OH | On Site | Mar 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, Research & Development (R&D)](https://jobright.ai/jobs/info/69c817431b5ad02887391ea4?utm_campaign=1048&utm_source=git)** | Medford, OR | On Site | Mar 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McElhanney](https://www.mcelhanney.com)** | **[Civil Engineering Internship - 2025/26](https://jobright.ai/jobs/info/6939924fac80bb5492bc19ec?utm_campaign=1048&utm_source=git)** | British Columbia, Canada | On Site | Mar 28 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Engineering - Civil Engineering Internship](https://jobright.ai/jobs/info/68f823dbb0edcf159dc8edb3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Engineering - Civil Engineering Internship](https://jobright.ai/jobs/info/688b353e3a30793eb9639108?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
-| **[BW Papersystems](http://www.bwpapersystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69c16a972c312363dcd43cc0?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Mar 28 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Civil/Environmental Engineering Intern](https://jobright.ai/jobs/info/69ab6eb0142d5b4265fca4cc?utm_campaign=1048&utm_source=git)** | Greater Sacramento | On Site | Mar 28 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ab73f77e1fab39d382f805?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Mar 28 |
-| **[Boston Dynamics](http://bostondynamics.com)** | **[Product Quality Engineer Co-Op](https://jobright.ai/jobs/info/698e6515f64d441a16509995?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Mar 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e7bb478b4502f12a550e7?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Mar 28 |
-| ↳ | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e76a10f6f7e7a2cea8e08?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
