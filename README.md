@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c52b33eecf3107952b7c?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Jabil](https://www.jabil.com)** | **[Mechanical Design Engineer/Architect for HVAC Systems](https://jobright.ai/jobs/info/69c88b7bb773006330b7fb21?utm_campaign=1048&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c883a3aa3c2c1995e1ef61?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
-| **[Advaisori](https://www.advaisori.com)** | **[AI Agents/Automation Intern](https://jobright.ai/jobs/info/69c87da2aa3c2c1995e1edcd?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Remote | Mar 28 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[3D/AI Computer Vision Intern](https://jobright.ai/jobs/info/69c87c4c1818a24cd84d5184?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 28 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c868301818a24cd84d4b79?utm_campaign=1048&utm_source=git)** | CO - Denver | Hybrid | Mar 28 |
