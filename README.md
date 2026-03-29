@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Provider Network Operations](https://jobright.ai/jobs/info/69c996a7e565c26a70037cc4?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Mar 29 |
+| **[Indian River County Board of County Commissioners](https://www.ircgov.com/)** | **[Utilities- Engineering Intern](https://jobright.ai/jobs/info/69c99335e565c26a700378fa?utm_campaign=1048&utm_source=git)** | Vero Beach, FL | On Site | Mar 29 |
+| **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Research Assistant Intern (Arctic)](https://jobright.ai/jobs/info/69c985ffb773006330b85b3c?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | Mar 29 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[Artificial Intelligence Engineer Intern](https://jobright.ai/jobs/info/69c984491818a24cd84db514?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69c9838083ea553769ff0487?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Mar 29 |
 | **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-op Fall 2026](https://jobright.ai/jobs/info/69c97e671818a24cd84db3ec?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Mar 29 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Unpaid Research Intern - School Credit Only](https://jobright.ai/jobs/info/698f992d0cc8ea15f1da2fe8?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Software Engineering Intern - Simulation Core (Master's)](https://jobright.ai/jobs/info/69c4c5886f4f855eeda76a06?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 29 |
 | ↳ | **[2026 Summer Intern – AI/ML Engineer, Cloud and Developer Infrastructure (Master's)](https://jobright.ai/jobs/info/69883dc88da7a61204635ed5?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Mar 29 |
 | **[Cisco](http://www.cisco.com)** | **[Support Engineer I (Intern) - United States](https://jobright.ai/jobs/info/699085320f6f7e7a2cecf9d1?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Mar 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6409758f2e4ac3fff66d?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Mar 29 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Bridge Engineering Intern](https://jobright.ai/jobs/info/6974263b206da320f49e4884?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
