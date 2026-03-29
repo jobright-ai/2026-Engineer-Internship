@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | **[GenBio AI](https://genbio.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/69794c3188e2b47213bd83b9?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Mar 28 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69b1d3cf548f140066e7b8bf?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c34c6f4f855eeda767fe?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Mar 28 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Robotics Software Engineer](https://jobright.ai/jobs/info/69a5ffa9359fe034b1d0c64c?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
-| ↳ | **[Intern, Mechatronics Engineer](https://jobright.ai/jobs/info/699e7ac0e0bddb6acace1dd1?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Mechatronics Engineer](https://jobright.ai/jobs/info/699e7ac0e0bddb6acace1dd1?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
+| ↳ | **[Intern, Robotics Software Engineer](https://jobright.ai/jobs/info/69a5ffa9359fe034b1d0c64c?utm_campaign=1048&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c52b33eecf3107952b7c?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Jabil](https://www.jabil.com)** | **[Mechanical Design Engineer/Architect for HVAC Systems](https://jobright.ai/jobs/info/69c88b7bb773006330b7fb21?utm_campaign=1048&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c883a3aa3c2c1995e1ef61?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
