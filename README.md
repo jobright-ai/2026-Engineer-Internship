@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c868301818a24cd84d4b79?utm_campaign=1048&utm_source=git)** | CO - Denver | Hybrid | Mar 28 |
+| **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Missile Defense Project (Summer 2026)](https://jobright.ai/jobs/info/69c85548b773006330b7ec8c?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c8541ce565c26a7002ec56?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Mar 28 |
 | ↳ | **[GIS Implementation Intern](https://jobright.ai/jobs/info/69c8541ae565c26a7002ec3e?utm_campaign=1048&utm_source=git)** | Richfield, OH | Hybrid | Mar 28 |
 | **[University of Tennessee-Oak Ridge Innovation Institute](www.utorii.com)** | **[INDUSTRIAL ENGINEERING – RESEARCH ASSISTANT/ASSOCIATE/FULL PROFESSOR (RESEARCH FACULTY AT UTK)](https://jobright.ai/jobs/info/69c8541983ea553769fe9622?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Mar 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69c85417e565c26a7002ec1c?utm_campaign=1048&utm_source=git)** | Spring Valley, NY | On Site | Mar 28 |
+| **[HireBuddy](https://www.hirebuddy.ai)** | **[Software & AI Engineer (Summer Intern)](https://jobright.ai/jobs/info/69c86a9ce565c26a7002f2f2?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c83dab1b5ad0288739271f?utm_campaign=1048&utm_source=git)** | Lincoln, NE, United States | On Site | Mar 28 |
 | **[CRB](https://www.crbgroup.com/)** | **[Technical Advancement Group Intern - MEP](https://jobright.ai/jobs/info/69c8377483ea553769fe8ef3?utm_campaign=1048&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, New product development - Engineering processes project management (Summer 2026)](https://jobright.ai/jobs/info/697282f4584a1c1ef6fd7e88?utm_campaign=1048&utm_source=git)** | Mississauga, ON | Hybrid | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shermco Industries](http://www.shermco.com)** | **[Electrical Engineer - Power Studies, Associate Intern](https://jobright.ai/jobs/info/69b3b048ad360c0340a8dbac?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Internship – AI and Machine Learning](https://jobright.ai/jobs/info/69ab37ea7e1fab39d382d02f?utm_campaign=1048&utm_source=git)** | Saxonburg, PA | On Site | Mar 28 |
 | **[CommScope](http://www.commscope.com)** | **[Intern-Field Application Engineering](https://jobright.ai/jobs/info/698e7d23f64d441a1650c45e?utm_campaign=1048&utm_source=git)** | Catawba, NC | On Site | Mar 28 |
-| **[Amazon](https://amazon.com)** | **[Automation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69900cb16ea51a7610f27932?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 28 |
-| **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Land Development](https://jobright.ai/jobs/info/68af93f22daaba398441f3d9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 28 |
-| **[Bowman Consulting](https://bowman.com)** | **[Survey Field Crew Intern](https://jobright.ai/jobs/info/698f87760f6f7e7a2cebc7f1?utm_campaign=1048&utm_source=git)** | Williston, VT | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
