@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenBio AI](https://genbio.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/69794c3188e2b47213bd83b9?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Mar 28 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69b1d3cf548f140066e7b8bf?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c34c6f4f855eeda767fe?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Mar 28 |
 | ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c52b33eecf3107952b7c?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e829978b4502f12a559a7?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Mar 28 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/698f3fe86ea51a7610f183ea?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb8f0f64d441a1651078c?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Mar 28 |
-| **[Cementation Americas](http://cementation.com)** | **[Cementation USA Internship – Mining/Electrical/Civil/Structural/Mechanical/Estimator/Accounting/Safety](https://jobright.ai/jobs/info/69ab9b8a2747003c3d5124b5?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
