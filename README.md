@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c52b33eecf3107952b7c?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
+| **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69b1d3cf548f140066e7b8bf?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
+| ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c34c6f4f855eeda767fe?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Mar 28 |
+| ↳ | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/69c4c52b33eecf3107952b7c?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Jabil](https://www.jabil.com)** | **[Mechanical Design Engineer/Architect for HVAC Systems](https://jobright.ai/jobs/info/69c88b7bb773006330b7fb21?utm_campaign=1048&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c883a3aa3c2c1995e1ef61?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[3D/AI Computer Vision Intern](https://jobright.ai/jobs/info/69c87c4c1818a24cd84d5184?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 28 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c868301818a24cd84d4b79?utm_campaign=1048&utm_source=git)** | CO - Denver | Hybrid | Mar 28 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/698f3fe86ea51a7610f183ea?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Mar 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb8f0f64d441a1651078c?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Mar 28 |
 | **[Cementation Americas](http://cementation.com)** | **[Cementation USA Internship – Mining/Electrical/Civil/Structural/Mechanical/Estimator/Accounting/Safety](https://jobright.ai/jobs/info/69ab9b8a2747003c3d5124b5?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Mar 28 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, ML Platform (Internship)](https://jobright.ai/jobs/info/699036970f6f7e7a2ceca71b?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
