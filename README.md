@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[3D/AI Computer Vision Intern](https://jobright.ai/jobs/info/69c87c4c1818a24cd84d5184?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 28 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Mar 28 |
+| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Internship, 5G and 6G](https://jobright.ai/jobs/info/69c86d68b773006330b7f350?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c868301818a24cd84d4b79?utm_campaign=1048&utm_source=git)** | CO - Denver | Hybrid | Mar 28 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Missile Defense Project (Summer 2026)](https://jobright.ai/jobs/info/69c85548b773006330b7ec8c?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb6700f6f7e7a2cead916?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Mar 28 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69a3b656359fe034b1ceac03?utm_campaign=1048&utm_source=git)** | East Farmingdale, NY | On Site | Mar 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e7f900f6f7e7a2cea9bbd?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
-| **[Shermco Industries](http://www.shermco.com)** | **[Electrical Engineer - Power Studies, Associate Intern](https://jobright.ai/jobs/info/69b3b048ad360c0340a8dbac?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Mar 28 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Internship – AI and Machine Learning](https://jobright.ai/jobs/info/69ab37ea7e1fab39d382d02f?utm_campaign=1048&utm_source=git)** | Saxonburg, PA | On Site | Mar 28 |
-| **[CommScope](http://www.commscope.com)** | **[Intern-Field Application Engineering](https://jobright.ai/jobs/info/698e7d23f64d441a1650c45e?utm_campaign=1048&utm_source=git)** | Catawba, NC | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
