@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Research Assistant Intern (Arctic)](https://jobright.ai/jobs/info/69c985ffb773006330b85b3c?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | Mar 29 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Artificial Intelligence Engineer Intern](https://jobright.ai/jobs/info/69c984491818a24cd84db514?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69c9838083ea553769ff0487?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Mar 29 |
+| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering Co-op Fall 2026](https://jobright.ai/jobs/info/69c97e671818a24cd84db3ec?utm_campaign=1048&utm_source=git)** | Sandusky, OH | On Site | Mar 29 |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Unpaid Research Intern - School Credit Only](https://jobright.ai/jobs/info/698f992d0cc8ea15f1da2fe8?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
+| **[RRD](http://www.rrd.com)** | **[IT Database Administrator Summer Intern](https://jobright.ai/jobs/info/69c97d9d1b5ad02887399981?utm_campaign=1048&utm_source=git)** | Warrenville, IL | Hybrid | Mar 29 |
 | **[iTrip®](https://www.itrip.net/)** | **[Property Inspector Intern](https://jobright.ai/jobs/info/69c97acdb773006330b85999?utm_campaign=1048&utm_source=git)** | Annapolis, MD | On Site | Mar 29 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9794baa3c2c1995e24bb7?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | On Site | Mar 29 |
 | ↳ | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9793c1818a24cd84db38a?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Support Engineer I (Intern) - United States](https://jobright.ai/jobs/info/699085320f6f7e7a2cecf9d1?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Mar 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6409758f2e4ac3fff66d?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | Mar 29 |
 | **[Mark Thomas](https://www.markthomas.com)** | **[Bridge Engineering Intern](https://jobright.ai/jobs/info/6974263b206da320f49e4884?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 29 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Software Engineer (PhD)](https://jobright.ai/jobs/info/6978414588e2b47213bc4e9e?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 29 |
-| ↳ | **[2026 Summer Intern – Machine Learning Systems Engineer – Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/69915e8c0f6f7e7a2cedb015?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Mar 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd0c0c1ad6b16f02893fb7?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Mar 29 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/699048bf0cc8ea15f1db0de2?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698faa7b0f6f7e7a2cebf71a?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 29 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Astrodynamics Intern](https://jobright.ai/jobs/info/69ac92b4142d5b4265fdd560?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
