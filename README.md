@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ascend Cargo Systems](https://ascendcargo.com/)** | **[Automated Test Engineer – Intern (Summer 2026)](https://jobright.ai/jobs/info/69c851afb773006330b7ebe4?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | Mar 28 |
-| **[HireBuddy](https://www.hirebuddy.ai)** | **[Software & AI Engineer (Summer Intern)](https://jobright.ai/jobs/info/69c843a8e565c26a7002e51c?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 28 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Missile Defense Project (Summer 2026)](https://jobright.ai/jobs/info/69c85548b773006330b7ec8c?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c8541ce565c26a7002ec56?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Mar 28 |
+| ↳ | **[GIS Implementation Intern](https://jobright.ai/jobs/info/69c8541ae565c26a7002ec3e?utm_campaign=1048&utm_source=git)** | Richfield, OH | Hybrid | Mar 28 |
+| **[University of Tennessee-Oak Ridge Innovation Institute](www.utorii.com)** | **[INDUSTRIAL ENGINEERING – RESEARCH ASSISTANT/ASSOCIATE/FULL PROFESSOR (RESEARCH FACULTY AT UTK)](https://jobright.ai/jobs/info/69c8541983ea553769fe9622?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Mar 28 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69c85417e565c26a7002ec1c?utm_campaign=1048&utm_source=git)** | Spring Valley, NY | On Site | Mar 28 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c83dab1b5ad0288739271f?utm_campaign=1048&utm_source=git)** | Lincoln, NE, United States | On Site | Mar 28 |
 | **[CRB](https://www.crbgroup.com/)** | **[Technical Advancement Group Intern - MEP](https://jobright.ai/jobs/info/69c8377483ea553769fe8ef3?utm_campaign=1048&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, New product development - Engineering processes project management (Summer 2026)](https://jobright.ai/jobs/info/697282f4584a1c1ef6fd7e88?utm_campaign=1048&utm_source=git)** | Mississauga, ON | Hybrid | Mar 28 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Carson Group](https://www.carsongroup.com/)** | **[Tech Intern](https://jobright.ai/jobs/info/698fbea80f6f7e7a2cec0ae0?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
 | **[First American](http://www.firstam.com)** | **[Intern: Information Security- Governance and Risk](https://jobright.ai/jobs/info/69ab4e4e2747003c3d50fcf9?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
 | **[Malin Space Science Systems Inc](https://msss.com/)** | **[Engineering Intern (Electrical)](https://jobright.ai/jobs/info/69c83e66e565c26a7002e4ce?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 28 |
-| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
-| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
+| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
+| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698f95b20f6f7e7a2cebd992?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 28 |
 | **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/698fd5c50cc8ea15f1da6f2f?utm_campaign=1048&utm_source=git)** | McAllen, TX | On Site | Mar 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Engineering Intern/Co-Op (Massillon, OH)](https://jobright.ai/jobs/info/68f875de6de2db04dc3df5b9?utm_campaign=1048&utm_source=git)** | Massillon, OH | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Automation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69900cb16ea51a7610f27932?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Mar 28 |
 | **[LJA](https://www.lja.com/)** | **[Civil Engineering Intern - Land Development](https://jobright.ai/jobs/info/68af93f22daaba398441f3d9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[Bowman Consulting](https://bowman.com)** | **[Survey Field Crew Intern](https://jobright.ai/jobs/info/698f87760f6f7e7a2cebc7f1?utm_campaign=1048&utm_source=git)** | Williston, VT | On Site | Mar 28 |
-| **[Milestone Contractors LP](http://milestonelp.com)** | **[Intern](https://jobright.ai/jobs/info/68c85358f9c6ff7aedf0cfde?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Mar 28 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Clinical Informatics Services Data Engineer Intern](https://jobright.ai/jobs/info/69ab40147e1fab39d382d841?utm_campaign=1048&utm_source=git)** | New Jersey, United States | Hybrid | Mar 28 |
-| **[Amazon](https://amazon.com)** | **[Technical Infra PM Intern, Capacity Delivery Planning](https://jobright.ai/jobs/info/69ab73bb7e1fab39d382f7a9?utm_campaign=1048&utm_source=git)** | Herndon, VA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
