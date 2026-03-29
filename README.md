@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[IT - Enterprise Platforms Admin - Sr ETL Developer](https://jobright.ai/jobs/info/69901d756ea51a7610f2860b?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
+| **[City of Thornton, Colorado](http://www.thorntonco.gov)** | **[Intern I/II/III- Water Quality](https://jobright.ai/jobs/info/69c8edde1818a24cd84d8625?utm_campaign=1048&utm_source=git)** | Thornton, CO | On Site | Mar 29 |
+| **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/698fa8250cc8ea15f1da434a?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI | On Site | Mar 29 |
+| **[Moulton Niguel Water District](https://www.mnwd.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c8eca31818a24cd84d847a?utm_campaign=1048&utm_source=git)** | Laguna Hills, CA | On Site | Mar 29 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69c8e8d41818a24cd84d81e0?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Mar 29 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Grounds Intern](https://jobright.ai/jobs/info/69c8e8c1aa3c2c1995e219dc?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Mar 29 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Mechanical Student Intern (BUF)](https://jobright.ai/jobs/info/69b850bc56973837413d7897?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 29 |
+| **[AVOLTA, Inc.](https://www.avoltacanada.com)** | **[Electronics Student Intern](https://jobright.ai/jobs/info/69c8e151aa3c2c1995e21867?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Technology Services & Operations (TSO)](https://jobright.ai/jobs/info/69c8b79b1b5ad02887394f83?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | Hybrid | Mar 28 |
 | ↳ | **[Intern, Enzymes Metabolic Research](https://jobright.ai/jobs/info/69c8b7971b5ad02887394f82?utm_campaign=1048&utm_source=git)** | San Rafael, CA | Remote | Mar 28 |
 | **[GenBio AI](https://genbio.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/69794c3188e2b47213bd83b9?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Mar 28 |
@@ -96,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Carson Group](https://www.carsongroup.com/)** | **[Tech Intern](https://jobright.ai/jobs/info/698fbea80f6f7e7a2cec0ae0?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
 | **[First American](http://www.firstam.com)** | **[Intern: Information Security- Governance and Risk](https://jobright.ai/jobs/info/69ab4e4e2747003c3d50fcf9?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
 | **[Malin Space Science Systems Inc](https://msss.com/)** | **[Engineering Intern (Electrical)](https://jobright.ai/jobs/info/69c83e66e565c26a7002e4ce?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 28 |
-| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
-| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
+| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
+| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698f95b20f6f7e7a2cebd992?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 28 |
 | **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/698fd5c50cc8ea15f1da6f2f?utm_campaign=1048&utm_source=git)** | McAllen, TX | On Site | Mar 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Engineering Intern/Co-Op (Massillon, OH)](https://jobright.ai/jobs/info/68f875de6de2db04dc3df5b9?utm_campaign=1048&utm_source=git)** | Massillon, OH | On Site | Mar 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c7f331b773006330b7d200?utm_campaign=1048&utm_source=git)** | Marinette, WI | On Site | Mar 28 |
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern (Buildings/ K-12) - Schenectady, NY](https://jobright.ai/jobs/info/69c5edd3aa9a29199e80bbbb?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Amazon](https://amazon.com)** | **[Automation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/699009cb6ea51a7610f27715?utm_campaign=1048&utm_source=git)** | Newark, CA | On Site | Mar 28 |
-| **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/6973174e694e99351d147110?utm_campaign=1048&utm_source=git)** | Lone Tree, CO | On Site | Mar 28 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69561c02aa05c26e7ab05c5e?utm_campaign=1048&utm_source=git)** | Mineral Wells, TX | On Site | Mar 28 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Intern, Water](https://jobright.ai/jobs/info/69ab6487142d5b4265fc9b99?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e855878b4502f12a55c6c?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Industrial Engineering, Summer 2026](https://jobright.ai/jobs/info/698ff26e0cc8ea15f1da8a4a?utm_campaign=1048&utm_source=git)** | Casa Grande, AZ | On Site | Mar 28 |
-| **[Amazon](https://amazon.com)** | **[Automation Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69900bd60cc8ea15f1dab402?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ec3c9f64d441a16511483?utm_campaign=1048&utm_source=git)** | Owensboro, KY | On Site | Mar 28 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[AWS BI & Data Platform Administrator](https://jobright.ai/jobs/info/694789957d506e3808f2cae9?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
