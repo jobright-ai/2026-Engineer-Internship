@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jabil](https://www.jabil.com)** | **[Mechanical Design Engineer/Architect for HVAC Systems](https://jobright.ai/jobs/info/69c88b7bb773006330b7fb21?utm_campaign=1048&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 28 |
+| **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c883a3aa3c2c1995e1ef61?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Mar 28 |
+| **[Advaisori](https://www.advaisori.com)** | **[AI Agents/Automation Intern](https://jobright.ai/jobs/info/69c87da2aa3c2c1995e1edcd?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Remote | Mar 28 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[3D/AI Computer Vision Intern](https://jobright.ai/jobs/info/69c87c4c1818a24cd84d5184?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Mar 28 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Mar 28 |
-| **[InnoMountain](https://www.innomountain-inc.com/)** | **[System and Hardware Engineering Internship, 5G and 6G](https://jobright.ai/jobs/info/69c86d68b773006330b7f350?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Zayo Group](https://www.zayo.com)** | **[Network Automation & AI Engineer Intern - WaaS](https://jobright.ai/jobs/info/69c868301818a24cd84d4b79?utm_campaign=1048&utm_source=git)** | CO - Denver | Hybrid | Mar 28 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Missile Defense Project (Summer 2026)](https://jobright.ai/jobs/info/69c85548b773006330b7ec8c?utm_campaign=1048&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Carson Group](https://www.carsongroup.com/)** | **[Tech Intern](https://jobright.ai/jobs/info/698fbea80f6f7e7a2cec0ae0?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
 | **[First American](http://www.firstam.com)** | **[Intern: Information Security- Governance and Risk](https://jobright.ai/jobs/info/69ab4e4e2747003c3d50fcf9?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
 | **[Malin Space Science Systems Inc](https://msss.com/)** | **[Engineering Intern (Electrical)](https://jobright.ai/jobs/info/69c83e66e565c26a7002e4ce?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 28 |
-| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
-| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
+| **[Munich Re](https://www.munichre.com)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e6ef878b4502f12a53c6a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 28 |
+| ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/698e667778b4502f12a52e68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Mar 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/698f95b20f6f7e7a2cebd992?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Mar 28 |
 | **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/698fd5c50cc8ea15f1da6f2f?utm_campaign=1048&utm_source=git)** | McAllen, TX | On Site | Mar 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Engineering Intern/Co-Op (Massillon, OH)](https://jobright.ai/jobs/info/68f875de6de2db04dc3df5b9?utm_campaign=1048&utm_source=git)** | Massillon, OH | On Site | Mar 28 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, R&D Undergraduate Year Round - Photonic & Phononic Microsystems, Hybrid](https://jobright.ai/jobs/info/69c81101b773006330b7db22?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 28 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69557450aa05c26e7aafca9b?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[Design Engineers MEPFT](https://designengineers.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69c80fde83ea553769fe84cf?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Mar 28 |
+| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Survey - Land Surveying Intern](https://jobright.ai/jobs/info/681ac80f977973946db2fea8?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician II](https://jobright.ai/jobs/info/69c80d3b83ea553769fe8472?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | ↳ | **[Research Coordinator I](https://jobright.ai/jobs/info/69b09de9dfaeda6ff59ad0d5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Process Engineer Intern (Advanced Degree) – Santa Clara, CA](https://jobright.ai/jobs/info/69c808d483ea553769fe7fc6?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb8f0f64d441a1651078c?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Mar 28 |
 | **[Cementation Americas](http://cementation.com)** | **[Cementation USA Internship – Mining/Electrical/Civil/Structural/Mechanical/Estimator/Accounting/Safety](https://jobright.ai/jobs/info/69ab9b8a2747003c3d5124b5?utm_campaign=1048&utm_source=git)** | Sandy, UT | On Site | Mar 28 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, ML Platform (Internship)](https://jobright.ai/jobs/info/699036970f6f7e7a2ceca71b?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb6700f6f7e7a2cead916?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Mar 28 |
-| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69a3b656359fe034b1ceac03?utm_campaign=1048&utm_source=git)** | East Farmingdale, NY | On Site | Mar 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e7f900f6f7e7a2cea9bbd?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
