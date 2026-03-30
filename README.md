@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philo Homes](https://philo.homes/)** | **[Machine Learning Engineer Intern_Mandarin Bilingual](https://jobright.ai/jobs/info/69c9e892b773006330b891c2?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 29 |
+| **[City Of McMinnville](https://www.mcminnvilleoregon.gov)** | **[Wastewater Intern (Laboratory)](https://jobright.ai/jobs/info/69c9e87d1b5ad0288739d10f?utm_campaign=1048&utm_source=git)** | McMinnville, OR | On Site | Mar 29 |
+| **[Odys Aviation](https://www.odysaviation.com)** | **[Systems Engineering and Integration Intern](https://jobright.ai/jobs/info/69c9df1e83ea553769ff3a68?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Mar 29 |
+| **[Jabil](https://www.jabil.com)** | **[Manufacturing Engineer I](https://jobright.ai/jobs/info/69c6c2b41b5ad02887386b9d?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Mar 29 |
 | **[4D Molecular Therapeutics](http://www.4dmoleculartherapeutics.com)** | **[Intern](https://jobright.ai/jobs/info/69c9d812b773006330b89006?utm_campaign=1048&utm_source=git)** | United States | On Site | Mar 29 |
 | **[Federal Office for Defence Procurement armasuisse](https://www.ar.admin.ch/en/home.html)** | **[Internship in the armasuisse Washington D.C. Office](https://jobright.ai/jobs/info/69c3e4d66f4f855eeda631e1?utm_campaign=1048&utm_source=git)** | Washington, United States | On Site | Mar 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/69c9d3071b5ad0288739cd98?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Mar 29 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Freshpet](http://freshpet.com)** | **[Intern - Process Engineering (Production)](https://jobright.ai/jobs/info/698f859f0cc8ea15f1da13b7?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | On Site | Mar 29 |
 | **[CloudHQ, LLC](http://www.cloudhq.com)** | **[Construction Internship (Summer 2026)](https://jobright.ai/jobs/info/6973ffa537785856350de7cb?utm_campaign=1048&utm_source=git)** | Ashburn, VA | On Site | Mar 29 |
 | **[Exactech](http://www.exac.com)** | **[Product Design Engineering Intern](https://jobright.ai/jobs/info/69c946f2aa3c2c1995e24110?utm_campaign=1048&utm_source=git)** | Gainesville, FL | Hybrid | Mar 29 |
-| **[Village of Hanover Park](http://www.hpil.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c94315e565c26a70034c62?utm_campaign=1048&utm_source=git)** | Hanover Park, IL | On Site | Mar 29 |
 | **[Prometric](https://www.prometric.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/698fa34f0cc8ea15f1da3f20?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd2c99e23def7af55b67dd?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Mar 29 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern](https://jobright.ai/jobs/info/697405e1bc8e722e7b18ea52?utm_campaign=1048&utm_source=git)** | Warrendale, PA | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Climate Risk Adaptation Intern](https://jobright.ai/jobs/info/69aa18e32ebd316bece1d3d4?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Aviation Intern](https://jobright.ai/jobs/info/699025e26ea51a7610f2a59a?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Mar 29 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68cbb76dba798c1a501d44b0?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Mar 29 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Project Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/691d3b200b7dff734150120a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Modeling/Drafting - Civil CAD Internship](https://jobright.ai/jobs/info/673d995976c9d1999e9d897b?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/69340dd7764507023d1bba0e?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
