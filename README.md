@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ReFocus AI](https://refocusai.com)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/69c9aa691b5ad0288739c19a?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Transmission Line Engineering Intern](https://jobright.ai/jobs/info/69c9b8a5e565c26a7003843b?utm_campaign=1048&utm_source=git)** | Oakland | Hybrid | Mar 29 |
+| ↳ | **[Transmission Line Engineering Intern](https://jobright.ai/jobs/info/69c9b89a83ea553769ff3180?utm_campaign=1048&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 29 |
+| **[Altera](https://www.altera.com)** | **[GenAI / Machine Learning Intern – Design Automation (AI Agents)](https://jobright.ai/jobs/info/69c9b43d1818a24cd84de0c6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
+| **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/69c9b2ff1818a24cd84de09a?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Mar 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Construction Management](https://jobright.ai/jobs/info/69c9a8881818a24cd84ddb77?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69c9a810aa3c2c1995e273d4?utm_campaign=1048&utm_source=git)** | Hicksville, NY | On Site | Mar 29 |
 | ↳ | **[Arborist Trainee Internship (2026) / Mokena, IL](https://jobright.ai/jobs/info/69c9a7e6b773006330b8821a?utm_campaign=1048&utm_source=git)** | Mokena, IL | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/69340dd7764507023d1bba0e?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Mar 29 |
 | **[Graco](http://graco.com/in/en/)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/69c4c5636f4f855eeda76952?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 29 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Senior Quality Engineer I (24 months fixed-term)](https://jobright.ai/jobs/info/69901c746ea51a7610f28559?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Remote | Mar 29 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/6973a12cbc8e722e7b1868ba?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Mar 29 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6969bc771703f05405abb50a?utm_campaign=1048&utm_source=git)** | Kearney, NE | On Site | Mar 29 |
-| **[Dana Incorporated](https://www.danatm4.com)** | **[Mechanical Intern- Motor](https://jobright.ai/jobs/info/69ac7ec47e1fab39d3840f0e?utm_campaign=1048&utm_source=git)** | Boucherville, QC | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
