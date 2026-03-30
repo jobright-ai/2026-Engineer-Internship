@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69c9ef7983ea553769ff4109?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Mar 29 |
 | **[Philo Homes](https://philo.homes/)** | **[Machine Learning Engineer Intern_Mandarin Bilingual](https://jobright.ai/jobs/info/69c9e892b773006330b891c2?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Mar 29 |
 | **[City Of McMinnville](https://www.mcminnvilleoregon.gov)** | **[Wastewater Intern (Laboratory)](https://jobright.ai/jobs/info/69c9e87d1b5ad0288739d10f?utm_campaign=1048&utm_source=git)** | McMinnville, OR | On Site | Mar 29 |
 | **[Odys Aviation](https://www.odysaviation.com)** | **[Systems Engineering and Integration Intern](https://jobright.ai/jobs/info/69c9df1e83ea553769ff3a68?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Mar 29 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/698fc0ac6ea51a7610f22c51?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Mar 29 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Rotational Homebuilding Intern - Houston Summer 2026](https://jobright.ai/jobs/info/68cb1953efdec76df36b8bce?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Horticulture Internship](https://jobright.ai/jobs/info/69c53fea1b5ad028873714bb?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Mar 29 |
+| **[HARRYSoftware](https://www.linkedin.com/company/143786)** | **[Horticulture Intern](https://jobright.ai/jobs/info/69c9f5531818a24cd84df59d?utm_campaign=1048&utm_source=git)** | Naples,FL,US | On Site | Mar 29 |
 | **[Zipline](https://www.zipline.com/)** | **[Applied Aerodynamics Intern (Summer 2025)](https://jobright.ai/jobs/info/693cc9fa50bbaf76504ffbcd?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - MacAllister Rentals Technician Intern](https://jobright.ai/jobs/info/691fdc5ca49a885af9a34d21?utm_campaign=1048&utm_source=git)** | Byron Center, MI | On Site | Mar 29 |
 | **[Freshpet](http://freshpet.com)** | **[Intern - Process Engineering (Production)](https://jobright.ai/jobs/info/698f859f0cc8ea15f1da13b7?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | On Site | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Hardware Strategy Analyst Intern](https://jobright.ai/jobs/info/696fcd4a82817106e976d7a5?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Mar 29 |
 | **[Zipline](https://www.zipline.com/)** | **[System Validation & Automation Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc60549a7695fbd0381e0?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 | **[Arcadis](http://www.arcadis.com)** | **[Climate Risk Adaptation Intern](https://jobright.ai/jobs/info/69aa18e32ebd316bece1d3d4?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Mar 29 |
-| **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Aviation Intern](https://jobright.ai/jobs/info/699025e26ea51a7610f2a59a?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Mar 29 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/68cbb76dba798c1a501d44b0?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
