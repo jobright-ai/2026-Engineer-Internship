@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReFocus AI](https://refocusai.com)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/69c9aa691b5ad0288739c19a?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Construction Management](https://jobright.ai/jobs/info/69c9a8881818a24cd84ddb77?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 29 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/69c9a810aa3c2c1995e273d4?utm_campaign=1048&utm_source=git)** | Hicksville, NY | On Site | Mar 29 |
+| ↳ | **[Arborist Trainee Internship (2026) / Mokena, IL](https://jobright.ai/jobs/info/69c9a7e6b773006330b8821a?utm_campaign=1048&utm_source=git)** | Mokena, IL | On Site | Mar 29 |
+| ↳ | **[Arborist Trainee Internship (2026) / Long Grove, IL](https://jobright.ai/jobs/info/69c9a7e483ea553769ff2b69?utm_campaign=1048&utm_source=git)** | Lake Zurich, IL | On Site | Mar 29 |
+| ↳ | **[Arborist Trainee Internship / Eden Prairie, MN](https://jobright.ai/jobs/info/69c9a76b1b5ad0288739c171?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Mar 29 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Summer Intern](https://jobright.ai/jobs/info/69441db950bbaf76505619a8?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Mar 29 |
+| **[Providence Equity Partners](http://www.provequity.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69c9a4c4aa3c2c1995e2739c?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 29 |
+| **[University of Tennessee-Oak Ridge Innovation Institute](www.utorii.com)** | **[INDUSTRIAL ENGINEERING – RESEARCH ASSISTANT/ASSOCIATE/FULL PROFESSOR (RESEARCH FACULTY AT UTK)](https://jobright.ai/jobs/info/69c9a4c1aa3c2c1995e27399?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Mar 29 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Development (Renewables)](https://jobright.ai/jobs/info/69c9a3461b5ad0288739c0dd?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
 | ↳ | **[Intern, Project Development (Renewables)](https://jobright.ai/jobs/info/69c9a2a2e565c26a70037df9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9a160e565c26a70037dd4?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
@@ -75,11 +84,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9793c1818a24cd84db38a?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | On Site | Mar 29 |
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Temporary Archival Research Assistant](https://jobright.ai/jobs/info/69c979231b5ad028873997f0?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Mar 29 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information Science and Technology Post-Master's Intern](https://jobright.ai/jobs/info/6902b56c98707b2b0fe722b4?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | Hybrid | Mar 29 |
-| **[Assay Biotech Inc.](http://www.assaybiotechnology.com)** | **[Laboratory Assistant (Intern)](https://jobright.ai/jobs/info/69c97132aa3c2c1995e2484a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69b390c9ad360c0340a8b31d?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Mar 29 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Project Engineering Co-op - Spring 2026 (Riverville Mill)](https://jobright.ai/jobs/info/6906ff9f63502c0aded8411b?utm_campaign=1048&utm_source=git)** | Gladstone, VA | On Site | Mar 29 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/695a163df1f8465b79f06984?utm_campaign=1048&utm_source=git)** | Renton, WA | On Site | Mar 29 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Manufacturing Internship](https://jobright.ai/jobs/info/69c4e4fd6f4f855eeda79df9?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Mar 29 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69c967a1aa3c2c1995e247a6?utm_campaign=1048&utm_source=git)** | Manhattan, KS | On Site | Mar 29 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68ca1103d4187c55157a5da4?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | Mar 29 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/699d2d9bce78e77b4fe21108?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/6973a12cbc8e722e7b1868ba?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Mar 29 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6969bc771703f05405abb50a?utm_campaign=1048&utm_source=git)** | Kearney, NE | On Site | Mar 29 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Mechanical Intern- Motor](https://jobright.ai/jobs/info/69ac7ec47e1fab39d3840f0e?utm_campaign=1048&utm_source=git)** | Boucherville, QC | On Site | Mar 29 |
-| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Intern Food Innovation](https://jobright.ai/jobs/info/69c92ff91b5ad028873987f4?utm_campaign=1048&utm_source=git)** | Westmont, IL, US | On Site | Mar 29 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Heavy Industrial & Mining Intern - Engineer](https://jobright.ai/jobs/info/68b0b5aeb47fb001d6894e15?utm_campaign=1048&utm_source=git)** | Arizona, United States | On Site | Mar 29 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/68cd08531ad6b16f02893478?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Mar 29 |
-| **[Rosendin](https://www.rosendin.com)** | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/698eb25ff64d441a1650f97f?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
-| **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[R&D, Summer Intern (2026) - US/EU](https://jobright.ai/jobs/info/69214b1a00c9ee50eaecd8ba?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
-| **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Industrial Engineer Co-op – Environmental Health & Safety (EHS) Focus](https://jobright.ai/jobs/info/693e2dc449a7695fbd0470c0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
-| **[BW Converting](http://www.bwconverting.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6993fc0781476f6176aba611?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
