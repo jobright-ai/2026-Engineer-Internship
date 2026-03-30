@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ca0ea9e565c26a70039f93?utm_campaign=1048&utm_source=git)** | Waterford, Michigan, United States | On Site | Mar 29 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69ca0a9db773006330b8a29b?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Cybersecurity Intern, Summer 2026](https://jobright.ai/jobs/info/69b1f265d04c69566c748958?utm_campaign=1048&utm_source=git)** | Yarmouth, ME | Hybrid | Mar 29 |
 | **[Scout Space](https://scout.space)** | **[GNC (Guidance, Navigation, and Controls) and Astrodynamics Engineering Intern](https://jobright.ai/jobs/info/692df2334c474121999d49e2?utm_campaign=1048&utm_source=git)** | Reston, VA - Remote | Remote | Mar 29 |
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69c9ef7983ea553769ff4109?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Mechanical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc4bfaa598a08c3ed9753?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 | **[Bowman Consulting](https://bowman.com)** | **[Survey Field Crew Intern (Summer 2026)](https://jobright.ai/jobs/info/691f732209cc522e8774168c?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | Mar 29 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Fire Science Engineer Intern - Applied Technology Services](https://jobright.ai/jobs/info/69c935d5e565c26a7003470e?utm_campaign=1048&utm_source=git)** | Danville, CA | On Site | Mar 29 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[Hardware Strategy Analyst Intern](https://jobright.ai/jobs/info/696fcd4a82817106e976d7a5?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Mar 29 |
-| **[Zipline](https://www.zipline.com/)** | **[System Validation & Automation Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc60549a7695fbd0381e0?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
