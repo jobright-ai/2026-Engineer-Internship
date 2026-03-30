@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[4D Molecular Therapeutics](http://www.4dmoleculartherapeutics.com)** | **[Intern](https://jobright.ai/jobs/info/69c9d812b773006330b89006?utm_campaign=1048&utm_source=git)** | United States | On Site | Mar 29 |
+| **[Federal Office for Defence Procurement armasuisse](https://www.ar.admin.ch/en/home.html)** | **[Internship in the armasuisse Washington D.C. Office](https://jobright.ai/jobs/info/69c3e4d66f4f855eeda631e1?utm_campaign=1048&utm_source=git)** | Washington, United States | On Site | Mar 29 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Service Technician Trainee (Spring 2026)](https://jobright.ai/jobs/info/69c9d3071b5ad0288739cd98?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Mar 29 |
 | **[4D Molecular Therapeutics](http://www.4dmoleculartherapeutics.com)** | **[Intern](https://jobright.ai/jobs/info/69c9cd70aa3c2c1995e27f12?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Mar 29 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Environmental Services](https://jobright.ai/jobs/info/69c9c7dfb773006330b888e6?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Mar 29 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Transmission Line Engineering Intern](https://jobright.ai/jobs/info/69c9b8a5e565c26a7003843b?utm_campaign=1048&utm_source=git)** | Oakland | Hybrid | Mar 29 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9a160e565c26a70037dd4?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Electrical Engineering @ UW Bioengineering](https://jobright.ai/jobs/info/69c999b2aa3c2c1995e27272?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Provider Network Operations](https://jobright.ai/jobs/info/69c996a7e565c26a70037cc4?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Mar 29 |
-| **[Indian River County Board of County Commissioners](https://www.ircgov.com/)** | **[Utilities- Engineering Intern](https://jobright.ai/jobs/info/69c99335e565c26a700378fa?utm_campaign=1048&utm_source=git)** | Vero Beach, FL | On Site | Mar 29 |
 | **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Research Assistant Intern (Arctic)](https://jobright.ai/jobs/info/69c985ffb773006330b85b3c?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | Mar 29 |
 | **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69c9838083ea553769ff0487?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Project Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/691d3b200b7dff734150120a?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Modeling/Drafting - Civil CAD Internship](https://jobright.ai/jobs/info/673d995976c9d1999e9d897b?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/69340dd7764507023d1bba0e?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Mar 29 |
-| **[Graco](http://graco.com/in/en/)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/69c4c5636f4f855eeda76952?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 29 |
-| **[Khan Academy](http://khanacademy.org/)** | **[Senior Quality Engineer I (24 months fixed-term)](https://jobright.ai/jobs/info/69901c746ea51a7610f28559?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Remote | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
