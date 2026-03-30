@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Development (Renewables)](https://jobright.ai/jobs/info/69c9a3461b5ad0288739c0dd?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
+| ↳ | **[Intern, Project Development (Renewables)](https://jobright.ai/jobs/info/69c9a2a2e565c26a70037df9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Electrical, Software, Comp Science](https://jobright.ai/jobs/info/69c9a160e565c26a70037dd4?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
+| **[City of Canton, Ohio](https://cantonohio.gov)** | **[Canton Water Laboratory Intern](https://jobright.ai/jobs/info/69c999b6b773006330b880a6?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Mar 29 |
+| **[University of Washington](http://www.washington.edu)** | **[Research Internship in Electrical Engineering @ UW Bioengineering](https://jobright.ai/jobs/info/69c999b2aa3c2c1995e27272?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Provider Network Operations](https://jobright.ai/jobs/info/69c996a7e565c26a70037cc4?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Mar 29 |
 | **[Indian River County Board of County Commissioners](https://www.ircgov.com/)** | **[Utilities- Engineering Intern](https://jobright.ai/jobs/info/69c99335e565c26a700378fa?utm_campaign=1048&utm_source=git)** | Vero Beach, FL | On Site | Mar 29 |
 | **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | Mar 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[R&D, Summer Intern (2026) - US/EU](https://jobright.ai/jobs/info/69214b1a00c9ee50eaecd8ba?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Industrial Engineer Co-op – Environmental Health & Safety (EHS) Focus](https://jobright.ai/jobs/info/693e2dc449a7695fbd0470c0?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6993fc0781476f6176aba611?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Mar 29 |
-| **[Rosendin](https://www.rosendin.com)** | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa87ab2ebd316bece244dc?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Facade Engineer Intern](https://jobright.ai/jobs/info/693ced0eaa598a08c3edadb0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 29 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Software Engineering Intern - Simulation Core (Master's)](https://jobright.ai/jobs/info/69c4c5886f4f855eeda76a06?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 29 |
-| ↳ | **[2026 Summer Intern – AI/ML Engineer, Cloud and Developer Infrastructure (Master's)](https://jobright.ai/jobs/info/69883dc88da7a61204635ed5?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Mar 29 |
-| **[Cisco](http://www.cisco.com)** | **[Support Engineer I (Intern) - United States](https://jobright.ai/jobs/info/699085320f6f7e7a2cecf9d1?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
