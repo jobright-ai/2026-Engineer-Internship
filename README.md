@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Metallurgy Internship](https://jobright.ai/jobs/info/69cb6f471b5ad028873ab725?utm_campaign=1048&utm_source=git)** | Sinton, TX | On Site | Mar 30 |
+| **[TransCore](http://www.transcore.com)** | **[Low Voltage Technician Intern](https://jobright.ai/jobs/info/69cb6791466f1e133aacd727?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Mar 30 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Industrial Engineering Intern (Process Automation)](https://jobright.ai/jobs/info/69cb63628fc6090c5d4575ec?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern](https://jobright.ai/jobs/info/698fec2e0f6f7e7a2cec30ea?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69cb5eefa8c1822476e26624?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Security Operations Center](https://jobright.ai/jobs/info/69cb240fe565c26a700451f9?utm_campaign=1048&utm_source=git)** | Bethesda, MD | On Site | Mar 30 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Preclinical Discovery - Global](https://jobright.ai/jobs/info/69cb2256aa3c2c1995e346fd?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Mar 30 |
 | **[Bowman Consulting](https://bowman.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69cb2245e565c26a700451a2?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Mar 30 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Maintenance Tech - Marfa/Fort Davis](https://jobright.ai/jobs/info/69cb222ce565c26a700451a0?utm_campaign=1048&utm_source=git)** | Fort Davis, TX | On Site | Mar 30 |
-| **[Marvin](http://www.marvin.com/)** | **[Made‑To‑Order (MTO) Woodworking Intern – Custom Windows](https://jobright.ai/jobs/info/69cb2221e565c26a70045197?utm_campaign=1048&utm_source=git)** | Minnesota, United States | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
