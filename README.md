@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nightwing](nightwing.com)** | **[RF Engineering Intern - 2026](https://jobright.ai/jobs/info/69a74fef2672cb0acb4bc0b6?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | Mar 31 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Construction Coverage](https://jobright.ai/jobs/info/69ccb716366bb95ba54f5888?utm_campaign=1048&utm_source=git)** | Mesa, AZ | On Site | Mar 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6ef891d7b11cfcb278e?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 31 |
-| ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6e1cfdc6132f94126f7?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6e1cfdc6132f94126f8?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Mar 31 |
+| ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6e1cfdc6132f94126f7?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6c98130af1ac833e8e6?utm_campaign=1048&utm_source=git)** | Jasper, IN | On Site | Mar 31 |
 | **[Engineered Corrosion Solutions, LLC](https://www.ecscorrosion.com)** | **[Manufacturing Engineer - Co op](https://jobright.ai/jobs/info/69ab6efe142d5b4265fca54a?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 31 |
 | **[nVent](https://www.nvent.com/)** | **[Mechanical Engineering and Design Internship](https://jobright.ai/jobs/info/69ccb0c2e1921223acc7bbf1?utm_campaign=1048&utm_source=git)** | Oshkosh, WI, US | On Site | Mar 31 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD)](https://jobright.ai/jobs/info/69cca68d891d7b11cfcb1c93?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer(Data Infrastructure)](https://jobright.ai/jobs/info/69cca68d891d7b11cfcb1c94?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern - Product Development Cell Analysis](https://jobright.ai/jobs/info/69cca684891d7b11cfcb1c79?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Mar 31 |
+| **[Design Engineers MEPFT](https://designengineers.com)** | **[Electrical BIM Technician Intern](https://jobright.ai/jobs/info/69ccc637cdb525785fb829b3?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Mar 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern](https://jobright.ai/jobs/info/69cca5dee1921223acc7b42c?utm_campaign=1048&utm_source=git)** | United States | On Site | Mar 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69cca5dc366bb95ba54f4b9d?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Machine Learning Engineer](https://jobright.ai/jobs/info/69cca595e1921223acc7b2f5?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Mar 31 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69cc9865cdb525785fb7f991?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Mar 31 |
 | **[Cobb County Government](https://www.cobbcounty.org/)** | **[Stream Monitoring Intern (GCIP)](https://jobright.ai/jobs/info/69cc984de1921223acc79fa7?utm_campaign=1048&utm_source=git)** | Marietta, GA | On Site | Mar 31 |
 | **[City of Bothell](https://www.bothellwa.gov/)** | **[Surface Water Intern](https://jobright.ai/jobs/info/69cc98428130af1ac833c775?utm_campaign=1048&utm_source=git)** | Bothell, WA | On Site | Mar 31 |
+| **[SAIC](http://www.saic.com)** | **[Mission Assurance Engineering Intern](https://jobright.ai/jobs/info/69cccba9cdb525785fb82f5b?utm_campaign=1048&utm_source=git)** | Chantilly, VA | On Site | Mar 31 |
 | **[Matanuska-Susitna Borough](https://matsugov.us)** | **[Land Survey Intern - Temporary](https://jobright.ai/jobs/info/69cc95eccdb525785fb7f7eb?utm_campaign=1048&utm_source=git)** | Palmer, AK | On Site | Mar 31 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://jobright.ai/jobs/info/69cc93fbcfdc6132f9410067?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Mar 31 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water Treatment Intern - Summer 2026](https://jobright.ai/jobs/info/69cc93e08130af1ac833c21b?utm_campaign=1048&utm_source=git)** | Wethersfield, CT | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parametrix](https://www.parametrix.com/)** | **[Water Engineering Intern](https://jobright.ai/jobs/info/69c1ea4779e36d3a847ef917?utm_campaign=1048&utm_source=git)** | Puyallup, WA | Hybrid | Mar 31 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Aerospace and Defense Engineering Intern](https://jobright.ai/jobs/info/69ccad76891d7b11cfcb2306?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Mar 31 |
 | **[RoboForce](https://www.roboforce.ai)** | **[AI Research Engineer Intern (PhD), Real-Time Inference for Embodied AI](https://jobright.ai/jobs/info/69cc7affe1921223acc7621c?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Mar 31 |
-| **[Elevations Credit Union](http://elevationscu.com)** | **[Process Automation Intern](https://jobright.ai/jobs/info/69cc7a79891d7b11cfcac909?utm_campaign=1048&utm_source=git)** | Broomfield, CO | Hybrid | Mar 31 |
-| **[XrayCurtains.com](https://www.xraycurtains.com)** | **[Summer Internship - Polymer Processing](https://jobright.ai/jobs/info/69cc7a278130af1ac8338a3d?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Mar 31 |
-| **[RoboForce](https://www.roboforce.ai)** | **[AI Research Scientist Intern (PhD), Embodied AI](https://jobright.ai/jobs/info/69cc79e1cfdc6132f940c7c6?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
