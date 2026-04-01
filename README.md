@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Construction Coverage](https://jobright.ai/jobs/info/69ccb716366bb95ba54f5888?utm_campaign=1048&utm_source=git)** | Mesa, AZ | On Site | Mar 31 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6ef891d7b11cfcb278e?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Mar 31 |
+| ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6e1cfdc6132f94126f7?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
+| ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6e1cfdc6132f94126f8?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Mar 31 |
+| ↳ | **[Environmental Health and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/69ccb6c98130af1ac833e8e6?utm_campaign=1048&utm_source=git)** | Jasper, IN | On Site | Mar 31 |
+| **[Engineered Corrosion Solutions, LLC](https://www.ecscorrosion.com)** | **[Manufacturing Engineer - Co op](https://jobright.ai/jobs/info/69ab6efe142d5b4265fca54a?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Mar 31 |
 | **[nVent](https://www.nvent.com/)** | **[Mechanical Engineering and Design Internship](https://jobright.ai/jobs/info/69ccb0c2e1921223acc7bbf1?utm_campaign=1048&utm_source=git)** | Oshkosh, WI, US | On Site | Mar 31 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Engineering Intern, Water/Wastewater](https://jobright.ai/jobs/info/69ccad53cdb525785fb81532?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA | On Site | Mar 31 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern - Quality Engineering (Memphis, TN) (Open)](https://jobright.ai/jobs/info/69ccacaecfdc6132f94121d5?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Mar 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elevations Credit Union](http://elevationscu.com)** | **[Process Automation Intern](https://jobright.ai/jobs/info/69cc7a79891d7b11cfcac909?utm_campaign=1048&utm_source=git)** | Broomfield, CO | Hybrid | Mar 31 |
 | **[XrayCurtains.com](https://www.xraycurtains.com)** | **[Summer Internship - Polymer Processing](https://jobright.ai/jobs/info/69cc7a278130af1ac8338a3d?utm_campaign=1048&utm_source=git)** | Spring, TX | On Site | Mar 31 |
 | **[RoboForce](https://www.roboforce.ai)** | **[AI Research Scientist Intern (PhD), Embodied AI](https://jobright.ai/jobs/info/69cc79e1cfdc6132f940c7c6?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Mar 31 |
-| **[Fenwick & West](http://fenwick.com)** | **[Knowledge Management & Innovation Intern](https://jobright.ai/jobs/info/69cc7943891d7b11cfcac844?utm_campaign=1048&utm_source=git)** | Santa Monica | Hybrid | Mar 31 |
-| ↳ | **[Knowledge Management & Innovation Intern](https://jobright.ai/jobs/info/69cc7939e1921223acc760af?utm_campaign=1048&utm_source=git)** | Washington, D.C. | Hybrid | Mar 31 |
-| ↳ | **[Knowledge Management & Innovation Intern](https://jobright.ai/jobs/info/69cc7938cfdc6132f940c708?utm_campaign=1048&utm_source=git)** | San Francisco | Hybrid | Mar 31 |
-| ↳ | **[Knowledge Management & Innovation Intern](https://jobright.ai/jobs/info/69cc792f366bb95ba54efa06?utm_campaign=1048&utm_source=git)** | New York | Hybrid | Mar 31 |
-| ↳ | **[Knowledge Management & Innovation Intern](https://jobright.ai/jobs/info/69cc792dcdb525785fb7ba0e?utm_campaign=1048&utm_source=git)** | Silicon Valley | Hybrid | Mar 31 |
-| **[WineFetch](http://retailer.winefetch.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/69cc792c8130af1ac83389ab?utm_campaign=1048&utm_source=git)** | Canada - Markham - Ontario | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
