@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69ce1b9acdb525785fb941dc?utm_campaign=1048&utm_source=git)** | Blacksburg, VA | On Site | Apr 02 |
+| **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Hematopoietic Biology & Malignancy](https://jobright.ai/jobs/info/69ce1b76366bb95ba550807a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 02 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Manufacturing, Science and Technology Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/69ce17db54f00230c6cfbabc?utm_campaign=1048&utm_source=git)** | Hopewell, NJ | On Site | Apr 02 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - HSEQ Intern - Infrastructure Management](https://jobright.ai/jobs/info/69ce1124cdb525785fb935ca?utm_campaign=1048&utm_source=git)** | Mississauga, ON | On Site | Apr 01 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/69ce0effcfdc6132f9423fad?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 01 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1048&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Apr 01 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Innovation Engineer](https://jobright.ai/jobs/info/69cde0a6891d7b11cfcc1129?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 01 |
 | **[Physics World](https://physicsworld.com/)** | **[Antibody Engineering & Directed Evolution - Research Scientist](https://jobright.ai/jobs/info/69ce0124891d7b11cfcc3e6b?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Apr 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://jobright.ai/jobs/info/69ce0c86366bb95ba5507116?utm_campaign=1048&utm_source=git)** | Charleroi, PA | On Site | Apr 01 |
+| **[Cosm](https://www.cosm.com)** | **[Intern - Sound Design](https://jobright.ai/jobs/info/69ce1baf398fb071abf81adb?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 01 |
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Engineering Intern](https://jobright.ai/jobs/info/69cdfc5e366bb95ba550685c?utm_campaign=1048&utm_source=git)** | Versailles, MO | On Site | Apr 01 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[AI Solutions Intern – Energy Systems](https://jobright.ai/jobs/info/69cddaf7366bb95ba5503ab0?utm_campaign=1048&utm_source=git)** | US - Wisconsin - Madison | On Site | Apr 01 |
 | **[Premier Tech Growers and Consumers](https://www.pthorticulture.com/en-ca)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69ce0a62cdb525785fb9316b?utm_campaign=1048&utm_source=git)** | Montgomery, AL | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Data Automation Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fb2c312363dcd51b2a?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 01 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Intern -- Safety Administration](https://jobright.ai/jobs/info/69cdc05254f00230c6cf622e?utm_campaign=1048&utm_source=git)** | US | On Site | Apr 01 |
 | **[Nestlé](https://www.nestle.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69c6ccce1b5ad028873871bc?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
-| **[Dematic](http://www.dematic.com)** | **[RLS Intern - Process & Requirements Support](https://jobright.ai/jobs/info/69cdf0c9cdb525785fb91bf5?utm_campaign=1048&utm_source=git)** | Holland, MI | On Site | Apr 01 |
-| **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Engineering Intern](https://jobright.ai/jobs/info/69cdbeb3cfdc6132f941f400?utm_campaign=1048&utm_source=git)** | US - Versailles, MO | On Site | Apr 01 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[QA Automation Engineer  Intern](https://jobright.ai/jobs/info/69cdbeb0cfdc6132f941f3e4?utm_campaign=1048&utm_source=git)** | Irvine, CA, US | Hybrid | Apr 01 |
-| **[Silver Oak](http://www.silveroak.com/)** | **[2026 Harvest Lab Intern](https://jobright.ai/jobs/info/69cdbe90366bb95ba5502655?utm_campaign=1048&utm_source=git)** | Oakville,CA,US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
