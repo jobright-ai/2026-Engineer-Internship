@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STS Aerospace](https://stsaero.com)** | **[Engineering Intern (Laconia, NH)](https://jobright.ai/jobs/info/69cf7b35891d7b11cfcd3f87?utm_campaign=1048&utm_source=git)** | Laconia, NH | On Site | Apr 03 |
+| **[Horizon Construction Group, Inc.](http://www.horizondbm.com/services/construction-services)** | **[Intern - Estimator](https://jobright.ai/jobs/info/69cf793b398fb071abf9069d?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 03 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Acft Component Repair Tech II - Sheetmetal (Weekend Day Shift)](https://jobright.ai/jobs/info/69cf790c398fb071abf9068c?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 03 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Electrical Lab (Decatur, GA)](https://jobright.ai/jobs/info/69939058ce78e77b4fd76342?utm_campaign=1048&utm_source=git)** | Decatur, GA | On Site | Apr 03 |
-| **[Figure](https://www.figure.ai)** | **[Test Automation Intern [Summer 2026]](https://jobright.ai/jobs/info/69cf6d07398fb071abf9018c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Flex](https://flex.com)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c5b?utm_campaign=1048&utm_source=git)** | Orangeburg, SC | On Site | Apr 02 |
 | **[BioLegend](http://biolegend.com)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69cf5db5366bb95ba5515925?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Validation Engineering](https://jobright.ai/jobs/info/69cf5d70891d7b11cfcd2be4?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EOS Hospitality](https://eoshospitality.com/)** | **[Engineer Intern (Maintenance)](https://jobright.ai/jobs/info/69cf0f48cfdc6132f942f093?utm_campaign=1048&utm_source=git)** | Conway, South Carolina, United States | On Site | Apr 02 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69cf0e7f54f00230c6d05ec6?utm_campaign=1048&utm_source=git)** | AZ - Chandler | On Site | Apr 02 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Technician](https://jobright.ai/jobs/info/69cf0b49cdb525785fb9e286?utm_campaign=1048&utm_source=git)** | Bristol, CT | On Site | Apr 02 |
-| **[Amphenol CIT](https://www.amphenol-cit.com/)** | **[Field Applications Engineer Intern](https://jobright.ai/jobs/info/69cf0afacfdc6132f942efc5?utm_campaign=1048&utm_source=git)** | Cerritos, CA | On Site | Apr 02 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Powertrain Mechanical Engineer (Intern Summer 2026)](https://jobright.ai/jobs/info/69cf09a5cfdc6132f942efa6?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
