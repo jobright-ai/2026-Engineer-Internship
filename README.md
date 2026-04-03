@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://flex.com)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c5b?utm_campaign=1048&utm_source=git)** | Orangeburg, SC | On Site | Apr 02 |
+| **[BioLegend](http://biolegend.com)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69cf5db5366bb95ba5515925?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
+| **[Magna International](http://www.magna.com/)** | **[Intern - Validation Engineering](https://jobright.ai/jobs/info/69cf5d70891d7b11cfcd2be4?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 02 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69cf5d60398fb071abf8f210?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Apr 02 |
+| **[BioSpace](http://www.biospace.com/)** | **[QC Stability Coordinator Intern](https://jobright.ai/jobs/info/69cf5d30366bb95ba55158ba?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Software Engineering Intern — LLM Systems & Applied AI Engineering](https://jobright.ai/jobs/info/69cf4c8c398fb071abf8ece0?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 02 |
 | **[Revvity](https://www.revvity.com/)** | **[AI Intern global Operations](https://jobright.ai/jobs/info/69cf4982cdb525785fba112a?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 02 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Product Development Engineer Intern](https://jobright.ai/jobs/info/69cf4810366bb95ba5514ed8?utm_campaign=1048&utm_source=git)** | Carthage, MO | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STRUCTURAL TECHNOLOGIES](https://www.structuraltechnologies.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69cf095f891d7b11cfccf62f?utm_campaign=1048&utm_source=git)** | Maryland, United States | On Site | Apr 02 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69cf06b4891d7b11cfccf5c5?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 | **[Pitch Aeronautics](https://www.pitchaero.com/)** | **[Undergraduate Robotics/Mechanical/Electrical Engineering Internship](https://jobright.ai/jobs/info/69cf06ac891d7b11cfccf5ae?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Apr 02 |
-| **[Reworld Waste](https://www.reworldwaste.com)** | **[Co-Op Intern](https://jobright.ai/jobs/info/69cf068b54f00230c6d05d9c?utm_campaign=1048&utm_source=git)** | West Wareham, MA | On Site | Apr 02 |
-| **[Axon](https://www.axon.com)** | **[Axon High School Internship - Summer 2026 (Seattle)](https://jobright.ai/jobs/info/69cf064ecdb525785fb9e188?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
-| **[Vestmark](https://www.vestmark.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69af2f726b21de023e60574b?utm_campaign=1048&utm_source=git)** | Wakefield, MA (Hybrid) | Hybrid | Apr 02 |
-| **[Greenlight](https://greenlight.com/)** | **[Security Intern](https://jobright.ai/jobs/info/69cf0531398fb071abf8bad0?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Transmission & Distribution Intern](https://jobright.ai/jobs/info/69cf052e891d7b11cfccf542?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
