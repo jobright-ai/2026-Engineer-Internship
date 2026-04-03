@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69cc20fd8130af1ac8336a86?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 02 |
+| **[A10 Networks, Inc](http://www.a10networks.com)** | **[Software Engineering Intern — LLM Systems & Applied AI Engineering](https://jobright.ai/jobs/info/69cf4c8c398fb071abf8ece0?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 02 |
+| **[Revvity](https://www.revvity.com/)** | **[AI Intern global Operations](https://jobright.ai/jobs/info/69cf4982cdb525785fba112a?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 02 |
+| **[Leggett & Platt](http://www.leggett.com/)** | **[Product Development Engineer Intern](https://jobright.ai/jobs/info/69cf4810366bb95ba5514ed8?utm_campaign=1048&utm_source=git)** | Carthage, MO | On Site | Apr 02 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Associate Project Wetland Scientist](https://jobright.ai/jobs/info/69cf47e2cdb525785fba0c4d?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69cc4017366bb95ba54ee711?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Siemens Strategic Student Program: Research & Development Intern, Aerodynamics CFD (STS, Fall 2026)](https://jobright.ai/jobs/info/69cf449554f00230c6d087b7?utm_campaign=1048&utm_source=git)** | Maryland Heights, MO | Remote | Apr 02 |
 | **[BioLegend](http://biolegend.com)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69cf445d398fb071abf8e553?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[EOS Hospitality](https://eoshospitality.com/)** | **[Engineer Intern (Maintenance)](https://jobright.ai/jobs/info/69cf4457398fb071abf8e54e?utm_campaign=1048&utm_source=git)** | Conway, SC | On Site | Apr 02 |
@@ -84,6 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Field Study Clinical Sciences Intern](https://jobright.ai/jobs/info/69cf2be4366bb95ba55136b0?utm_campaign=1048&utm_source=git)** | Barnes, CA | On Site | Apr 02 |
 | **[San Diego Zoo Wildlife Alliance](https://sandiegozoowildlifealliance.org)** | **[Systems Intern - San Diego Zoo Wildlife Alliance](https://jobright.ai/jobs/info/69cf2bddcdb525785fb9f696?utm_campaign=1048&utm_source=git)** | 2920 Zoo Dr, San Diego, CA 92101, USA | On Site | Apr 02 |
 | **[Hermeus](http://www.hermeus.com)** | **[Hardware Test Engineering Intern -  (Summer/Fall 2026)](https://jobright.ai/jobs/info/69cf2b9bcdb525785fb9f4b0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/69cf4983cdb525785fba1131?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
+| **[WIDIA](https://www.widia.com)** | **[Apprentice Intern - Production-US](https://jobright.ai/jobs/info/69cf4c85cfdc6132f94321a6?utm_campaign=1048&utm_source=git)** | La Vergne, TN | On Site | Apr 02 |
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Safety Engineering Intern – Unpaid Internship](https://jobright.ai/jobs/info/6997c0b781476f6176afeaf9?utm_campaign=1048&utm_source=git)** | Washington, Pennsylvania | On Site | Apr 02 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Cybersecurity](https://jobright.ai/jobs/info/69cf280c54f00230c6d06d78?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Information Systems Architect - Service Now](https://jobright.ai/jobs/info/69cf2808366bb95ba55130f6?utm_campaign=1048&utm_source=git)** | Texas, United States | Remote | Apr 02 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Co-Op Intern](https://jobright.ai/jobs/info/69cf068b54f00230c6d05d9c?utm_campaign=1048&utm_source=git)** | West Wareham, MA | On Site | Apr 02 |
 | **[Axon](https://www.axon.com)** | **[Axon High School Internship - Summer 2026 (Seattle)](https://jobright.ai/jobs/info/69cf064ecdb525785fb9e188?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Vestmark](https://www.vestmark.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69af2f726b21de023e60574b?utm_campaign=1048&utm_source=git)** | Wakefield, MA (Hybrid) | Hybrid | Apr 02 |
-| **[Baker Group](http://thebakergroup.com)** | **[Intern - Automation](https://jobright.ai/jobs/info/69cf0534891d7b11cfccf54f?utm_campaign=1048&utm_source=git)** | Des Moines Metro | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Security Intern](https://jobright.ai/jobs/info/69cf0531398fb071abf8bad0?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Transmission & Distribution Intern](https://jobright.ai/jobs/info/69cf052e891d7b11cfccf542?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
-| ↳ | **[Metering Intern](https://jobright.ai/jobs/info/69cf0529891d7b11cfccf532?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
-| **[ITW Automotive](https://www.itwautomotive.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/69cf051c54f00230c6d05d2d?utm_campaign=1048&utm_source=git)** | Zeeland, MI | On Site | Apr 02 |
-| **[Ontic](https://www.ontic.co)** | **[IT and InfoSec Intern](https://jobright.ai/jobs/info/69cf04f9398fb071abf8baa8?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[Genesis Molecular AI](https://genesis.ml/)** | **[ML Research Intern (Summer 2026) – PhD (Computational Biology)](https://jobright.ai/jobs/info/69cf04f7cfdc6132f942ee59?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69cf04bf398fb071abf8ba4f?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
