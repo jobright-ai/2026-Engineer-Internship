@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Electrical Lab (Decatur, GA)](https://jobright.ai/jobs/info/69939058ce78e77b4fd76342?utm_campaign=1048&utm_source=git)** | Decatur, GA | On Site | Apr 03 |
+| **[Figure](https://www.figure.ai)** | **[Test Automation Intern [Summer 2026]](https://jobright.ai/jobs/info/69cf6d07398fb071abf9018c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Flex](https://flex.com)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c5b?utm_campaign=1048&utm_source=git)** | Orangeburg, SC | On Site | Apr 02 |
 | **[BioLegend](http://biolegend.com)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69cf5db5366bb95ba5515925?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Validation Engineering](https://jobright.ai/jobs/info/69cf5d70891d7b11cfcd2be4?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 02 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Product Development Engineer Intern](https://jobright.ai/jobs/info/69cf4810366bb95ba5514ed8?utm_campaign=1048&utm_source=git)** | Carthage, MO | On Site | Apr 02 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Associate Project Wetland Scientist](https://jobright.ai/jobs/info/69cf47e2cdb525785fba0c4d?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69cc4017366bb95ba54ee711?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 02 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Technology – Data Engineering](https://jobright.ai/jobs/info/69cf685b54f00230c6d09bdb?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Siemens Strategic Student Program: Research & Development Intern, Aerodynamics CFD (STS, Fall 2026)](https://jobright.ai/jobs/info/69cf449554f00230c6d087b7?utm_campaign=1048&utm_source=git)** | Maryland Heights, MO | Remote | Apr 02 |
 | **[BioLegend](http://biolegend.com)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69cf445d398fb071abf8e553?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[EOS Hospitality](https://eoshospitality.com/)** | **[Engineer Intern (Maintenance)](https://jobright.ai/jobs/info/69cf4457398fb071abf8e54e?utm_campaign=1048&utm_source=git)** | Conway, SC | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Technician](https://jobright.ai/jobs/info/69cf0b49cdb525785fb9e286?utm_campaign=1048&utm_source=git)** | Bristol, CT | On Site | Apr 02 |
 | **[Amphenol CIT](https://www.amphenol-cit.com/)** | **[Field Applications Engineer Intern](https://jobright.ai/jobs/info/69cf0afacfdc6132f942efc5?utm_campaign=1048&utm_source=git)** | Cerritos, CA | On Site | Apr 02 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Powertrain Mechanical Engineer (Intern Summer 2026)](https://jobright.ai/jobs/info/69cf09a5cfdc6132f942efa6?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Apr 02 |
-| **[STRUCTURAL TECHNOLOGIES](https://www.structuraltechnologies.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69cf095f891d7b11cfccf62f?utm_campaign=1048&utm_source=git)** | Maryland, United States | On Site | Apr 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69cf06b4891d7b11cfccf5c5?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
-| **[Pitch Aeronautics](https://www.pitchaero.com/)** | **[Undergraduate Robotics/Mechanical/Electrical Engineering Internship](https://jobright.ai/jobs/info/69cf06ac891d7b11cfccf5ae?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
