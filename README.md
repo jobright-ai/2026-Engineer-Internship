@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHINE Technologies](https://www.shinefusion.com)** | **[Computational Research and Development Intern](https://jobright.ai/jobs/info/69d0ca77891d7b11cfcdfb32?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 04 |
+| **[Hardy Diagnostics](http://www.hardydiagnostics.com/)** | **[R&D Microbiology Summer Intern](https://jobright.ai/jobs/info/69d0c816366bb95ba55229ea?utm_campaign=1048&utm_source=git)** | Santa Maria, CA | On Site | Apr 04 |
+| **[Radian Generation](https://www.radiangen.com/)** | **[MSS - Intern](https://jobright.ai/jobs/info/69d0c7fa54f00230c6d16505?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
+| **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program: Agronomic & Crop Science Sales - Summer 2026](https://jobright.ai/jobs/info/68bb80b28043103d4f2290f4?utm_campaign=1048&utm_source=git)** | North Carolina, United States | On Site | Apr 04 |
 | **[Rincon Consultants](http://www.rinconconsultants.com/)** | **[Wildfire Planning and Forestry Internship](https://jobright.ai/jobs/info/69d03d64cfdc6132f9439bdf?utm_campaign=1048&utm_source=git)** | Ventura, CA | Hybrid | Apr 03 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/69c6d03a83ea553769fddb09?utm_campaign=1048&utm_source=git)** | Sunrise, Florida, United States | On Site | Apr 03 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern (Intern Program)](https://jobright.ai/jobs/info/69d0cf93cdb525785fbaeb37?utm_campaign=1048&utm_source=git)** | Upatoi, GA | On Site | Apr 03 |
 | **[GenBio AI](https://genbio.ai)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6979508152f3c27ec645b2f5?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/690c3dbe4a1b456627b1720d?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Electronics Technician Intern](https://jobright.ai/jobs/info/68ffec49e0c73b3a111a0850?utm_campaign=1048&utm_source=git)** | Olathe, KS | On Site | Apr 03 |
 | **[OMNIVISION](http://www.ovt.com)** | **[Image Processing Intern](https://jobright.ai/jobs/info/69d0a4230b098b7a6707b802?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
 | ↳ | **[Image Sensor Engineering Intern](https://jobright.ai/jobs/info/69d0a3d0366bb95ba552072e?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
+| **[Revvity](https://www.revvity.com/)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69d0cf7ccdb525785fbaeb31?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Process Engineering Intern](https://jobright.ai/jobs/info/69d09f6dcfdc6132f943d461?utm_campaign=1048&utm_source=git)** | Tracy, CA | On Site | Apr 03 |
 | ↳ | **[Quality & Food Safety Supplier Systems Intern](https://jobright.ai/jobs/info/69d09f690b098b7a6707b54c?utm_campaign=1048&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
 | ↳ | **[Quality & Regulatory Intern](https://jobright.ai/jobs/info/69d09f5c54f00230c6d13f50?utm_campaign=1048&utm_source=git)** | Emeryville, CA | Hybrid | Apr 03 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69d09f4e54f00230c6d13f32?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant / Sch of Earth Env & Marine Sci](https://jobright.ai/jobs/info/69d09ea9cdb525785fbac3ca?utm_campaign=1048&utm_source=git)** | Edinburg, TX | On Site | Apr 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Technology Risk Assurance - Summer 2026 (Dallas)](https://jobright.ai/jobs/info/69d09a7f891d7b11cfcdd3d2?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Apr 03 |
-| **[Revvity](https://www.revvity.com/)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69d09941cdb525785fbac270?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Therapeutics Research, 2026 Intern](https://jobright.ai/jobs/info/69d0965bcfdc6132f943cc66?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Apr 03 |
 | **[Kier + Wright](http://kierwright.com)** | **[Renewable Engineering Intern](https://jobright.ai/jobs/info/69d095e954f00230c6d13789?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | ↳ | **[Renewable Engineering Intern](https://jobright.ai/jobs/info/69d095300b098b7a6707ad7a?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Analyst - Insider Threat Investigations](https://jobright.ai/jobs/info/69d0888dcdb525785fbab484?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 03 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Cloud Intern (Summer Internship Opportunity) - Remote](https://jobright.ai/jobs/info/69d087d7366bb95ba551f4d4?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Grounds Intern](https://jobright.ai/jobs/info/69d087c3366bb95ba551f4c7?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69d0873054f00230c6d12f2c?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
 | **[Karman Space & Defense](https://linktr.ee/karmanspacedefense)** | **[Business Systems Administrator Internship](https://jobright.ai/jobs/info/69d08499cdb525785fbab3c9?utm_campaign=1048&utm_source=git)** | Mukilteo, WA | On Site | Apr 03 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/69d08324891d7b11cfcdc2d9?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 03 |
 | **[Amentum](https://www.amentum.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/69d0800254f00230c6d12bef?utm_campaign=1048&utm_source=git)** | Center Hill, FL | On Site | Apr 03 |
@@ -137,14 +141,14 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Failure Analysis Engineering Intern](https://jobright.ai/jobs/info/69d061ed366bb95ba551db19?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | Apr 03 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69d061ec54f00230c6d11691?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | Apr 03 |
 | **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Geomatics Internship](https://jobright.ai/jobs/info/69d05e4d54f00230c6d115de?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 03 |
-| **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d05e2d366bb95ba551da6e?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 03 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69d05e2d366bb95ba551da6f?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
+| **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d05e2d366bb95ba551da6f?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 03 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69d05e2d366bb95ba551da6e?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 03 |
 | **[Town of East Hampton](https://www.EHamptonNY.Gov)** | **[Seasonal - Endangered Species Management Intern - Natural Resources Department](https://jobright.ai/jobs/info/69d05bb154f00230c6d11584?utm_campaign=1048&utm_source=git)** | East Hampton, NY | On Site | Apr 03 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/69d05a2b0b098b7a67078a51?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Apr 03 |
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d05a28891d7b11cfcdabdb?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/69d05a28891d7b11cfcdabdc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d05a0fcfdc6132f943a90d?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Apr 03 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d05a0854f00230c6d1151b?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 03 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d05a08cfdc6132f943a8fc?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 03 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2a43d753c101b2155e997?utm_campaign=1048&utm_source=git)** | Rio Rancho, New Mexico, United States | On Site | Apr 03 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[2026 Bridge and Heavy Civil Summer Internship](https://jobright.ai/jobs/info/69d059e4cdb525785fba997c?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Test & Evaluation Intern](https://jobright.ai/jobs/info/69d0589f891d7b11cfcdab56?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow AI.Accelerate Bootcamp](https://jobright.ai/jobs/info/69d05890366bb95ba551d946?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 03 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69d05888cfdc6132f943a84c?utm_campaign=1048&utm_source=git)** | Fresno, CA | On Site | Apr 03 |
 | **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Optics & Laser Engineering Intern](https://jobright.ai/jobs/info/69d0588354f00230c6d11468?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Supplier Quality Engineer](https://jobright.ai/jobs/info/69d0588354f00230c6d1146e?utm_campaign=1048&utm_source=git)** | Lincolnshire, IL | On Site | Apr 03 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28068](https://jobright.ai/jobs/info/69d0585acdb525785fba98d8?utm_campaign=1048&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 03 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/69d058540b098b7a67078927?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28069](https://jobright.ai/jobs/info/69d0584054f00230c6d1144e?utm_campaign=1048&utm_source=git)** | Langley Air Force Base, Virginia, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
