@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rincon Consultants](http://www.rinconconsultants.com/)** | **[Wildfire Planning and Forestry Internship](https://jobright.ai/jobs/info/69d03d64cfdc6132f9439bdf?utm_campaign=1048&utm_source=git)** | Ventura, CA | Hybrid | Apr 03 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/69c6d03a83ea553769fddb09?utm_campaign=1048&utm_source=git)** | Sunrise, Florida, United States | On Site | Apr 03 |
 | **[GenBio AI](https://genbio.ai)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6979508152f3c27ec645b2f5?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/690c3dbe4a1b456627b1720d?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Electronics Technician Intern](https://jobright.ai/jobs/info/68ffec49e0c73b3a111a0850?utm_campaign=1048&utm_source=git)** | Olathe, KS | On Site | Apr 03 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Construction Materials Testing Technician Intern](https://jobright.ai/jobs/info/69d07b90cfdc6132f943be1b?utm_campaign=1048&utm_source=git)** | Owings Mills, MD | On Site | Apr 03 |
 | ↳ | **[Construction Materials Testing Technician Intern](https://jobright.ai/jobs/info/69d07b78366bb95ba551ee31?utm_campaign=1048&utm_source=git)** | Mechanicsburg, PA | On Site | Apr 03 |
 | **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69d07b59891d7b11cfcdbbc8?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| **[City of Penticton](https://www.penticton.ca)** | **[Electrical Engineer](https://jobright.ai/jobs/info/69d0b5e554f00230c6d1591e?utm_campaign=1048&utm_source=git)** | Penticton, BC | On Site | Apr 03 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer(Data Infrastructure)](https://jobright.ai/jobs/info/69cc65e7891d7b11cfcac278?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Rail and Transit Engineering Intern](https://jobright.ai/jobs/info/69d0773b891d7b11cfcdbaa7?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[RevOps AI Analyst Intern](https://jobright.ai/jobs/info/69d075d1cfdc6132f943b77d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28068](https://jobright.ai/jobs/info/69d0585acdb525785fba98d8?utm_campaign=1048&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 03 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/69d058540b098b7a67078927?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28069](https://jobright.ai/jobs/info/69d0584054f00230c6d1144e?utm_campaign=1048&utm_source=git)** | Langley Air Force Base, Virginia, United States | On Site | Apr 03 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: ENOVIA Generative AI Intern](https://jobright.ai/jobs/info/69d0513bcdb525785fba97f5?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 03 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Application Engineer](https://jobright.ai/jobs/info/69d0513a366bb95ba551d80b?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Apr 03 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Process Engineering Intern](https://jobright.ai/jobs/info/69d05108891d7b11cfcda9ca?utm_campaign=1048&utm_source=git)** | Tracy, California | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
