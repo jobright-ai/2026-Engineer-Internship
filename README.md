@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Summer 2026 Engineer Intern](https://jobright.ai/jobs/info/69d1954ecfdc6132f94445cb?utm_campaign=1048&utm_source=git)** | Creedmoor, NC | On Site | Apr 04 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Engineering Documentation & Metadata Intern](https://jobright.ai/jobs/info/69d194dacdb525785fbb34db?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Apr 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69d18fff54f00230c6d1aae1?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Apr 04 |
+| ↳ | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/69d18fff891d7b11cfce3f68?utm_campaign=1048&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[Heavy Equipment Operator (Environmental Engineering)](https://jobright.ai/jobs/info/69d18ffb891d7b11cfce3f60?utm_campaign=1048&utm_source=git)** | Chesterfield, VA | On Site | Apr 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Auburn HIlls, MI](https://jobright.ai/jobs/info/69d18fe5cfdc6132f94440fe?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 04 |
+| ↳ | **[Climbing Arborist Internship / Chesterfield, MI](https://jobright.ai/jobs/info/69d18fe4cfdc6132f94440fa?utm_campaign=1048&utm_source=git)** | New Baltimore, MI | On Site | Apr 04 |
+| **[Marqeta](https://www.marqeta.com)** | **[Intern - Product Security Engineering](https://jobright.ai/jobs/info/69d18c72cdb525785fbb2fc1?utm_campaign=1048&utm_source=git)** | Remote, USA | Remote | Apr 04 |
+| **[EOS](https://www.eos.info)** | **[Research And Development Intern](https://jobright.ai/jobs/info/69d188b4cdb525785fbb2f0c?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Generac](https://www.generac.com)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69d18574cfdc6132f9444031?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Apr 04 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IBM DB2 Database Administrator](https://jobright.ai/jobs/info/69d1820b891d7b11cfce3e0b?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69d181e0cdb525785fbb2e46?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Fraser](http://www.westfraser.com/)** | **[Reliability Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69b43f8606c1ba00c54574af?utm_campaign=1048&utm_source=git)** | Lanett, AL | On Site | Apr 04 |
 | **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Cellar Intern - Jada Vineyard & Winery](https://jobright.ai/jobs/info/69d144f2366bb95ba5525a60?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Apr 04 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d144e20b098b7a67080a52?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Apr 04 |
-| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d144e1cdb525785fbb1900?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Summer Electrical & Instrumentation Intern](https://jobright.ai/jobs/info/69b26fdfa8ac8e70ff665527?utm_campaign=1048&utm_source=git)** | New Augusta, MS | On Site | Apr 04 |
-| **[Beyond New Horizons](www.bnh-jv.com)** | **[Operating Engineer Chief Craftsman](https://jobright.ai/jobs/info/69d16931891d7b11cfce3724?utm_campaign=1048&utm_source=git)** | Manchester, TN | On Site | Apr 04 |
-| **[General Dynamics](https://www.gd.com)** | **[IT / Networking Engineer - Intern](https://jobright.ai/jobs/info/69d14229cfdc6132f9442a1a?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 04 |
-| ↳ | **[IT / Networking Engineer - Intern](https://jobright.ai/jobs/info/69d1416c0b098b7a670809c7?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 04 |
-| **[Minnesota Children's Museum](http://www.mcm.org)** | **[Exhibit Fabrication Intern](https://jobright.ai/jobs/info/69d1414454f00230c6d19435?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Apr 04 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4](https://jobright.ai/jobs/info/69d14112366bb95ba5525874?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 04 |
-| **[Crusoe](https://crusoe.ai)** | **[Construction Management Intern, 2026](https://jobright.ai/jobs/info/6998ec2bce78e77b4fdd7be8?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
-| **[Raytheon](http://www.bbn.com)** | **[Military Only: SkillBridge Support Engineer Intern](https://jobright.ai/jobs/info/69b50fc556973837413a2bf6?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
