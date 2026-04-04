@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenBio AI](https://genbio.ai)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6979508152f3c27ec645b2f5?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/690c3dbe4a1b456627b1720d?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 03 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Electronics Technician Intern](https://jobright.ai/jobs/info/68ffec49e0c73b3a111a0850?utm_campaign=1048&utm_source=git)** | Olathe, KS | On Site | Apr 03 |
 | **[OMNIVISION](http://www.ovt.com)** | **[Image Processing Intern](https://jobright.ai/jobs/info/69d0a4230b098b7a6707b802?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
 | ↳ | **[Image Sensor Engineering Intern](https://jobright.ai/jobs/info/69d0a3d0366bb95ba552072e?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Process Engineering Intern](https://jobright.ai/jobs/info/69d09f6dcfdc6132f943d461?utm_campaign=1048&utm_source=git)** | Tracy, CA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: ENOVIA Generative AI Intern](https://jobright.ai/jobs/info/69d0513bcdb525785fba97f5?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 03 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Application Engineer](https://jobright.ai/jobs/info/69d0513a366bb95ba551d80b?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Process Engineering Intern](https://jobright.ai/jobs/info/69d05108891d7b11cfcda9ca?utm_campaign=1048&utm_source=git)** | Tracy, California | On Site | Apr 03 |
-| ↳ | **[Quality & Food Safety Supplier Systems Intern](https://jobright.ai/jobs/info/69d05107891d7b11cfcda9b9?utm_campaign=1048&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
-| **[Voya Financial](https://www.voya.com/)** | **[AI Technology Intern: Part-Time Role](https://jobright.ai/jobs/info/69d05103891d7b11cfcda9a8?utm_campaign=1048&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Apr 03 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Mechanical / IT Networking Engineer - Intern](https://jobright.ai/jobs/info/69cd9adf366bb95ba5500c35?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
