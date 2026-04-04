@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Specifications Writer Intern](https://jobright.ai/jobs/info/69d1774854f00230c6d1a3d9?utm_campaign=1048&utm_source=git)** | Junction City, KS | Hybrid | Apr 04 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Quality Intern](https://jobright.ai/jobs/info/698e1998f64d441a16505305?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI | On Site | Apr 04 |
+| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Security Analyst](https://jobright.ai/jobs/info/69d1718ccdb525785fbb27cc?utm_campaign=1048&utm_source=git)** | Smithfield, RI | On Site | Apr 04 |
+| **[COLSA](http://www.colsa.com)** | **[Aerospace Engineering Intern-sUAS Development (Undergrad-Summer 2026)](https://jobright.ai/jobs/info/69d17183891d7b11cfce37ff?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/69d1715054f00230c6d1a372?utm_campaign=1048&utm_source=git)** | Dartmouth, NS | On Site | Apr 04 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[IoT Sales Engineering & Delivery Intern](https://jobright.ai/jobs/info/697bdc911423772304ec15ed?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Apr 04 |
+| **[Fath Properties](https://fathproperties.com/)** | **[Apartment Maintenance- Trainee](https://jobright.ai/jobs/info/69d16bf554f00230c6d1a2cf?utm_campaign=1048&utm_source=git)** | Fairfield, OH | On Site | Apr 04 |
+| **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69d16bc60b098b7a67081872?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Information Security - (On site position in RI / no relocation)](https://jobright.ai/jobs/info/69d1696d366bb95ba55266ff?utm_campaign=1048&utm_source=git)** | Smithfield, RI | On Site | Apr 04 |
 | **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69d1696c366bb95ba55266fc?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Apr 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment Engineer Intern - Kiewit Equipment Services (Summer 2026)](https://jobright.ai/jobs/info/6960581ba1bbea1d9a7b3455?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Apr 04 |
@@ -126,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/69a7cf82637232443f652fa3?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc8a50b88cc7d6422959f?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e7?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
+| **[US LBM](http://uslbm.com)** | **[US LBM Credit Intern](https://jobright.ai/jobs/info/6998fd19e0bddb6acac7f086?utm_campaign=1048&utm_source=git)** | Buffalo Grove, IL | On Site | Apr 04 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d14527cfdc6132f9442b9a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Reliability Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69b43f8606c1ba00c54574af?utm_campaign=1048&utm_source=git)** | Lanett, AL | On Site | Apr 04 |
 | **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Cellar Intern - Jada Vineyard & Winery](https://jobright.ai/jobs/info/69d144f2366bb95ba5525a60?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Apr 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 AGI Intern](https://jobright.ai/jobs/info/69d13c79cdb525785fbb1310?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | Apr 04 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 04 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op, Quality Engineering](https://jobright.ai/jobs/info/69b4afdc5697383741398bfd?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 04 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Cabinet Maker II Weekend Shift](https://jobright.ai/jobs/info/69d13a99366bb95ba55252c7?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 04 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69602e66a112b402660ee859?utm_campaign=1048&utm_source=git)** | Kent, WA | On Site | Apr 04 |
-| **[Honeywell](http://www.honeywell.com)** | **[URDP Intern (Bachelor's) - HSE](https://jobright.ai/jobs/info/698832050f6f7e7a2ce3708a?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 04 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69d139b2cfdc6132f94423b3?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Apr 04 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Site Deployment  Intern (Fall 2026, 12months)](https://jobright.ai/jobs/info/69b4535256973837413909c1?utm_campaign=1048&utm_source=git)** | Ottawa, ON | On Site | Apr 04 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical and Tunneling Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b46fee3b74eb1e2c81bee0?utm_campaign=1048&utm_source=git)** | Shelton, CT | On Site | Apr 04 |
-| **[Cementation Americas](http://cementation.com)** | **[Intern Quality Controller](https://jobright.ai/jobs/info/69b48084569738374139620c?utm_campaign=1048&utm_source=git)** | North Bay, ON | On Site | Apr 04 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Power Electronics Intern (Year-Round)](https://jobright.ai/jobs/info/69b48b8f3b74eb1e2c81e962?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
