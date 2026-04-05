@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1a99c54f00230c6d1b456?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Apr 04 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Industrial Engineering](https://jobright.ai/jobs/info/69d1a236366bb95ba55278c3?utm_campaign=1048&utm_source=git)** | Johnstown, PA | On Site | Apr 04 |
-| **[LangPal](www.lang-pal.com)** | **[AI/ML Engineer Intern](https://jobright.ai/jobs/info/69d1a21c0b098b7a670829aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Summer 2026 Engineer Intern](https://jobright.ai/jobs/info/69d1954ecfdc6132f94445cb?utm_campaign=1048&utm_source=git)** | Creedmoor, NC | On Site | Apr 04 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Engineering Documentation & Metadata Intern](https://jobright.ai/jobs/info/69d194dacdb525785fbb34db?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/69d18fff891d7b11cfce3f68?utm_campaign=1048&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
