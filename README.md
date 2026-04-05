@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cobb County Government](https://www.cobbcounty.org/)** | **[Stream Monitoring Intern (GCIP)](https://jobright.ai/jobs/info/69d1e327366bb95ba552a041?utm_campaign=1048&utm_source=git)** | Marietta, GA | On Site | Apr 04 |
+| **[GenBio AI](https://genbio.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/69794c3188e2b47213bd83b9?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 04 |
+| **[GenPark](https://genpark.ai)** | **[Artificial intelligence intern](https://jobright.ai/jobs/info/69d1df3454f00230c6d1da75?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Apr 04 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Grounds Intern](https://jobright.ai/jobs/info/69d1ddfe891d7b11cfce6eaa?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 04 |
 | **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Engineering Intern (Electric & Gas Engineering)](https://jobright.ai/jobs/info/69d1d51c54f00230c6d1d6e4?utm_campaign=1048&utm_source=git)** | Fort Pierce, FL | On Site | Apr 04 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d1d29754f00230c6d1d5cc?utm_campaign=1048&utm_source=git)** | Carson, CA | On Site | Apr 04 |
 | **[Williamson County](https://williamson-county.org/)** | **[Engineer Assistant (Summer Intern) - Road & Bridge](https://jobright.ai/jobs/info/69d1d19454f00230c6d1d5c2?utm_campaign=1048&utm_source=git)** | Georgetown, TX | On Site | Apr 04 |
@@ -67,18 +71,16 @@ For a complete list, click the following sortable link below:
 | **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Billings, MT](https://jobright.ai/jobs/info/69d1c59c366bb95ba5528f50?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Apr 04 |
 | **[Rebel Athletic](https://www.rebelathletic.com/)** | **[Ai Engineer Internship](https://jobright.ai/jobs/info/69d1bd9c891d7b11cfce5905?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 04 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[CIVIL ENGINEERING STUDENT](https://jobright.ai/jobs/info/69d1b438891d7b11cfce4f4f?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Apr 04 |
-| **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69d1b1ddcdb525785fbb3eff?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1a99c54f00230c6d1b456?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Apr 04 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Digital Supply Chain Summer/Fall Co-Op](https://jobright.ai/jobs/info/69d1d18a366bb95ba55299e5?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 04 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Industrial Engineering](https://jobright.ai/jobs/info/69d1a236366bb95ba55278c3?utm_campaign=1048&utm_source=git)** | Johnstown, PA | On Site | Apr 04 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Summer 2026 Engineer Intern](https://jobright.ai/jobs/info/69d1954ecfdc6132f94445cb?utm_campaign=1048&utm_source=git)** | Creedmoor, NC | On Site | Apr 04 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Engineering Documentation & Metadata Intern](https://jobright.ai/jobs/info/69d194dacdb525785fbb34db?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Apr 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69d18fff54f00230c6d1aae1?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Apr 04 |
-| ↳ | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/69d18fff891d7b11cfce3f68?utm_campaign=1048&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/69d18fff891d7b11cfce3f68?utm_campaign=1048&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
+| ↳ | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69d18fff54f00230c6d1aae1?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Apr 04 |
 | ↳ | **[Climbing Arborist Internship / Auburn HIlls, MI](https://jobright.ai/jobs/info/69d18fe5cfdc6132f94440fe?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 04 |
 | ↳ | **[Climbing Arborist Internship / Chesterfield, MI](https://jobright.ai/jobs/info/69d18fe4cfdc6132f94440fa?utm_campaign=1048&utm_source=git)** | New Baltimore, MI | On Site | Apr 04 |
 | **[Marqeta](https://www.marqeta.com)** | **[Intern - Product Security Engineering](https://jobright.ai/jobs/info/69d18c72cdb525785fbb2fc1?utm_campaign=1048&utm_source=git)** | Remote, USA | Remote | Apr 04 |
-| **[EOS](https://www.eos.info)** | **[Research And Development Intern](https://jobright.ai/jobs/info/69d188b4cdb525785fbb2f0c?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Generac](https://www.generac.com)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69d18574cfdc6132f9444031?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Apr 04 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IBM DB2 Database Administrator](https://jobright.ai/jobs/info/69d1820b891d7b11cfce3e0b?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69d181e0cdb525785fbb2e46?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Parking](https://jobright.ai/jobs/info/68c79a68c96a22563ecf3148?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/694cec7829655e4dd6570738?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 04 |
 | **[CME Associates](http://cmeusa1.com)** | **[Intern - Municipal](https://jobright.ai/jobs/info/69bcc9854828227293febd38?utm_campaign=1048&utm_source=git)** | East Brunswick, NJ | On Site | Apr 04 |
-| **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Lab Intern - Riboli Family Winery](https://jobright.ai/jobs/info/69a3d76e359fe034b1cec3b8?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Apr 04 |
-| **[Etched](https://www.etched.com)** | **[Platform Intern](https://jobright.ai/jobs/info/69b441de3b74eb1e2c816b48?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
