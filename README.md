@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Dynamics](http://bostondynamics.com)** | **[AI/ML Safety Intern](https://jobright.ai/jobs/info/6998f0d381476f6176b159f3?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 05 |
+| **[BW Converting](http://www.bwconverting.com)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/69c173bb2c312363dcd44728?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Apr 05 |
+| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69bc179f5b89c002acf1138c?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Operations NRM Intern](https://jobright.ai/jobs/info/69d2634ccdb525785fbb98fe?utm_campaign=1048&utm_source=git)** | Auburn, CA | Hybrid | Apr 05 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69613190f3f4cd1325062d2f?utm_campaign=1048&utm_source=git)** | Fort Mill, SC | On Site | Apr 05 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[Process Operator Intern, Billings Refinery](https://jobright.ai/jobs/info/69bc646f4828227293fe2bb9?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Apr 05 |
+| **[Avant](https://www.avant.com)** | **[Cyber Threat Operations Summer Internship](https://jobright.ai/jobs/info/69a333fc0da45516f16c789d?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
+| **[CBRE](https://www.cbre.com)** | **[HOH Intern - Laboratory Tech in Louisville KY](https://jobright.ai/jobs/info/69d26218366bb95ba552dad4?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Entry Level Civil Engineer](https://jobright.ai/jobs/info/697d100a3f57a3356966c483?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Apr 05 |
+| **[Magna International](http://www.magna.com/)** | **[Magna Engineered Glass: Manufacturing Engineering Intern](https://jobright.ai/jobs/info/699feb14ce78e77b4fe5e469?utm_campaign=1048&utm_source=git)** | Holland, MI | On Site | Apr 05 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69460e3b63141d188455bcfc?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 05 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Environmental Management Generation Intern](https://jobright.ai/jobs/info/69d25f6254f00230c6d214ba?utm_campaign=1048&utm_source=git)** | Chico, CA | Hybrid | Apr 05 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/69d1fc9f54f00230c6d1ead0?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
+| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/69d1ddce0b098b7a67084e7d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 05 |
+| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d20e2954f00230c6d1fb73?utm_campaign=1048&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 05 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/69b560923b74eb1e2c82e919?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
+| **[PBE Expert](https://pbe-expert.com/)** | **[Internship & Summer Jobs](https://jobright.ai/jobs/info/69d25ad5cfdc6132f944ab8e?utm_campaign=1048&utm_source=git)** | Laval, QC | Hybrid | Apr 05 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/69b57b8b3b74eb1e2c833e22?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 05 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[EPC Project Engineer Intern (Los Banos, CA)](https://jobright.ai/jobs/info/696196d1a112b40266102ea4?utm_campaign=1048&utm_source=git)** | Los Banos, CA | On Site | Apr 05 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69d1ddeecfdc6132f9446f29?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
@@ -127,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Utilities Intern (Seasonal)](https://jobright.ai/jobs/info/69d2279f54f00230c6d2032f?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 05 |
 | **[City of Fairborn](https://www.fairbornoh.gov)** | **[Project Worker II GIS Technician (Intern)](https://jobright.ai/jobs/info/69d2279f54f00230c6d20332?utm_campaign=1048&utm_source=git)** | Fairborn, OH | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb857a?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
-| ↳ | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69d225c4cfdc6132f9449850?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[DrDroid](https://drdroid.io)** | **[Developer Advocate (DevRel) Intern](https://jobright.ai/jobs/info/69d223b70b098b7a6708734a?utm_campaign=1048&utm_source=git)** | Remote (IN) | Remote | Apr 05 |
 | **[Symbl.ai (Acq. by Invoca)](https://symbl.ai)** | **[ML Engineering Intern - Nebula](https://jobright.ai/jobs/info/68901bfa6a4aac5783cde3d7?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 05 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69d21a610b098b7a670872e0?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 05 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69d1cd7a366bb95ba552938a?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 04 |
 | **[Vestmark](https://www.vestmark.com)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69af2f726b21de023e60574b?utm_campaign=1048&utm_source=git)** | Wakefield, MA (Hybrid) | Hybrid | Apr 04 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Billings, MT](https://jobright.ai/jobs/info/69d1c59c366bb95ba5528f50?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Apr 04 |
-| **[Rebel Athletic](https://www.rebelathletic.com/)** | **[Ai Engineer Internship](https://jobright.ai/jobs/info/69d1bd9c891d7b11cfce5905?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 04 |
-| **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1a99c54f00230c6d1b456?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Apr 04 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Digital Supply Chain Summer/Fall Co-Op](https://jobright.ai/jobs/info/69d1d18a366bb95ba55299e5?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 04 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Industrial Engineering](https://jobright.ai/jobs/info/69d1a236366bb95ba55278c3?utm_campaign=1048&utm_source=git)** | Johnstown, PA | On Site | Apr 04 |
-| **[City of Worcester](https://www.worcesterma.gov)** | **[Junior Civil Engineer, Grade 3](https://jobright.ai/jobs/info/69d21a62cfdc6132f9449406?utm_campaign=1048&utm_source=git)** | Worcester, MA | On Site | Apr 04 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Summer 2026 Engineer Intern](https://jobright.ai/jobs/info/69d1954ecfdc6132f94445cb?utm_campaign=1048&utm_source=git)** | Creedmoor, NC | On Site | Apr 04 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Engineering Documentation & Metadata Intern](https://jobright.ai/jobs/info/69d194dacdb525785fbb34db?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Apr 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Monroe, MI](https://jobright.ai/jobs/info/69d18fff54f00230c6d1aae1?utm_campaign=1048&utm_source=git)** | Monroe, MI | On Site | Apr 04 |
-| ↳ | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/69d18fff891d7b11cfce3f68?utm_campaign=1048&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
-| ↳ | **[Climbing Arborist Internship / Auburn HIlls, MI](https://jobright.ai/jobs/info/69d18fe5cfdc6132f94440fe?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 04 |
-| ↳ | **[Climbing Arborist Internship / Chesterfield, MI](https://jobright.ai/jobs/info/69d18fe4cfdc6132f94440fa?utm_campaign=1048&utm_source=git)** | New Baltimore, MI | On Site | Apr 04 |
-| **[Marqeta](https://www.marqeta.com)** | **[Intern - Product Security Engineering](https://jobright.ai/jobs/info/69d18c72cdb525785fbb2fc1?utm_campaign=1048&utm_source=git)** | Remote, USA | Remote | Apr 04 |
-| **[Generac](https://www.generac.com)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69d18574cfdc6132f9444031?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Apr 04 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[IBM DB2 Database Administrator](https://jobright.ai/jobs/info/69d1820b891d7b11cfce3e0b?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Billings, MT](https://jobright.ai/jobs/info/69d17a9dcfdc6132f94439e4?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | Apr 04 |
-| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Specifications Writer Intern](https://jobright.ai/jobs/info/69d1774854f00230c6d1a3d9?utm_campaign=1048&utm_source=git)** | Junction City, KS | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
