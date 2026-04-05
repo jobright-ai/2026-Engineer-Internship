@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Forest Protection Specialist (Environmental Analyst 1(A)-(B)-2)](https://jobright.ai/jobs/info/69d20d3554f00230c6d1fb00?utm_campaign=1048&utm_source=git)** | Shubenacadie, NS | On Site | Apr 05 |
+| ↳ | **[Marine Engineer 1 (LaHave) (2 Positions)](https://jobright.ai/jobs/info/69d20cf2891d7b11cfce8d91?utm_campaign=1048&utm_source=git)** | Lahave, NS | On Site | Apr 05 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69d1fca8891d7b11cfce8101?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Apr 04 |
 | **[Chicago Park District](https://www.chicagoparkdistrict.com/)** | **[Intern (Natural Areas) - Seasonal](https://jobright.ai/jobs/info/69d1efad891d7b11cfce79b6?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Apr 04 |
 | **[Cobb County Government](https://www.cobbcounty.org/)** | **[Stream Monitoring Intern (GCIP)](https://jobright.ai/jobs/info/69d1e327366bb95ba552a041?utm_campaign=1048&utm_source=git)** | Marietta, GA | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/69b43fab06c1ba00c5457538?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Parking](https://jobright.ai/jobs/info/68c79a68c96a22563ecf3148?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Equipment/Mechanical Engineer Intern - Kiewit Mining Group 2026](https://jobright.ai/jobs/info/694cec7829655e4dd6570738?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 04 |
-| **[CME Associates](http://cmeusa1.com)** | **[Intern - Municipal](https://jobright.ai/jobs/info/69bcc9854828227293febd38?utm_campaign=1048&utm_source=git)** | East Brunswick, NJ | On Site | Apr 04 |
-| **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Lab Intern - Riboli Family Winery](https://jobright.ai/jobs/info/69a3d76e359fe034b1cec3b8?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
