@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rebel Athletic](https://www.rebelathletic.com/)** | **[Ai Engineer Internship](https://jobright.ai/jobs/info/69d1bd9c891d7b11cfce5905?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 04 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[CIVIL ENGINEERING STUDENT](https://jobright.ai/jobs/info/69d1b438891d7b11cfce4f4f?utm_campaign=1048&utm_source=git)** | Los Angeles County, CA | On Site | Apr 04 |
+| **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69d1b1ddcdb525785fbb3eff?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1a99c54f00230c6d1b456?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Apr 04 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Industrial Engineering](https://jobright.ai/jobs/info/69d1a236366bb95ba55278c3?utm_campaign=1048&utm_source=git)** | Johnstown, PA | On Site | Apr 04 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Summer 2026 Engineer Intern](https://jobright.ai/jobs/info/69d1954ecfdc6132f94445cb?utm_campaign=1048&utm_source=git)** | Creedmoor, NC | On Site | Apr 04 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[COLSA](http://www.colsa.com)** | **[Aerospace Engineering Intern-sUAS Development (Undergrad-Summer 2026)](https://jobright.ai/jobs/info/69d17183891d7b11cfce37ff?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/69d1715054f00230c6d1a372?utm_campaign=1048&utm_source=git)** | Dartmouth, NS | On Site | Apr 04 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[IoT Sales Engineering & Delivery Intern](https://jobright.ai/jobs/info/697bdc911423772304ec15ed?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Apr 04 |
-| **[Fath Properties](https://fathproperties.com/)** | **[Apartment Maintenance- Trainee](https://jobright.ai/jobs/info/69d16bf554f00230c6d1a2cf?utm_campaign=1048&utm_source=git)** | Fairfield, OH | On Site | Apr 04 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69d16bc60b098b7a67081872?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Information Security - (On site position in RI / no relocation)](https://jobright.ai/jobs/info/69d1696d366bb95ba55266ff?utm_campaign=1048&utm_source=git)** | Smithfield, RI | On Site | Apr 04 |
 | **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69d1696c366bb95ba55266fc?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Apr 04 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Internship- Diesel Mechanic](https://jobright.ai/jobs/info/697c24f60b88cc7d6423290b?utm_campaign=1048&utm_source=git)** | West Jordan, UT | On Site | Apr 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/699a6fd1ce78e77b4fdf3017?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | **[Dunedain](www.dunedainsystems.com)** | **[ML/NLP Research Engineering Intern](https://jobright.ai/jobs/info/69d17f5a54f00230c6d1a922?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 04 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern Lithography Process Engineer (Masters/PhD - Santa Clara, CA)](https://jobright.ai/jobs/info/69b48c1706c1ba00c5460ac7?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-ENERGY-002-Graduate Energy Intern](https://jobright.ai/jobs/info/69d15b20cdb525785fbb1fc6?utm_campaign=1048&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Engineering Co-op - Post Market Engineering](https://jobright.ai/jobs/info/69b461dc06c1ba00c545b945?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical and Tunneling Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b46f9806c1ba00c545de06?utm_campaign=1048&utm_source=git)** | Glastonbury, CT | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc8a50b88cc7d6422959f?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69a409de359fe034b1cf04e7?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
 | **[US LBM](http://uslbm.com)** | **[US LBM Credit Intern](https://jobright.ai/jobs/info/6998fd19e0bddb6acac7f086?utm_campaign=1048&utm_source=git)** | Buffalo Grove, IL | On Site | Apr 04 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d14527cfdc6132f9442b9a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 04 |
-| **[West Fraser](http://www.westfraser.com/)** | **[Reliability Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69b43f8606c1ba00c54574af?utm_campaign=1048&utm_source=git)** | Lanett, AL | On Site | Apr 04 |
-| **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Cellar Intern - Jada Vineyard & Winery](https://jobright.ai/jobs/info/69d144f2366bb95ba5525a60?utm_campaign=1048&utm_source=git)** | Paso Robles, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
