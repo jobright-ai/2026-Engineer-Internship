@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrien](https://www.nutrien.com/)** | **[Internship Retail - Pipeline - Michigan Division](https://jobright.ai/jobs/info/69d327b20b098b7a6708c458?utm_campaign=1048&utm_source=git)** | Auburn, MI | On Site | Apr 05 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69d327abcfdc6132f944e591?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
+| **[Lonza](http://www.lonza.com)** | **[Summer Intern, Environmental Health and Safety](https://jobright.ai/jobs/info/69d326fb891d7b11cfcee379?utm_campaign=1048&utm_source=git)** | Bend, OR | On Site | Apr 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Data Automation Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fb2c312363dcd51b2a?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Digital Transformation Analyst)](https://jobright.ai/jobs/info/69d3061d891d7b11cfcedad4?utm_campaign=1048&utm_source=git)** | Amherst, OH | On Site | Apr 05 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69aad3212747003c3d507a9d?utm_campaign=1048&utm_source=git)** | Oak Brook, IL | On Site | Apr 05 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship - The Glenmore Distillery](https://jobright.ai/jobs/info/69d303c1366bb95ba5530b04?utm_campaign=1048&utm_source=git)** | US-KY-Owensboro | On Site | Apr 05 |
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, R&D (Thin Film Materials)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab23?utm_campaign=1048&utm_source=git)** | Palo Alto, California, United States | On Site | Apr 05 |
 | **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/69d2f1da54f00230c6d2415d?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Apr 05 |
-| **[Philo Homes](https://philo.homes/)** | **[Computer Vision Engineer Intern_Bilingual Chinese](https://jobright.ai/jobs/info/69d2f0f0891d7b11cfced552?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 05 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Technician](https://jobright.ai/jobs/info/69d2ed23cfdc6132f944d64a?utm_campaign=1048&utm_source=git)** | Bristol, CT | On Site | Apr 05 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/69d2e65b0b098b7a6708b12e?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 05 |
 | **[Intel](http://www.intel.com)** | **[Circuit Design Engineer Intern](https://jobright.ai/jobs/info/69d2e63fcfdc6132f944d180?utm_campaign=1048&utm_source=git)** | US, Texas, Austin | Hybrid | Apr 05 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Leon County Government](https://cms.leoncountyfl.gov/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69d2d83bcfdc6132f944bc73?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 05 |
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69d2d461891d7b11cfceb96a?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 05 |
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69b644163b74eb1e2c83fef6?utm_campaign=1048&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
-| **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Water Resources Intern](https://jobright.ai/jobs/info/69d2d156366bb95ba552eb0b?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Apr 05 |
 | **[Los Angeles County Sanitation Districts](https://www.lacsd.org/)** | **[Civil/Environmental Engineer](https://jobright.ai/jobs/info/69d2cbdf0b098b7a67089a7f?utm_campaign=1048&utm_source=git)** | Whittier, CA | On Site | Apr 05 |
 | **[Daice Labs](https://daicelabs.com/)** | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/69d2c31b891d7b11cfceb870?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 05 |
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69b07a69749500645096c9f9?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[DCS - Land Surveying Internship](https://jobright.ai/jobs/info/69d2b771cdb525785fbba76b?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 05 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development @ UW Bioengineering](https://jobright.ai/jobs/info/69d287be0b098b7a670892f7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69619338e7ed9a5731ba6da4?utm_campaign=1048&utm_source=git)** | Fort Mill, SC | On Site | Apr 05 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician II](https://jobright.ai/jobs/info/69c80d3b83ea553769fe8472?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Apr 05 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Apr 05 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/696c6565350cf43803139549?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant (Joint BioEnergy Institute)](https://jobright.ai/jobs/info/69d29d0a0b098b7a670897e8?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
+| **[R.V. Anderson Associates Limited](https://rvanderson.com)** | **[Co-op Engineering Student, Electrical](https://jobright.ai/jobs/info/69d32aee54f00230c6d25018?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 05 |
 | **[ANB Bank](http://anbbank.com)** | **[Information Security Engineer](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b952?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
 | ↳ | **[Information Security Officer III](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b951?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Civil Engineering Summer Intern](https://jobright.ai/jobs/info/697e0bc1ce48107c05425671?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Entry Level Civil Engineer](https://jobright.ai/jobs/info/697d100a3f57a3356966c483?utm_campaign=1048&utm_source=git)** | Woodstock, GA | On Site | Apr 05 |
 | **[Magna International](http://www.magna.com/)** | **[Magna Engineered Glass: Manufacturing Engineering Intern](https://jobright.ai/jobs/info/699feb14ce78e77b4fe5e469?utm_campaign=1048&utm_source=git)** | Holland, MI | On Site | Apr 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69460e3b63141d188455bcfc?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 05 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Environmental Management Generation Intern](https://jobright.ai/jobs/info/69d25f6254f00230c6d214ba?utm_campaign=1048&utm_source=git)** | Chico, CA | Hybrid | Apr 05 |
-| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/69d1fc9f54f00230c6d1ead0?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
