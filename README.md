@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[AI/ML Engineer Student Intern](https://jobright.ai/jobs/info/69d30021cdb525785fbbc439?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 05 |
+| **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, R&D (Thin Film Materials)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab23?utm_campaign=1048&utm_source=git)** | Palo Alto, California, United States | On Site | Apr 05 |
 | **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/69d2f1da54f00230c6d2415d?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Apr 05 |
 | **[Philo Homes](https://philo.homes/)** | **[Computer Vision Engineer Intern_Bilingual Chinese](https://jobright.ai/jobs/info/69d2f0f0891d7b11cfced552?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 05 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Technician](https://jobright.ai/jobs/info/69d2ed23cfdc6132f944d64a?utm_campaign=1048&utm_source=git)** | Bristol, CT | On Site | Apr 05 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69b644163b74eb1e2c83fef6?utm_campaign=1048&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Water Resources Intern](https://jobright.ai/jobs/info/69d2d156366bb95ba552eb0b?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Apr 05 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[Mechanical Maintenance Intern](https://jobright.ai/jobs/info/69d2d0f0891d7b11cfceb935?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Apr 05 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Summer Internship - Utilities](https://jobright.ai/jobs/info/69d2ccdccfdc6132f944bbf0?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Apr 05 |
 | **[Los Angeles County Sanitation Districts](https://www.lacsd.org/)** | **[Civil/Environmental Engineer](https://jobright.ai/jobs/info/69d2cbdf0b098b7a67089a7f?utm_campaign=1048&utm_source=git)** | Whittier, CA | On Site | Apr 05 |
 | **[Daice Labs](https://daicelabs.com/)** | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/69d2c31b891d7b11cfceb870?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 05 |
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69b07a69749500645096c9f9?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[DCS - Land Surveying Internship](https://jobright.ai/jobs/info/69d2b771cdb525785fbba76b?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 05 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development @ UW Bioengineering](https://jobright.ai/jobs/info/69d287be0b098b7a670892f7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69619338e7ed9a5731ba6da4?utm_campaign=1048&utm_source=git)** | Fort Mill, SC | On Site | Apr 05 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician II](https://jobright.ai/jobs/info/69c80d3b83ea553769fe8472?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Apr 05 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69460e3b63141d188455bcfc?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 05 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Environmental Management Generation Intern](https://jobright.ai/jobs/info/69d25f6254f00230c6d214ba?utm_campaign=1048&utm_source=git)** | Chico, CA | Hybrid | Apr 05 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/69d1fc9f54f00230c6d1ead0?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
-| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/69d1ddce0b098b7a67084e7d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
