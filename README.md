@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cedar Hill](www.cedarhilltx.com)** | **[Environmental Technician Intern](https://jobright.ai/jobs/info/69d3634a366bb95ba5534115?utm_campaign=1048&utm_source=git)** | Cedar Hill, TX | On Site | Apr 06 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Nuclear Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c49bb46f4f855eeda73a0b?utm_campaign=1048&utm_source=git)** | Niskayuna, NY | On Site | Apr 06 |
+| ↳ | **[Nuclear Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c4a08733eecf3107950691?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Apr 06 |
+| **[Pompeian](http://pompeian.com)** | **[R&D Intern](https://jobright.ai/jobs/info/69d35cfccfdc6132f9450ba5?utm_campaign=1048&utm_source=git)** | Maryland - Baltimore, MD 21224 | On Site | Apr 06 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Professional Flight - Flight Operations (Fall 2026)](https://jobright.ai/jobs/info/69ccd7c4cfdc6132f94140d3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
+| ↳ | **[Intern, Aviation Management - Flight Operations (Fall 2026)](https://jobright.ai/jobs/info/69caf9bf1b5ad028873a7454?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
+| ↳ | **[Graduate Intern, Flight Safety Investigations (Fall 2026)](https://jobright.ai/jobs/info/69c8c338e565c26a70030eb4?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 05 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Plant Pathology Research Intern](https://jobright.ai/jobs/info/69d3473154f00230c6d261d5?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Apr 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Safety Internship - The Glenmore Distillery](https://jobright.ai/jobs/info/69d3403854f00230c6d25da3?utm_campaign=1048&utm_source=git)** | Owensboro, KY | On Site | Apr 05 |
@@ -112,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/696c6565350cf43803139549?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant (Joint BioEnergy Institute)](https://jobright.ai/jobs/info/69d29d0a0b098b7a670897e8?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
-| **[ANB Bank](http://anbbank.com)** | **[Information Security Engineer](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b952?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
-| ↳ | **[Information Security Officer III](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b951?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
+| **[ANB Bank](http://anbbank.com)** | **[Information Security Officer III](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b951?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
+| ↳ | **[Information Security Engineer](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b952?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Civil Engineering Summer Intern](https://jobright.ai/jobs/info/697e0bc1ce48107c05425671?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Field Research Operations Associate](https://jobright.ai/jobs/info/69d2981154f00230c6d22200?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e0827ce48107c0542506b?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 05 |
@@ -121,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Quantum-inspired Algorithms for Industrial Applications Researcher Internship](https://jobright.ai/jobs/info/6999d79f81476f6176b28a10?utm_campaign=1048&utm_source=git)** | Princeton, NJ | Hybrid | Apr 05 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Radio/Audio Programming Internship](https://jobright.ai/jobs/info/69d293cb891d7b11cfceb5cd?utm_campaign=1048&utm_source=git)** | NY-Rochester, UNAVAILABLE, USA | On Site | Apr 05 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 Process Control Engineer Co-op/Internship - Big Island, VA](https://jobright.ai/jobs/info/699be5fece78e77b4fe07d75?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Apr 05 |
-| **[LevelTen Energy](http://leveltenenergy.com)** | **[Renewable Energy Mentorship Program (Internship)](https://jobright.ai/jobs/info/69d28f09366bb95ba552e3ca?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 05 |
 | **[Copart](http://www.copart.com)** | **[Field Engineering Intern](https://jobright.ai/jobs/info/69b1117b749500645098571a?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[CertiK](https://www.certik.com/)** | **[Blockchain Security Expert Intern - AI Track](https://jobright.ai/jobs/info/68288d020add149fa6d39170?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Apr 05 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship - Technician](https://jobright.ai/jobs/info/694613acd1953b5d11bf3405?utm_campaign=1048&utm_source=git)** | Galesburg, MI | On Site | Apr 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aviation Maintenance Tech Team Lead (A&P) FLEX team](https://jobright.ai/jobs/info/6961c2d4e7ed9a5731ba95bf?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 05 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/6998e5b2e0bddb6acac7cf82?utm_campaign=1048&utm_source=git)** | Canton, MA | Hybrid | Apr 05 |
 | **[Cisco](http://www.cisco.com)** | **[Security Research Engineer I (Intern) - United States](https://jobright.ai/jobs/info/699937ac81476f6176b1c47f?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Apr 05 |
-| **[Typeface](https://www.typeface.ai)** | **[ML Engineer Intern](https://jobright.ai/jobs/info/69619e12e7ed9a5731ba7861?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 05 |
-| **[Rosendin](https://www.rosendin.com)** | **[Intern (2026)](https://jobright.ai/jobs/info/69c43372d5a1016e98db467d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 05 |
-| **[Boston Dynamics](http://bostondynamics.com)** | **[AI/ML Safety Intern](https://jobright.ai/jobs/info/6998f0d381476f6176b159f3?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 05 |
-| **[BW Converting](http://www.bwconverting.com)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/69c173bb2c312363dcd44728?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Apr 05 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69bc179f5b89c002acf1138c?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Land Operations NRM Intern](https://jobright.ai/jobs/info/69d2634ccdb525785fbb98fe?utm_campaign=1048&utm_source=git)** | Auburn, CA | Hybrid | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
