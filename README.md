@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach USA](http://www.coachusa.com)** | **[Occupational Safety & Health Intern](https://jobright.ai/jobs/info/69d2f1da54f00230c6d2415d?utm_campaign=1048&utm_source=git)** | Paramus, NJ | Hybrid | Apr 05 |
+| **[Philo Homes](https://philo.homes/)** | **[Computer Vision Engineer Intern_Bilingual Chinese](https://jobright.ai/jobs/info/69d2f0f0891d7b11cfced552?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 05 |
+| **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Technician](https://jobright.ai/jobs/info/69d2ed23cfdc6132f944d64a?utm_campaign=1048&utm_source=git)** | Bristol, CT | On Site | Apr 05 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/69d2e65b0b098b7a6708b12e?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 05 |
 | **[Intel](http://www.intel.com)** | **[Circuit Design Engineer Intern](https://jobright.ai/jobs/info/69d2e63fcfdc6132f944d180?utm_campaign=1048&utm_source=git)** | US, Texas, Austin | Hybrid | Apr 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Center for the Industrial Base (Summer 2026)](https://jobright.ai/jobs/info/69d2e222366bb95ba552fa67?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Apr 05 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Multnomah County](https://multco.us)** | **[DCS - Land Surveying Internship](https://jobright.ai/jobs/info/69d2b771cdb525785fbba76b?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 05 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development @ UW Bioengineering](https://jobright.ai/jobs/info/69d287be0b098b7a670892f7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69619338e7ed9a5731ba6da4?utm_campaign=1048&utm_source=git)** | Fort Mill, SC | On Site | Apr 05 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
-| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d65bc3f57a33569674874?utm_campaign=1048&utm_source=git)** | Seattle, WA | Remote | Apr 05 |
+| ↳ | **[2026 - Next in Tech Summit, NORAM](https://jobright.ai/jobs/info/697d8834abff4c399a9c3f58?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Remote | Apr 05 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Lab Technician II](https://jobright.ai/jobs/info/69c80d3b83ea553769fe8472?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68bae7975f3832749186a670?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Apr 05 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[R&D Intern (Summer 2026)](https://jobright.ai/jobs/info/68cee990846f0b04af67dc8c?utm_campaign=1048&utm_source=git)** | Willowbrook, IL | Hybrid | Apr 05 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/696c6565350cf43803139549?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant (Joint BioEnergy Institute)](https://jobright.ai/jobs/info/69d29d0a0b098b7a670897e8?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 05 |
 | **[Swinerton](http://www.swinerton.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/68c663697d0db411427395f6?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 05 |
-| **[ANB Bank](http://anbbank.com)** | **[Information Security Officer III](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b951?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
-| ↳ | **[Information Security Engineer](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b952?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
+| **[ANB Bank](http://anbbank.com)** | **[Information Security Engineer](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b952?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
+| ↳ | **[Information Security Officer III](https://jobright.ai/jobs/info/69d29a7acfdc6132f944b951?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | Apr 05 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Civil Engineering Summer Intern](https://jobright.ai/jobs/info/697e0bc1ce48107c05425671?utm_campaign=1048&utm_source=git)** | Glen Allen, VA | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Field Research Operations Associate](https://jobright.ai/jobs/info/69d2981154f00230c6d22200?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Electrical Engineering Summer Intern](https://jobright.ai/jobs/info/697e0827ce48107c0542506b?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 05 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Chemical Engineering Intern - Aviation and Federal (Richland, WA)](https://jobright.ai/jobs/info/69b62bdc06c1ba00c54803cc?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 05 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Systems Test Engineer (SkillBridge Intern) - 26005](https://jobright.ai/jobs/info/690d3f194a1b456627b1fb30?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 05 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Geotechnical Engineering Intern - Kansas City](https://jobright.ai/jobs/info/69817954abff4c399aa07726?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 05 |
-| **[City of Yorba Linda](https://www.yorbalindaca.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d27c37891d7b11cfceb003?utm_campaign=1048&utm_source=git)** | Yorba Linda, CA | On Site | Apr 05 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern (Summer 2026) - Kiewit Offshore Services](https://jobright.ai/jobs/info/69d2787f54f00230c6d21b1a?utm_campaign=1048&utm_source=git)** | Ingleside, TX | On Site | Apr 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Civil/Structural Inspections, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6999499f81476f6176b1e5cf?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 05 |
 | **[RK](http://www.rkmi.com)** | **[Project Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/6998edde81476f6176b15588?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Environmental Management Generation Intern](https://jobright.ai/jobs/info/69d25f6254f00230c6d214ba?utm_campaign=1048&utm_source=git)** | Chico, CA | Hybrid | Apr 05 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/69d1fc9f54f00230c6d1ead0?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/69d1ddce0b098b7a67084e7d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 05 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d20e2954f00230c6d1fb73?utm_campaign=1048&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 05 |
-| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/69b560923b74eb1e2c82e919?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
