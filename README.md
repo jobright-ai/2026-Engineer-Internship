@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com)** | **[Intern IT - Application Development, Data Integration](https://jobright.ai/jobs/info/69ba83b45697383741400149?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Apr 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/692ba4104c474121999cdf9c?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 07 |
+| **[Dyno Nobel](http://www.dynonobel.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69b8656606c1ba00c54a4de0?utm_campaign=1048&utm_source=git)** | West Valley City, UT | On Site | Apr 07 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Fuel Engineering Intern Summer 2026](https://jobright.ai/jobs/info/68b88621ea901c0d269f6ea9?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 07 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[EHS&S Intern](https://jobright.ai/jobs/info/69d4746154f00230c6d31516?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 07 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Non-Destructive Test Inspector – Internship](https://jobright.ai/jobs/info/69b88bb506c1ba00c54a8594?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 07 |
+| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Quality Control Position (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f353b74eb1e2c85ed25?utm_campaign=1048&utm_source=git)** | LA Metro Area | On Site | Apr 07 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Geotechnical Engineering Intern or Co-op - Fall 2026](https://jobright.ai/jobs/info/69b8199856973837413d489b?utm_campaign=1048&utm_source=git)** | New Haven, CT | On Site | Apr 07 |
+| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Quality Control Position (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f6856973837413d77ed?utm_campaign=1048&utm_source=git)** | Utica-Rome Area | On Site | Apr 07 |
+| **[The LiRo Group](https://www.liro.com/)** | **[VDCO Internship](https://jobright.ai/jobs/info/69d4d9a3366bb95ba5541231?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Engineering Intern](https://jobright.ai/jobs/info/6988003b8ca8121a3a6a767e?utm_campaign=1048&utm_source=git)** | Greater Lansing | On Site | Apr 07 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Geotechnical Engineering Intern or Co-op - Fall 2026](https://jobright.ai/jobs/info/69b818793b74eb1e2c85bea6?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 07 |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher(Video Quality Analysis&Coding Strategy) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bfc25a2c312363dcd287ed?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/697ef682ce48107c05431694?utm_campaign=1048&utm_source=git)** | Paducah, KY | On Site | Apr 07 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineering Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68d657c64736ff202fdd2cf7?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Non-Destructive Test Inspector – Internship](https://jobright.ai/jobs/info/69b88a7a56973837413dec77?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Apr 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b8705c06c1ba00c54a6269?utm_campaign=1048&utm_source=git)** | Old Hickory, TN | On Site | Apr 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Non-Destructive Test Inspector – Internship](https://jobright.ai/jobs/info/69b88cdb56973837413ded5b?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Apr 07 |
@@ -64,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Newmont Corporation](https://www.newmont.com)** | **[Mine Planner, Intern Red Chris Block Cave](https://jobright.ai/jobs/info/69d4cddf366bb95ba554114a?utm_campaign=1048&utm_source=git)** | Dease Lake, BC | On Site | Apr 07 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Shipboard HF Radio Subject Matter Expert (Active Duty Service Members)](https://jobright.ai/jobs/info/6969bab0f25a380066986de1?utm_campaign=1048&utm_source=git)** | Portsmouth, VA | On Site | Apr 07 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/699d25c6e0bddb6acacc4c1f?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 07 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Engineer, Data and Analytics](https://jobright.ai/jobs/info/69b868b456973837413dbb50?utm_campaign=1048&utm_source=git)** | Ottawa, ON | Hybrid | Apr 07 |
 | **[FTI Defense - Frontier Technology Inc.](https://www.fti-net.com)** | **[AI/ML Engineering Internship](https://jobright.ai/jobs/info/69b85b0406c1ba00c54a32ec?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[GHD](http://www.ghd.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69b8683b56973837413db903?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Apr 07 |
 | **[Methode Electronics](http://methode.com)** | **[Product Development Engineering Intern (Mechanical, Optical, & Electrical)](https://jobright.ai/jobs/info/69cedafb398fb071abf89dd7?utm_campaign=1048&utm_source=git)** | Southfield, MI | On Site | Apr 07 |
@@ -81,16 +97,16 @@ For a complete list, click the following sortable link below:
 | **[SiFive](https://www.sifive.com)** | **[CPU Design Intern](https://jobright.ai/jobs/info/69c65b5a83ea553769fdabe1?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 06 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, R&D Engineering  - Wayne, NJ](https://jobright.ai/jobs/info/69d495adcdb525785fbcb0cd?utm_campaign=1048&utm_source=git)** | Wayne, NJ, US | On Site | Apr 06 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d49581e63cea7a8b65b5b3?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 06 |
-| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf49?utm_campaign=1048&utm_source=git)** | Lakewood, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf4b?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Apr 06 |
+| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf49?utm_campaign=1048&utm_source=git)** | Lakewood, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494facdb525785fbcaf64?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494ebcfdc6132f945c5c5?utm_campaign=1048&utm_source=git)** | Cypress, TX | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494eacfdc6132f945c5c1?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494ebcfdc6132f945c5c3?utm_campaign=1048&utm_source=git)** | Fremont, UT | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494e6366bb95ba553f353?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 06 |
+| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c22?utm_campaign=1048&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c1f?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c20?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Apr 06 |
-| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c22?utm_campaign=1048&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c21?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, R&D Systems Engineering](https://jobright.ai/jobs/info/69d48e38e63cea7a8b65b159?utm_campaign=1048&utm_source=git)** | Wayne, NJ, US | On Site | Apr 06 |
 | **[WinCo Foods](http://wincofoods.com)** | **[Machine Learning Developer Intern](https://jobright.ai/jobs/info/69d48e32e63cea7a8b65b12f?utm_campaign=1048&utm_source=git)** | US-ID-BOISE | On Site | Apr 06 |
@@ -114,12 +130,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69d47f8654f00230c6d31b7b?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Apr 06 |
 | **[Voya Financial](https://www.voya.com/)** | **[AI Execution Intern](https://jobright.ai/jobs/info/69d47c40891d7b11cfcfadb3?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | ↳ | **[AI Execution Intern](https://jobright.ai/jobs/info/69d47c40891d7b11cfcfadb4?utm_campaign=1048&utm_source=git)** | Hartford, CT | On Site | Apr 06 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Civil Engineering/Civil Design](https://jobright.ai/jobs/info/69d47c40366bb95ba553e201?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 06 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d47c23cdb525785fbc9e7a?utm_campaign=1048&utm_source=git)** | Carson, CA | On Site | Apr 06 |
 | **[Voya Financial](https://www.voya.com/)** | **[AI Execution Intern](https://jobright.ai/jobs/info/69d4794bcfdc6132f945b31c?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Introba](https://www.introba.com)** | **[Intern, Mechanical Engineering Designer](https://jobright.ai/jobs/info/69d47795891d7b11cfcfa9a8?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d47686e63cea7a8b65a058?utm_campaign=1048&utm_source=git)** | East Granby, CT | On Site | Apr 06 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/69d47661891d7b11cfcfa991?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[KLA](https://www.kla.com)** | **[Product Sustainability Intern](https://jobright.ai/jobs/info/69d47562e63cea7a8b65a011?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 06 |
 | **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69d474c054f00230c6d31664?utm_campaign=1048&utm_source=git)** | Fairfield, CA | On Site | Apr 06 |
 | **[GHD](http://www.ghd.com)** | **[Marine & Coastal Intern](https://jobright.ai/jobs/info/69d4727be63cea7a8b659db3?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/69d46792cdb525785fbc8e74?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Apr 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer - Quality Engineering Internship - (SSO Division, Location: Irvine, CA)](https://jobright.ai/jobs/info/69d4678c54f00230c6d30ae7?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Design Intern - Architecture](https://jobright.ai/jobs/info/69d46780cfdc6132f945a498?utm_campaign=1048&utm_source=git)** | Blue Bell, PA | On Site | Apr 06 |
-| **[UES](https://www.teamues.com)** | **[Geotechnical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d4637fe63cea7a8b659377?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Apr 06 |
-| **[ProMach](http://www.promachbuilt.com/)** | **[Intern-Engineering](https://jobright.ai/jobs/info/69d4636b366bb95ba553d142?utm_campaign=1048&utm_source=git)** | Statham, GA | On Site | Apr 06 |
-| **[KLA](https://www.kla.com)** | **[Product Sustainability Intern](https://jobright.ai/jobs/info/69d46142cdb525785fbc8cfc?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 06 |
-| **[Intel](http://www.intel.com)** | **[F25 MET Student Technician - Metals - ICE - Intern](https://jobright.ai/jobs/info/69d45feacfdc6132f945a22f?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Apr 06 |
-| **[VRAI](https://www.vrai.com/)** | **[Summer Internship – Hardware / Software / Electrical Engineering (3 Months, Summer 2026)](https://jobright.ai/jobs/info/69d47c21cdb525785fbc9e72?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 06 |
-| **[Intel](http://www.intel.com)** | **[Module Engineering Graduate Intern](https://jobright.ai/jobs/info/69d45e50cfdc6132f945a1f8?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Apr 06 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Water Engineering Internship - 2026](https://jobright.ai/jobs/info/69d45df154f00230c6d30853?utm_campaign=1048&utm_source=git)** | Morristown, NJ | Hybrid | Apr 06 |
-| ↳ | **[Water Engineering Internship - 2026](https://jobright.ai/jobs/info/69d45defe63cea7a8b6591d7?utm_campaign=1048&utm_source=git)** | Iselin, NJ | Hybrid | Apr 06 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern - Security Analyst](https://jobright.ai/jobs/info/69d45dea54f00230c6d30845?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Cybersecurity Analyst](https://jobright.ai/jobs/info/69d45cd4366bb95ba553cf47?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Magna International](http://www.magna.com/)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/69d44547cfdc6132f9459553?utm_campaign=1048&utm_source=git)** | Duncan, SC | On Site | Apr 06 |
-| **[Castelion](https://www.castelion.com)** | **[Summer 2026 Mechanical Engineering Internship](https://jobright.ai/jobs/info/69d45b71cdb525785fbc8b84?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Apr 06 |
-| **[GHD](http://www.ghd.com)** | **[Marine & Coastal Intern](https://jobright.ai/jobs/info/69d45b0fcdb525785fbc8a61?utm_campaign=1048&utm_source=git)** | 2305 Historic Decatur Road Suite 102, SAN DIEGO, CA, 92106, US | Hybrid | Apr 06 |
-| **[BD](https://www.bd.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69d45b0fcdb525785fbc8a5d?utm_campaign=1048&utm_source=git)** | USA UT - Salt Lake City BAS | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
