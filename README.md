@@ -57,19 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Assent](http://assent.com)** | **[AI Research Intern, PhD (Full Time- Summer)](https://jobright.ai/jobs/info/69d4a6e754f00230c6d333cf?utm_campaign=1048&utm_source=git)** | Ottawa, ON | Hybrid | Apr 06 |
+| **[Bohler](https://bohlerengineering.com)** | **[Intern – Civil Engineer (Land Development) – Summer 2026 / Richmond, VA / Bohler](https://jobright.ai/jobs/info/69c596871b5ad028873768dd?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Apr 06 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[RAIL ENGINEERING TRANSPORTATION ENGINEER - 04072026-76407](https://jobright.ai/jobs/info/69d4a15054f00230c6d33336?utm_campaign=1048&utm_source=git)** | Davidson County, TN | Hybrid | Apr 06 |
+| **[SiFive](https://www.sifive.com)** | **[CPU Design Intern](https://jobright.ai/jobs/info/69c65b5a83ea553769fdabe1?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 06 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, R&D Engineering  - Wayne, NJ](https://jobright.ai/jobs/info/69d495adcdb525785fbcb0cd?utm_campaign=1048&utm_source=git)** | Wayne, NJ, US | On Site | Apr 06 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d49581e63cea7a8b65b5b3?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 06 |
-| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf49?utm_campaign=1048&utm_source=git)** | Lakewood, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf4b?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | Apr 06 |
+| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4957e891d7b11cfcfbf49?utm_campaign=1048&utm_source=git)** | Lakewood, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494facdb525785fbcaf64?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494ebcfdc6132f945c5c5?utm_campaign=1048&utm_source=git)** | Cypress, TX | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494ebcfdc6132f945c5c3?utm_campaign=1048&utm_source=git)** | Fremont, UT | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494eacfdc6132f945c5c1?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494e6366bb95ba553f353?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 06 |
-| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c1f?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c22?utm_campaign=1048&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c21?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
 | ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c20?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Apr 06 |
+| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d494db54f00230c6d32c1f?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, R&D Systems Engineering](https://jobright.ai/jobs/info/69d48e38e63cea7a8b65b159?utm_campaign=1048&utm_source=git)** | Wayne, NJ, US | On Site | Apr 06 |
 | **[WinCo Foods](http://wincofoods.com)** | **[Machine Learning Developer Intern](https://jobright.ai/jobs/info/69d48e32e63cea7a8b65b12f?utm_campaign=1048&utm_source=git)** | US-ID-BOISE | On Site | Apr 06 |
 | **[Presto](https://www.prestocharging.com/)** | **[AI Engineering Intern, Voice & LLM Systems](https://jobright.ai/jobs/info/69d48e1b891d7b11cfcfba58?utm_campaign=1048&utm_source=git)** | California, California, United States | On Site | Apr 06 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Manufacturing Operations Analyst](https://jobright.ai/jobs/info/69d489eacdb525785fbca5f6?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Apr 06 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69d4893f366bb95ba553e95b?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Apr 06 |
 | **[HP](http://www.hp.com)** | **[Technology & Innovation Organization Hardware Engineering Internship](https://jobright.ai/jobs/info/69d33d68891d7b11cfcef01d?utm_campaign=1048&utm_source=git)** | Corvallis, OR | Hybrid | Apr 06 |
+| **[Peak Energy](https://www.peakenergy.com)** | **[Mechanical Design Intern (Fall 2026)](https://jobright.ai/jobs/info/69d4a29554f00230c6d33361?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Apr 06 |
 | **[City of Grapevine](https://grapevinetexas.gov/)** | **[GIS Engineering Intern (Summer Position)](https://jobright.ai/jobs/info/69d48311e63cea7a8b65a834?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Apr 06 |
 | **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Operator-In-Training (OIT)](https://jobright.ai/jobs/info/69d48158366bb95ba553e55e?utm_campaign=1048&utm_source=git)** | Fairfield, CA | On Site | Apr 06 |
 | **[David Evans and Associates, Inc.](http://www.deainc.com)** | **[Internship: CAD Technician - Salem](https://jobright.ai/jobs/info/69d47fd1e63cea7a8b65a5b0?utm_campaign=1048&utm_source=git)** | Salem, OR | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Intern](https://jobright.ai/jobs/info/69d4523b891d7b11cfcf93e9?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | Apr 06 |
 | **[Assent](http://assent.com)** | **[AI Research Intern, PhD (Full Time- Summer)](https://jobright.ai/jobs/info/69d49a99cfdc6132f945ca6d?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | Remote | Apr 06 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/69d45108cdb525785fbc8382?utm_campaign=1048&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
-| **[The Berg Group](https://berggroup.us)** | **[Construction Safety Intern](https://jobright.ai/jobs/info/69d44fa3366bb95ba553c674?utm_campaign=1048&utm_source=git)** | Chaska, MN | On Site | Apr 06 |
-| ↳ | **[Construction Project Engineer Intern](https://jobright.ai/jobs/info/69d44fa0366bb95ba553c66c?utm_campaign=1048&utm_source=git)** | Canton, MS | On Site | Apr 06 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[LVD Applications Engineer Intern](https://jobright.ai/jobs/info/69d44f9554f00230c6d2ffe4?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 06 |
-| **[The Berg Group](https://berggroup.us)** | **[Construction Estimator Intern](https://jobright.ai/jobs/info/69d44f8ae63cea7a8b6588ca?utm_campaign=1048&utm_source=git)** | Chaska, MN | On Site | Apr 06 |
-| **[TRIMEDX](https://trimedx.com/)** | **[SKILLBRIDGE Biomedical Intern](https://jobright.ai/jobs/info/69d44f65cdb525785fbc8317?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
