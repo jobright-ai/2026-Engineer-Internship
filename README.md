@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Until](https://www.untillabs.com)** | **[Hibernation Rodent Perfusion Intern (Rodent ECMO / Whole-Body Recovery) — Evening/Night Shift](https://jobright.ai/jobs/info/69d720ea52a5bf580012e0c4?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 08 |
+| **[Northern Engineering & Consulting, Inc.](https://neciusa.com)** | **[Mechanical Engineering Intern / Kansas City, MO](https://jobright.ai/jobs/info/69d72e94366bb95ba5552642?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 08 |
+| ↳ | **[Civil Engineering Intern / Bettendorf, IA](https://jobright.ai/jobs/info/69d72e69950d1a0760b7c20e?utm_campaign=1048&utm_source=git)** | Bettendorf, IA | On Site | Apr 08 |
+| ↳ | **[Civil Engineering Intern / Peoria, IL](https://jobright.ai/jobs/info/69d72e4a706f771673bb07c6?utm_campaign=1048&utm_source=git)** | Peoria, IL | On Site | Apr 08 |
+| **[United Tribes Technical College](http://www.uttc.edu/)** | **[Laboratory Equipment Technician-Close April 22, 2026, at 5:00 pm](https://jobright.ai/jobs/info/69d72db2cfdc6132f946fa90?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Apr 08 |
+| **[Yunex Traffic](https://www.yunextraffic.com/global/en/)** | **[Traffic Signal Technician](https://jobright.ai/jobs/info/69d72d64366bb95ba55524ba?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | Apr 08 |
+| ↳ | **[Traffic Signal Technician](https://jobright.ai/jobs/info/69d72d64366bb95ba55524b8?utm_campaign=1048&utm_source=git)** | Anaheim, CA | Hybrid | Apr 08 |
+| **[OESC (Oneida ESC Group)](https://oescgroup.com/)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/69d72d50950d1a0760b7c063?utm_campaign=1048&utm_source=git)** | Ventura, CA | On Site | Apr 08 |
+| **[Yunex Traffic](https://www.yunextraffic.com/global/en/)** | **[Traffic Signal Technician](https://jobright.ai/jobs/info/69d72c73e63cea7a8b66e8b2?utm_campaign=1048&utm_source=git)** | Riverside, CA | Hybrid | Apr 08 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/69d72ad3950d1a0760b7bef3?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
+| **[Maverik, Inc.](https://maverik.com/)** | **[Logistics Data & Maintenance Analysis Intern](https://jobright.ai/jobs/info/69d726cb48f0c8161d2fd5a0?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 08 |
+| **[Danfoss](https://www.danfoss.com)** | **[Environmental, Health, and Safety Intern](https://jobright.ai/jobs/info/69d7259a48f0c8161d2fd582?utm_campaign=1048&utm_source=git)** | Loves Park, IL | On Site | Apr 08 |
+| **[Roux](http://www.rouxinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69d7250f366bb95ba5552148?utm_campaign=1048&utm_source=git)** | Islandia, NY | On Site | Apr 08 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cybersecurity (Fall 2026)](https://jobright.ai/jobs/info/69d7243452a5bf580012e2e3?utm_campaign=1048&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
+| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Engineering Summer Internship](https://jobright.ai/jobs/info/69d722f7cfdc6132f946f4f2?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Apr 08 |
+| **[Titan Technologies](https://titantechnologies.com)** | **[Field Engineering College Intern](https://jobright.ai/jobs/info/69d722dfcfdc6132f946f4c5?utm_campaign=1048&utm_source=git)** | Destin, FL | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cybersecurity (Fall 2026)](https://jobright.ai/jobs/info/69d720c1706f771673bb00e5?utm_campaign=1048&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69d71dea706f771673baffa2?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 08 |
 | **[City of Yorba Linda](https://www.yorbalindaca.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d71dea706f771673baff9e?utm_campaign=1048&utm_source=git)** | Yorba Linda, CA | On Site | Apr 08 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ClinMastery](https://www.clinmastery.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/69d6f0fd48f0c8161d2fc031?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Apr 08 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Cybersecurity](https://jobright.ai/jobs/info/69d6f0ebcfdc6132f946e25c?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Apr 08 |
 | **[ITW](http://www.itw.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69d6ee64366bb95ba5550c51?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 08 |
-| **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[College Intern](https://jobright.ai/jobs/info/69d6ee61366bb95ba5550c34?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 08 |
-| **[Altera](https://www.altera.com)** | **[FPGA Tools Engineer - Intern](https://jobright.ai/jobs/info/69d6ee61366bb95ba5550c32?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
-| **[Berkley Technology Services](https://berkley-bts.com)** | **[Cloud Team Intern](https://jobright.ai/jobs/info/69d6ee5ee63cea7a8b66d190?utm_campaign=1048&utm_source=git)** | Urbandale, IA | On Site | Apr 08 |
-| **[Holtec International](https://holtecinternational.com/)** | **[Intern - Security](https://jobright.ai/jobs/info/69d6ee31366bb95ba5550bb0?utm_campaign=1048&utm_source=git)** | Covert, MI | On Site | Apr 08 |
-| **[Magna International](http://www.magna.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69d6ee2a52a5bf580012cf11?utm_campaign=1048&utm_source=git)** | Holly, MI | On Site | Apr 08 |
-| **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69d6ee2852a5bf580012cef7?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Apr 08 |
-| **[Berkley Technology Services](https://berkley-bts.com)** | **[Intern](https://jobright.ai/jobs/info/69d6ee2552a5bf580012cee9?utm_campaign=1048&utm_source=git)** | Urbandale, IA | On Site | Apr 08 |
-| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Supply Operations  (Treatment)](https://jobright.ai/jobs/info/69d6ee21706f771673baedd5?utm_campaign=1048&utm_source=git)** | Shelton, CT | On Site | Apr 08 |
-| **[Aggregate Resource Industries, Inc.](https://www.ariinc.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69d6ee16706f771673baed9e?utm_campaign=1048&utm_source=git)** | Eugene, OR | On Site | Apr 08 |
-| **[Vistra Corp.](https://vistracorp.com)** | **[Fall 2026 Engineering Intern - Davis Besse](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce91?utm_campaign=1048&utm_source=git)** | Oak Harbor, OH | On Site | Apr 08 |
-| **[Waste Connections](http://www.wasteconnections.com/)** | **[Landfill Operations Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee0452a5bf580012ce6f?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Apr 08 |
-| **[Waterton](https://www.waterton.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d6edfa52a5bf580012ce38?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Platform Engineering Intern](https://jobright.ai/jobs/info/69d6e8ec366bb95ba5550ad8?utm_campaign=1048&utm_source=git)** | Alexandria, VA | On Site | Apr 08 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[GET Athens Intern Summer 2026](https://jobright.ai/jobs/info/69d6e8c7cfdc6132f946e073?utm_campaign=1048&utm_source=git)** | Athens, GA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
