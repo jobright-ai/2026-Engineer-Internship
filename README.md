@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moulton Niguel Water District](https://www.mnwd.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69d8de50738f2f099e89ee64?utm_campaign=1048&utm_source=git)** | Laguna Hills, CA | On Site | Apr 10 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Systems Integration and Test Engineering Intern](https://jobright.ai/jobs/info/69d8de20738f2f099e89edc6?utm_campaign=1048&utm_source=git)** | Guilford, CT | On Site | Apr 10 |
+| **[Sharpa](https://www.sharpa.com/)** | **[Robotics Support & Maintenance Intern](https://jobright.ai/jobs/info/69d8de0a738f2f099e89ed96?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Apr 10 |
+| **[GHD](http://www.ghd.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/698361ab0f6f7e7a2cdcc633?utm_campaign=1048&utm_source=git)** | Des Moines, IA | Hybrid | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69cc8ee1366bb95ba54f2f58?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 10 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[SAFETY INTERN - MANUFACTURING (El Paso, Texas, United States, 79934)](https://jobright.ai/jobs/info/699fc96e81476f6176b98571?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Apr 10 |
 | ↳ | **[SAFETY INTERN - MANUFACTURING (Muskogee, Oklahoma, United States, 74401)](https://jobright.ai/jobs/info/699fdc3253d97f23ee656169?utm_campaign=1048&utm_source=git)** | Muskogee, OK | On Site | Apr 10 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The Wine Group](http://thewinegroup.com/)** | **[Winemaking Intern - Multiple Locations](https://jobright.ai/jobs/info/691d4eeebcdbf3560c9efb13?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (ML System) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69af89c6dfaeda6ff597ad42?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | ↳ | **[Software Engineer Intern (Applied Machine Learning - ML System) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b667743b74eb1e2c843588?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
-| **[iClassPro - Class Management Software](https://www.iclasspro.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d8d20eb67cec4f9b09ef54?utm_campaign=1048&utm_source=git)** | Longview, TX | On Site | Apr 10 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Environmental Development and Permitting](https://jobright.ai/jobs/info/69bc1a044828227293fd4f5f?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Automotive Product Global Quality](https://jobright.ai/jobs/info/69bbfe0d4828227293fd142e?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Apr 10 |
 | **[BoardRoom magazine](https://www.boardroommagazine.com/)** | **[Summer Internship, Southern Hills Country Club](https://jobright.ai/jobs/info/69d8d1825356a60f40fd695d?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Apr 10 |
@@ -131,8 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern, Manufacturing](https://jobright.ai/jobs/info/69d8b1d2869c7e25d8597515?utm_campaign=1048&utm_source=git)** | Vista, CA | Hybrid | Apr 10 |
 | **[Cerence AI](https://www.cerence.com/)** | **[AI Intern](https://jobright.ai/jobs/info/69d6ee2348f0c8161d2fbf0f?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 10 |
 | **[BD](https://www.bd.com)** | **[R&D Engineering Intern](https://jobright.ai/jobs/info/69d8b12d738f2f099e89ddb2?utm_campaign=1048&utm_source=git)** | USA AZ - Tempe Headquarters | On Site | Apr 10 |
-| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Manufacturing Engineer Intern - Temp](https://jobright.ai/jobs/info/69952b4cce78e77b4fd94367?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | Apr 10 |
-| ↳ | **[Manufacturing Engineer Intern - Temp](https://jobright.ai/jobs/info/69953344ce78e77b4fd94db8?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 10 |
+| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Manufacturing Engineer Intern - Temp](https://jobright.ai/jobs/info/69953344ce78e77b4fd94db8?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 10 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Device & Packaging Technologies](https://jobright.ai/jobs/info/69d8d136b67cec4f9b09ef14?utm_campaign=1048&utm_source=git)** | Novato, CA | Hybrid | Apr 10 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Manufacturing Engineer Intern (Equipment) - Temp](https://jobright.ai/jobs/info/69954097ce78e77b4fd95d35?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 10 |
 | **[AMSOIL INC.](http://1gr8oil.com)** | **[Chemical Laboratory Intern](https://jobright.ai/jobs/info/69ba977e06c1ba00c54cbc96?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/69d8b1969f97a42dc9c1daf5?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Apr 09 |
 | **[Hamilton Company](http://hamiltoncompany.com)** | **[Manufacturing Engineer - Machine Shop - Intern](https://jobright.ai/jobs/info/69d8b201738f2f099e89e2cf?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Apr 09 |
 | **[Workato](http://www.workato.com)** | **[Intern, AI Engineering](https://jobright.ai/jobs/info/69d87f71f4ea471a51fe6514?utm_campaign=1048&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
-| **[TSC](https://www.tsc.com/)** | **[Aerospace/Mechanical Engineering Intern](https://jobright.ai/jobs/info/69cdb961891d7b11cfcbf1d8?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Apr 09 |
-| **[Mitsubishi Electric Automation, Inc.](https://us.mitsubishielectric.com/fa/en)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d87efb869c7e25d859610f?utm_campaign=1048&utm_source=git)** | Vernon Hills, IL | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
