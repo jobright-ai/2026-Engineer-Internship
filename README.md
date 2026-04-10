@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Process & Mechanical Engineer Intern - Spring 2026](https://jobright.ai/jobs/info/69d8c3b79f97a42dc9c1e4cc?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Apr 10 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Construction Management Internship - 2026 Graduates](https://jobright.ai/jobs/info/69d8c382869c7e25d8597ac2?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
+| ↳ | **[Summer 2026 Construction Management Intern](https://jobright.ai/jobs/info/69d8c37a869c7e25d8597abd?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 10 |
+| **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Engineering](https://jobright.ai/jobs/info/69d8c20bb67cec4f9b09ec29?utm_campaign=1048&utm_source=git)** | Fernley, NV | On Site | Apr 10 |
+| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Operations Intern](https://jobright.ai/jobs/info/69d8c20ab67cec4f9b09ec1e?utm_campaign=1048&utm_source=git)** | Carson, CA | On Site | Apr 10 |
+| **[iClassPro - Class Management Software](https://www.iclasspro.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d8c1fbb67cec4f9b09ec03?utm_campaign=1048&utm_source=git)** | Longview, TX | On Site | Apr 10 |
+| **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Water Resources Intern](https://jobright.ai/jobs/info/69d8c1e2738f2f099e89e981?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Apr 10 |
+| **[Moderna](http://www.modernatx.com)** | **[Automation Engineering, Clinical Biomarker Lab 2026 Intern](https://jobright.ai/jobs/info/69d8c172f748bc5d08a45ecb?utm_campaign=1048&utm_source=git)** | Norwood, Massachusetts | On Site | Apr 10 |
 | **[American Electric Power](http://aep.com)** | **[Utility Forester Intern](https://jobright.ai/jobs/info/69c1f94d75f7ff1cd81062d0?utm_campaign=1048&utm_source=git)** | Charleston, WV | On Site | Apr 10 |
-| **[Christa Construction, LLC](https://christa.com/)** | **[Construction Internship: August - January Rochester, NY](https://jobright.ai/jobs/info/69d8b6b0738f2f099e89e4ca?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 10 |
-| **[American Electric Power](http://aep.com)** | **[Utility Forester Intern](https://jobright.ai/jobs/info/69c2da61ec22f8310ab0c99d?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Apr 10 |
+| ↳ | **[Utility Forester Intern](https://jobright.ai/jobs/info/69c2da61ec22f8310ab0c99d?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | Apr 10 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Tech V A&P](https://jobright.ai/jobs/info/69d8b4ddb67cec4f9b09e59e?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 10 |
-| **[WEG Transformers USA](http://weg.us)** | **[SUMMER INTERN (Manufacturing Complex)*](https://jobright.ai/jobs/info/69d8b4d3b67cec4f9b09e58a?utm_campaign=1048&utm_source=git)** | Washington, MO | On Site | Apr 10 |
 | **[City of North Vancouver](https://www.cnv.org/)** | **[Traffic Engineering Technician](https://jobright.ai/jobs/info/69d8b42bf748bc5d08a454fc?utm_campaign=1048&utm_source=git)** | North Vancouver, BC | On Site | Apr 10 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R 1](https://jobright.ai/jobs/info/69d8b3c6f748bc5d08a45491?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[Kruger Inc.](http://www.kruger.com)** | **[Intern, Engineering – Energy (Fall 2026)](https://jobright.ai/jobs/info/69d8b26c738f2f099e89e40c?utm_campaign=1048&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Americold Logistics, LLC.](http://americold.com)** | **[DoW Skillbridge Internship - Maintenance Technician I](https://jobright.ai/jobs/info/69d84e27738f2f099e89bc9a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/69d84d26738f2f099e89bc5a?utm_campaign=1048&utm_source=git)** | Vista, CA | Hybrid | Apr 09 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Farming Environmental Health & Safety](https://jobright.ai/jobs/info/69d84d1ef4ea471a51fe4fc0?utm_campaign=1048&utm_source=git)** | McFarland, CA | On Site | Apr 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Traffic Intern](https://jobright.ai/jobs/info/69d84d0db67cec4f9b09bbbe?utm_campaign=1048&utm_source=git)** | Mechanicsburg, PA | On Site | Apr 09 |
-| **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69d84d0cb67cec4f9b09bbbd?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Apr 09 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69d84d0cb67cec4f9b09bbbb?utm_campaign=1048&utm_source=git)** | Westlake, TX | On Site | Apr 09 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69d84d0cb67cec4f9b09bbbc?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69d84d00b861c42857c49be6?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| ↳ | **[Field/Office Engineer Intern - South Central District Summer 2026](https://jobright.ai/jobs/info/69d84d00b861c42857c49be7?utm_campaign=1048&utm_source=git)** | Greenville, MS | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
