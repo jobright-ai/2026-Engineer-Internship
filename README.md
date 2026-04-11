@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69d9e33b738f2f099e8a57b4?utm_campaign=1048&utm_source=git)** | The Woodlands, TX | On Site | Apr 10 |
-| ↳ | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69d9e33b738f2f099e8a57b3?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Apr 10 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69d9e33b738f2f099e8a57b3?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Apr 10 |
+| ↳ | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69d9e33b738f2f099e8a57b4?utm_campaign=1048&utm_source=git)** | The Woodlands, TX | On Site | Apr 10 |
 | **[The Marvin Group](http://www.marvingroup.com)** | **[IT INFRASTRUCTURE INTERN](https://jobright.ai/jobs/info/69d9e2ed738f2f099e8a5760?utm_campaign=1048&utm_source=git)** | Inglewood, CA | On Site | Apr 10 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Automation Developer & Finance Intern](https://jobright.ai/jobs/info/69d9e2d7869c7e25d859e8bb?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
 | **[Arterra Wines Canada](https://www.arterracanada.com/)** | **[Harvest Intern](https://jobright.ai/jobs/info/69aa1a3c9ca4e908ec656602?utm_campaign=1048&utm_source=git)** | Niagara Falls, ON | On Site | Apr 10 |
@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69d9d5ab9f97a42dc9c24c7a?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 10 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Lead Information Security Analyst – Security Operations](https://jobright.ai/jobs/info/69d9cb239f97a42dc9c24564?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Water Operations Intern](https://jobright.ai/jobs/info/69d9cb169f97a42dc9c2452e?utm_campaign=1048&utm_source=git)** | Carson, CA | On Site | Apr 10 |
-| **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9cacf5356a60f40fdc716?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Apr 10 |
-| ↳ | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9cacf5356a60f40fdc715?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 10 |
+| **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9cacf5356a60f40fdc715?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 10 |
+| ↳ | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9cacf5356a60f40fdc716?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Apr 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Agronomy Assistant](https://jobright.ai/jobs/info/69d9caccf748bc5d08a4e14d?utm_campaign=1048&utm_source=git)** | Sexsmith, AB | On Site | Apr 10 |
 | **[HBK Engineering, LLC](http://hbkengineering.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d9cac65356a60f40fdc6ff?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/69d9caa0b67cec4f9b0a4ae7?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
@@ -80,10 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, NDCP (Undergraduate)](https://jobright.ai/jobs/info/69d9c070738f2f099e8a4448?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Nuclear Propulsion](https://jobright.ai/jobs/info/69d9c06f5356a60f40fdc29e?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4422?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
-| **[Outagamie County](https://www.outagamie.org/home)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/69d9c05ab67cec4f9b0a4761?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Apr 10 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Pharmaceutical Engineering, Drug Product, PDM](https://jobright.ai/jobs/info/69d9c03df748bc5d08a4dc0d?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
-| ↳ | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69d9c035f748bc5d08a4dbee?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
+| ↳ | **[Intern, Pharmaceutical Engineering, Drug Product, PDM](https://jobright.ai/jobs/info/69d9c03df748bc5d08a4dc0d?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
 | ↳ | **[Intern, Structural Biology](https://jobright.ai/jobs/info/69d9c035f748bc5d08a4dbef?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
+| ↳ | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69d9c035f748bc5d08a4dbee?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 10 |
 | ↳ | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69d9c0069f97a42dc9c2404f?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern Digital Accessibility](https://jobright.ai/jobs/info/69d9c002869c7e25d859d614?utm_campaign=1048&utm_source=git)** | Shrewsbury, MA | Remote | Apr 10 |
 | **[UST](https://www.ust.com)** | **[GenAI Engineer Intern](https://jobright.ai/jobs/info/69d9bfce869c7e25d859d588?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | Remote | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Trench Group](https://trench-group.com/)** | **[AI/ML Intern: Mechanical Engineer (4 to 8 months contract)](https://jobright.ai/jobs/info/69d99394b67cec4f9b0a2b98?utm_campaign=1048&utm_source=git)** | Scarborough, ON | On Site | Apr 10 |
 | ↳ | **[AI/ML Intern – Industrial/Process Engineer (4 to 8 months)](https://jobright.ai/jobs/info/69d993925356a60f40fda69c?utm_campaign=1048&utm_source=git)** | Scarborough, ON | On Site | Apr 10 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[AI/ML Intern](https://jobright.ai/jobs/info/69d993925356a60f40fda69d?utm_campaign=1048&utm_source=git)** | Colorado, United States | Remote | Apr 10 |
+| **[Trench Group](https://trench-group.com/)** | **[AI/ML Intern: Developer (4 to 8 months contract)](https://jobright.ai/jobs/info/69d99389869c7e25d859ba23?utm_campaign=1048&utm_source=git)** | Scarborough, ON | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
