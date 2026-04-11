@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Engineer Intern I, II](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac094?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Apr 11 |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dabd03f748bc5d08a55714?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Harvest Laboratory Internship](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d73?utm_campaign=1048&utm_source=git)** | Manteca, CA | On Site | Apr 11 |
 | **[Coachella Valley Mosquito And Vector Control District](https://www.cvmosquito.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d72?utm_campaign=1048&utm_source=git)** | Indio, CA | On Site | Apr 11 |
 | **[Horizon Develop Build Manage](http://www.horizondbm.com)** | **[Intern - Estimator](https://jobright.ai/jobs/info/69daac4b9f97a42dc9c2bbf1?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 11 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69daab0a5356a60f40fe3981?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | **[Sain Associates, Inc.](http://www.sain.com)** | **[Civil Engineering Intern (Roadway Design)](https://jobright.ai/jobs/info/69daab085356a60f40fe3974?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 11 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/69daab04869c7e25d85a4ce7?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
-| **[Lab Alley](https://www.laballey.com/)** | **[Chemistry Intern, Paid](https://jobright.ai/jobs/info/69daab03869c7e25d85a4ce1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Retrofit Engineering Intern](https://jobright.ai/jobs/info/69daaaf7f748bc5d08a5550c?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
+| ↳ | **[Retrofit Engineering Intern](https://jobright.ai/jobs/info/69daaaf7f748bc5d08a5550c?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Dry Mix Operations/Quality - Summer Intern](https://jobright.ai/jobs/info/69daaaf7869c7e25d85a4cb7?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 11 |
 | **[Museum of Contemporary Art San Diego](http://mcasd.org)** | **[Database Associate](https://jobright.ai/jobs/info/69daaadd9f97a42dc9c2bb83?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Electrical Engineering Intern/ Co‑op Student – Power Electronics](https://jobright.ai/jobs/info/69daaac65356a60f40fe38b3?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[City of Yorba Linda](https://www.yorbalindaca.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69da72e1869c7e25d85a27dd?utm_campaign=1048&utm_source=git)** | Yorba Linda, CA | On Site | Apr 11 |
 | **[Moss](https://mosscm.com/)** | **[Solar Internship: Fall 2026](https://jobright.ai/jobs/info/69d5c795cfdc6132f9465c1b?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Apr 11 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Public Works Intern](https://jobright.ai/jobs/info/69da72a4b67cec4f9b0a97b9?utm_campaign=1048&utm_source=git)** | Wake Forest, NC | On Site | Apr 11 |
-| **[City of San Luis Obispo](https://www.slocity.org/)** | **[CIP Engineering Intern II-IV](https://jobright.ai/jobs/info/69da72a4b67cec4f9b0a97bd?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Transportation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69bdc52c393a1008f7435200?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Machine Learning Product Summer Intern](https://jobright.ai/jobs/info/69bdbdfdb10602456282d45d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
