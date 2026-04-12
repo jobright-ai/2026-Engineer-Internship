@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - GIS](https://jobright.ai/jobs/info/69dac864f748bc5d08a559d9?utm_campaign=1048&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Water Resources Intern](https://jobright.ai/jobs/info/69dac8409f97a42dc9c2bfed?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Apr 11 |
 | **[Manchester University](http://www.manchester.edu/)** | **[Student - Grounds (TEST)](https://jobright.ai/jobs/info/69dac8309f97a42dc9c2bfd1?utm_campaign=1048&utm_source=git)** | North Manchester, IN | On Site | Apr 11 |
-| **[North Marin Water District](https://nmwd.com)** | **[Engineering - Internship](https://jobright.ai/jobs/info/69dac69d5356a60f40fe3e10?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Apr 11 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dabd03f748bc5d08a55714?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Harvest Laboratory Internship](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d73?utm_campaign=1048&utm_source=git)** | Manteca, CA | On Site | Apr 11 |
 | **[Coachella Valley Mosquito And Vector Control District](https://www.cvmosquito.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d72?utm_campaign=1048&utm_source=git)** | Indio, CA | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Quality Intern Summer 2026](https://jobright.ai/jobs/info/69da8f17869c7e25d85a29ed?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69a40d140da45516f16d1720?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Apr 11 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Quarry Operations Intern](https://jobright.ai/jobs/info/69c7d6f7b773006330b7c742?utm_campaign=1048&utm_source=git)** | Loachapoka, AL | On Site | Apr 11 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69160e849c388539cbdf77da?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
