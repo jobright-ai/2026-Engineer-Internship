@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 11 |
+| **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 11 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69db013af748bc5d08a561a8?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 11 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician 4 A&P](https://jobright.ai/jobs/info/69db00ee5356a60f40fe4585?utm_campaign=1048&utm_source=git)** | Mesa, AZ | On Site | Apr 11 |
+| **[Intel](http://www.intel.com)** | **[CPU Verification Undergraduate Intern](https://jobright.ai/jobs/info/69db00899f97a42dc9c2c761?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Apr 11 |
+| **[WorldTech IT, LLC](https://worldtechit.com/)** | **[Spring Intern, AI Researcher](https://jobright.ai/jobs/info/69daffafb67cec4f9b0acaea?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 11 |
+| **[Intel](http://www.intel.com)** | **[CPU Verification Undergraduate Intern](https://jobright.ai/jobs/info/69daff36738f2f099e8ac9dc?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 11 |
+| **[City of Indianapolis](https://www.indy.gov/)** | **[Intern-Engineering - DPW-Design](https://jobright.ai/jobs/info/69daff12f748bc5d08a56181?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Apr 11 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Engineering Intern (Student Trainee II) - Pueblo](https://jobright.ai/jobs/info/69dae2dc869c7e25d85a54c0?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO | On Site | Apr 11 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Engineer](https://jobright.ai/jobs/info/69dae2db869c7e25d85a54bd?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Apr 11 |
 | **[Cybertection LLC](https://cybertection.net)** | **[Cybersecurity Training Center Trainee](https://jobright.ai/jobs/info/69dade0ff748bc5d08a55b24?utm_campaign=1048&utm_source=git)** | Stevensville, MD | Remote | Apr 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Quality Intern Summer 2026](https://jobright.ai/jobs/info/69da8f17869c7e25d85a29ed?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69a40d140da45516f16d1720?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Apr 11 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Quarry Operations Intern](https://jobright.ai/jobs/info/69c7d6f7b773006330b7c742?utm_campaign=1048&utm_source=git)** | Loachapoka, AL | On Site | Apr 11 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69160e849c388539cbdf77da?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
-| **[Moss](https://mosscm.com/)** | **[Solar Internship: Spring 2026](https://jobright.ai/jobs/info/693c914a50bbaf76504fc588?utm_campaign=1048&utm_source=git)** | Pensacola, Florida, United States | On Site | Apr 11 |
-| **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/693075a74c474121999e5746?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 11 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/69c8f0661b5ad02887396e27?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 11 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/67be124b78ee59bb3f676b42?utm_campaign=1048&utm_source=git)** | Hazen, ND | On Site | Apr 11 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68ca248cd4187c55157a668d?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | Apr 11 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Health and Safety Intern 2026](https://jobright.ai/jobs/info/691845ff45fb6f5ead8a4035?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Apr 11 |
-| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Quality Management (Onsite /Crawfordsville, IN)](https://jobright.ai/jobs/info/69daa2a3869c7e25d85a4bb2?utm_campaign=1048&utm_source=git)** | Crawfordsville, IN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
