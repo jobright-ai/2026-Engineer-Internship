@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
+| **[City of San Luis Obispo](https://www.slocity.org/)** | **[CIP Engineering Intern II-IV](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e20?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 12 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e25?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 12 |
+| **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69dc17d09f97a42dc9c2fc70?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern](https://jobright.ai/jobs/info/69dc0b9a738f2f099e8afe45?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Summer/Fall 2026 - Data Engineering Internship](https://jobright.ai/jobs/info/69dc0ae69f97a42dc9c2fbcb?utm_campaign=1048&utm_source=git)** | Clearwater, FL | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dc0ae1b67cec4f9b0affca?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69303885ef4b48533d14ad00?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 12 |
 | ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69300da4fa28370be26aece5?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 12 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Research Scientist Intern, Center for Quantum Computing](https://jobright.ai/jobs/info/69169c67286ccf0a15137e9d?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Apr 12 |
-| **[Leon County Government](https://cms.leoncountyfl.gov/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69dbbcc2f748bc5d08a58b9c?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 12 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Highway Intern](https://jobright.ai/jobs/info/69a23141b600907a96287dd4?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[Arcadis](http://www.arcadis.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69beb07c393a1008f74493bc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Packaging Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/69871ca08da7a6120462341c?utm_campaign=1048&utm_source=git)** | Holly, MI | On Site | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696adb675fc86241853a0888?utm_campaign=1048&utm_source=git)** | Kingfisher, OK | On Site | Apr 12 |
 | **[Ardurra](https://ardurra.com/)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/691646606f36db06ef05480b?utm_campaign=1048&utm_source=git)** | Nampa, ID | On Site | Apr 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Mechanical Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69150a8d6f36db06ef04b12f?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
-| **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Reinforcement Learning, Self-Driving](https://jobright.ai/jobs/info/698fff2c0f6f7e7a2cec4871?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 12 |
-| **[Quva](http://www.quvapharma.com/)** | **[Quality Systems Intern](https://jobright.ai/jobs/info/69bec4b3393a1008f744a5a4?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Apr 12 |
-| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Operational Excellence](https://jobright.ai/jobs/info/698688638da7a612046159a7?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
