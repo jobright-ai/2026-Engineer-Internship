@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - GIS](https://jobright.ai/jobs/info/69dac864f748bc5d08a559d9?utm_campaign=1048&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Water Resources Intern](https://jobright.ai/jobs/info/69dac8409f97a42dc9c2bfed?utm_campaign=1048&utm_source=git)** | Chanhassen, MN | On Site | Apr 11 |
 | **[Manchester University](http://www.manchester.edu/)** | **[Student - Grounds (TEST)](https://jobright.ai/jobs/info/69dac8309f97a42dc9c2bfd1?utm_campaign=1048&utm_source=git)** | North Manchester, IN | On Site | Apr 11 |
-| **[City of Grapevine](https://grapevinetexas.gov/)** | **[Vector Control Surveillance Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e17?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Apr 11 |
 | **[North Marin Water District](https://nmwd.com)** | **[Engineering - Internship](https://jobright.ai/jobs/info/69dac69d5356a60f40fe3e10?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Apr 11 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dabd03f748bc5d08a55714?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Harvest Laboratory Internship](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d73?utm_campaign=1048&utm_source=git)** | Manteca, CA | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/67be124b78ee59bb3f676b42?utm_campaign=1048&utm_source=git)** | Hazen, ND | On Site | Apr 11 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Safety Internship](https://jobright.ai/jobs/info/68ca248cd4187c55157a668d?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | Apr 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Health and Safety Intern 2026](https://jobright.ai/jobs/info/691845ff45fb6f5ead8a4035?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Apr 11 |
+| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Quality Management (Onsite /Crawfordsville, IN)](https://jobright.ai/jobs/info/69daa2a3869c7e25d85a4bb2?utm_campaign=1048&utm_source=git)** | Crawfordsville, IN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
