@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Electromechanical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69c92fe083ea553769fef0e4?utm_campaign=1048&utm_source=git)** | Blairsville, PA | On Site | Apr 12 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Intern (part time) - CA Heart Foundation - Medical Network](https://jobright.ai/jobs/info/69db785df748bc5d08a587fd?utm_campaign=1048&utm_source=git)** | Beverly Hills, CA | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Monetization GenAI) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69aa820e1f59c56275e35f97?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | ↳ | **[Research Scientist Intern (Compute Platform - Database Acceleration)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68cefa1dfb49c96ca6ea4a0c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/69daab04869c7e25d85a4ce7?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | ↳ | **[Retrofit Engineering Intern](https://jobright.ai/jobs/info/69daaaf7f748bc5d08a5550c?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Dry Mix Operations/Quality - Summer Intern](https://jobright.ai/jobs/info/69daaaf7869c7e25d85a4cb7?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 11 |
-| **[Museum of Contemporary Art San Diego](http://mcasd.org)** | **[Database Associate](https://jobright.ai/jobs/info/69daaadd9f97a42dc9c2bb83?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bdc5084828227293003102?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 11 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Electrical Construction Project Engineer Intern](https://jobright.ai/jobs/info/695ef51608ab990f282a456b?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69a20ba5359fe034b1cd4a6f?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 11 |
