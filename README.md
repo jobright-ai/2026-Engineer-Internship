@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dad60bb67cec4f9b0ac456?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[EUV Tech](https://www.euvtech.com )** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69dacc959f97a42dc9c2c02d?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Apr 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a68aa598a08c3ed5e2e?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | Hybrid | Apr 11 |
 | **[Intel](http://www.intel.com)** | **[CPU Verification Undergraduate Intern](https://jobright.ai/jobs/info/69dac9b99f97a42dc9c2c013?utm_campaign=1048&utm_source=git)** | US, Texas, Austin | On Site | Apr 11 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Manchester University](http://www.manchester.edu/)** | **[Student - Grounds (TEST)](https://jobright.ai/jobs/info/69dac8309f97a42dc9c2bfd1?utm_campaign=1048&utm_source=git)** | North Manchester, IN | On Site | Apr 11 |
 | **[City of Grapevine](https://grapevinetexas.gov/)** | **[Vector Control Surveillance Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/69dac6ad5356a60f40fe3e17?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Apr 11 |
 | **[North Marin Water District](https://nmwd.com)** | **[Engineering - Internship](https://jobright.ai/jobs/info/69dac69d5356a60f40fe3e10?utm_campaign=1048&utm_source=git)** | Novato, CA | On Site | Apr 11 |
-| **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Engineer Intern I, II](https://jobright.ai/jobs/info/69dabd2bb67cec4f9b0ac094?utm_campaign=1048&utm_source=git)** | Frederick, MD | On Site | Apr 11 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dabd03f748bc5d08a55714?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 11 |
+| **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[Mechanical Maintenance Intern](https://jobright.ai/jobs/info/69dad6c19f97a42dc9c2c10d?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Apr 11 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Harvest Laboratory Internship](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d73?utm_campaign=1048&utm_source=git)** | Manteca, CA | On Site | Apr 11 |
 | **[Coachella Valley Mosquito And Vector Control District](https://www.cvmosquito.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69daac65869c7e25d85a4d72?utm_campaign=1048&utm_source=git)** | Indio, CA | On Site | Apr 11 |
 | **[Horizon Develop Build Manage](http://www.horizondbm.com)** | **[Intern - Estimator](https://jobright.ai/jobs/info/69daac4b9f97a42dc9c2bbf1?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Health and Safety Intern 2026](https://jobright.ai/jobs/info/691845ff45fb6f5ead8a4035?utm_campaign=1048&utm_source=git)** | De Ridder, LA | On Site | Apr 11 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Quality Management (Onsite /Crawfordsville, IN)](https://jobright.ai/jobs/info/69daa2a3869c7e25d85a4bb2?utm_campaign=1048&utm_source=git)** | Crawfordsville, IN | On Site | Apr 11 |
 | **[Zello](https://zello.com/)** | **[AI & ML Engineering Intern](https://jobright.ai/jobs/info/69bddb2248282272930089f0?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 11 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Intern - Construction](https://jobright.ai/jobs/info/69bdbec4393a1008f743425f?utm_campaign=1048&utm_source=git)** | Hermitage, TN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
