@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lochner](http://hwlochner.com)** | **[Intern](https://jobright.ai/jobs/info/69dbd541869c7e25d85a848d?utm_campaign=1048&utm_source=git)** | Tallahassee, FL 32301 | On Site | Apr 12 |
+| **[Web Industries](http://webindustries.com)** | **[Intern- Mechanical Engineering (Summer Help)](https://jobright.ai/jobs/info/69dbd4ea5356a60f40fe7045?utm_campaign=1048&utm_source=git)** | Dayville, CT, US | On Site | Apr 12 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Machine Learning Intern](https://jobright.ai/jobs/info/69b8505b3b74eb1e2c85ee1b?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 12 |
 | **[IBM](http://www.ibm.com)** | **[Hardware Developer Intern 2026](https://jobright.ai/jobs/info/69db3e169f97a42dc9c2ddc8?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Apr 12 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69db02c8738f2f099e8aca4a?utm_campaign=1048&utm_source=git)** | Greensburg, IN | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GPLA Structural Engineers and Builders](https://www.gplainc.com/)** | **[Structural Design Intern - GPLA](https://jobright.ai/jobs/info/69c794a71b5ad0288738e347?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | ↳ | **[Structural Design Intern - GPLA](https://jobright.ai/jobs/info/69c77f421b5ad0288738d2c3?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Electromechanical Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69c92fe083ea553769fef0e4?utm_campaign=1048&utm_source=git)** | Blairsville, PA | On Site | Apr 12 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Intern (part time) - CA Heart Foundation - Medical Network](https://jobright.ai/jobs/info/69db785df748bc5d08a587fd?utm_campaign=1048&utm_source=git)** | Beverly Hills, CA | On Site | Apr 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (Compute Platform - Database Acceleration)- 2026 Start (PhD)](https://jobright.ai/jobs/info/68cefa1dfb49c96ca6ea4a0c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
