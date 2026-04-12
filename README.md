@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Mammoth Lakes](https://www.townofmammothlakes.ca.gov/)** | **[Municipal Intern - Engineering](https://jobright.ai/jobs/info/69db1af2f748bc5d08a56b21?utm_campaign=1048&utm_source=git)** | Mammoth Lakes, CA | On Site | Apr 11 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Civil Engineering/Civil Design](https://jobright.ai/jobs/info/69db1af2f748bc5d08a56b1e?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 11 |
+| **[Leon County Government](https://cms.leoncountyfl.gov/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69db1ae4f748bc5d08a56af7?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 11 |
+| **[City of Grapevine](https://grapevinetexas.gov/)** | **[GIS Engineering Intern (Summer Position)](https://jobright.ai/jobs/info/69db1abb738f2f099e8ad39c?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Apr 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 11 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 11 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69db013af748bc5d08a561a8?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[I&E Technician Intern](https://jobright.ai/jobs/info/69a3f428b600907a9629f232?utm_campaign=1048&utm_source=git)** | Beatrice, NE | On Site | Apr 11 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Electrical Engineer Summer Intern](https://jobright.ai/jobs/info/698637490f6f7e7a2ce11929?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Modeling Engineering Intern](https://jobright.ai/jobs/info/693bc3d350bbaf76504f2478?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| **[Kiewit](http://www.kiewit.com)** | **[Quality Intern Summer 2026](https://jobright.ai/jobs/info/69da8f17869c7e25d85a29ed?utm_campaign=1048&utm_source=git)** | Lenexa, KS | On Site | Apr 11 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69a40d140da45516f16d1720?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Apr 11 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Quarry Operations Intern](https://jobright.ai/jobs/info/69c7d6f7b773006330b7c742?utm_campaign=1048&utm_source=git)** | Loachapoka, AL | On Site | Apr 11 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69160e849c388539cbdf77da?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
