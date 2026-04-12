@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Town of Mammoth Lakes](https://www.townofmammothlakes.ca.gov/)** | **[Municipal Intern - Engineering](https://jobright.ai/jobs/info/69db1af2f748bc5d08a56b21?utm_campaign=1048&utm_source=git)** | Mammoth Lakes, CA | On Site | Apr 11 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Intern - Civil Engineering/Civil Design](https://jobright.ai/jobs/info/69db1af2f748bc5d08a56b1e?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 11 |
-| **[City of Grapevine](https://grapevinetexas.gov/)** | **[GIS Engineering Intern (Summer Position)](https://jobright.ai/jobs/info/69db1abb738f2f099e8ad39c?utm_campaign=1048&utm_source=git)** | Grapevine, TX | On Site | Apr 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 11 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 11 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69db013af748bc5d08a561a8?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69a40d140da45516f16d1720?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Apr 11 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Quarry Operations Intern](https://jobright.ai/jobs/info/69c7d6f7b773006330b7c742?utm_campaign=1048&utm_source=git)** | Loachapoka, AL | On Site | Apr 11 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/69160e849c388539cbdf77da?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
+| **[Moss](https://mosscm.com/)** | **[Solar Internship: Spring 2026](https://jobright.ai/jobs/info/693c914a50bbaf76504fc588?utm_campaign=1048&utm_source=git)** | Pensacola, Florida, United States | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
