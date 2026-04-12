@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69300da4fa28370be26aece5?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 12 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Research Scientist Intern, Center for Quantum Computing](https://jobright.ai/jobs/info/69169c67286ccf0a15137e9d?utm_campaign=1048&utm_source=git)** | Pasadena, CA | Hybrid | Apr 12 |
 | **[Leon County Government](https://cms.leoncountyfl.gov/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69dbbcc2f748bc5d08a58b9c?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 12 |
-| **[City and County of Honolulu](https://www.honolulu.gov)** | **[CIVIL ENGINEER I](https://jobright.ai/jobs/info/69dbbcc2f748bc5d08a58b96?utm_campaign=1048&utm_source=git)** | Hawaii, United States | On Site | Apr 12 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Highway Intern](https://jobright.ai/jobs/info/69a23141b600907a96287dd4?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[Arcadis](http://www.arcadis.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69beb07c393a1008f74493bc?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Packaging Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/69871ca08da7a6120462341c?utm_campaign=1048&utm_source=git)** | Holly, MI | On Site | Apr 12 |
@@ -141,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Ardurra](https://ardurra.com/)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/691646606f36db06ef05480b?utm_campaign=1048&utm_source=git)** | Nampa, ID | On Site | Apr 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Mechanical Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69150a8d6f36db06ef04b12f?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Reinforcement Learning, Self-Driving](https://jobright.ai/jobs/info/698fff2c0f6f7e7a2cec4871?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 12 |
-| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Engineer](https://jobright.ai/jobs/info/69db9b809f97a42dc9c2efce?utm_campaign=1048&utm_source=git)** | Missoula, MT | On Site | Apr 12 |
 | **[Quva](http://www.quvapharma.com/)** | **[Quality Systems Intern](https://jobright.ai/jobs/info/69bec4b3393a1008f744a5a4?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Apr 12 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Operational Excellence](https://jobright.ai/jobs/info/698688638da7a612046159a7?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 12 |
 | **[RoviSys](http://rovisys.com)** | **[Co-op - Summer 2026](https://jobright.ai/jobs/info/69bceb684828227293ff0214?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Customer Support Engineering Intern](https://jobright.ai/jobs/info/69d5e012366bb95ba55498a1?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Apr 12 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern, SSD System Design Engineer](https://jobright.ai/jobs/info/69a2b3eb0da45516f16c1983?utm_campaign=1048&utm_source=git)** | Longmont, CO | On Site | Apr 12 |
 | **[Quva](http://www.quvapharma.com/)** | **[Sterility Assurance Intern](https://jobright.ai/jobs/info/69bec1504828227293017b8d?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Apr 12 |
+| **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69b6751156973837413bd530?utm_campaign=1048&utm_source=git)** | Brackenridge, PA | On Site | Apr 12 |
+| **[Brightline West Trains](https://www.BrightlineWest.com)** | **[Design Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a1fe2cb600907a96284beb?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
