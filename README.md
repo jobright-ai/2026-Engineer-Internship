@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Quality Compliance](https://jobright.ai/jobs/info/69b0a6ea0b2db6275c04faae?utm_campaign=1048&utm_source=git)** | Foster City | On Site | Apr 12 |
+| **[Community Transit](https://www.communitytransit.org/)** | **[Bus Stop Planning and Data Intern](https://jobright.ai/jobs/info/69dc39d6b67cec4f9b0b0372?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Apr 12 |
 | **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/69dc29d39f97a42dc9c2fe2c?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Apr 12 |
 | **[ASM](https://www.asm.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69dc2825f748bc5d08a597d1?utm_campaign=1048&utm_source=git)** | Fields, OR | On Site | Apr 12 |
 | **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ae5a9db26b618950e47d4?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Apr 12 |
 | **[RoviSys](http://rovisys.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69ce00eccdb525785fb929e5?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Apr 12 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Engineering Intern I](https://jobright.ai/jobs/info/696997ca1703f05405ab97bd?utm_campaign=1048&utm_source=git)** | Barling, AR | On Site | Apr 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Analyst](https://jobright.ai/jobs/info/69c8957683ea553769fea658?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Apr 12 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696adb675fc86241853a0888?utm_campaign=1048&utm_source=git)** | Kingfisher, OK | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
