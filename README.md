@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEMS](https://www.cems-ae.com/)** | **[Internship - Electrical Engineering](https://jobright.ai/jobs/info/69dc4170b67cec4f9b0b03c2?utm_campaign=1048&utm_source=git)** | South Carolina, United States | On Site | Apr 12 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Parts & Service Purchasing Specialist Intern](https://jobright.ai/jobs/info/69bb8e0406c1ba00c54e23cb?utm_campaign=1048&utm_source=git)** | Racine County, WI | On Site | Apr 12 |
+| **[Skipit](https://www.skipit.tech/)** | **[Unpaid AI Data Annotation Intern](https://jobright.ai/jobs/info/69dc3dcdf748bc5d08a5997c?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 12 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Quality Compliance](https://jobright.ai/jobs/info/69b0a6ea0b2db6275c04faae?utm_campaign=1048&utm_source=git)** | Foster City | On Site | Apr 12 |
 | **[Community Transit](https://www.communitytransit.org/)** | **[Bus Stop Planning and Data Intern](https://jobright.ai/jobs/info/69dc39d6b67cec4f9b0b0372?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Apr 12 |
 | **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/69dc29d39f97a42dc9c2fe2c?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Apr 12 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69db02c8738f2f099e8aca4a?utm_campaign=1048&utm_source=git)** | Greensburg, IN | On Site | Apr 12 |
 | **[Fort Pierce Utilities Authority](https://fpua.com)** | **[Engineering Intern (Electric & Gas Engineering)](https://jobright.ai/jobs/info/69dbc60eb67cec4f9b0af5c8?utm_campaign=1048&utm_source=git)** | Fort Pierce, FL | On Site | Apr 12 |
 | **[MetLife](http://www.metlife.com)** | **[D&A Graduate Intern](https://jobright.ai/jobs/info/69dbc5deb67cec4f9b0af58c?utm_campaign=1048&utm_source=git)** | Cary, NC | Hybrid | Apr 12 |
-| **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Environmental Compliance Summer Intern](https://jobright.ai/jobs/info/69dbc5c5f748bc5d08a58c32?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Apr 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a210a2b600907a96285e70?utm_campaign=1048&utm_source=git)** | Maitland, FL | On Site | Apr 12 |
 | **[Moss](https://mosscm.com/)** | **[Solar Internship: Summer 2026](https://jobright.ai/jobs/info/69141ac8e344172248f76fcc?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Process Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/696ab334db26b618950def04?utm_campaign=1048&utm_source=git)** | Sterling Heights, MI | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a1ef24359fe034b1cd2f3c?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Apr 12 |
 | **[Atwell, LLC](https://atwell.com)** | **[Civil Engineering Internship - Land Development (Summer 2026)](https://jobright.ai/jobs/info/69688e501703f05405aa549a?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Apr 12 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ae5a9db26b618950e47d4?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Apr 12 |
-| **[RoviSys](http://rovisys.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69ce00eccdb525785fb929e5?utm_campaign=1048&utm_source=git)** | Thousand Oaks, CA | On Site | Apr 12 |
-| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Engineering Intern I](https://jobright.ai/jobs/info/696997ca1703f05405ab97bd?utm_campaign=1048&utm_source=git)** | Barling, AR | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
