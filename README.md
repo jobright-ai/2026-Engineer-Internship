@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/69dc29d39f97a42dc9c2fe2c?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Apr 12 |
+| **[ASM](https://www.asm.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69dc2825f748bc5d08a597d1?utm_campaign=1048&utm_source=git)** | Fields, OR | On Site | Apr 12 |
 | **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[CIP Engineering Intern II-IV](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e20?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 12 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e25?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Engineering Intern I](https://jobright.ai/jobs/info/696997ca1703f05405ab97bd?utm_campaign=1048&utm_source=git)** | Barling, AR | On Site | Apr 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Analyst](https://jobright.ai/jobs/info/69c8957683ea553769fea658?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | On Site | Apr 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696adb675fc86241853a0888?utm_campaign=1048&utm_source=git)** | Kingfisher, OK | On Site | Apr 12 |
-| **[Ardurra](https://ardurra.com/)** | **[Northwest Region Intern (WA, ID, UT, WY)](https://jobright.ai/jobs/info/691646606f36db06ef05480b?utm_campaign=1048&utm_source=git)** | Nampa, ID | On Site | Apr 12 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Mechanical Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69150a8d6f36db06ef04b12f?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
