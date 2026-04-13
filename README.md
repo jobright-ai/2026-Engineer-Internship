@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Postdoctoral Fellow - RESP (Research Institute)](https://jobright.ai/jobs/info/69dc8d6cf748bc5d08a5b3e9?utm_campaign=1048&utm_source=git)** | Montreal, QC | On Site | Apr 12 |
+| **[Trojan Technologies](http://www.trojantechnologies.com/)** | **[Innovation Prototype Support - Summer Intern (4 Months)](https://jobright.ai/jobs/info/69dc8d489f97a42dc9c31aa1?utm_campaign=1048&utm_source=git)** | London, ON | On Site | Apr 12 |
+| **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[AI Agent Software Engineer Intern](https://jobright.ai/jobs/info/69dc8af4738f2f099e8b177a?utm_campaign=1048&utm_source=git)** | Atlanta, GA, US | On Site | Apr 12 |
+| ↳ | **[AI Agent Software Engineer Intern](https://jobright.ai/jobs/info/69dc8ae05356a60f40fe93cc?utm_campaign=1048&utm_source=git)** | Malvern, PA, US | On Site | Apr 12 |
+| **[Sanimax](https://www.sanimax.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/69dc89f4738f2f099e8b1778?utm_campaign=1048&utm_source=git)** | Deforest, Wisconsin, United States | On Site | Apr 12 |
+| **[Accuray](http://www.accuray.com)** | **[Process Optimization Intern - Global Service](https://jobright.ai/jobs/info/69dc89e25356a60f40fe93a8?utm_campaign=1048&utm_source=git)** | Madison, WI | Hybrid | Apr 12 |
+| **[Sanimax](https://www.sanimax.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/69dc89e0738f2f099e8b174e?utm_campaign=1048&utm_source=git)** | South St.Paul, Minnesota, United States | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Enterprise Real Estate BIM Technician Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b8?utm_campaign=1048&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[AI2 Applied Machine Learning Scientist Co-op/Intern](https://jobright.ai/jobs/info/69dc78bd738f2f099e8b16de?utm_campaign=1048&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[X-Rite](http://www.xrite.com)** | **[Innovation Prototype Support - Summer Intern (4 Months)](https://jobright.ai/jobs/info/69dc72d0f748bc5d08a5acd9?utm_campaign=1048&utm_source=git)** | London, Ontario, Canada | On Site | Apr 12 |
@@ -81,12 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69dc17d09f97a42dc9c2fc70?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern](https://jobright.ai/jobs/info/69dc0b9a738f2f099e8afe45?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Summer/Fall 2026 - Data Engineering Internship](https://jobright.ai/jobs/info/69dc0ae69f97a42dc9c2fbcb?utm_campaign=1048&utm_source=git)** | Clearwater, FL | Remote | Apr 12 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern (Public Works)](https://jobright.ai/jobs/info/69dc0ae1b67cec4f9b0affca?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69dbfe1b738f2f099e8afd22?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Apr 12 |
 | **[Impact Electronic Solutions](https://impactelectronics.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dbfd53869c7e25d85a8c50?utm_campaign=1048&utm_source=git)** | Vancouver, WA | On Site | Apr 12 |
 | **[Elandis](https://elandis.com/)** | **[Maintenance Technician](https://jobright.ai/jobs/info/69dbfd50869c7e25d85a8c4d?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 12 |
 | **[Coilcraft, Inc.](http://www.coilcraft.com)** | **[Machinist Internship - Oregon, IL](https://jobright.ai/jobs/info/69dbfd4eb67cec4f9b0afe84?utm_campaign=1048&utm_source=git)** | Oregon, IL | On Site | Apr 12 |
-| **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Computational Materials Engineering Intern](https://jobright.ai/jobs/info/69dbfd13738f2f099e8afc92?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Apr 12 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69dbfd0a738f2f099e8afc70?utm_campaign=1048&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Engineering Summer Internships](https://jobright.ai/jobs/info/69dbfcd89f97a42dc9c2fa45?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mechanical - Master Tradesperson (SkillBridge Intern) - 18127](https://jobright.ai/jobs/info/691adac0bcdbf3560c9db1c9?utm_campaign=1048&utm_source=git)** | Norfolk, VA | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CESO, INC.](http://cesoinc.com)** | **[Co-Op / Intern](https://jobright.ai/jobs/info/6933346d764507023d1b2fd9?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/68ddad25a125e75c422ae1bd?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern - Environmental Services, Environmental Studies (Phoenix)](https://jobright.ai/jobs/info/69d8b0d49f97a42dc9c1d780?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 12 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696ab86b5fc862418539c8f9?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 12 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[CMMS Data Intern](https://jobright.ai/jobs/info/69c8958b83ea553769fea724?utm_campaign=1048&utm_source=git)** | Breinigsville, PA | On Site | Apr 12 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician V A&P](https://jobright.ai/jobs/info/69ce1fa0cdb525785fb94290?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 12 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Lighting Intern - Summer 2026](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb83?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
