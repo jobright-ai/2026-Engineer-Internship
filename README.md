@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Tool Room, Tooling Intern](https://jobright.ai/jobs/info/69dc9c059f97a42dc9c31e6f?utm_campaign=1048&utm_source=git)** | Opa-Locka, FL | On Site | Apr 13 |
+| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Backend Database Engineer Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69dc9559b67cec4f9b0b2193?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 13 |
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Postdoctoral Fellow - RESP (Research Institute)](https://jobright.ai/jobs/info/69dc8d6cf748bc5d08a5b3e9?utm_campaign=1048&utm_source=git)** | Montreal, QC | On Site | Apr 12 |
 | **[Trojan Technologies](http://www.trojantechnologies.com/)** | **[Innovation Prototype Support - Summer Intern (4 Months)](https://jobright.ai/jobs/info/69dc8d489f97a42dc9c31aa1?utm_campaign=1048&utm_source=git)** | London, ON | On Site | Apr 12 |
 | **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[AI Agent Software Engineer Intern](https://jobright.ai/jobs/info/69dc8af4738f2f099e8b177a?utm_campaign=1048&utm_source=git)** | Atlanta, GA, US | On Site | Apr 12 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Royal Mail](https://www.royalmail.com/)** | **[Engineering Apprentice](https://jobright.ai/jobs/info/69d75123cfdc6132f9471b11?utm_campaign=1048&utm_source=git)** | Swan Valley, England, United Kingdom | On Site | Apr 12 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Test and Finish Equipment Engineer](https://jobright.ai/jobs/info/6985f4ea8ca8121a3a682856?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | Apr 12 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[AI Developer Intern](https://jobright.ai/jobs/info/69dbfc25b67cec4f9b0afdf9?utm_campaign=1048&utm_source=git)** | Columbia, SC | Remote | Apr 12 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems](https://jobright.ai/jobs/info/69dc94c05356a60f40fe9663?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Apr 12 |
 | **[GenBio AI](https://genbio.ai)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6979508152f3c27ec645b2f5?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 12 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computing and Artificial Intelligence (CAI) Division Post Master's Intern](https://jobright.ai/jobs/info/693425bd764507023d1bc1ba?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Apr 12 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship, Technology Platform](https://jobright.ai/jobs/info/69dbe660738f2f099e8af6fc?utm_campaign=1048&utm_source=git)** | Fremont, California | On Site | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CybelAngel](https://www.cybelangel.com)** | **[Agentic AI analyst - Academic internship - Research & Learning (US)](https://jobright.ai/jobs/info/69a8a6fd79f3f4037f42e3d0?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 12 |
 | **[IKO North America](https://www.iko.com)** | **[P&ID Development Intern](https://jobright.ai/jobs/info/698672100f6f7e7a2ce16c07?utm_campaign=1048&utm_source=git)** | Sylacauga, AL | On Site | Apr 12 |
 | **[Cohere](https://cohere.com)** | **[Machine Learning Intern/Co-op  (Spring/Summer 2026)](https://jobright.ai/jobs/info/69698998f25a380066982e96?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
-| **[CESO, INC.](http://cesoinc.com)** | **[Co-Op / Intern](https://jobright.ai/jobs/info/6933346d764507023d1b2fd9?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/68ddad25a125e75c422ae1bd?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 12 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
