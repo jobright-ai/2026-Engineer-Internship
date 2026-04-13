@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Enterprise Real Estate BIM Technician Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6b8?utm_campaign=1048&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[AI2 Applied Machine Learning Scientist Co-op/Intern](https://jobright.ai/jobs/info/69dc78bd738f2f099e8b16de?utm_campaign=1048&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[X-Rite](http://www.xrite.com)** | **[Innovation Prototype Support - Summer Intern (4 Months)](https://jobright.ai/jobs/info/69dc72d0f748bc5d08a5acd9?utm_campaign=1048&utm_source=git)** | London, Ontario, Canada | On Site | Apr 12 |
 | **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Mechanic Intern - Colowyo Mine 1](https://jobright.ai/jobs/info/69dc6ef0b67cec4f9b0b15ce?utm_campaign=1048&utm_source=git)** | Meeker, CO | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[CMMS Data Intern](https://jobright.ai/jobs/info/69c8958b83ea553769fea724?utm_campaign=1048&utm_source=git)** | Breinigsville, PA | On Site | Apr 12 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician V A&P](https://jobright.ai/jobs/info/69ce1fa0cdb525785fb94290?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Lighting Intern - Summer 2026](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb83?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 12 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Perception Engineering Intern](https://jobright.ai/jobs/info/691672b0286ccf0a151360ba?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Apr 12 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Signal Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6915156c286ccf0a1512b0ff?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
