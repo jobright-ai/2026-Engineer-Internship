@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[repsol](http://www.repsol.com)** | **[Production Operator Intern, Eagle Ford (Three Rivers, TX)](https://jobright.ai/jobs/info/69dc6568738f2f099e8b0b5b?utm_campaign=1048&utm_source=git)** | Three Rivers, TX | On Site | Apr 12 |
+| ↳ | **[Production Operator Intern, Marcellus (Horseheads, NY)](https://jobright.ai/jobs/info/69dc6557869c7e25d85a9d45?utm_campaign=1048&utm_source=git)** | Horseheads | On Site | Apr 12 |
+| **[City of Kenosha](https://www.kenosha.org)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69dc5be3f748bc5d08a59fa2?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 12 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Intern Senior - BioMed Engineering Dec 2026 Grads](https://jobright.ai/jobs/info/69d940e65356a60f40fd8840?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 12 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69dc50a6b67cec4f9b0b0743?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 12 |
 | **[CEMS](https://www.cems-ae.com/)** | **[Internship - Electrical Engineering](https://jobright.ai/jobs/info/69dc4170b67cec4f9b0b03c2?utm_campaign=1048&utm_source=git)** | South Carolina, United States | On Site | Apr 12 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/69dc29d39f97a42dc9c2fe2c?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Apr 12 |
 | **[ASM](https://www.asm.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69dc2825f748bc5d08a597d1?utm_campaign=1048&utm_source=git)** | Fields, OR | On Site | Apr 12 |
 | **[Olsson](https://www.olsson.com)** | **[Student Internship- Geotechnical Laboratory](https://jobright.ai/jobs/info/696018a87ebc25398eb605ec?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK | On Site | Apr 12 |
-| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Water/Lead Lines](https://jobright.ai/jobs/info/69dc17ea869c7e25d85a8e25?utm_campaign=1048&utm_source=git)** | Lancaster, PA | On Site | Apr 12 |
 | **[Metropolitan Area Planning Council (MAPC)](https://mapc.org)** | **[Real Estate Research Intern](https://jobright.ai/jobs/info/69dc17d09f97a42dc9c2fc70?utm_campaign=1048&utm_source=git)** | Boston, MA | Remote | Apr 12 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Civil Engineering College Summer Intern](https://jobright.ai/jobs/info/69dc0b9a738f2f099e8afe45?utm_campaign=1048&utm_source=git)** | Gilroy, CA | On Site | Apr 12 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Summer/Fall 2026 - Data Engineering Internship](https://jobright.ai/jobs/info/69dc0ae69f97a42dc9c2fbcb?utm_campaign=1048&utm_source=git)** | Clearwater, FL | Remote | Apr 12 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Lighting Intern - Summer 2026](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb83?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 12 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Perception Engineering Intern](https://jobright.ai/jobs/info/691672b0286ccf0a151360ba?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Apr 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Signal Integrity Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6915156c286ccf0a1512b0ff?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/69b7977c3b74eb1e2c852e52?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 12 |
-| ↳ | **[South Florida Summer 2026 Internship](https://jobright.ai/jobs/info/69a6610cd706a731db384e1f?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 12 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Summer 2026 Internship](https://jobright.ai/jobs/info/69a6610cd706a731db384e1f?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 12 |
+| ↳ | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/69b7977c3b74eb1e2c852e52?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 12 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Lean](https://jobright.ai/jobs/info/68dd878944d32141e0bf7a84?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | Apr 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/69d5bef0706f771673ba5384?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 | **[Quva](http://www.quvapharma.com/)** | **[Research & Development Intern](https://jobright.ai/jobs/info/69bec30fb106024562843215?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | Apr 12 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[RevOps Intern](https://jobright.ai/jobs/info/69bf0781b106024562846522?utm_campaign=1048&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
-| **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a1ef24359fe034b1cd2f3c?utm_campaign=1048&utm_source=git)** | Pocatello, ID | On Site | Apr 12 |
-| **[Atwell, LLC](https://atwell.com)** | **[Civil Engineering Internship - Land Development (Summer 2026)](https://jobright.ai/jobs/info/69688e501703f05405aa549a?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
