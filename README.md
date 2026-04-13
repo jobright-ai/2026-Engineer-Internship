@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outagamie County](https://www.outagamie.org/home)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/69dcb6d45356a60f40fea88d?utm_campaign=1048&utm_source=git)** | Appleton, WI | On Site | Apr 13 |
+| **[GenPark](https://genpark.ai)** | **[Data science engineer intern](https://jobright.ai/jobs/info/69dcb2c4f748bc5d08a5c35b?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[IAM Intern](https://jobright.ai/jobs/info/69dcaedb738f2f099e8b2c28?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Apr 13 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69975e6fce78e77b4fdbb944?utm_campaign=1048&utm_source=git)** | Mansfield, TX | On Site | Apr 13 |
 | **[Accuray](http://www.accuray.com)** | **[Process Optimization Intern - Global Service](https://jobright.ai/jobs/info/69dca818738f2f099e8b2a62?utm_campaign=1048&utm_source=git)** | Madison, WI | Hybrid | Apr 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Technical Research Assistant](https://jobright.ai/jobs/info/69dca7865356a60f40fea341?utm_campaign=1048&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction | Canada](http://turnerconstruction.com)** | **[Project / Field Coordinator Co-Op / Intern, Summer 2026 / Construction](https://jobright.ai/jobs/info/69a68533d706a731db3873da?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696ad044db26b618950e1fe9?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Apr 12 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Broadcast Engineering Intern, Spring 2026](https://jobright.ai/jobs/info/69c75044b773006330b77a49?utm_campaign=1048&utm_source=git)** | Portsmouth, VA | On Site | Apr 12 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Modelling & AI Machine Learning Intern (May – August 2026)](https://jobright.ai/jobs/info/6931fdee4c474121999f5508?utm_campaign=1048&utm_source=git)** | Montreal, QC | Hybrid | Apr 12 |
-| **[CybelAngel](https://www.cybelangel.com)** | **[Agentic AI analyst - Academic internship - Research & Learning (US)](https://jobright.ai/jobs/info/69a8a6fd79f3f4037f42e3d0?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 12 |
-| **[IKO North America](https://www.iko.com)** | **[P&ID Development Intern](https://jobright.ai/jobs/info/698672100f6f7e7a2ce16c07?utm_campaign=1048&utm_source=git)** | Sylacauga, AL | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
