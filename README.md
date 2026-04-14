@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Southern California](http://www.usc.edu)** | **[Research Scientist](https://jobright.ai/jobs/info/69de2396aba61f1417313c1f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
+| **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Low Voltage Electronics](https://jobright.ai/jobs/info/69de232e433ac8430e0d878d?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Apr 14 |
+| **[Lumentum](https://www.lumentum.com/en)** | **[Field Application Engineer Intern](https://jobright.ai/jobs/info/69d534d3366bb95ba55434b1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Control System Platforms & Standards Intern Summer 2026](https://jobright.ai/jobs/info/69c886f5e565c26a7002f980?utm_campaign=1048&utm_source=git)** | Warrendale, PA | Hybrid | Apr 14 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Safety Intern - 2026 Program](https://jobright.ai/jobs/info/69d723f652a5bf580012e152?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 14 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Process Development Engineering Co-Op](https://jobright.ai/jobs/info/69d1ee08cdb525785fbb673f?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (TikTok-Content Ecology—LLM application) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ca45660456a931db296aea?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[Valence Labs](https://invivoai.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/69de1fd718cf504166e2bc05?utm_campaign=1048&utm_source=git)** | Montréal-Ouest, QC | On Site | Apr 14 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/69c27f02ec22f8310ab04dae?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 14 |
+| **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Validation](https://jobright.ai/jobs/info/69de1f8b18cf504166e2bbdd?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69aa4cec1f59c56275e32536?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/69de1b89aba61f1417313a57?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Apr 14 |
 | **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69af2d72749500645093a6cd?utm_campaign=1048&utm_source=git)** | Raleigh, North Carolina | On Site | Apr 14 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern(SDN Traffic Intelligence & Control) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69cdde68366bb95ba5503c1a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
@@ -129,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern – Wasteform Development](https://jobright.ai/jobs/info/69ddbed95913ad339813a370?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 13 |
 | **[Jacobs](http://www.jacobs.com)** | **[Engineering Intern - Data Centers](https://jobright.ai/jobs/info/69ddbed98182b27d347415e5?utm_campaign=1048&utm_source=git)** | Tempe, AZ | Hybrid | Apr 13 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Student Intern (Part-time)](https://jobright.ai/jobs/info/69ddbec18182b27d347415b6?utm_campaign=1048&utm_source=git)** | Oakland, CA | Hybrid | Apr 13 |
-| **[City Of McMinnville](https://www.mcminnvilleoregon.gov)** | **[Wastewater Intern (Laboratory)](https://jobright.ai/jobs/info/69ddbec18182b27d347415b4?utm_campaign=1048&utm_source=git)** | McMinnville, OR | On Site | Apr 13 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/69ddbeba5913ad339813a310?utm_campaign=1048&utm_source=git)** | US-KS-Overland Park | On Site | Apr 13 |
 | **[Mead Lumber](https://www.meadcompanies.com/mead-lumber/)** | **[Drafting/Design Summer Internship](https://jobright.ai/jobs/info/69ddbeb8e34484770f19eed3?utm_campaign=1048&utm_source=git)** | Norfolk, NE | On Site | Apr 13 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern  - Battery Materials Research](https://jobright.ai/jobs/info/69ddbeb28182b27d3474157d?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Talpa Supermercados](https://supermercadostalpa.com/)** | **[Summer Internship – Health & Safety (Bilingual English/Spanish Required)](https://jobright.ai/jobs/info/69ddac9c8182b27d34740e7b?utm_campaign=1048&utm_source=git)** | Stone Mountain, GA | On Site | Apr 13 |
 | **[UST](https://www.ust.com)** | **[Life Sciences R&D Intern](https://jobright.ai/jobs/info/69ddab26433ac8430e0d6313?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | Apr 13 |
 | **[UPMC](https://www.upmc.com/)** | **[Pediatric Research Intern - Summer 2026](https://jobright.ai/jobs/info/69ddaaa65913ad3398139ba1?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 13 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Commissioning Intern - Summer 2026](https://jobright.ai/jobs/info/69dda889433ac8430e0d611d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 13 |
-| ↳ | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69dda882433ac8430e0d610f?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Apr 13 |
-| **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69dda84a433ac8430e0d60fd?utm_campaign=1048&utm_source=git)** | Versailles, MO | On Site | Apr 13 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Actuator and System Motors Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69dda7f65913ad339813998a?utm_campaign=1048&utm_source=git)** | San Carlos, CA, US | On Site | Apr 13 |
-| ↳ | **[Actuator and System Motors Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69dda7f6aba61f1417311469?utm_campaign=1048&utm_source=git)** | US-CA-San Carlos | On Site | Apr 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Rangeland-Wildlife Extension Intern](https://jobright.ai/jobs/info/69dda7e4aba61f141731144d?utm_campaign=1048&utm_source=git)** | US-UT | On Site | Apr 13 |
-| **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Highway)](https://jobright.ai/jobs/info/69dda7e3aba61f1417311444?utm_campaign=1048&utm_source=git)** | US-FL-Tampa | On Site | Apr 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Watershed Stewardship Intern](https://jobright.ai/jobs/info/69dda7e3aba61f1417311437?utm_campaign=1048&utm_source=git)** | US-UT | Hybrid | Apr 13 |
-| ↳ | **[Extension Agricultural Environmental Quality Intern](https://jobright.ai/jobs/info/69dda7e1e34484770f19e535?utm_campaign=1048&utm_source=git)** | US-UT | On Site | Apr 13 |
-| ↳ | **[Rangeland-Wildlife Extension Intern](https://jobright.ai/jobs/info/69dda7e15913ad339813995b?utm_campaign=1048&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
