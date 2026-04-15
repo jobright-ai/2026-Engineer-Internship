@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Construction Specialist Intern](https://jobright.ai/jobs/info/69df3e885913ad33981439ae?utm_campaign=1048&utm_source=git)** | Marysville | On Site | Apr 15 |
+| ↳ | **[Construction Specialist Intern](https://jobright.ai/jobs/info/69df3e86433ac8430e0e016c?utm_campaign=1048&utm_source=git)** | Marysville SC - Office | On Site | Apr 15 |
+| ↳ | **[AC Vehicle-to-Grid Product Intern](https://jobright.ai/jobs/info/69df3e83433ac8430e0e0167?utm_campaign=1048&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 15 |
+| ↳ | **[AC Vehicle-to-Grid Product Intern](https://jobright.ai/jobs/info/69df3e8336823d1b4258774d?utm_campaign=1048&utm_source=git)** | Oakland | Hybrid | Apr 15 |
+| **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 14 |
 | **[Click Bond](http://clickbond.com)** | **[2026 Summer Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/69df2e8336823d1b42586d61?utm_campaign=1048&utm_source=git)** | Watertown, CT | On Site | Apr 14 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - Photonic & Phononic Microsystems, Hybrid](https://jobright.ai/jobs/info/69df2e5536823d1b42586d41?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
 | **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69df2bd5433ac8430e0df63e?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Apr 14 |
@@ -132,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Mechanical Engineering Internship - 2026](https://jobright.ai/jobs/info/69def38f5913ad339814148f?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[Skanska](http://skanska.com)** | **[EHS Intern -  Summer 2026](https://jobright.ai/jobs/info/69def35daba61f1417318e6c?utm_campaign=1048&utm_source=git)** | Blacksburg, VA | On Site | Apr 14 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69def3375913ad3398141389?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Apr 14 |
-| **[BASF](https://www.basf.com/)** | **[2026 Chemical Loader Internship](https://jobright.ai/jobs/info/693881a3b95c305f206db440?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Apr 14 |
-| ↳ | **[2026 Production Technician Internship](https://jobright.ai/jobs/info/693793cb1c1c2161c13f5efc?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Apr 14 |
+| **[BASF](https://www.basf.com/)** | **[2026 Production Technician Internship](https://jobright.ai/jobs/info/693793cb1c1c2161c13f5efc?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Apr 14 |
+| ↳ | **[2026 Chemical Loader Internship](https://jobright.ai/jobs/info/693881a3b95c305f206db440?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Apr 14 |
 | **[Resmed](https://www.resmed.com.au)** | **[Product Lifecycle (Mechanical) Engineer Intern](https://jobright.ai/jobs/info/69deeb8daba61f1417318d90?utm_campaign=1048&utm_source=git)** | US Chatsworth RMT | On Site | Apr 14 |
 | ↳ | **[Product Lifecycle (Mechanical) Engineer Intern](https://jobright.ai/jobs/info/69deeb6918cf504166e30f15?utm_campaign=1048&utm_source=git)** | Chatsworth, CA, United States | On Site | Apr 14 |
 | **[Stored Energy Systems LLC (SENS)](http://www.sens-usa.com)** | **[Sales Engineering Intern - Mechanical](https://jobright.ai/jobs/info/69deea75433ac8430e0dd8d9?utm_campaign=1048&utm_source=git)** | Longmont, CO, US | On Site | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Maintenance Technician Hiring Event - Friday, May 8th (10a to 4p)](https://jobright.ai/jobs/info/69dedd30e34484770f1a531a?utm_campaign=1048&utm_source=git)** | Washington, DC | On Site | Apr 14 |
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[FLEET MAINTENANCE INTERN](https://jobright.ai/jobs/info/69defb4918cf504166e316e4?utm_campaign=1048&utm_source=git)** | Bismarck, ND | On Site | Apr 14 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Validation Intern](https://jobright.ai/jobs/info/69dedc7b36823d1b425843ab?utm_campaign=1048&utm_source=git)** | Cranbury, NJ | On Site | Apr 14 |
-| **[Deion](https://deion.io)** | **[Agentic AI Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/69dedc3b5913ad33981407e4?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Bandit Lites, Inc.](http://banditlites.com)** | **[Integration Specialist Intern SUMMER 2026](https://jobright.ai/jobs/info/69dedb765913ad33981407cb?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Apr 14 |
-| **[Princeton Plasma Physics Laboratory (PPPL)](http://www.pppl.gov/)** | **[Development of AI Surrogate Model of FRC Stability Summer Internship](https://jobright.ai/jobs/info/69dedb5a18cf504166e3040b?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Apr 14 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Transmission & Distribution Intern](https://jobright.ai/jobs/info/69d40292cdb525785fbc57a6?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
-| ↳ | **[Metering Intern](https://jobright.ai/jobs/info/69d3faa6cdb525785fbc5012?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
