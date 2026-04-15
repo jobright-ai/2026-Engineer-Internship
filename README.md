@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRIUMPH Mexicali](https://www.triumphgroup.com/)** | **[Title                                                   Intern, Manufacturing Engineer - Repair & Overhaul](https://jobright.ai/jobs/info/69df570a14bf245fc7a6bf2d?utm_campaign=1048&utm_source=git)** | Yakima, WA | On Site | Apr 15 |
+| ↳ | **[Title                                                   Intern, Manufacturing Engineer - Supply Chain](https://jobright.ai/jobs/info/69df5706433ac8430e0e053b?utm_campaign=1048&utm_source=git)** | Yakima, WA | On Site | Apr 15 |
+| **[PROJXON](www.projxon.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69df56fb18cf504166e33af7?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Cornspring](https://www.cornspring.ai)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/69d52860cfdc6132f94600db?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Surveying Intern / Manassas, VA](https://jobright.ai/jobs/info/69d86a379f97a42dc9c1c0b8?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Apr 15 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[Compliance Engineer](https://jobright.ai/jobs/info/69df4dc414bf245fc7a6bdcf?utm_campaign=1048&utm_source=git)** | Augusta, GA | On Site | Apr 15 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Internship - Logistics Engineering](https://jobright.ai/jobs/info/69df4d4814bf245fc7a6bc61?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 15 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6998e91181476f6176b14e7a?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[UES](https://www.teamues.com)** | **[CMT Field Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6965aea2a112b4026613ba57?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[CMT Field Technician Intern - Summer 2026](https://jobright.ai/jobs/info/69379b9e1c1c2161c13f640d?utm_campaign=1048&utm_source=git)** | Erlanger, KY | On Site | Apr 15 |
-| ↳ | **[Geotechnical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6981d7470f6f7e7a2cdb00d5?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | ↳ | **[CMT Field Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6965ac305ad3a93f82310fd8?utm_campaign=1048&utm_source=git)** | Little Rock, AR | On Site | Apr 15 |
+| ↳ | **[Geotechnical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6981d7470f6f7e7a2cdb00d5?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Construction Specialist Intern](https://jobright.ai/jobs/info/69df3e885913ad33981439ae?utm_campaign=1048&utm_source=git)** | Marysville | On Site | Apr 15 |
 | ↳ | **[Construction Specialist Intern](https://jobright.ai/jobs/info/69df3e86433ac8430e0e016c?utm_campaign=1048&utm_source=git)** | Marysville SC - Office | On Site | Apr 15 |
 | ↳ | **[AC Vehicle-to-Grid Product Intern](https://jobright.ai/jobs/info/69df3e8336823d1b4258774d?utm_campaign=1048&utm_source=git)** | Oakland | Hybrid | Apr 15 |
@@ -80,10 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 14 |
 | **[Click Bond](http://clickbond.com)** | **[2026 Summer Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/69df2e8336823d1b42586d61?utm_campaign=1048&utm_source=git)** | Watertown, CT | On Site | Apr 14 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - Photonic & Phononic Microsystems, Hybrid](https://jobright.ai/jobs/info/69df2e5536823d1b42586d41?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 14 |
-| **[Cornell Pump Company, LLC](http://www.cornellpump.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69df4d4c14bf245fc7a6bc64?utm_campaign=1048&utm_source=git)** | Clackamas, OR | On Site | Apr 14 |
 | **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69df2bd5433ac8430e0df63e?utm_campaign=1048&utm_source=git)** | Columbus, NE | On Site | Apr 14 |
 | **[Gerdau](https://www2.gerdau.com.br/)** | **[2026 Summer Engineering Internship](https://jobright.ai/jobs/info/69df2bbe433ac8430e0df5ff?utm_campaign=1048&utm_source=git)** | Petersburg, VA | On Site | Apr 14 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP Core Modeling AI/ML Software Engineer](https://jobright.ai/jobs/info/69df292caba61f141731aa33?utm_campaign=1048&utm_source=git)** | Waltham, MA | Hybrid | Apr 14 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (AI Marketing)](https://jobright.ai/jobs/info/69df24fae34484770f1a7737?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Apr 14 |
 | **[Resmed](https://www.resmed.com.au)** | **[Product Lifecycle (Mechanical) Engineer Intern](https://jobright.ai/jobs/info/69df24f9433ac8430e0df27a?utm_campaign=1048&utm_source=git)** | Chatsworth, GA | On Site | Apr 14 |
 | **[Scientia Vascular](https://www.scientiavascular.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d57d79cfdc6132f9462ce1?utm_campaign=1048&utm_source=git)** | West Valley City, UT | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GFT](https://www.gftinc.com)** | **[Intern - Roadway Engineering](https://jobright.ai/jobs/info/69def3a25913ad33981414e9?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | Apr 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Audio Machine Learning Engineer, Noise Vibration Harshness, Vehicle Engineering (Summer 2026)](https://jobright.ai/jobs/info/69def3985913ad33981414c6?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 14 |
 | **[Hanson Professional Services Inc.](http://hanson-inc.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/69def3975913ad33981414b3?utm_campaign=1048&utm_source=git)** | Springfield, IL | On Site | Apr 14 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Mechanical Engineering Internship - 2026](https://jobright.ai/jobs/info/69def38f5913ad339814148f?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
-| **[Skanska](http://skanska.com)** | **[EHS Intern -  Summer 2026](https://jobright.ai/jobs/info/69def35daba61f1417318e6c?utm_campaign=1048&utm_source=git)** | Blacksburg, VA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
