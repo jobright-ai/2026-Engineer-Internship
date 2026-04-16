@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://flex.com)** | **[Industrial Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69e083c6c17d1d5254334fa6?utm_campaign=1048&utm_source=git)** | West Columbia, SC | On Site | Apr 15 |
+| **[Leidos](https://www.leidos.com)** | **[Systems, Integration and Software Engineer Intern](https://jobright.ai/jobs/info/69e08221c17d1d5254334f3b?utm_campaign=1048&utm_source=git)** | Eagan, MN | Hybrid | Apr 15 |
+| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e0811dc5691b27c176dd4b?utm_campaign=1048&utm_source=git)** | Central Islip, NY | Hybrid | Apr 15 |
+| ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e0811cc5691b27c176dd43?utm_campaign=1048&utm_source=git)** | Albany, NY | Hybrid | Apr 15 |
+| **[Lunar Energy](https://www.lunarenergy.com)** | **[Power Electronics Intern](https://jobright.ai/jobs/info/69bca52fe6a0d9792584a649?utm_campaign=1048&utm_source=git)** | Santa Clara County, CA | On Site | Apr 15 |
 | **[Carboncopies Foundation](https://carboncopies.org)** | **[DataScience Engineering Summer 2026 Unpaid Internship](https://jobright.ai/jobs/info/69e075fbc5691b27c176d8f1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Apr 15 |
 | ↳ | **[Machine Learning Engineering Summer 2026 Unpaid Internship](https://jobright.ai/jobs/info/69e075f9cf5a9e0c33c86aa7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Apr 15 |
 | ↳ | **[LLM Infrastructure & Deployment Summer 2026 Unpaid Internship](https://jobright.ai/jobs/info/69e075ec9564e855a25ddb03?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | Apr 15 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Maintenance Tech - Cleburne Maintenance](https://jobright.ai/jobs/info/69e054a4c5691b27c176cae3?utm_campaign=1048&utm_source=git)** | Cleburne, TX | On Site | Apr 15 |
 | **[Raynor Garage Doors](https://raynor.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69e05488b20fd532b4ae0cbe?utm_campaign=1048&utm_source=git)** | Dixon, IL | On Site | Apr 15 |
 | **[Equinix](http://www.equinix.com)** | **[Enterprise AI Intern](https://jobright.ai/jobs/info/69e0546dc5691b27c176ca5d?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | Apr 15 |
-| **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Environmental Scientist/Engineer Internship](https://jobright.ai/jobs/info/69e073efb20fd532b4ae1b41?utm_campaign=1048&utm_source=git)** | Boulder, CO | Hybrid | Apr 15 |
 | **[Neos Consulting Group](https://www.neosconsulting.com/)** | **[AI/ML Engineer II - Intern](https://jobright.ai/jobs/info/69e051d4ba9bd32d0336f915?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c1a5842c312363dcd4cc7a?utm_campaign=1048&utm_source=git)** | Chandler, Arizona, United States | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/69e04f53c5691b27c176c7fb?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
@@ -117,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[EDG](https://www.edg.net/)** | **[Structural Drafting Intern](https://jobright.ai/jobs/info/69e03e545913ad3398148978?utm_campaign=1048&utm_source=git)** | Lafayette, LA | On Site | Apr 15 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Pratt & Whitney Future Ready Lab Intern –DTMC](https://jobright.ai/jobs/info/69e03e5214bf245fc7a70aad?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 15 |
 | ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern –  Global Quality Assurance](https://jobright.ai/jobs/info/69e03e50aba61f14173204ce?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 15 |
-| ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern – Aftermarket & Sustainment Engineering (ASE)](https://jobright.ai/jobs/info/69e03e4faba61f14173204c9?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 15 |
 | ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern – High Pressure Compressor (HPC) Project](https://jobright.ai/jobs/info/69e03e4faba61f14173204cb?utm_campaign=1048&utm_source=git)** | US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140 | On Site | Apr 15 |
+| ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern – Aftermarket & Sustainment Engineering (ASE)](https://jobright.ai/jobs/info/69e03e4faba61f14173204c9?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 15 |
 | ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern – Data Analysis for Supplier Approval](https://jobright.ai/jobs/info/69e03dfb4920452a85dd2635?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-D ~ 400 Main St ~ BLDG D | Hybrid | Apr 15 |
 | ↳ | **[2026 Pratt & Whitney Future Ready Lab Intern –  Hot Section Module Center (HSMC) South Shop Interaction](https://jobright.ai/jobs/info/69e03dfa4920452a85dd2630?utm_campaign=1048&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 15 |
 | **[Methode Electronics](http://methode.com)** | **[Strategic Planning Intern – High Power Electronics](https://jobright.ai/jobs/info/69e03d0daba61f1417320486?utm_campaign=1048&utm_source=git)** | Southfield, MI | On Site | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e02b1414bf245fc7a7046d?utm_campaign=1048&utm_source=git)** | Lexington Park, MD | On Site | Apr 15 |
 | **[Foley Equipment](http://foleyeq.com)** | **[Intern Technician - Dodge City ThinkBIG 2026](https://jobright.ai/jobs/info/69e02b1414bf245fc7a7046b?utm_campaign=1048&utm_source=git)** | Dodge City, KS | On Site | Apr 15 |
 | **[James Hardie](https://www.jameshardie.com)** | **[R&D Intern - Chemical Engineering/Materials Science](https://jobright.ai/jobs/info/69e02b004920452a85dd1fe5?utm_campaign=1048&utm_source=git)** | Fontana, CA | On Site | Apr 15 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Biomechanics Research -Temporary](https://jobright.ai/jobs/info/69e02aff5913ad33981483aa?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Apr 15 |
-| **[Rosendin](https://www.rosendin.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69e02af2aba61f141731ff01?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | Apr 15 |
-| **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Engineering - USA - TX - Dickinson - R26-03676](https://jobright.ai/jobs/info/69e02aecaba61f141731fee6?utm_campaign=1048&utm_source=git)** | Dickinson, TX | On Site | Apr 15 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Desktop Engineering Intern](https://jobright.ai/jobs/info/69e02ae94920452a85dd1fb0?utm_campaign=1048&utm_source=git)** | Ipswich, MA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
