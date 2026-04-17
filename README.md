@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69e1f158d612782e6114d94f?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
 | **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Neighborhood Traffic Safety / Safe Routes to School Intern](https://jobright.ai/jobs/info/69e1e556ff71e82d604bb888?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 17 |
 | **[BD](https://www.bd.com)** | **[Environmental Intern – Community Engagement & Environmental Permitting (Summer Internship)](https://jobright.ai/jobs/info/69e1d7aed612782e6114aa97?utm_campaign=1048&utm_source=git)** | USA NJ - Franklin Lakes | On Site | Apr 16 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69e1d2a0d612782e6114aa48?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | Apr 16 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics NASSCO](http://www.nassco.com/)** | **[Student Intern - Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69e1a900acc736112f5c4bf5?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
 | **[Fehr & Peers](http://fehrandpeers.com)** | **[Transportation Internship (Summer 2026)](https://jobright.ai/jobs/info/69e1a8c840a62c1fa93b97db?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | Apr 16 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Systems Team Paid Intern](https://jobright.ai/jobs/info/69e1a6c7fd1c0456f3faf38c?utm_campaign=1048&utm_source=git)** | Broadview Heights, OH | On Site | Apr 16 |
+| **[Monroe County](https://www.monroecounty.gov)** | **[Information Services Intern-Cyber Security, Part-Time](https://jobright.ai/jobs/info/69e1ebded612782e6114d556?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
 | **[Parallel](https://www.moveparallel.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/69b1efa065de58104c7147ee?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 16 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/69e19bdfacc736112f5c4676?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Apr 16 |
 | **[Bunge](http://www.bunge.com)** | **[Engineering Operations Intern Co-op](https://jobright.ai/jobs/info/69e19b046c20aa1149541e26?utm_campaign=1048&utm_source=git)** | Nipawin, SK | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 16 |
 | ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 16 |
 | **[Amazon](https://amazon.com)** | **[Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://jobright.ai/jobs/info/69e19af3d612782e611495e3?utm_campaign=1048&utm_source=git)** | Burnaby, BC | On Site | Apr 16 |
-| ↳ | **[Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://jobright.ai/jobs/info/69e19adeff71e82d604b7a82?utm_campaign=1048&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
-| ↳ | **[Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://jobright.ai/jobs/info/69e198faacc736112f5c4547?utm_campaign=1048&utm_source=git)** | Pitt Meadows, BC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
