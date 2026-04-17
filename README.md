@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman](http://www.edelman.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69c5b23b1b5ad02887377fef?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69cc95688130af1ac833c5f5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69e2008ed6ee4e4e4a8921f6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[OESC (Oneida ESC Group)](https://oescgroup.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69e1ff62d612782e6114df7a?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Apr 17 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[DevOps Engineer Intern – AI Forge (AI/ML Platform)](https://jobright.ai/jobs/info/69a9f7fe9ca4e908ec654512?utm_campaign=1048&utm_source=git)** | Draper, UT | On Site | Apr 17 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - DCSSD Performance Validation](https://jobright.ai/jobs/info/69c551f9e565c26a7000e3f1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[Culligan International](http://www.culligan.com/)** | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/6953394bf1f8465b79ea88dd?utm_campaign=1048&utm_source=git)** | Libertyville, IL | On Site | Apr 17 |
+| **[Cisco](http://www.cisco.com)** | **[AI/ML Modeling Engineer I (Intern)- United States](https://jobright.ai/jobs/info/69e1f96e6c20aa1149546504?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
+| ↳ | **[AI/ML Modeling Engineer I (Intern)- United States](https://jobright.ai/jobs/info/69e1f8b0d6ee4e4e4a891d4d?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 17 |
 | **[GenPark](https://genpark.ai)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69e1f158d612782e6114d94f?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
 | **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Neighborhood Traffic Safety / Safe Routes to School Intern](https://jobright.ai/jobs/info/69e1e556ff71e82d604bb888?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 17 |
 | **[BD](https://www.bd.com)** | **[Environmental Intern – Community Engagement & Environmental Permitting (Summer Internship)](https://jobright.ai/jobs/info/69e1d7aed612782e6114aa97?utm_campaign=1048&utm_source=git)** | USA NJ - Franklin Lakes | On Site | Apr 16 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SonoThera](https://sonothera.com)** | **[Nucleic Acid Analytics Intern](https://jobright.ai/jobs/info/69e182dbfd1c0456f3fae9b6?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Apr 16 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - DevSecOps](https://jobright.ai/jobs/info/69e1810340a62c1fa93b8bba?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Apr 16 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS)- Mechanical Engineer Intern](https://jobright.ai/jobs/info/69e17ee5fd1c0456f3fae92f?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | Apr 16 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Systems Engineer, ESS Intern](https://jobright.ai/jobs/info/69e17e2c40a62c1fa93b8b41?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Apr 16 |
-| ↳ | **[Systems Engineer, BMS Intern](https://jobright.ai/jobs/info/69e17dd26c20aa11495416fc?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Apr 16 |
-| **[CPI Card Group](http://www.cpicardgroup.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e17dceacc736112f5c3efb?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Apr 16 |
-| **[Flex](https://flex.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69e17daeacc736112f5c3ec1?utm_campaign=1048&utm_source=git)** | Orangeburg, SC | On Site | Apr 16 |
-| **[Consertus](http://www.consertus.com)** | **[Intern](https://jobright.ai/jobs/info/69e17cb9ff71e82d604b7316?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
-| **[Axcelis Technologies](http://www.axcelis.com)** | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 16 |
-| ↳ | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 16 |
-| ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 16 |
-| **[Amazon](https://amazon.com)** | **[Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://jobright.ai/jobs/info/69e19af3d612782e611495e3?utm_campaign=1048&utm_source=git)** | Burnaby, BC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
