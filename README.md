@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69e241232f2865359307622e?utm_campaign=1048&utm_source=git)** | Muncie, IN | On Site | Apr 17 |
+| **[Barnard](http://barnard-inc.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69e241162f28653593076218?utm_campaign=1048&utm_source=git)** | US | On Site | Apr 17 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/69e24114be46fa3a4ef56bb6?utm_campaign=1048&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Apr 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[STEM2D Intern](https://jobright.ai/jobs/info/69e239de2f286535930761ae?utm_campaign=1048&utm_source=git)** | San Angelo, Texas, United States of America | On Site | Apr 17 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Machine Learning Engineer, Recommendation Systems - PhD Intern](https://jobright.ai/jobs/info/69c5ec3b83ea553769fd13ce?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[DevOps Engineering Intern](https://jobright.ai/jobs/info/698d19ebf64d441a164f0417?utm_campaign=1048&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6411daf1431824c8edce?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Apr 17 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Building Structural Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/69a948a42615b60842abc691?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO | On Site | Apr 17 |
 | **[Blue Energy](https://blueenergy.co/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69a9f9071f59c56275e2cad4?utm_campaign=1048&utm_source=git)** | Chevy Chase, MD | Hybrid | Apr 17 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/69700e8e3ed06875134b0ca0?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Apr 17 |
-| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/69700a773ed06875134b086f?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Apr 17 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/69700a773ed06875134b086f?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Apr 17 |
+| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/69700e8e3ed06875134b0ca0?utm_campaign=1048&utm_source=git)** | St Paul Park, MN | On Site | Apr 17 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/696ffd3a82817106e9771800?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Apr 17 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6fd8d627244576e3fa38?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | Apr 17 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Exploratory Technology Intern](https://jobright.ai/jobs/info/69726d269b83b424830e6088?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69c5e6bf83ea553769fd10a1?utm_campaign=1048&utm_source=git)** | Lafayette, IN | On Site | Apr 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/698d03170f6f7e7a2ce8afcd?utm_campaign=1048&utm_source=git)** | Hammond, IN | On Site | Apr 17 |
 | **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/698c0e1e0f6f7e7a2ce79ed7?utm_campaign=1048&utm_source=git)** | Ottawa, ON | On Site | Apr 17 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/69e0e03f40a62c1fa93b5528?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | Apr 17 |
 | **[David Evans and Associates, Inc.](http://www.deainc.com)** | **[Internship: Construction Inspector - Portland, OR.](https://jobright.ai/jobs/info/69a95291f6c22f2e368634fe?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Project Safety Intern - 2026 (Nashville)](https://jobright.ai/jobs/info/69c9f6f483ea553769ff463a?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 17 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/69e223730335427bb49c787c?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69c589ae1818a24cd84b7a1f?utm_campaign=1048&utm_source=git)** | Stone Mountain, GA | On Site | Apr 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Kansas City Construction Inspection Intern](https://jobright.ai/jobs/info/6987ffa30f6f7e7a2ce32e3c?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 17 |
 | **[NV5](http://www.nv5.com)** | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/698e453978b4502f12a50e67?utm_campaign=1048&utm_source=git)** | Alachua, FL | On Site | Apr 17 |
-| **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/697193a7333b6343a14e2e8c?utm_campaign=1048&utm_source=git)** | Girard, OH | On Site | Apr 17 |
-| ↳ | **[2026 Internship - Construction Technician](https://jobright.ai/jobs/info/69719de8333b6343a14e36ab?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
