@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://www.northwell.edu/)** | **[Application Development Internship](https://jobright.ai/jobs/info/69e26a1f3ce36005badbdf8f?utm_campaign=1048&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Remote | Apr 17 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[LABORATORY INTERN](https://jobright.ai/jobs/info/69e263dc5c44d4710fe24f98?utm_campaign=1048&utm_source=git)** | 2145 River Rd, Grand Junction, CO, 81505, US | On Site | Apr 17 |
 | **[Zoox](https://www.zoox.com/)** | **[PhD Research Intern, Physical AI in Perception](https://jobright.ai/jobs/info/69e263bb2f28653593076688?utm_campaign=1048&utm_source=git)** | Foster City, CA | On Site | Apr 17 |
 | **[MEC (Mayville Engineering Company, Inc.)](https://www.mecinc.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69e2616d5c44d4710fe24f2a?utm_campaign=1048&utm_source=git)** | 715 South Street | On Site | Apr 17 |
@@ -74,9 +75,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern-3](https://jobright.ai/jobs/info/69e251383770bd5361cd81eb?utm_campaign=1048&utm_source=git)** | Mediapolis, IA | On Site | Apr 17 |
 | **[Elekta](http://elekta.com/)** | **[DevOps Engineering Intern](https://jobright.ai/jobs/info/69c5a326aa3c2c1995e027b8?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Apr 17 |
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/698c7ec6f64d441a164e6dcc?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 17 |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Student Intern - AI & Digital Innovation](https://jobright.ai/jobs/info/69e26c51fcfcbd43860a2cb2?utm_campaign=1048&utm_source=git)** | CA - ON, Toronto | Hybrid | Apr 17 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Power System Engineer Intern - Summer](https://jobright.ai/jobs/info/695a12509f1b381eb272b50f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 17 |
+| **[Waste Connections](http://www.wasteconnections.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/69e269e92f2865359307670d?utm_campaign=1048&utm_source=git)** | 4100-Cold Canyon Landfill | On Site | Apr 17 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Civil Intern](https://jobright.ai/jobs/info/69e24b1b5c44d4710fe24d65?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 17 |
 | **[Wunderlich-Malec Engineering, Inc.](http://www.wmeng.com)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69e24b0f5c44d4710fe24d33?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Apr 17 |
+| **[Driscoll's](http://www.driscolls.com)** | **[Plant Health Intern](https://jobright.ai/jobs/info/69e268483770bd5361cd8471?utm_campaign=1048&utm_source=git)** | US - Watsonville, California | On Site | Apr 17 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Systems Analyst V](https://jobright.ai/jobs/info/69c5c9461818a24cd84bb2cd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Innovation Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69aaa1499ca4e908ec661257?utm_campaign=1048&utm_source=git)** | New Hope, MN | On Site | Apr 17 |
 | **[Arcadis](http://www.arcadis.com)** | **[Transportation/ITS Engineering Intern](https://jobright.ai/jobs/info/69e24aed3770bd5361cd8084?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/69e227790335427bb49c78dc?utm_campaign=1048&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Resources Management Intern](https://jobright.ai/jobs/info/698831648da7a61204634a4f?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Apr 17 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Product Service and Support Intern](https://jobright.ai/jobs/info/69c593ccaa9a29199e8076bc?utm_campaign=1048&utm_source=git)** | Lafayette, IN | On Site | Apr 17 |
-| **[Johnson Screens, a brand of Aqseptence Group](https://johnsonscreens.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c58ad983ea553769fcc91e?utm_campaign=1048&utm_source=git)** | New Brighton, MN | On Site | Apr 17 |
-| **[Allison Transmission](http://www.allisontransmission.com)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69c5e6bf83ea553769fd10a1?utm_campaign=1048&utm_source=git)** | Lafayette, IN | On Site | Apr 17 |
-| **[Huhtamaki](http://huhtamaki.com/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/698d03170f6f7e7a2ce8afcd?utm_campaign=1048&utm_source=git)** | Hammond, IN | On Site | Apr 17 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/698c0e1e0f6f7e7a2ce79ed7?utm_campaign=1048&utm_source=git)** | Ottawa, ON | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
