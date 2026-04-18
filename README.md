@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Ormco](http://www.ormco.com)** | **[Manufacturing Engineering Intern (On-site)](https://jobright.ai/jobs/info/69e32ffb3770bd5361cdaf9a?utm_campaign=1048&utm_source=git)** | Pomona, CA | On Site | Apr 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Development & Quality Control](https://jobright.ai/jobs/info/69e32fd62f28653593078e83?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | Apr 18 |
 | **[Heartflow](https://www.heartflow.com)** | **[Software Engineer Intern (ML Ops / Compute Migration)](https://jobright.ai/jobs/info/69e322535c44d4710fe27866?utm_campaign=1048&utm_source=git)** | San Francisco, California | On Site | Apr 17 |
+| **[Autonomique](https://www.autonomique.ai)** | **[Robotics Manipulation / Physical AI Internship](https://jobright.ai/jobs/info/69e33df75c44d4710fe28636?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Apr 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Computer Science / CAD Summer Intern](https://jobright.ai/jobs/info/69e32f7b3770bd5361cdab48?utm_campaign=1048&utm_source=git)** | Waynesboro, PA | Hybrid | Apr 17 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e32f685c44d4710fe27aff?utm_campaign=1048&utm_source=git)** | Greenbelt, MD | On Site | Apr 17 |
 | ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e32fb13ce36005badc0812?utm_campaign=1048&utm_source=git)** | Wahiawa, HI | On Site | Apr 17 |
@@ -78,12 +79,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UPS FlightPath Intern - Louisville, KY](https://jobright.ai/jobs/info/69e32f585c44d4710fe27a68?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc75c44d4710fe273b7?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc65c44d4710fe273b1?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
-| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a2?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
+| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Electrical Engineer Intern- Substation](https://jobright.ai/jobs/info/69e2dba33770bd5361cda75d?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69e2dba3be46fa3a4ef5935d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
-| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2db973770bd5361cda72c?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2db973770bd5361cda726?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
+| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2db973770bd5361cda72c?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Civil and Structural High School Internship](https://jobright.ai/jobs/info/69e2db943770bd5361cda716?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69e2db693ce36005badc01f0?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Apr 17 |
 | **[Neomorph, Inc.](https://neomorph.com)** | **[Intern - Molecular Sciences](https://jobright.ai/jobs/info/69e2db563ce36005badc0194?utm_campaign=1048&utm_source=git)** | SD Metro Area | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NY Creates](https://ny-creates.org/)** | **[Test, Assembly, and Packaging Co-Op (Flip Chip Packaging)](https://jobright.ai/jobs/info/69e2a47e3770bd5361cd948c?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 17 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Air Quality Research and Data Analyst Intern](https://jobright.ai/jobs/info/69e2a4023ce36005badbef77?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 17 |
 | **[Actian](http://www.actian.com)** | **[Executive Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e2a3fe3ce36005badbef60?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 17 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, Actuation Engineering](https://jobright.ai/jobs/info/69e29f63be46fa3a4ef57f36?utm_campaign=1048&utm_source=git)** | Torrance, CA | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
