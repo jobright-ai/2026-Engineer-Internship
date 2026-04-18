@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heartflow](https://www.heartflow.com)** | **[Software Engineer Intern (ML Ops / Compute Migration)](https://jobright.ai/jobs/info/69e322535c44d4710fe27866?utm_campaign=1048&utm_source=git)** | San Francisco, California | On Site | Apr 17 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Apr 17 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a66?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69e2e1a03770bd5361cda87d?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Intern, Water Engineer](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa3?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Product Development Intern: Material Science](https://jobright.ai/jobs/info/69e29d863ce36005badbeeb9?utm_campaign=1048&utm_source=git)** | US-MA-Chicopee | On Site | Apr 17 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Field Application Engineer Intern](https://jobright.ai/jobs/info/69d534d3366bb95ba55434b1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
-| **[Royalty Roofing & Siding](https://royaltyroofing.org/)** | **[Estimating Intern](https://jobright.ai/jobs/info/69e2d6733ce36005badbfef4?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
