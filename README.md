@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69e2e150be46fa3a4ef59446?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc75c44d4710fe273b7?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc65c44d4710fe273b1?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
-| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a2?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
+| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Electrical Engineer Intern- Substation](https://jobright.ai/jobs/info/69e2dba33770bd5361cda75d?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69e2dba3be46fa3a4ef5935d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2db973770bd5361cda72c?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland, Baltimore (UMB)](http://www.umaryland.edu/)** | **[OPEN RANK: Laboratory Animal Research Assistant or Specialist](https://jobright.ai/jobs/info/69e2bc37be46fa3a4ef588dd?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 17 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Operations Digital Transformation Team Intern](https://jobright.ai/jobs/info/69e2d66b5c44d4710fe2701f?utm_campaign=1048&utm_source=git)** | Spokane, WA | Hybrid | Apr 17 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern - Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8b03ce36005badbf70c?utm_campaign=1048&utm_source=git)** | Greenbelt, MD, US | On Site | Apr 17 |
-| ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8aefcfcbd43860a445c?utm_campaign=1048&utm_source=git)** | Wahiawa, HI, US | On Site | Apr 17 |
 | ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8ae5c44d4710fe267d9?utm_campaign=1048&utm_source=git)** | US-HI-Wahiawa | On Site | Apr 17 |
+| ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8aefcfcbd43860a445c?utm_campaign=1048&utm_source=git)** | Wahiawa, HI, US | On Site | Apr 17 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Design - Studio Engineering](https://jobright.ai/jobs/info/69e2b894fcfcbd43860a43e2?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Apr 17 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, System Control Firmware](https://jobright.ai/jobs/info/69e2b8913ce36005badbf5e7?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 17 |
 | **[Bekum America Corporation](https://www.bekumamerica.com)** | **[Materials Internship (Summer, 2026)](https://jobright.ai/jobs/info/69e2e17e3ce36005badc036a?utm_campaign=1048&utm_source=git)** | Williamston, MI | On Site | Apr 17 |
