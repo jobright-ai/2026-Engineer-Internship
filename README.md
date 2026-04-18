@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axcelis Technologies](http://www.axcelis.com)** | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
+| ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
+| ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
+| **[Tacit](https://tacit.ai)** | **[Antenna Engineering Intern](https://jobright.ai/jobs/info/69c541e1e565c26a7000d69a?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69c363b1753c101b21572423?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Transportation Intern Maintenance Worker - Temporary](https://jobright.ai/jobs/info/69bdd0b44828227293005d50?utm_campaign=1048&utm_source=git)** | Cambridge, VT | On Site | Apr 18 |
 | **[SummitTX Capital](https://www.summittxcapital.com)** | **[Intern - Research Engineer](https://jobright.ai/jobs/info/69dfe8cc5913ad339814678b?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Apr 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[DCR Field Research Intern](https://jobright.ai/jobs/info/69e3d847cd85881c9505fef6?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Apr 18 |
 | **[ITW Performance Polymers](https://itwperformancepolymers.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e02b4a14bf245fc7a7052f?utm_campaign=1048&utm_source=git)** | Danvers, MA | On Site | Apr 18 |
@@ -85,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Withum](http://www.withum.com)** | **[Tour de Withum Summer 2026](https://jobright.ai/jobs/info/69dde0b04d3bec4144b4e911?utm_campaign=1048&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 18 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/69cc407c8130af1ac83376db?utm_campaign=1048&utm_source=git)** | Fargo, ND | On Site | Apr 18 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Connectivity Innovation (Summer)](https://jobright.ai/jobs/info/698e4319f64d441a16507a40?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Apr 18 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Field Geotechnical Intern](https://jobright.ai/jobs/info/69e16adb6c20aa114954111e?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Apr 18 |
-| ↳ | **[Intern - Lab](https://jobright.ai/jobs/info/69e121d640a62c1fa93b6c49?utm_campaign=1048&utm_source=git)** | Midvale, UT | On Site | Apr 18 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Lab](https://jobright.ai/jobs/info/69e121d640a62c1fa93b6c49?utm_campaign=1048&utm_source=git)** | Midvale, UT | On Site | Apr 18 |
+| ↳ | **[Field Geotechnical Intern](https://jobright.ai/jobs/info/69e16adb6c20aa114954111e?utm_campaign=1048&utm_source=git)** | Morgantown, WV | On Site | Apr 18 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Environment, Health & Safety Intern](https://jobright.ai/jobs/info/69c7334583ea553769fe19c6?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 18 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Construction Superintendent Intern](https://jobright.ai/jobs/info/69d73614366bb95ba5552ebf?utm_campaign=1048&utm_source=git)** | Shafter, CA, USA | On Site | Apr 18 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Engineering - Civil Engineering Internship](https://jobright.ai/jobs/info/68f823dbb0edcf159dc8edb3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 18 |
@@ -101,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Materials & Processes: NDT Engineering Specialist III](https://jobright.ai/jobs/info/69aa357e2ebd316bece1f9e9?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 18 |
 | **[Cadrex Manufacturing Solutions](https://cadrex.com)** | **[Intern - Manufacturing Engineering](https://jobright.ai/jobs/info/69d359dd0b098b7a6708e8b2?utm_campaign=1048&utm_source=git)** | Seguin, TX | On Site | Apr 18 |
 | **[Antora Energy](https://www.antoraenergy.com/)** | **[Energy Intern](https://jobright.ai/jobs/info/69e08c30cf5a9e0c33c87077?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Chassis - Suspension Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69bc3b284828227293fdd057?utm_campaign=1048&utm_source=git)** | Superior, MI | Hybrid | Apr 18 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Environmental Health and Safety](https://jobright.ai/jobs/info/69c6bb851b5ad02887386935?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | Apr 18 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Production Test Pilot](https://jobright.ai/jobs/info/69c7e335e565c26a7002c827?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 18 |
 | ↳ | **[Captain - Flight Ops](https://jobright.ai/jobs/info/69c71151e565c26a70025a0d?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Patel, Greene & Associates, LLC (PGA)](https://www.patelgreene.com/)** | **[Structures Engineer Intern](https://jobright.ai/jobs/info/69c72d5a1818a24cd84cc677?utm_campaign=1048&utm_source=git)** | Greater Tampa Bay Area | On Site | Apr 18 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d1a5b80b098b7a670829f3?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d5f490366bb95ba554a220?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 18 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Service Engineering Liaison (Weekend shift) CS SVC Tech Spec II](https://jobright.ai/jobs/info/69c6d340aa3c2c1995e125db?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Apr 18 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/69c886fce565c26a7002f982?utm_campaign=1048&utm_source=git)** | Kenai, AK | On Site | Apr 18 |
-| **[Trinseo](http://www.trinseo.com)** | **[Copolymers Engineer Intern](https://jobright.ai/jobs/info/69aa30c01f59c56275e3079f?utm_campaign=1048&utm_source=git)** | Midland, MI, US | On Site | Apr 18 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Structural Engineering Intern - Transmission & Distribution, Substation (Orlando)](https://jobright.ai/jobs/info/69d341c2cfdc6132f944f671?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Internship](https://jobright.ai/jobs/info/68711dfea5ae807a59cfdeda?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
