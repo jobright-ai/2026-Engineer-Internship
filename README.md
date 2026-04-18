@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland, Baltimore (UMB)](http://www.umaryland.edu/)** | **[OPEN RANK: Laboratory Animal Research Assistant or Specialist](https://jobright.ai/jobs/info/69e2bc37be46fa3a4ef588dd?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 17 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Operations Digital Transformation Team Intern](https://jobright.ai/jobs/info/69e2d66b5c44d4710fe2701f?utm_campaign=1048&utm_source=git)** | Spokane, WA | Hybrid | Apr 17 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern - Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8b03ce36005badbf70c?utm_campaign=1048&utm_source=git)** | Greenbelt, MD, US | On Site | Apr 17 |
-| ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8ae5c44d4710fe267d9?utm_campaign=1048&utm_source=git)** | US-HI-Wahiawa | On Site | Apr 17 |
 | ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8aefcfcbd43860a445c?utm_campaign=1048&utm_source=git)** | Wahiawa, HI, US | On Site | Apr 17 |
+| ↳ | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69e2b8ae5c44d4710fe267d9?utm_campaign=1048&utm_source=git)** | US-HI-Wahiawa | On Site | Apr 17 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Design - Studio Engineering](https://jobright.ai/jobs/info/69e2b894fcfcbd43860a43e2?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Apr 17 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, System Control Firmware](https://jobright.ai/jobs/info/69e2b8913ce36005badbf5e7?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 17 |
 | **[Bekum America Corporation](https://www.bekumamerica.com)** | **[Materials Internship (Summer, 2026)](https://jobright.ai/jobs/info/69e2e17e3ce36005badc036a?utm_campaign=1048&utm_source=git)** | Williamston, MI | On Site | Apr 17 |
@@ -128,14 +128,12 @@ For a complete list, click the following sortable link below:
 | **[iSpot](http://www.ispot.tv)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d7187148f0c8161d2fcea5?utm_campaign=1048&utm_source=git)** | Bellevue, WA | Hybrid | Apr 17 |
 | **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[Technical Intern](https://jobright.ai/jobs/info/69e2d693fcfcbd43860a4c2d?utm_campaign=1048&utm_source=git)** | Johnstown, PA | Remote | Apr 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Industrial Engineer, Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/69e2d6ab2f28653593078775?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 17 |
-| **[Stabilus](https://www.stabilus.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e2d69d5c44d4710fe27179?utm_campaign=1048&utm_source=git)** | Gastonia, NC | On Site | Apr 17 |
 | **[Elma Electronic](https://www.elma.com/)** | **[Manufacturing / Process Engineering Intern (Paid)](https://jobright.ai/jobs/info/69e2aad32f2865359307776c?utm_campaign=1048&utm_source=git)** | Lawrenceville, GA | On Site | Apr 17 |
 | **[Five9](http://www.five9.com)** | **[Software Developer AI Insights Intern](https://jobright.ai/jobs/info/69e2aacc3770bd5361cd9638?utm_campaign=1048&utm_source=git)** | San Ramon, CA | Hybrid | Apr 17 |
 | **[JSW Steel USA](http://jswsteel.us)** | **[Electrical Engineer Internship (Paid)](https://jobright.ai/jobs/info/69e2aac4fcfcbd43860a3df2?utm_campaign=1048&utm_source=git)** | Baytown, TX | On Site | Apr 17 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Design Engineering](https://jobright.ai/jobs/info/69e2aab7fcfcbd43860a3d81?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[Mine Engineer Intern (Francisco)](https://jobright.ai/jobs/info/69e2aaa82f28653593077649?utm_campaign=1048&utm_source=git)** | Francisco, IN | On Site | Apr 17 |
 | **[American Electric Power](http://aep.com)** | **[PowerTech/Station Electrician Internship](https://jobright.ai/jobs/info/69e2aa97fcfcbd43860a3c48?utm_campaign=1048&utm_source=git)** | Lawton, OK | On Site | Apr 17 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Applications Engineer I](https://jobright.ai/jobs/info/69e2d69a3ce36005badc0008?utm_campaign=1048&utm_source=git)** | Moon, PA | Hybrid | Apr 17 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Engineering Associate Internship, Civil & Structural](https://jobright.ai/jobs/info/69e2e1653ce36005badc02cb?utm_campaign=1048&utm_source=git)** | Lake Mary, FL | On Site | Apr 17 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Data Integrity Intern](https://jobright.ai/jobs/info/69e2cff33ce36005badbfe11?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[MacDermid Alpha Electronics Solutions](https://www.macdermidalpha.com)** | **[EH&S Intern](https://jobright.ai/jobs/info/69de92005913ad339813e324?utm_campaign=1048&utm_source=git)** | SC-DuBois Area | On Site | Apr 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Convergint](http://www.convergint.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e29dbefcfcbd43860a3a70?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 17 |
 | **[TYLin](http://www.tylin.com)** | **[Intern, Water Engineer](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa3?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Product Development Intern: Material Science](https://jobright.ai/jobs/info/69e29d863ce36005badbeeb9?utm_campaign=1048&utm_source=git)** | US-MA-Chicopee | On Site | Apr 17 |
+| **[Lumentum](https://www.lumentum.com/en)** | **[Field Application Engineer Intern](https://jobright.ai/jobs/info/69d534d3366bb95ba55434b1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[Royalty Roofing & Siding](https://royaltyroofing.org/)** | **[Estimating Intern](https://jobright.ai/jobs/info/69e2d6733ce36005badbfef4?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
