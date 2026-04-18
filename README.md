@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a77aa598a08c3ed5e37?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Apr 17 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69e2e1a12f28653593078a66?utm_campaign=1048&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69e2e1a03770bd5361cda87d?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 17 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Smart Mobility – Summer Intern](https://jobright.ai/jobs/info/69e2e19f3770bd5361cda874?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Apr 17 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69e2e150be46fa3a4ef59446?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc75c44d4710fe273b7?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc65c44d4710fe273b1?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
-| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a2?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
+| ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2dbc55c44d4710fe273a2?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Electrical Engineer Intern- Substation](https://jobright.ai/jobs/info/69e2dba33770bd5361cda75d?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 17 |
 | **[Recor Medical](http://recormedical.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69e2dba3be46fa3a4ef5935d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
 | ↳ | **[R&D Intern](https://jobright.ai/jobs/info/69e2db973770bd5361cda72c?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Convergint](http://www.convergint.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e29dbefcfcbd43860a3a70?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 17 |
 | **[TYLin](http://www.tylin.com)** | **[Intern, Water Engineer](https://jobright.ai/jobs/info/69e2d292be46fa3a4ef58fa3?utm_campaign=1048&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Product Development Intern: Material Science](https://jobright.ai/jobs/info/69e29d863ce36005badbeeb9?utm_campaign=1048&utm_source=git)** | US-MA-Chicopee | On Site | Apr 17 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Field Application Engineer Intern](https://jobright.ai/jobs/info/69d534d3366bb95ba55434b1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
