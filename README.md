@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[DCR Field Research Intern](https://jobright.ai/jobs/info/69e3d847cd85881c9505fef6?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Apr 18 |
+| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information Science and Technology Post-Bachelor's Intern](https://jobright.ai/jobs/info/69cf7a4e398fb071abf906bf?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | Hybrid | Apr 18 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Construction Project Engineer Intern](https://jobright.ai/jobs/info/69c7f46b1818a24cd84d2a20?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Apr 18 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Graduate Engineer, Structural - Substation](https://jobright.ai/jobs/info/695d8752f5f3c43f38e25f6e?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 18 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applied AI Engineer](https://jobright.ai/jobs/info/69c7d6df83ea553769fe70ad?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Apr 18 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69a9eea59ca4e908ec6534cd?utm_campaign=1048&utm_source=git)** | Big Spring, TX | On Site | Apr 18 |
+| **[GitHub](https://github.com)** | **[Master Data Management & Data Quality Intern](https://jobright.ai/jobs/info/69c6f410aa3c2c1995e13dcb?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 18 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Reliability Engineering Intern](https://jobright.ai/jobs/info/69aae0032747003c3d5092b0?utm_campaign=1048&utm_source=git)** | Big Spring, TX | On Site | Apr 18 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Energy Engineering Intern](https://jobright.ai/jobs/info/69d797dd869c7e25d858dc57?utm_campaign=1048&utm_source=git)** | Louisville, CO | Hybrid | Apr 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Old World Industries](https://www.owi.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c782f783ea553769fe455c?utm_campaign=1048&utm_source=git)** | Northbrook, IL | On Site | Apr 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Operational Excellence / Lean Intern](https://jobright.ai/jobs/info/69aa356d1f59c56275e30ef9?utm_campaign=1048&utm_source=git)** | Ogden, UT | On Site | Apr 18 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Quality Management Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6f42aaa3c2c1995e13de4?utm_campaign=1048&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Cleveland)](https://jobright.ai/jobs/info/69bca6f745e08b3dc1f96c33?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
-| **[Skydio](https://www.skydio.com)** | **[Manufacturing Design Engineer Intern - Production Systems](https://jobright.ai/jobs/info/69aa27ee9ca4e908ec656f58?utm_campaign=1048&utm_source=git)** | Hayward, CA | On Site | Apr 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Austin](https://jobright.ai/jobs/info/69adcc622747003c3d53225a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 18 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[Motorrad Intern (12 Months)](https://jobright.ai/jobs/info/69c6c898b773006330b72aed?utm_campaign=1048&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
-| **[Milestone Contractors LP](http://milestonelp.com)** | **[Intern](https://jobright.ai/jobs/info/68c853f3983e6768bc54bc68?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Apr 18 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/69c4e564d5a1016e98dc5392?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | Apr 18 |
-| **[Planet](http://www.planet.com)** | **[Software Engineer, Applied GenAI Apps - AI Geospatial Assistant team](https://jobright.ai/jobs/info/69ab6548142d5b4265fc9f23?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
