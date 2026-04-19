@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](https://www.rrd.com/)** | **[Document Specialist (QA) Summer Intern](https://jobright.ai/jobs/info/69e54b2be0cd471b2f1228ec?utm_campaign=1048&utm_source=git)** | Warrenville, IL | Hybrid | Apr 19 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cyber Security Analyst Associate (Intern)](https://jobright.ai/jobs/info/69e54ac23aa0c47964390eb5?utm_campaign=1048&utm_source=git)** | USA LA Bossier City | Hybrid | Apr 19 |
+| **[Shear Force Engineering + Structural Design](https://www.shearforce-se.com/)** | **[Structural Design Engineering Intern](https://jobright.ai/jobs/info/69e5450de0cd471b2f122697?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Apr 19 |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Minotaur Lab Intern](https://jobright.ai/jobs/info/69e544987820c036924cd023?utm_campaign=1048&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Plant Engineering Summer Intern](https://jobright.ai/jobs/info/69e53e213cfd986aa6f82373?utm_campaign=1048&utm_source=git)** | SeaWorld San Diego | On Site | Apr 19 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V- Welder Intern](https://jobright.ai/jobs/info/69e53d4b3aa0c47964390bad?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Apr 19 |
 | **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | Apr 19 |
@@ -108,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Senior Civil Engineer](https://jobright.ai/jobs/info/69d66521e63cea7a8b668a56?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Shermco Industries](http://www.shermco.com)** | **[Electrical Engineer - Power Studies, Associate Intern](https://jobright.ai/jobs/info/69d87725b67cec4f9b09ca61?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 19 |
 | **[Boston Dynamics](http://bostondynamics.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69d07fb2cfdc6132f943bfc7?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 19 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/69d75f65366bb95ba5554db2?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d5f490366bb95ba554a220?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 19 |
 | ↳ | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/69d5d56acfdc6132f9466406?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Apr 19 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d5f490366bb95ba554a220?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 19 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/69d75f65366bb95ba5554db2?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 19 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Estimating](https://jobright.ai/jobs/info/6901a0994539ea1f21421e95?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 19 |
 | **[BW Papersystems](http://www.bwpapersystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69d7240848f0c8161d2fd328?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 19 |
 | **[Perfection Automotive Aftermarket Group](http://www.perfectionusa.com)** | **[Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/6943981694730b739876c6a6?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Apr 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c913feb773006330b83c5f?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 19 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, DDR Validation- Analog Characterization](https://jobright.ai/jobs/info/69ab986d7e1fab39d3830c71?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 19 |
 | **[Zoox](https://www.zoox.com/)** | **[Machine Learning Engineer Intern, Simulation](https://jobright.ai/jobs/info/691d32107481340785ed4ae0?utm_campaign=1048&utm_source=git)** | Foster City, CA | On Site | Apr 19 |
-| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68aeec281f0a2a568a05e4d7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 19 |
-| ↳ | **[Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df0a9d433ac8430e0de587?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 19 |
-| **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 19 |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern(Virtual Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69b2424aad360c0340a6fe12?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
