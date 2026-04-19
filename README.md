@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rebel Athletic](https://www.rebelathletic.com/)** | **[Ai Engineer Internship](https://jobright.ai/jobs/info/69e44c6391e75b75f04f05a8?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 18 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69dc50a6b67cec4f9b0b0743?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 18 |
 | **[STEM School Highlands Ranch](https://stemk12.org)** | **[Secondary Engineering Teacher - 0.5 FTE (2026 - 2027)](https://jobright.ai/jobs/info/69bdc2a9b10602456282e170?utm_campaign=1048&utm_source=git)** | Highlands Ranch, CO | On Site | Apr 18 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship, Product Development](https://jobright.ai/jobs/info/69cb16ace565c26a7004494f?utm_campaign=1048&utm_source=git)** | Fremont, California | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Industrial Systems Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69c69ab7b773006330b714e0?utm_campaign=1048&utm_source=git)** | Ashburn, VA | Hybrid | Apr 18 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Clinical Informatics Services Data Engineer Intern](https://jobright.ai/jobs/info/69e38c3791e75b75f04ef991?utm_campaign=1048&utm_source=git)** | New Jersey, United States | Hybrid | Apr 18 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Electric Substation engineering Business Operations Intern](https://jobright.ai/jobs/info/69e3373a5c44d4710fe285af?utm_campaign=1048&utm_source=git)** | West Sacramento | Hybrid | Apr 18 |
-| **[Crown Holdings, Inc.](http://crowncork.com)** | **[Manufacturing/Engineering Intern](https://jobright.ai/jobs/info/698f1a9f0f6f7e7a2ceb278c?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
