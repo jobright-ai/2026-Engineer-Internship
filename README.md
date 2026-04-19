@@ -64,12 +64,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Intern Engineer](https://jobright.ai/jobs/info/69e00abb5913ad33981478ec?utm_campaign=1048&utm_source=git)** | Marion, VA | On Site | Apr 18 |
 | ↳ | **[Intern Engineer - Systems, Software, Electrical, Test](https://jobright.ai/jobs/info/69e00aefe34484770f1ac4bf?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 18 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
-| ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
+| ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | **[Tacit](https://tacit.ai)** | **[Antenna Engineering Intern](https://jobright.ai/jobs/info/69c541e1e565c26a7000d69a?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69c363b1753c101b21572423?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
-| **[Blue Ridge Energy](https://www.blueridgeenergy.com/)** | **[Vehicle and Hydraulic Mechanic Intern](https://jobright.ai/jobs/info/699eed69ce78e77b4fe49220?utm_campaign=1048&utm_source=git)** | Lenoir, NC | On Site | Apr 18 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/699ee88f94ef206f184deb93?utm_campaign=1048&utm_source=git)** | Lenoir, NC | On Site | Apr 18 |
+| **[Blue Ridge Energy](https://www.blueridgeenergy.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/699ee88f94ef206f184deb93?utm_campaign=1048&utm_source=git)** | Lenoir, NC | On Site | Apr 18 |
+| ↳ | **[Vehicle and Hydraulic Mechanic Intern](https://jobright.ai/jobs/info/699eed69ce78e77b4fe49220?utm_campaign=1048&utm_source=git)** | Lenoir, NC | On Site | Apr 18 |
 | **[SummitTX Capital](https://www.summittxcapital.com)** | **[Intern - Research Engineer](https://jobright.ai/jobs/info/69dfe8cc5913ad339814678b?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Apr 18 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[DCR Field Research Intern](https://jobright.ai/jobs/info/69e3d847cd85881c9505fef6?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Apr 18 |
 | **[ITW Performance Polymers](https://itwperformancepolymers.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e02b4a14bf245fc7a7052f?utm_campaign=1048&utm_source=git)** | Danvers, MA | On Site | Apr 18 |
