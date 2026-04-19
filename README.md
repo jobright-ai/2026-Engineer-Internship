@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69e45e30f8fa2f3ec329c118?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Digital Signal Processing Engineer - Intern](https://jobright.ai/jobs/info/69deb93a36823d1b425836c9?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 18 |
-| ↳ | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69de6a0236823d1b42580de0?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 18 |
+| **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69de6a0236823d1b42580de0?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 18 |
+| ↳ | **[Digital Signal Processing Engineer - Intern](https://jobright.ai/jobs/info/69deb93a36823d1b425836c9?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 18 |
 | **[Neuralink](https://www.neuralink.com)** | **[Analog and Mixed-Signal IC Design Engineer Intern](https://jobright.ai/jobs/info/69966005ce78e77b4fda6956?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Apr 18 |
 | **[Riboli Family Wines](https://riboliwines.com/)** | **[2026 Harvest Lab Intern - Riboli Family Winery](https://jobright.ai/jobs/info/697d32c1727747250d58038a?utm_campaign=1048&utm_source=git)** | Paso Robles | On Site | Apr 18 |
 | **[Rebel Athletic](https://www.rebelathletic.com/)** | **[Ai Engineer Internship](https://jobright.ai/jobs/info/69e44c6391e75b75f04f05a8?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | Apr 18 |
@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Pacific Fusion](https://www.pacificfusion.com)** | **[Summer 2026 Internship - Mechanical Engineering, Pulser](https://jobright.ai/jobs/info/696acd765fc862418539ecb8?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 18 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69e00d72433ac8430e0e4163?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Apr 18 |
 | ↳ | **[Mechanical Intern Engineer](https://jobright.ai/jobs/info/69e00abb5913ad33981478ec?utm_campaign=1048&utm_source=git)** | Marion, VA | On Site | Apr 18 |
-| ↳ | **[Intern Engineer - Systems, Software, Electrical, Test](https://jobright.ai/jobs/info/69e00aefe34484770f1ac4bf?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 18 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Food Safety & Quality Systems Intern](https://jobright.ai/jobs/info/69c74b25e565c26a7002797e?utm_campaign=1048&utm_source=git)** | Mission, TX | On Site | Apr 18 |
 | **[Trinseo](http://www.trinseo.com)** | **[Copolymers Engineer Intern](https://jobright.ai/jobs/info/69aa1e7b2ebd316bece1d9ec?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Apr 18 |
 | **[PRISM Plastics, Inc.](http://www.prismplastics.com/)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/691e7c4e3f782d2f1afb52da?utm_campaign=1048&utm_source=git)** | Meadville, PA | On Site | Apr 18 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Intern - Process Improvement & Operations](https://jobright.ai/jobs/info/69ac20bb142d5b4265fd83fe?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
