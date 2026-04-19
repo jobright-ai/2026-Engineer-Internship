@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NV5](http://www.nv5.com)** | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/698e4f5478b4502f12a5166f?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Apr 19 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Hardware Test Engineer Intern](https://jobright.ai/jobs/info/69e09637c17d1d525433545b?utm_campaign=1048&utm_source=git)** | Rome, New York, 13440 | On Site | Apr 19 |
+| **[GHD](http://www.ghd.com)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/698e9b6278b4502f12a57447?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 19 |
 | **[GenPark](https://genpark.ai)** | **[Product engineering intern](https://jobright.ai/jobs/info/69e495d93aa0c4796438ed65?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 19 |
+| **[Ottobock](https://www.ottobock.de)** | **[R&D Intern](https://jobright.ai/jobs/info/69e14340acc736112f5c2c5a?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 19 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/68dd735fa125e75c422aad01?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Apr 19 |
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Compost Production and Engineering Internship](https://jobright.ai/jobs/info/69b9bc9556973837413f4a0a?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Apr 18 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Construction Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e42c001852e62f008027c6?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Apr 18 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Project Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68c9eeded10eb800af148286?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | Apr 18 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[RISK Model Developer – Internship](https://jobright.ai/jobs/info/6939f92248a8ce22990dec2c?utm_campaign=1048&utm_source=git)** | Montreal, QC | Hybrid | Apr 18 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Spring/Summer Intern - Quality Engineer](https://jobright.ai/jobs/info/69c5de141b5ad0288737a67c?utm_campaign=1048&utm_source=git)** | Bland, Virginia, United States of America | On Site | Apr 18 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Formulation Development](https://jobright.ai/jobs/info/69c7347b1818a24cd84cc9e2?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA | On Site | Apr 18 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Industrial Engineering, Summer 2026](https://jobright.ai/jobs/info/698ff26e0cc8ea15f1da8a4a?utm_campaign=1048&utm_source=git)** | Casa Grande, AZ | On Site | Apr 18 |
-| **[Ghafari Associates](https://www.ghafari.com/)** | **[2026 Summer Intern - Electrical Engineering](https://jobright.ai/jobs/info/69deb28d433ac8430e0dbf7b?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
