@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Plant Engineering Summer Intern](https://jobright.ai/jobs/info/69e53e213cfd986aa6f82373?utm_campaign=1048&utm_source=git)** | SeaWorld San Diego | On Site | Apr 19 |
+| **[PROENERGY](http://www.proenergyservices.com)** | **[V- Welder Intern](https://jobright.ai/jobs/info/69e53d4b3aa0c47964390bad?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Apr 19 |
+| **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | Apr 19 |
+| **[Sono Bello](http://sonobello.com)** | **[Intern- Data Engineering](https://jobright.ai/jobs/info/69d97bafb67cec4f9b0a24d6?utm_campaign=1048&utm_source=git)** | WA - Bellevue | Hybrid | Apr 19 |
+| **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Mechanical Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/6997c3e281476f6176afef53?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 19 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Design & Engineering Summer Intern](https://jobright.ai/jobs/info/69e52f363cfd986aa6f8230a?utm_campaign=1048&utm_source=git)** | SeaWorld San Diego | On Site | Apr 19 |
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Internship- Construction Safety](https://jobright.ai/jobs/info/691f51aea49a885af9a2e310?utm_campaign=1048&utm_source=git)** | Draper, UT | On Site | Apr 19 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Project Scientist Laser-Plasma Acceleration](https://jobright.ai/jobs/info/69e5210c3aa0c47964390a5d?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 19 |
@@ -103,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Senior Civil Engineer](https://jobright.ai/jobs/info/69d66521e63cea7a8b668a56?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Shermco Industries](http://www.shermco.com)** | **[Electrical Engineer - Power Studies, Associate Intern](https://jobright.ai/jobs/info/69d87725b67cec4f9b09ca61?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 19 |
 | **[Boston Dynamics](http://bostondynamics.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69d07fb2cfdc6132f943bfc7?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Apr 19 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d5f490366bb95ba554a220?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/69d75f65366bb95ba5554db2?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 19 |
 | ↳ | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/69d5d56acfdc6132f9466406?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Apr 19 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/69d75f65366bb95ba5554db2?utm_campaign=1048&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 19 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d5f490366bb95ba554a220?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 19 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Estimating](https://jobright.ai/jobs/info/6901a0994539ea1f21421e95?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 19 |
 | **[BW Papersystems](http://www.bwpapersystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69d7240848f0c8161d2fd328?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 19 |
 | **[Perfection Automotive Aftermarket Group](http://www.perfectionusa.com)** | **[Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/6943981694730b739876c6a6?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | Apr 19 |
@@ -119,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Summer 2026)](https://jobright.ai/jobs/info/69d74157706f771673bb1ef9?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | Apr 19 |
 | **[Freshpet](http://freshpet.com)** | **[Intern (Food Safety and Quality Assurance)](https://jobright.ai/jobs/info/69ab2e707e1fab39d382c236?utm_campaign=1048&utm_source=git)** | Bethlehem, PA | On Site | Apr 19 |
 | **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Nondestructive Examination Intern](https://jobright.ai/jobs/info/697ae1f31423772304eac813?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 19 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69dffe40aba61f141731edaf?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 19 |
-| ↳ | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69e32f565c44d4710fe27a52?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 19 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69e32f565c44d4710fe27a52?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 19 |
+| ↳ | **[Geotechnical Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69dffe40aba61f141731edaf?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | ↳ | **[Technician in Training - Bridge Inspection](https://jobright.ai/jobs/info/6982df4e8232105a2d0b5f71?utm_campaign=1048&utm_source=git)** | Goshen, NY | On Site | Apr 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Operations Manufacturing Intern](https://jobright.ai/jobs/info/69ab322c142d5b4265fc77ee?utm_campaign=1048&utm_source=git)** | Metamora, OH | On Site | Apr 19 |
 | **[Milestone Contractors LP](http://milestonelp.com)** | **[Intern](https://jobright.ai/jobs/info/68c853f3983e6768bc54bc68?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Apr 19 |
@@ -138,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Systems Safety Engineer](https://jobright.ai/jobs/info/693ce58daa598a08c3eda9d6?utm_campaign=1048&utm_source=git)** | Mesa, AZ | On Site | Apr 19 |
 | **[Bray International, Inc.](https://www.bray.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6973985837785856350d64f3?utm_campaign=1048&utm_source=git)** | Greater Houston | On Site | Apr 19 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6993fc0781476f6176aba611?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | Apr 19 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure (Master's)](https://jobright.ai/jobs/info/693c8a6e50bbaf76504fc158?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 19 |
 | **[Challenge Manufacturing](http://challenge-mfg.com)** | **[Process Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69c7b1e31b5ad0288738f2b8?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Apr 19 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Software Development Internship Summer 2026](https://jobright.ai/jobs/info/68ccf06a77add66568abc551?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 19 |
 | **[Zoox](https://www.zoox.com/)** | **[PhD Research Intern, Visual Object Understanding](https://jobright.ai/jobs/info/691d28617481340785ed4536?utm_campaign=1048&utm_source=git)** | Foster City, CA | On Site | Apr 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df0a9d433ac8430e0de587?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 19 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Hardware Operatons](https://jobright.ai/jobs/info/69c86526e565c26a7002f20f?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 19 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern(Virtual Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69b2424aad360c0340a6fe12?utm_campaign=1048&utm_source=git)** | San Jose, CA | Remote | Apr 19 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – AI/ML Software Engineering Intern - Simulation Core (PhD)](https://jobright.ai/jobs/info/696935d81703f05405ab107a?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 19 |
-| ↳ | **[2026 Summer Intern – AI/ML Software Engineering Intern - Simulation Core (PhD)](https://jobright.ai/jobs/info/6978422939f7f96cc6d09540?utm_campaign=1048&utm_source=git)** | Mountain View, CA | Hybrid | Apr 19 |
-| ↳ | **[2026 Summer Intern – Machine Learning Systems Engineer – Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/69d5f2becfdc6132f94672dd?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 19 |
-| **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69ab95692747003c3d511a3b?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Apr 19 |
-| **[The Wine Group](http://thewinegroup.com/)** | **[Seasonal Grower Relations Intern - Woodbridge](https://jobright.ai/jobs/info/6973ff24bc8e722e7b18e356?utm_campaign=1048&utm_source=git)** | Acampo, CA | On Site | Apr 19 |
-| **[HDR](http://www.hdrinc.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69883d698da7a61204635ba5?utm_campaign=1048&utm_source=git)** | Charleston County, SC | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
