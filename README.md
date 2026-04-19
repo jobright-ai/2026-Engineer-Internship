@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Supersoda](https://www.supersoda.com.br/)** | **[Compost Production and Engineering Internship](https://jobright.ai/jobs/info/69b9bc9556973837413f4a0a?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Apr 18 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Construction Intern - Philadelphia](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2e?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69de6a0236823d1b42580de0?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 18 |
 | ↳ | **[Digital Signal Processing Engineer - Intern](https://jobright.ai/jobs/info/69deb93a36823d1b425836c9?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 18 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69e00d72433ac8430e0e4163?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Apr 18 |
 | ↳ | **[Mechanical Intern Engineer](https://jobright.ai/jobs/info/69e00abb5913ad33981478ec?utm_campaign=1048&utm_source=git)** | Marion, VA | On Site | Apr 18 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Intern - Technology Development](https://jobright.ai/jobs/info/69e17ca9acc736112f5c3e3d?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
-| ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | ↳ | **[Intern - Controls Engineering](https://jobright.ai/jobs/info/69e17ca2fd1c0456f3fae837?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
+| ↳ | **[Intern – Mechanical Engineering](https://jobright.ai/jobs/info/69e17cabff71e82d604b72fd?utm_campaign=1048&utm_source=git)** | Beverly, MA | On Site | Apr 18 |
 | **[Tacit](https://tacit.ai)** | **[Antenna Engineering Intern](https://jobright.ai/jobs/info/69c541e1e565c26a7000d69a?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69c363b1753c101b21572423?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Apr 18 |
 | **[SummitTX Capital](https://www.summittxcapital.com)** | **[Intern - Research Engineer](https://jobright.ai/jobs/info/69dfe8cc5913ad339814678b?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Apr 18 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[2026 Summer Intern - Electrical Engineering](https://jobright.ai/jobs/info/69deb28d433ac8430e0dbf7b?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 18 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Farming EHS Intern](https://jobright.ai/jobs/info/69c749b6b773006330b777ae?utm_campaign=1048&utm_source=git)** | Edinburg, TX | On Site | Apr 18 |
 | ↳ | **[Food Safety & Quality Systems Intern](https://jobright.ai/jobs/info/69c74b25e565c26a7002797e?utm_campaign=1048&utm_source=git)** | Mission, TX | On Site | Apr 18 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68cd535fb2a74e1837ed54ed?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | Apr 18 |
 | **[Trinseo](http://www.trinseo.com)** | **[Copolymers Engineer Intern](https://jobright.ai/jobs/info/69aa1e7b2ebd316bece1d9ec?utm_campaign=1048&utm_source=git)** | Midland, MI | On Site | Apr 18 |
-| **[PRISM Plastics, Inc.](http://www.prismplastics.com/)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/691e7c4e3f782d2f1afb52da?utm_campaign=1048&utm_source=git)** | Meadville, PA | On Site | Apr 18 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Intern - Process Improvement & Operations](https://jobright.ai/jobs/info/69ac20bb142d5b4265fd83fe?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
