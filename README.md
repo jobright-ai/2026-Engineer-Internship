@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Control Southern](http://controlsouthern.com)** | **[Valve and Specialty Application Engineering Internship- Summer 2026](https://jobright.ai/jobs/info/69e724dc7820c036924d52f6?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Apr 21 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Webber - Field Engineer Intern I - Heavy Civil](https://jobright.ai/jobs/info/69e71cd47820c036924d342d?utm_campaign=1048&utm_source=git)** | New Braunfels, TX | On Site | Apr 20 |
 | **[Zscaler](https://www.zscaler.com)** | **[Detection Engineer- SkillBridge Intern](https://jobright.ai/jobs/info/69e71cd13cfd986aa6f888ef?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Lattice Semiconductor](http://www.latticesemi.com)** | **[Intern - Agentic AI systems](https://jobright.ai/jobs/info/69e71cab3aa0c47964396e33?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | Apr 20 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Robot Learning Platform - Fall 2026](https://jobright.ai/jobs/info/69e6f1887820c036924d2cb8?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara | On Site | Apr 20 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Engineering Technician I - Electrical (Power Generation) Intern](https://jobright.ai/jobs/info/69e6f1727820c036924d2cb0?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | Apr 20 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Supplier Technical Engineer](https://jobright.ai/jobs/info/699cc62081476f6176b55855?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 20 |
+| **[MetLife](http://www.metlife.com)** | **[D&A Graduate Intern](https://jobright.ai/jobs/info/69dbc5deb67cec4f9b0af58c?utm_campaign=1048&utm_source=git)** | Cary, NC | Hybrid | Apr 20 |
 | **[Milacron](https://www.milacron.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69e6ecb59b6eb37e26f8276d?utm_campaign=1048&utm_source=git)** | Batavia, OH | On Site | Apr 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Chemical Engineering Intern](https://jobright.ai/jobs/info/69e6ec79e0cd471b2f127db2?utm_campaign=1048&utm_source=git)** | Valparaiso, IN | On Site | Apr 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69e6ec6e3cfd986aa6f87ef1?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Health, Safety and Environmental](https://jobright.ai/jobs/info/69e6c7579b6eb37e26f820a3?utm_campaign=1048&utm_source=git)** | Hagerstown, MD | On Site | Apr 20 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Technology Solutions Engineer Intern Summer 2026](https://jobright.ai/jobs/info/69e6c74d3cfd986aa6f878f2?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 20 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation Intern - FBO Operations](https://jobright.ai/jobs/info/69d43ac9cdb525785fbc7b20?utm_campaign=1048&utm_source=git)** | Teterboro, NJ | On Site | Apr 20 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Technology Solutions Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/69e6c744f8fa2f3ec32a39af?utm_campaign=1048&utm_source=git)** | Prospect, KY | On Site | Apr 20 |
-| **[AV](https://www.avinc.com/)** | **[Product Lifecycle Management (PLM) Intern - Electronic Parts](https://jobright.ai/jobs/info/69e6c743f8fa2f3ec32a399f?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
