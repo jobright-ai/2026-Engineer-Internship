@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Electrical Power Systems - Summer 2026](https://jobright.ai/jobs/info/69e70ecc3aa0c47964396a53?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 20 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Data Engineering Intern](https://jobright.ai/jobs/info/69e6ff8d9b6eb37e26f82c43?utm_campaign=1048&utm_source=git)** | Crane, IN | Remote | Apr 20 |
 | **[Entegris](http://www.entegris.com)** | **[Blowmolding Summer Intern](https://jobright.ai/jobs/info/69e6ff80e0cd471b2f128234?utm_campaign=1048&utm_source=git)** | Chaska, MN | On Site | Apr 20 |
 | **[Johns Manville](http://www.jm.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e6ff547820c036924d2e97?utm_campaign=1048&utm_source=git)** | Winder, GA | On Site | Apr 20 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Tech Intern – Emerging Threats & Technologies](https://jobright.ai/jobs/info/69e6ff4df8fa2f3ec32a4461?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 20 |
 | **[Esper](https://www.esper.io)** | **[IT & Test Automation Intern](https://jobright.ai/jobs/info/69e2cdef5c44d4710fe26f13?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Apr 20 |
+| **[Veolia | North America](http://growingblue.com/)** | **[GIS, Asset Management & Water Quality Intern](https://jobright.ai/jobs/info/69d8442cf4ea471a51fe4e03?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 20 |
 | **[Lennox](http://www.lennox.com)** | **[Lab Technician Intern - Summer 2026](https://jobright.ai/jobs/info/69e6f9317820c036924d2dd6?utm_campaign=1048&utm_source=git)** | West Columbia, SC | On Site | Apr 20 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Specialist Intern](https://jobright.ai/jobs/info/69e6f9197820c036924d2d6b?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Apr 20 |
 | **[Twinsburg City School District](https://www.linkedin.com/company/4124409)** | **[Assistant Mechanic / Student Internship](https://jobright.ai/jobs/info/69e6f8f2f8fa2f3ec32a43cb?utm_campaign=1048&utm_source=git)** | Twinsburg, OH | On Site | Apr 20 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - MBSE/Systems Engineering](https://jobright.ai/jobs/info/69e06221c17d1d5254334188?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 20 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Sustainability Intern Paid- Meetinghouse Facilities Dept](https://jobright.ai/jobs/info/69e6f1d5f8fa2f3ec32a42a2?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 20 |
 | **[Introba](https://www.introba.com)** | **[Intern, Project Management, Baggage Handling Systems](https://jobright.ai/jobs/info/69e6f1c73cfd986aa6f88184?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 20 |
 | **[Fulton Montgomery Regional Chamber of Commerce](http://www.fultonmontgomeryny.org)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/69e6f1ba3cfd986aa6f88149?utm_campaign=1048&utm_source=git)** | Johnstown, NY | On Site | Apr 20 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Environmental (Fall 2026)](https://jobright.ai/jobs/info/69e6cee8f8fa2f3ec32a3ac8?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | Apr 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Maintenance Management Intern](https://jobright.ai/jobs/info/69e6c84af8fa2f3ec32a39dc?utm_campaign=1048&utm_source=git)** | US-WA-Richland | On Site | Apr 20 |
 | **[Semtech](http://www.semtech.com)** | **[AI Transformation Intern](https://jobright.ai/jobs/info/69e6c8493cfd986aa6f87915?utm_campaign=1048&utm_source=git)** | USA - Camarillo, CA | On Site | Apr 20 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e6ff403cfd986aa6f8835b?utm_campaign=1048&utm_source=git)** | Ontario, CA | On Site | Apr 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/69a2830d359fe034b1cdcb97?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Health, Safety and Environmental](https://jobright.ai/jobs/info/69e6c7579b6eb37e26f820a3?utm_campaign=1048&utm_source=git)** | Hagerstown, MD | On Site | Apr 20 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Technology Solutions Engineer Intern Summer 2026](https://jobright.ai/jobs/info/69e6c74d3cfd986aa6f878f2?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stabilus](https://www.stabilus.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e4b3b7f8fa2f3ec329c467?utm_campaign=1048&utm_source=git)** | Gastonia, NC, US | On Site | Apr 20 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Raw Materials Intern](https://jobright.ai/jobs/info/69e06404cf5a9e0c33c86279?utm_campaign=1048&utm_source=git)** | Elkin, NC | On Site | Apr 20 |
 | **[Carcoustics](http://www.carcoustics.com)** | **[Tooling Engineer Internship 1](https://jobright.ai/jobs/info/69e6c1343aa0c47964395d3f?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Apr 20 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Construction Engineering Intern/Program Delivery - Summer 2026](https://jobright.ai/jobs/info/69e6c11e7820c036924d2253?utm_campaign=1048&utm_source=git)** | US - NJ, Newark | On Site | Apr 20 |
-| **[SAM](https://www.sam.biz)** | **[Land Surveying Internship Program - Summer 2026](https://jobright.ai/jobs/info/69e6c1019b6eb37e26f81fac?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
