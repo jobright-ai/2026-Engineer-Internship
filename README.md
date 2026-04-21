@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Project Architect Intern](https://jobright.ai/jobs/info/69e739d50a6e095553029ca6?utm_campaign=1048&utm_source=git)** | Junction City, KS | Hybrid | Apr 21 |
+| **[Minnesota IT Services](https://mn.gov/mnit)** | **[Database Developer - ITS4](https://jobright.ai/jobs/info/69e739cb0a6e095553029c9e?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 21 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e73401e0cd471b2f12a7f6?utm_campaign=1048&utm_source=git)** | Shanghai, VA | On Site | Apr 21 |
 | **[Control Southern](http://controlsouthern.com)** | **[Valve and Specialty Application Engineering Internship- Summer 2026](https://jobright.ai/jobs/info/69e724dc7820c036924d52f6?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Apr 21 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Webber - Field Engineer Intern I - Heavy Civil](https://jobright.ai/jobs/info/69e71cd47820c036924d342d?utm_campaign=1048&utm_source=git)** | New Braunfels, TX | On Site | Apr 20 |
 | **[Zscaler](https://www.zscaler.com)** | **[Detection Engineer- SkillBridge Intern](https://jobright.ai/jobs/info/69e71cd13cfd986aa6f888ef?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 20 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Maintenance Management Intern](https://jobright.ai/jobs/info/69e715f67820c036924d327a?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 20 |
 | **[Design Engineers MEPFT](https://designengineers.com)** | **[Mechanical BIM Technician Intern](https://jobright.ai/jobs/info/69e715f5f8fa2f3ec32a47cc?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | Hybrid | Apr 20 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Engineering](https://jobright.ai/jobs/info/69e715f43aa0c47964396d68?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Apr 20 |
-| **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Functional Safety Hardware](https://jobright.ai/jobs/info/69e715ed7820c036924d324d?utm_campaign=1048&utm_source=git)** | Champaign, IL | On Site | Apr 20 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Field Application Engineer Intern](https://jobright.ai/jobs/info/69d534d3366bb95ba55434b1?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
 | **[Veolia | North America](http://growingblue.com/)** | **[GIS, Asset Management & Water Quality Intern](https://jobright.ai/jobs/info/69d8442cf4ea471a51fe4e03?utm_campaign=1048&utm_source=git)** | West Nyack, NY | On Site | Apr 20 |
 | **[Powell](http://www.powellind.com)** | **[Manufacturing Reliability Intern](https://jobright.ai/jobs/info/69e715df7820c036924d3214?utm_campaign=1048&utm_source=git)** | Greater Houston | On Site | Apr 20 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/69dea10618cf504166e2e9ef?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/69e6d5dcf8fa2f3ec32a3c84?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
 | **[Milacron](https://www.milacron.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69e6d5d6f8fa2f3ec32a3c62?utm_campaign=1048&utm_source=git)** | Batavia, OH | On Site | Apr 20 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Intelligence and Space Research Division Undergraduate Internship](https://jobright.ai/jobs/info/69e6d5d6f8fa2f3ec32a3c5f?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Apr 20 |
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/69e6d5d5f8fa2f3ec32a3c54?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Transmission Planning](https://jobright.ai/jobs/info/69e6d5cbf8fa2f3ec32a3c25?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | Hybrid | Apr 20 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Intern - Sustainability](https://jobright.ai/jobs/info/69e6d5c93cfd986aa6f87bc6?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/69a2830d359fe034b1cdcb97?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Health, Safety and Environmental](https://jobright.ai/jobs/info/69e6c7579b6eb37e26f820a3?utm_campaign=1048&utm_source=git)** | Hagerstown, MD | On Site | Apr 20 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Technology Solutions Engineer Intern Summer 2026](https://jobright.ai/jobs/info/69e6c74d3cfd986aa6f878f2?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 20 |
-| **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation Intern - FBO Operations](https://jobright.ai/jobs/info/69d43ac9cdb525785fbc7b20?utm_campaign=1048&utm_source=git)** | Teterboro, NJ | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
