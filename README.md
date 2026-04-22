@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rosendin](https://www.rosendin.com)** | **[Summer Intern-EPC](https://jobright.ai/jobs/info/69e843ea3aa0c4796439e4a9?utm_campaign=1048&utm_source=git)** | RREG CA Southern California | On Site | Apr 21 |
+| ↳ | **[Summer Intern-EPC](https://jobright.ai/jobs/info/69e843c37820c036924daa28?utm_campaign=1048&utm_source=git)** | RREG CA Southern California, US | On Site | Apr 21 |
 | **[Skydio](https://www.skydio.com)** | **[Autonomy Engineer Intern - Deep Learning (Computational Photography)](https://jobright.ai/jobs/info/69e828e03aa0c4796439e2ec?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 21 |
 | **[CommLabASU at Arizona State University](https://newcollege.asu.edu/commlabasu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/69e8288158811370cb120df4?utm_campaign=1048&utm_source=git)** | Valley, WV | On Site | Apr 21 |
 | **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern - R&D Programs (Summer 2026)](https://jobright.ai/jobs/info/69e8286e7820c036924da8fb?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Compost Production and Engineering Internship](https://jobright.ai/jobs/info/69b9bc9556973837413f4a0a?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Apr 21 |
 | **[Bachem](https://www.bachem.com/)** | **[Intern - Health, Safety, and Environment (HSE)](https://jobright.ai/jobs/info/69e8167d0a6e09555302e38b?utm_campaign=1048&utm_source=git)** | Vista, CA | On Site | Apr 21 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
+| **[Dakota County](http://www.dakotacounty.us)** | **[Appraiser Internship](https://jobright.ai/jobs/info/69e843ee4b0fa35a70761158?utm_campaign=1048&utm_source=git)** | Hastings, MN | On Site | Apr 21 |
 | **[SurePoint Electronics LLC](http://surepointelectronics.com)** | **[Manufacturing Engineer Internship](https://jobright.ai/jobs/info/69e8152fe0cd471b2f12f5b1?utm_campaign=1048&utm_source=git)** | Atwood, KS | On Site | Apr 21 |
 | **[James Hardie](https://www.jameshardie.com)** | **[IT Intern, AI Developer](https://jobright.ai/jobs/info/69e81528f8fa2f3ec32ab5a1?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[Canaery](https://www.generalsense.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69e815163aa0c4796439db43?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Apr 21 |
@@ -116,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, AI Engineering](https://jobright.ai/jobs/info/69e80b44f8fa2f3ec32ab171?utm_campaign=1048&utm_source=git)** | Reston, VA | Remote | Apr 21 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 PhD / Masters Residency - Machine Learning / Software Engineering (Early Stage Project)](https://jobright.ai/jobs/info/69e80a5de0cd471b2f12f1f7?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Apr 21 |
 | **[Perlick](https://www.perlick.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6978306688e2b47213bc375c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
+| **[Keenova](https://www.keenova.com)** | **[IT Security Intern](https://jobright.ai/jobs/info/69e843d60a6e09555302ebde?utm_campaign=1048&utm_source=git)** | Malvern, PA | Hybrid | Apr 21 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[IT - Info Sec Engineer - Information Security Engineer](https://jobright.ai/jobs/info/69e805aa7820c036924d9999?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Apr 21 |
 | **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69e80502e0cd471b2f12ecf3?utm_campaign=1048&utm_source=git)** | Randolph, VT | On Site | Apr 21 |
 | **[Credo](http://www.credosemi.com)** | **[Product and Test Engineering Intern](https://jobright.ai/jobs/info/699cf15ace78e77b4fe1a958?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OPmobility](https://www.opmobility.com)** | **[SITE SUPPLY CHAIN INTERN](https://jobright.ai/jobs/info/69e818ebe0cd471b2f12f7a2?utm_campaign=1048&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | On Site | Apr 21 |
 | **[Leidos](https://www.leidos.com)** | **[Mechanical Design and Analysis Intern](https://jobright.ai/jobs/info/69e816553aa0c4796439dc6b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 21 |
 | ↳ | **[Material Control Summer Intern](https://jobright.ai/jobs/info/69e815d658811370cb1207ad?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 21 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Site Coordinator](https://jobright.ai/jobs/info/69e81a22f8fa2f3ec32ab865?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69e7f0db58811370cb11f833?utm_campaign=1048&utm_source=git)** | OT541: TFP - Florence, SC 1500 Otis Way, Florence, SC, 29501 USA | On Site | Apr 21 |
-| **[PAI Pharma](http://paipharma.com)** | **[R&D Intern](https://jobright.ai/jobs/info/69e7f04858811370cb11f7ca?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[Fall 2026 - GRM, Environmental & Social Risk Analyst Intern (8 Months)](https://jobright.ai/jobs/info/69e7f02a58811370cb11f73b?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
