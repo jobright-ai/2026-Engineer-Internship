@@ -86,8 +86,13 @@ For a complete list, click the following sortable link below:
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e96b747820c036924e803b?utm_campaign=1048&utm_source=git)** | Deer Park, TX | On Site | Apr 22 |
 | **[Penn State University](http://psu.edu)** | **[Engineering Support Specialist Intern](https://jobright.ai/jobs/info/69e96b6de0cd471b2f13d4ef?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Apr 22 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Intern (Supply Chain)](https://jobright.ai/jobs/info/69e96b647820c036924e7fd7?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Apr 22 |
+| **[CTI](http://www.cticompanies.com/)** | **[Intern - Construction](https://jobright.ai/jobs/info/69e9938b58811370cb12e5f5?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Apr 22 |
+| **[ASM](https://www.asm.com)** | **[Simulation and Modeling Intern (Fall 2026)](https://jobright.ai/jobs/info/69e98e283aa0c479643aadf7?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Apr 22 |
+| ↳ | **[Manufacturing Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e29e0cd471b2f13e51b?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Apr 22 |
+| **[HDR](http://www.hdrinc.com)** | **[Movable Bridge Intern](https://jobright.ai/jobs/info/69e98e0f4b0fa35a7076f539?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 22 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Assembly Process Intern](https://jobright.ai/jobs/info/69e983097820c036924e8da2?utm_campaign=1048&utm_source=git)** | Smyrna, TN | On Site | Apr 22 |
 | **[Bell Flight](https://bellflight.com)** | **[Material Bonder (Intern) - 1st Shift (ROC)](https://jobright.ai/jobs/info/69e964893aa0c479643a9b49?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 22 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Research Student](https://jobright.ai/jobs/info/69e98e293aa0c479643aadfd?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 22 |
 | **[Group O](http://groupo.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69e9643f7820c036924e7e6d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 22 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Fall Machine Learning Internship (ATG - Visual Search)](https://jobright.ai/jobs/info/69e9811ae0cd471b2f13e289?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Apr 22 |
 | **[MAHLE](https://www.mahle.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69e983067820c036924e8d8f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN | On Site | Apr 22 |
@@ -96,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[Summer Research Intern](https://jobright.ai/jobs/info/69e9624758811370cb12d195?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Apr 22 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69e983147820c036924e8dc6?utm_campaign=1048&utm_source=git)** | Tennessee, United States | On Site | Apr 22 |
 | ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/69e2887fbe46fa3a4ef5794f?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | On Site | Apr 22 |
+| **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Health and Safety Summer Intern](https://jobright.ai/jobs/info/69e98e0f4b0fa35a7076f53a?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 22 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Assembly Process Intern](https://jobright.ai/jobs/info/69e95c4fe0cd471b2f13cdeb?utm_campaign=1048&utm_source=git)** | Smyrna, TN, US | On Site | Apr 22 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Engineering Intern, Major Projects Fixed Assets](https://jobright.ai/jobs/info/69e978b358811370cb12dcd4?utm_campaign=1048&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 22 |
 | **[MAHLE](https://www.mahle.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69e979847820c036924e8b68?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Apr 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e9778b58811370cb12d7d0?utm_campaign=1048&utm_source=git)** | Pacific, Missouri, United States | On Site | Apr 22 |
 | ↳ | **[Construction Project Support Intern](https://jobright.ai/jobs/info/69e977864b0fa35a7076e7de?utm_campaign=1048&utm_source=git)** | Castroville, Texas, United States | On Site | Apr 22 |
 | **[AAR](http://aarcorp.com)** | **[Intern Engineering](https://jobright.ai/jobs/info/69e979107820c036924e89db?utm_campaign=1048&utm_source=git)** | United States-Illinois-Rockford | On Site | Apr 22 |
-| **[Comfort Systems USA (Kentucky), Inc.](http://comfortsystemsusakentucky.com)** | **[Summer Intern (AE)](https://jobright.ai/jobs/info/69e9483be0cd471b2f13c399?utm_campaign=1048&utm_source=git)** | North Charleston, SC (AtlanticElectric HQ), US | On Site | Apr 22 |
-| **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-OT Network Security](https://jobright.ai/jobs/info/69e964be3aa0c479643a9c21?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
-| **[UST](https://www.ust.com)** | **[Academic Intern /Trainee](https://jobright.ai/jobs/info/69e9797ce0cd471b2f13e05f?utm_campaign=1048&utm_source=git)** | Aliso Viejo | Remote | Apr 22 |
-| ↳ | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/69e979770a6e09555303c744?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | Apr 22 |
-| **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Manufacturing Engineering (CNC) Internship](https://jobright.ai/jobs/info/69e946aa3aa0c479643a8c81?utm_campaign=1048&utm_source=git)** | El Segundo, California | On Site | Apr 22 |
-| **[UST HealthProof](https://usthealthproof.com)** | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/69e979770a6e09555303c743?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
