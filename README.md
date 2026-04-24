@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Internship – Thermodynamics & Power Plant Performance (Vistra Corporation)](https://jobright.ai/jobs/info/69eac9aa4b0fa35a70775fde?utm_campaign=1048&utm_source=git)** | Irving, Texas, US | On Site | Apr 23 |
+| **[Tracera](https://www.esgflo.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69eac9640a6e095553042c19?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Hybrid | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Quality - Six Sigma Intern (Canada)](https://jobright.ai/jobs/info/69eac93bdc35f7132c4abd5d?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| ↳ | **[EHS Intern (Canada)](https://jobright.ai/jobs/info/69eac9310a6e095553042bf2?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| **[R.E. Darling Company Inc.](http://www.redarling.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/69eac92f0a6e095553042be4?utm_campaign=1048&utm_source=git)** | Tucson, Arizona, United States | On Site | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Manufacturing Engineer Intern (Canada)](https://jobright.ai/jobs/info/69eac92e4b0fa35a70775fbb?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| ↳ | **[CPD Intern (Canada)](https://jobright.ai/jobs/info/69eac92a0a6e095553042bcc?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| ↳ | **[Quality Engineer Intern (Canada)](https://jobright.ai/jobs/info/69eac89f7820c036924ef6ee?utm_campaign=1048&utm_source=git)** | London, ON, CANADA | On Site | Apr 23 |
+| ↳ | **[Quality Systems Intern (Canada)](https://jobright.ai/jobs/info/69eac89e7820c036924ef6e9?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| **[Sonatech, LLC](https://www.sonatech.com/)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69eac33f0a6e095553042b1e?utm_campaign=1048&utm_source=git)** | Santa Barbara,CA,US | On Site | Apr 23 |
+| **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Specialty Engineering Internship](https://jobright.ai/jobs/info/69e7e4857820c036924d8e22?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 23 |
+| **[AgZen](https://www.agzen.com)** | **[Research & Development Engineering Co-op](https://jobright.ai/jobs/info/69eabe794b0fa35a70775e1c?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Apr 23 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Audio and Acoustics](https://jobright.ai/jobs/info/69eabcfa7820c036924ef50a?utm_campaign=1048&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 23 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Flight Test Instrumentation Engineering Intern](https://jobright.ai/jobs/info/69eabb744b0fa35a70775df1?utm_campaign=1048&utm_source=git)** | US-CA-Santa Cruz | On Site | Apr 23 |
 | ↳ | **[Flight Test Instrumentation Engineering Intern](https://jobright.ai/jobs/info/69eabb737820c036924ef4ca?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA, US | On Site | Apr 23 |
@@ -95,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Intel](http://www.intel.com)** | **[Circuit Design Engineer Intern](https://jobright.ai/jobs/info/69ea9d033aa0c479643b0e82?utm_campaign=1048&utm_source=git)** | US, Texas, Austin, US | Hybrid | Apr 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69ea9cee0a6e095553042162?utm_campaign=1048&utm_source=git)** | New Freedom-Pennsylvania-United States of America, US | On Site | Apr 23 |
 | **[Varex Imaging Corporation](https://www.vareximaging.com/)** | **[Imaging Scientist Intern](https://jobright.ai/jobs/info/69ea9cdb0a6e0955530420f5?utm_campaign=1048&utm_source=git)** | San Jose, US | On Site | Apr 23 |
+| **[Phigenics](http://phigenics.com)** | **[PASL Intern](https://jobright.ai/jobs/info/69eac92c4b0fa35a70775fad?utm_campaign=1048&utm_source=git)** | Warrenville, Illinois, United States | On Site | Apr 23 |
 | **[KORE](https://www.korewireless.com)** | **[eUICC Testing Engineer Intern](https://jobright.ai/jobs/info/69ea96807820c036924eec07?utm_campaign=1048&utm_source=git)** | VA, US | Hybrid | Apr 23 |
 | **[Clasen Quality Chocolate](https://www.cqc.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69ea96797820c036924eebb2?utm_campaign=1048&utm_source=git)** | Watertown, WI, US | On Site | Apr 23 |
 | **[Draper](https://www.draper.com)** | **[Machine Intelligence Intern](https://jobright.ai/jobs/info/69ea94dcdc35f7132c4ab132?utm_campaign=1048&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Summer 2026 Engineer Intern (McCall & Pocatello, ID)](https://jobright.ai/jobs/info/69ea75183aa0c479643b0280?utm_campaign=1048&utm_source=git)** | Nampa, Idaho, US | On Site | Apr 23 |
 | **[LTM](http://ltm.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69c4650a33eecf310794b37b?utm_campaign=1048&utm_source=git)** | New Jersey, United States | Hybrid | Apr 23 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - Mechanical Engineering Intern- Gas Turbine Project/Program Management](https://jobright.ai/jobs/info/69ea73a4dc35f7132c4aa530?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Apr 23 |
-| **[Thayer Power & Communication](http://www.thayerpc.com)** | **[GIS Technician Intern](https://jobright.ai/jobs/info/69ea73747820c036924ede91?utm_campaign=1048&utm_source=git)** | Warren, MI, USA | On Site | Apr 23 |
-| **[The Preservation Society of Newport County](https://www.newportmansions.org)** | **[Conservation Intern](https://jobright.ai/jobs/info/69ea73677820c036924ede5e?utm_campaign=1048&utm_source=git)** | Newport,RI,US | On Site | Apr 23 |
-| **[Fuyao Group](http://www.fuyaogroup.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69ea73047820c036924edcc8?utm_campaign=1048&utm_source=git)** | Moraine, OH, US | On Site | Apr 23 |
-| **[Montana-Dakota Utilities Co.](https://www.montana-dakota.com/)** | **[Intern (Construction Services)](https://jobright.ai/jobs/info/69ea72ea0a6e095553040f47?utm_campaign=1048&utm_source=git)** | BILLINGS, Montana, United States | On Site | Apr 23 |
-| **[SECURA Insurance](http://www.secura.net)** | **[Intern - AI Business Analyst](https://jobright.ai/jobs/info/69ea72d17820c036924edbf6?utm_campaign=1048&utm_source=git)** | Neenah, Wisconsin, United States | Hybrid | Apr 23 |
-| **[DP World](https://www.dpworld.com/)** | **[Regional Security Intern](https://jobright.ai/jobs/info/69ea72b4dc35f7132c4aa155?utm_campaign=1048&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | Hybrid | Apr 23 |
-| **[RTX](http://rtx.com/)** | **[2026 Returning Intern - Mechanical Engineering - Onsite](https://jobright.ai/jobs/info/69ea72b27820c036924edb4d?utm_campaign=1048&utm_source=git)** | US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675, US | On Site | Apr 23 |
-| **[Montana-Dakota Utilities Co.](https://www.montana-dakota.com/)** | **[Intern (Construction Services)](https://jobright.ai/jobs/info/69ea72a5dc35f7132c4aa11b?utm_campaign=1048&utm_source=git)** | Rapid City, South Dakota, United States | On Site | Apr 23 |
-| ↳ | **[Intern (Construction Services)](https://jobright.ai/jobs/info/69ea72a558811370cb1332a6?utm_campaign=1048&utm_source=git)** | BISMARCK, North Dakota, United States | On Site | Apr 23 |
-| **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Data Center Intern](https://jobright.ai/jobs/info/69ea72a558811370cb1332a4?utm_campaign=1048&utm_source=git)** | New Albany, Ohio, United States | On Site | Apr 23 |
-| ↳ | **[Construction Safety Intern](https://jobright.ai/jobs/info/69ea72a23aa0c479643afcde?utm_campaign=1048&utm_source=git)** | Lockport, Illinois, United States | On Site | Apr 23 |
-| **[Amentum](https://www.amentum.com/)** | **[Rotational Engineering Intern](https://jobright.ai/jobs/info/69ea72693aa0c479643afbf5?utm_campaign=1048&utm_source=git)** | US-CA-Vandenberg AFB, US | On Site | Apr 23 |
-| **[Penn State University](http://psu.edu)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69ea72674b0fa35a70774229?utm_campaign=1048&utm_source=git)** | Penn State University Park, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
