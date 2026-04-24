@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Avolta Inc.](https://www.avoltacanada.com)** | **[Machine Learning Student Intern](https://jobright.ai/jobs/info/69eaf290dc35f7132c4acee3?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
-| **[GenPark](https://genpark.ai)** | **[Data engineer intern](https://jobright.ai/jobs/info/69eaef357820c036924f07d9?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 23 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/69eaeed04b0fa35a7077710f?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Apr 23 |
 | **[Refresco](https://www.refresco.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/69eae2d00a6e09555304392c?utm_campaign=1048&utm_source=git)** | Tampa, Florida, United States | On Site | Apr 23 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69eae1d87820c036924f0269?utm_campaign=1048&utm_source=git)** | Mobile, AL, US | On Site | Apr 23 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Internship - Data Center Thermal Products Engineer](https://jobright.ai/jobs/info/69ea800a3aa0c479643b069f?utm_campaign=1048&utm_source=git)** | New Freedom-Pennsylvania-United States of America, US | On Site | Apr 23 |
 | **[Therma-Stor](http://thermastor.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69eaa8067820c036924ef0ee?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 23 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69eaf2ce7820c036924f0822?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Apr 23 |
+| **[Dynisco](http://www.dynisco.com/)** | **[Electrical Engineering Intern - East Aurora, NY area](https://jobright.ai/jobs/info/69eafe620a6e095553044052?utm_campaign=1048&utm_source=git)** | East Aurora, NY | On Site | Apr 23 |
 | **[Ariat International](http://www.ariat.com)** | **[Outbound Transportation Intern](https://jobright.ai/jobs/info/69ea7a580a6e095553041760?utm_campaign=1048&utm_source=git)** | Haslet, TX | On Site | Apr 23 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69eafe674b0fa35a707772d5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[EHS Intern](https://jobright.ai/jobs/info/69ea7a1e0a6e095553041698?utm_campaign=1048&utm_source=git)** | Waynesboro-Pennsylvania-United States of America, US | On Site | Apr 23 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Clinical Lab Technologist - Molecular Technologies - Texas Tech Intern Only](https://jobright.ai/jobs/info/69ea7a093aa0c479643b040e?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Apr 23 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ea7a0258811370cb133a10?utm_campaign=1048&utm_source=git)** | San Jose (Holger Way), US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
