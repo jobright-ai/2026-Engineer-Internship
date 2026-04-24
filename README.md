@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69eacc314b0fa35a70776744?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, 33442, United States | On Site | Apr 23 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Summer 2026 Internship – Thermodynamics & Power Plant Performance (Vistra Corporation)](https://jobright.ai/jobs/info/69eac9aa4b0fa35a70775fde?utm_campaign=1048&utm_source=git)** | Irving, Texas, US | On Site | Apr 23 |
 | **[Tracera](https://www.esgflo.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69eac9640a6e095553042c19?utm_campaign=1048&utm_source=git)** | NYC Metro Area | Hybrid | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Quality - Six Sigma Intern (Canada)](https://jobright.ai/jobs/info/69eac93bdc35f7132c4abd5d?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Draper](https://www.draper.com)** | **[Machine Intelligence Intern](https://jobright.ai/jobs/info/69ea94dcdc35f7132c4ab132?utm_campaign=1048&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
 | **[RTX](http://rtx.com/)** | **[Internship Fall 2026 - Environment, Health & Safety Co-Op Student](https://jobright.ai/jobs/info/69ea928858811370cb134336?utm_campaign=1048&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 23 |
 | **[Ready Computing](https://readycomputing.com)** | **[Supply Chain Engineering Intern](https://jobright.ai/jobs/info/69ea91d2dc35f7132c4aaf94?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Apr 23 |
-| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf83?utm_campaign=1048&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
-| ↳ | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf7c?utm_campaign=1048&utm_source=git)** | Beulaville, NC, UNITED STATES | On Site | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf7c?utm_campaign=1048&utm_source=git)** | Beulaville, NC, UNITED STATES | On Site | Apr 23 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf83?utm_campaign=1048&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Faculty Engineering Intern](https://jobright.ai/jobs/info/69ea91aedc35f7132c4aaef2?utm_campaign=1048&utm_source=git)** | Belton, South Carolina, United States | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69ea91a84b0fa35a707751c1?utm_campaign=1048&utm_source=git)** | Detroit, MI, UNITED STATES | On Site | Apr 23 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Inventory Intern](https://jobright.ai/jobs/info/69ea91993aa0c479643b0add?utm_campaign=1048&utm_source=git)** | Lincolnton, NC, US, 28092 | On Site | Apr 23 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - Sai Pratt](https://jobright.ai/jobs/info/69ea84030a6e095553041a4e?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | Hybrid | Apr 23 |
 | ↳ | **[Intern Engineer - Sai Pratt](https://jobright.ai/jobs/info/69ea83c658811370cb133e2c?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | Hybrid | Apr 23 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- AI Process Automation, Supply Chain and Operations](https://jobright.ai/jobs/info/69ea83bd58811370cb133e17?utm_campaign=1048&utm_source=git)** | Montvale, NJ, US | Hybrid | Apr 23 |
+| **[Actian](http://www.actian.com)** | **[Executive Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e2a3fe3ce36005badbef60?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 23 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[AI Development Intern, 2026](https://jobright.ai/jobs/info/69dd001dbc6f6622c990fc72?utm_campaign=1048&utm_source=git)** | Mountain View, California, United States | On Site | Apr 23 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Geomechanics Intern - Billings, MT](https://jobright.ai/jobs/info/69ea82d758811370cb133d77?utm_campaign=1048&utm_source=git)** | Billings, Montana, United States | On Site | Apr 23 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern Project Engineer](https://jobright.ai/jobs/info/69ea80823aa0c479643b06ac?utm_campaign=1048&utm_source=git)** | Onsite | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maximus UK](https://maximusuk.co.uk)** | **[Cloud Platform Engineer Intern](https://jobright.ai/jobs/info/69ea78924b0fa35a70774a11?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Apr 23 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69ea78914b0fa35a70774a01?utm_campaign=1048&utm_source=git)** | Washington D.C., DC, US | On Site | Apr 23 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Summer 2026 Engineer Intern (McCall & Pocatello, ID)](https://jobright.ai/jobs/info/69ea75183aa0c479643b0280?utm_campaign=1048&utm_source=git)** | Nampa, Idaho, US | On Site | Apr 23 |
-| **[LTM](http://ltm.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69c4650a33eecf310794b37b?utm_campaign=1048&utm_source=git)** | New Jersey, United States | Hybrid | Apr 23 |
-| **[PROENERGY](http://www.proenergyservices.com)** | **[V - Mechanical Engineering Intern- Gas Turbine Project/Program Management](https://jobright.ai/jobs/info/69ea73a4dc35f7132c4aa530?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
