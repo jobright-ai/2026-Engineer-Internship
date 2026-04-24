@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avolta Inc.](https://www.avoltacanada.com)** | **[Machine Learning Student Intern](https://jobright.ai/jobs/info/69eaf290dc35f7132c4acee3?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
+| **[GenPark](https://genpark.ai)** | **[Data engineer intern](https://jobright.ai/jobs/info/69eaef357820c036924f07d9?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 23 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/69eaeed04b0fa35a7077710f?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | Apr 23 |
 | **[Refresco](https://www.refresco.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/69eae2d00a6e09555304392c?utm_campaign=1048&utm_source=git)** | Tampa, Florida, United States | On Site | Apr 23 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69eae1d87820c036924f0269?utm_campaign=1048&utm_source=git)** | Mobile, AL, US | On Site | Apr 23 |
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69eacc314b0fa35a70776744?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, 33442, United States | On Site | Apr 23 |
@@ -69,10 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CPD Intern (Canada)](https://jobright.ai/jobs/info/69eac92a0a6e095553042bcc?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
 | ↳ | **[Quality Engineer Intern (Canada)](https://jobright.ai/jobs/info/69eac89f7820c036924ef6ee?utm_campaign=1048&utm_source=git)** | London, ON, CANADA | On Site | Apr 23 |
 | ↳ | **[Quality Systems Intern (Canada)](https://jobright.ai/jobs/info/69eac89e7820c036924ef6e9?utm_campaign=1048&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
-| **[Sonatech, LLC](https://www.sonatech.com/)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69eac33f0a6e095553042b1e?utm_campaign=1048&utm_source=git)** | Santa Barbara,CA,US | On Site | Apr 23 |
 | **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Specialty Engineering Internship](https://jobright.ai/jobs/info/69e7e4857820c036924d8e22?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 23 |
 | **[AgZen](https://www.agzen.com)** | **[Research & Development Engineering Co-op](https://jobright.ai/jobs/info/69eabe794b0fa35a70775e1c?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Apr 23 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Audio and Acoustics](https://jobright.ai/jobs/info/69eabcfa7820c036924ef50a?utm_campaign=1048&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 23 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Flight Test Instrumentation Engineering Intern](https://jobright.ai/jobs/info/69eabb744b0fa35a70775df1?utm_campaign=1048&utm_source=git)** | US-CA-Santa Cruz | On Site | Apr 23 |
 | ↳ | **[Flight Test Instrumentation Engineering Intern](https://jobright.ai/jobs/info/69eabb737820c036924ef4ca?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA, US | On Site | Apr 23 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Engineering)](https://jobright.ai/jobs/info/69eabb727820c036924ef4c3?utm_campaign=1048&utm_source=git)** | AZ - Chandler, US | On Site | Apr 23 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Draper](https://www.draper.com)** | **[Machine Intelligence Intern](https://jobright.ai/jobs/info/69ea94dcdc35f7132c4ab132?utm_campaign=1048&utm_source=git)** | Cambridge, MA, US | Hybrid | Apr 23 |
 | **[RTX](http://rtx.com/)** | **[Internship Fall 2026 - Environment, Health & Safety Co-Op Student](https://jobright.ai/jobs/info/69ea928858811370cb134336?utm_campaign=1048&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, CA | On Site | Apr 23 |
 | **[Ready Computing](https://readycomputing.com)** | **[Supply Chain Engineering Intern](https://jobright.ai/jobs/info/69ea91d2dc35f7132c4aaf94?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Apr 23 |
-| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf83?utm_campaign=1048&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
-| ↳ | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf7c?utm_campaign=1048&utm_source=git)** | Beulaville, NC, UNITED STATES | On Site | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf7c?utm_campaign=1048&utm_source=git)** | Beulaville, NC, UNITED STATES | On Site | Apr 23 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69ea91d0dc35f7132c4aaf83?utm_campaign=1048&utm_source=git)** | Carthage, MO, UNITED STATES | On Site | Apr 23 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Faculty Engineering Intern](https://jobright.ai/jobs/info/69ea91aedc35f7132c4aaef2?utm_campaign=1048&utm_source=git)** | Belton, South Carolina, United States | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Systems Engineer Intern](https://jobright.ai/jobs/info/69ea91a84b0fa35a707751c1?utm_campaign=1048&utm_source=git)** | Detroit, MI, UNITED STATES | On Site | Apr 23 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Inventory Intern](https://jobright.ai/jobs/info/69ea91993aa0c479643b0add?utm_campaign=1048&utm_source=git)** | Lincolnton, NC, US, 28092 | On Site | Apr 23 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Albany Medical Center](http://www.amc.edu/)** | **[Clinical Engineering Intern](https://jobright.ai/jobs/info/69ea800edc35f7132c4aaa1a?utm_campaign=1048&utm_source=git)** | 43 New Scotland Avenue Albany, NY 12208, US | Hybrid | Apr 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Internship - Data Center Thermal Products Engineer](https://jobright.ai/jobs/info/69ea800a3aa0c479643b069f?utm_campaign=1048&utm_source=git)** | New Freedom-Pennsylvania-United States of America, US | On Site | Apr 23 |
 | **[Therma-Stor](http://thermastor.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69eaa8067820c036924ef0ee?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | Apr 23 |
+| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69eaf2ce7820c036924f0822?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Apr 23 |
 | **[Ariat International](http://www.ariat.com)** | **[Outbound Transportation Intern](https://jobright.ai/jobs/info/69ea7a580a6e095553041760?utm_campaign=1048&utm_source=git)** | Haslet, TX | On Site | Apr 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[EHS Intern](https://jobright.ai/jobs/info/69ea7a1e0a6e095553041698?utm_campaign=1048&utm_source=git)** | Waynesboro-Pennsylvania-United States of America, US | On Site | Apr 23 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Clinical Lab Technologist - Molecular Technologies - Texas Tech Intern Only](https://jobright.ai/jobs/info/69ea7a093aa0c479643b040e?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | Apr 23 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Applications Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ea7a0258811370cb133a10?utm_campaign=1048&utm_source=git)** | San Jose (Holger Way), US | On Site | Apr 23 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Electrical Engineering Intern (Fall 2026, 4-8months)](https://jobright.ai/jobs/info/69ea79db4b0fa35a70774a6a?utm_campaign=1048&utm_source=git)** | Toronto, CA | Hybrid | Apr 23 |
-| **[Maximus UK](https://maximusuk.co.uk)** | **[Cloud Platform Engineer Intern](https://jobright.ai/jobs/info/69ea78924b0fa35a70774a11?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
