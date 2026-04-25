@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Mechanical Designer](https://jobright.ai/jobs/info/69ed40b10a6e09555304f943?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69ed34b1dc35f7132c4b830c?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 25 |
 | **[BWBR](https://www.bwbr.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc56a?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 25 |
+| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Electrical Engineering](https://jobright.ai/jobs/info/69ed419058811370cb14160d?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28068](https://jobright.ai/jobs/info/69d0585acdb525785fba98d8?utm_campaign=1048&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 25 |
 | **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/69d72c28cfdc6132f946f93b?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 25 |
 | **[Cadence](https://www.cadence.com)** | **[AI Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5dcffe63cea7a8b6659dd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Pathward](https://www.pathward.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
 | **[VOLTAS](www.voltas.io)** | **[Summer Internship](https://jobright.ai/jobs/info/69ed1d0e0a6e09555304f68c?utm_campaign=1048&utm_source=git)** | Cottage Grove, MN | On Site | Apr 25 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer and Fall Electrical Compliance Co-op (R14780)](https://jobright.ai/jobs/info/69d02f7c366bb95ba551c3eb?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 25 |
+| **[Figure](https://www.figure.ai)** | **[Electrical Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed384b7820c036924fc64d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| ↳ | **[Electrical Interconnect Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed37eb16b2612c2a1240ed?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Malin Space Science Systems Inc](https://msss.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ed177916b2612c2a123dc6?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69d01576cfdc6132f943835a?utm_campaign=1048&utm_source=git)** | Mason, OH | On Site | Apr 25 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Graduate Internship Program Engineering Services - Weapons Project Delivery (ES-WPD)](https://jobright.ai/jobs/info/69b2dedeae2a534885ea1b76?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Apr 25 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op, Quality Engineering](https://jobright.ai/jobs/info/69b4afdc5697383741398bfd?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/6943389494730b7398763df2?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Apr 25 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern-Lithography Engineer](https://jobright.ai/jobs/info/69b4c48c06c1ba00c54643d3?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4 (Second Shift)](https://jobright.ai/jobs/info/69d13e8f891d7b11cfce2484?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Avionics Engineering Intern](https://jobright.ai/jobs/info/69b31e27ad360c0340a83407?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Apr 25 |
 | **[Williams County](https://www.williamscountyoh.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ed08094b0fa35a70783d7c?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Apr 25 |
 | **[Energy Vault](https://energyvault.com)** | **[Intern, Electricity Market Optimization & Price Forecasting](https://jobright.ai/jobs/info/69d06bf4891d7b11cfcdb41c?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | Remote | Apr 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graham](https://www.grahambuilds.com)** | **[Field Engineer Intern- Infrastructure](https://jobright.ai/jobs/info/6961d7a7a112b40266105f60?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927b6eef0beb0723262d6d6?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Apr 25 |
 | **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69d03d4d891d7b11cfcd9f22?utm_campaign=1048&utm_source=git)** | Moriarty, NM | On Site | Apr 25 |
-| **[CRB](https://www.crbgroup.com/)** | **[Construction Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ecd90016b2612c2a123524?utm_campaign=1048&utm_source=git)** | Medford, MA | On Site | Apr 25 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6944d7fa94730b73987811f2?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Apr 25 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[2026 BIM Modeler Design Internship](https://jobright.ai/jobs/info/69d063af0b098b7a67079131?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Apr 25 |
-| **[Element Materials Technology](https://www.element.com)** | **[Internship (Construction Materials Testing)](https://jobright.ai/jobs/info/697c3b4b1423772304ecaa15?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | Apr 25 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Civil Engineering Intern (Night/Overnight Shift)](https://jobright.ai/jobs/info/69b49b413b74eb1e2c81f906?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
