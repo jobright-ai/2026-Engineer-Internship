@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PI (Physik Instrumente) Group](https://www.physikinstrumente.com/en/?utm_medium=social&utm_source=linkedin.com&utm_campaign=PIGroup-CompanyProfile)** | **[Mechanical Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69ec6dcddc35f7132c4b6e28?utm_campaign=1048&utm_source=git)** | Shrewsbury, MA | On Site | Apr 25 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[AI Applications Intern](https://jobright.ai/jobs/info/69ec63e458811370cb13fe5e?utm_campaign=1048&utm_source=git)** | Carlisle, PA | On Site | Apr 24 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Preventative Maintenance, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63a9dc35f7132c4b6cc4?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[IT Data Center Operations, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa38?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -80,17 +81,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering and Business Process Intern](https://jobright.ai/jobs/info/69ec40ea58811370cb13f63e?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f62d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63730a6e09555304e055?utm_campaign=1048&utm_source=git)** | New Baden, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe30?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe40?utm_campaign=1048&utm_source=git)** | Findlay, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec639cdc35f7132c4b6c5b?utm_campaign=1048&utm_source=git)** | Dana, IN | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dc58811370cb13fe24?utm_campaign=1048&utm_source=git)** | Sullivan, IL | On Site | Apr 24 |
 | ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63740a6e09555304e05a?utm_campaign=1048&utm_source=git)** | Carmi, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dc58811370cb13fe24?utm_campaign=1048&utm_source=git)** | Sullivan, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe40?utm_campaign=1048&utm_source=git)** | Findlay, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe30?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec639cdc35f7132c4b6c5b?utm_campaign=1048&utm_source=git)** | Dana, IN | On Site | Apr 24 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[AI & Computer Vision Intern](https://jobright.ai/jobs/info/69ec388cdc35f7132c4b63fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[BSA Intern](https://jobright.ai/jobs/info/69ec383c7820c036924fa087?utm_campaign=1048&utm_source=git)** | Athens, TN | On Site | Apr 24 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69ec382d7820c036924fa03b?utm_campaign=1048&utm_source=git)** | West Hartford, CT | On Site | Apr 24 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ec37df16b2612c2a121d7d?utm_campaign=1048&utm_source=git)** | Helena, MT | On Site | Apr 24 |
 | **[Tri-State Generation and Transmission Association, Inc.](https://tristate.coop)** | **[Energy Resources Intern](https://jobright.ai/jobs/info/69ec37d816b2612c2a121d65?utm_campaign=1048&utm_source=git)** | Westminster, CO | Hybrid | Apr 24 |
-| **[Regenity Biosciences](https://regenity.com)** | **[Intern, Equipment Engineering](https://jobright.ai/jobs/info/69ec37cc16b2612c2a121d0c?utm_campaign=1048&utm_source=git)** | Allendale, NJ | On Site | Apr 24 |
 | **[Quantinuum](https://www.quantinuum.com)** | **[PhD Intern - Trapped-Ion Quantum Computing Theory - 809](https://jobright.ai/jobs/info/69ec36cd4b0fa35a7078194d?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Apr 24 |
 | ↳ | **[Project Engineering Intern - 783](https://jobright.ai/jobs/info/69ec36c54b0fa35a70781915?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Apr 24 |
 | **[Leland](https://www.joinleland.com)** | **[AI Education Intern](https://jobright.ai/jobs/info/69ec36c54b0fa35a7078191a?utm_campaign=1048&utm_source=git)** | Lehi, UT | On Site | Apr 24 |
