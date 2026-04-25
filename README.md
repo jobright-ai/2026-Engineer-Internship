@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pennoni](http://www.pennoni.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ec8ded4b0fa35a70782718?utm_campaign=1048&utm_source=git)** | Sellersville, PA | On Site | Apr 25 |
+| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Electronics Technician Intern](https://jobright.ai/jobs/info/69ec8de158811370cb1401e4?utm_campaign=1048&utm_source=git)** | Oak Creek, WI | On Site | Apr 25 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Systems Administrator Intern](https://jobright.ai/jobs/info/69d024f254f00230c6d0f798?utm_campaign=1048&utm_source=git)** | Annapolis Junction, MD | Hybrid | Apr 25 |
+| **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Shop Technician Intern](https://jobright.ai/jobs/info/69b33e63a8ac8e70ff677f88?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- Bay Area Projects](https://jobright.ai/jobs/info/69ec78aa7820c036924facb7?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 25 |
 | **[PI (Physik Instrumente) Group](https://www.physikinstrumente.com/en/?utm_medium=social&utm_source=linkedin.com&utm_campaign=PIGroup-CompanyProfile)** | **[Mechanical Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69ec6dcddc35f7132c4b6e28?utm_campaign=1048&utm_source=git)** | Shrewsbury, MA | On Site | Apr 25 |
@@ -65,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Data Center Operations, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa38?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Commissioning Engineer Intern](https://jobright.ai/jobs/info/69ec5dcc4b0fa35a70782006?utm_campaign=1048&utm_source=git)** | Decatur, GA | On Site | Apr 24 |
 | **[CRH](http://crh.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69ec5dc50a6e09555304dd56?utm_campaign=1048&utm_source=git)** | Salem, OR | On Site | Apr 24 |
+| **[Braum's](https://www.braums.com)** | **[ROUTE MAINT TECH/FT SMITH AREA](https://jobright.ai/jobs/info/69ec8dee58811370cb140236?utm_campaign=1048&utm_source=git)** | Fayetteville, AR | On Site | Apr 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year Round - Environments Engineering & Integration, Onsite](https://jobright.ai/jobs/info/69ec56d40a6e09555304dba8?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer](https://jobright.ai/jobs/info/69ec56ae7820c036924fa528?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Apr 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - Solar Thermal Test & Demonstration, Onsite](https://jobright.ai/jobs/info/69ec56974b0fa35a70781e03?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
@@ -84,11 +89,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering and Business Process Intern](https://jobright.ai/jobs/info/69ec40ea58811370cb13f63e?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f62d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63730a6e09555304e055?utm_campaign=1048&utm_source=git)** | New Baden, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe40?utm_campaign=1048&utm_source=git)** | Findlay, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dc58811370cb13fe24?utm_campaign=1048&utm_source=git)** | Sullivan, IL | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec639cdc35f7132c4b6c5b?utm_campaign=1048&utm_source=git)** | Dana, IN | On Site | Apr 24 |
-| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63740a6e09555304e05a?utm_campaign=1048&utm_source=git)** | Carmi, IL | On Site | Apr 24 |
 | ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe30?utm_campaign=1048&utm_source=git)** | St Peter, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec639cdc35f7132c4b6c5b?utm_campaign=1048&utm_source=git)** | Dana, IN | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dc58811370cb13fe24?utm_campaign=1048&utm_source=git)** | Sullivan, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63740a6e09555304e05a?utm_campaign=1048&utm_source=git)** | Carmi, IL | On Site | Apr 24 |
+| ↳ | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec63dd58811370cb13fe40?utm_campaign=1048&utm_source=git)** | Findlay, IL | On Site | Apr 24 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[AI & Computer Vision Intern](https://jobright.ai/jobs/info/69ec388cdc35f7132c4b63fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[BSA Intern](https://jobright.ai/jobs/info/69ec383c7820c036924fa087?utm_campaign=1048&utm_source=git)** | Athens, TN | On Site | Apr 24 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69ec382d7820c036924fa03b?utm_campaign=1048&utm_source=git)** | West Hartford, CT | On Site | Apr 24 |
@@ -121,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Manufacturing Engineer (Intern)](https://jobright.ai/jobs/info/69ec177ddc35f7132c4b5684?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Apr 24 |
 | **[Pharmavite](http://www.pharmavite.com)** | **[Nutrition Science Intern](https://jobright.ai/jobs/info/69ec177616b2612c2a120cd9?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 24 |
 | **[FieldAI](https://www.fieldai.com)** | **[Mechanical Engineering Intern: Rugged Compute Payloads](https://jobright.ai/jobs/info/69ec120216b2612c2a120c3f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 24 |
-| **[Physical Intelligence](https://www.pi.website)** | **[Mechatronics Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff5?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
-| ↳ | **[Hardware Systems Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
+| **[Physical Intelligence](https://www.pi.website)** | **[Hardware Systems Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
+| ↳ | **[Mechatronics Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff5?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ec51837820c036924fa358?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Appian Developer](https://jobright.ai/jobs/info/69ec11dc16b2612c2a120bb7?utm_campaign=1048&utm_source=git)** | Fairfax, VA | Remote | Apr 24 |
 | **[Archer](https://www.archer.com)** | **[Landing Gear Intern](https://jobright.ai/jobs/info/69ec11d67820c036924f8f88?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allen Institute](https://alleninstitute.org/)** | **[Intern - AI / Machine Learning - Office of the CTO](https://jobright.ai/jobs/info/69ec02e9dc35f7132c4b4fed?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Layup Parts](www.layupparts.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec381f4b0fa35a707819fe?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA | On Site | Apr 24 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[GenBI Intern](https://jobright.ai/jobs/info/69ec00984b0fa35a70780268?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 24 |
-| **[Northgate Vehicle Hire (Ireland) Ltd](http://www.northgatevehiclehire.ie/home)** | **[Motor Mechanic](https://jobright.ai/jobs/info/69ec36ce7820c036924f9f88?utm_campaign=1048&utm_source=git)** | Bolton, Ontario, Canada | On Site | Apr 24 |
-| **[Eurofins](http://eurofins.com)** | **[Associate Scientist Intern](https://jobright.ai/jobs/info/69ebfe2d4b0fa35a70780206?utm_campaign=1048&utm_source=git)** | St Charles, MO | On Site | Apr 24 |
-| **[Terex Corporation](http://www.terex.com)** | **[EHS Summer Intern](https://jobright.ai/jobs/info/69ec26a40a6e09555304ce26?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
-| ↳ | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69ec26f77820c036924f97c8?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Intern - Quality Assurance](https://jobright.ai/jobs/info/69ebfd59dc35f7132c4b4de6?utm_campaign=1048&utm_source=git)** | White, PA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
