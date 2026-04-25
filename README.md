@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ec51e658811370cb13f895?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Supply Inventory Technician](https://jobright.ai/jobs/info/69ec45d27820c036924fa2ea?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Apr 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southern Illinois Division](https://jobright.ai/jobs/info/69ec45b716b2612c2a121fa2?utm_campaign=1048&utm_source=git)** | Danville, IL | On Site | Apr 24 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 24 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69ec410b7820c036924fa1b7?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69ec41077820c036924fa1aa?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | Apr 24 |
 | ↳ | **[Engineering and Business Process Intern](https://jobright.ai/jobs/info/69ec40ea58811370cb13f63e?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Advanced Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f62c?utm_campaign=1048&utm_source=git)** | Noblesville, IN | On Site | Apr 24 |
-| **[Leidos](https://www.leidos.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f62d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
+| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f62d?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[AI & Computer Vision Intern](https://jobright.ai/jobs/info/69ec388cdc35f7132c4b63fc?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Regenity Biosciences](https://regenity.com)** | **[Intern, Equipment Engineering](https://jobright.ai/jobs/info/69ec3864dc35f7132c4b6379?utm_campaign=1048&utm_source=git)** | Allendale, NJ | On Site | Apr 24 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[BSA Intern](https://jobright.ai/jobs/info/69ec383c7820c036924fa087?utm_campaign=1048&utm_source=git)** | Athens, TN | On Site | Apr 24 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[MacKay Sposito](http://mackaysposito.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69ec32e2dc35f7132c4b614c?utm_campaign=1048&utm_source=git)** | Wenatchee, WA | On Site | Apr 24 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Mechanical Engineering](https://jobright.ai/jobs/info/69ec2e627820c036924f9992?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Apr 24 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Process Engineer - Plant 10](https://jobright.ai/jobs/info/69ec2dcc0a6e09555304cf80?utm_campaign=1048&utm_source=git)** | Whitehall, MI | On Site | Apr 24 |
-| **[Milford Mining Company Utah LLC](https://milfordmining.com/)** | **[Environmental Engineering Intern](https://jobright.ai/jobs/info/69ec45924b0fa35a70781c9e?utm_campaign=1048&utm_source=git)** | Milford, UT | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Engineer Intern (4 Months)](https://jobright.ai/jobs/info/69ec274ddc35f7132c4b5f54?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Commissioning Intern - Summer 2026](https://jobright.ai/jobs/info/69ec27174b0fa35a7078114a?utm_campaign=1048&utm_source=git)** | United States | On Site | Apr 24 |
 | **[Tarkett](https://www.tarkett-group.com/en/)** | **[Project Architect Intern](https://jobright.ai/jobs/info/69e739d50a6e095553029ca6?utm_campaign=1048&utm_source=git)** | Junction City, KS | Hybrid | Apr 24 |
@@ -104,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[FieldAI](https://www.fieldai.com)** | **[Mechanical Engineering Intern: Rugged Compute Payloads](https://jobright.ai/jobs/info/69ec120216b2612c2a120c3f?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 24 |
 | **[Physical Intelligence](https://www.pi.website)** | **[Hardware Systems Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
 | ↳ | **[Mechatronics Intern](https://jobright.ai/jobs/info/69ec11ef7820c036924f8ff5?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
+| **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ec51837820c036924fa358?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Appian Developer](https://jobright.ai/jobs/info/69ec11dc16b2612c2a120bb7?utm_campaign=1048&utm_source=git)** | Fairfax, VA | Remote | Apr 24 |
 | **[Archer](https://www.archer.com)** | **[Landing Gear Intern](https://jobright.ai/jobs/info/69ec11d67820c036924f8f88?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Octave](https://www.octave.com/)** | **[Next Generation Analysis Solution Design Intern](https://jobright.ai/jobs/info/69ec11d47820c036924f8f73?utm_campaign=1048&utm_source=git)** | Madison, AL | Hybrid | Apr 24 |
