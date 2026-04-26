@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e19b6940a62c1fa93b921b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
+| **[TikTok](https://www.tiktok.com)** | **[CPU Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/6926927627bf2f41a2c470a3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| ↳ | **[Data Engineer Intern (Data Platform - Global Live) - 2026 Start (MS)](https://jobright.ai/jobs/info/69bcbd334828227293fe9d3b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/6997be7481476f6176afe639?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Apr 26 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Solid Waste Engineer Intern](https://jobright.ai/jobs/info/69600fdba1bbea1d9a7ad994?utm_campaign=1048&utm_source=git)** | Daphne, AL | On Site | Apr 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Data Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd084fb10602456281e5d2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| ↳ | **[Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/692692e0d47de4798ecd826b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/698835b48ca8121a3a6ac316?utm_campaign=1048&utm_source=git)** | Greater Houston | On Site | Apr 26 |
+| ↳ | **[Control Systems Intern](https://jobright.ai/jobs/info/69df28d3aba61f141731a84b?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 26 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Civil Intern](https://jobright.ai/jobs/info/6942f3e0dd382f5f5668e81b?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Apr 26 |
+| ↳ | **[Solid Waste Engineer Intern](https://jobright.ai/jobs/info/69601208a1bbea1d9a7adcc9?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | Apr 26 |
 | **[Patten Seed Company/Super-Sod](https://www.supersod.com/)** | **[Horticulture Internship](https://jobright.ai/jobs/info/69c53fea1b5ad028873714bb?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Apr 26 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[AI Engineering Intern, Computer Science](https://jobright.ai/jobs/info/69ebe4db7820c036924f7ccc?utm_campaign=1048&utm_source=git)** | Davidson, NC | Hybrid | Apr 26 |
 | **[Precisely](https://www.precisely.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69b425e506c1ba00c5455d35?utm_campaign=1048&utm_source=git)** | Atlanta Metro | Remote | Apr 26 |
@@ -82,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Revvity](https://www.revvity.com/)** | **[Intern – Cell Analysis](https://jobright.ai/jobs/info/69ed68074b0fa35a707845af?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69d5e0e3891d7b11cfd06782?utm_campaign=1048&utm_source=git)** | Dallas, TX | Remote | Apr 25 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[QA Automation Intern](https://jobright.ai/jobs/info/69b4b6bd569738374139901a?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Apr 25 |
-| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (North Texas) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed67e2dc35f7132c4b85f1?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 25 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69e65f663cfd986aa6f85414?utm_campaign=1048&utm_source=git)** | Dedham, MA | Hybrid | Apr 25 |
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed5ac916b2612c2a124347?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Apr 25 |
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/69ed74da4b0fa35a7078467d?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Apr 25 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Building Science Intern (Spring 2026)](https://jobright.ai/jobs/info/6996850481476f6176ae5e55?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 25 |
 | **[Crusoe](https://crusoe.ai)** | **[Site Reliability Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/697bdf100b88cc7d6422bcd1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op, Quality Engineering](https://jobright.ai/jobs/info/69b4afdc5697383741398bfd?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 25 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/6943389494730b7398763df2?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Apr 25 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern-Lithography Engineer](https://jobright.ai/jobs/info/69b4c48c06c1ba00c54643d3?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4 (Second Shift)](https://jobright.ai/jobs/info/69d13e8f891d7b11cfce2484?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Apr 25 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Avionics Engineering Intern](https://jobright.ai/jobs/info/69b31e27ad360c0340a83407?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | Apr 25 |
-| **[Williams County](https://www.williamscountyoh.gov)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ed08094b0fa35a70783d7c?utm_campaign=1048&utm_source=git)** | Williston, ND | On Site | Apr 25 |
-| **[Energy Vault](https://energyvault.com)** | **[Intern, Electricity Market Optimization & Price Forecasting](https://jobright.ai/jobs/info/69d06bf4891d7b11cfcdb41c?utm_campaign=1048&utm_source=git)** | Tysons Corner, VA | Remote | Apr 25 |
-| **[Revvity](https://www.revvity.com/)** | **[Mechanical Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d09f53891d7b11cfcdd542?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 25 |
-| **[AvePoint](http://www.avepoint.com)** | **[Customer Data ML Intern](https://jobright.ai/jobs/info/69d04641891d7b11cfcda323?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | On Site | Apr 25 |
-| **[Richardson International](https://www.richardson.ca/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69db1ed9b67cec4f9b0ad6ae?utm_campaign=1048&utm_source=git)** | Carrington, ND | On Site | Apr 25 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69d5cb33706f771673ba6d03?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
