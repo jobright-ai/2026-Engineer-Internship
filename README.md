@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69edb78ddc35f7132c4b95a6?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
+| **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Apr 25 |
 | **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Microfabrication Intern](https://jobright.ai/jobs/info/69edaba916b2612c2a124e45?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 25 |
+| ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69edb78fdc35f7132c4b95ad?utm_campaign=1048&utm_source=git)** | San Mateo, CA | On Site | Apr 25 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[DevOps Engineer Intern](https://jobright.ai/jobs/info/69e6b3e57820c036924d1f59?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90b658811370cb141f3e?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
 | ↳ | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90a84b0fa35a70784ad0?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
 | **[Chromalox](http://www.chromalox.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69ed83f44b0fa35a707847d6?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927cd39f0beb0723262e238?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Wet Lab Scientist Intern](https://jobright.ai/jobs/info/69b4ca1706c1ba00c546463d?utm_campaign=1048&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69d0cf7ccdb525785fbaeb31?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Paving Field Engineer Internship (NOVA) 2026](https://jobright.ai/jobs/info/697a762c8dbbf73badc79a31?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Apr 25 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Digital Twin of Liquid Crystal Optical Circuit Switch (OCS)](https://jobright.ai/jobs/info/69b4c4813b74eb1e2c822381?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
-| ↳ | **[Intern, Process Engineer, Plasma Etch on RIE and ICP](https://jobright.ai/jobs/info/69c8c39183ea553769febc0d?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
-| **[Zillow](http://www.zillow.com)** | **[AI Applied Scientist - PhD Intern, Next-Gen Agentic and Multi-Modal Home Exploration Experience](https://jobright.ai/jobs/info/68d32937f0d9af73038df84b?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
