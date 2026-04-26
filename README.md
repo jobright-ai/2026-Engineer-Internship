@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuralink](https://www.neuralink.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/68cd221fe23def7af55b5e4a?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
 | **[Red Star Yeast Company LLC](https://redstaryeast.com)** | **[Intern, Maintenance](https://jobright.ai/jobs/info/6998f99e81476f6176b16831?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5bbe2706f771673ba5183?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 26 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69b4739406c1ba00c545e508?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Apr 26 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[RoboForce](https://www.roboforce.ai)** | **[Robotics Electrical Engineering Intern](https://jobright.ai/jobs/info/69debe13aba61f1417317821?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 26 |
 | **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Slurry and Coating Internship](https://jobright.ai/jobs/info/6979b5b0d7df290257fc26f3?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 26 |
 | **[Precision Castparts](http://precast.com)** | **[Engineering Co-Op, Fall 2026](https://jobright.ai/jobs/info/6925fe43f0beb07232620f07?utm_campaign=1048&utm_source=git)** | Niskayuna, NY | On Site | Apr 26 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6998e39f81476f6176b149d1?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 26 |
 | **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/68254fc4a9a8b87e52895b8f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/6945b2a863141d188455408f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Apr 26 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Intern - Safety](https://jobright.ai/jobs/info/690a8ef64a1b456627b093aa?utm_campaign=1048&utm_source=git)** | Wakefield, NE | On Site | Apr 26 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b7dfa7227b3ece66635e?utm_campaign=1048&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 26 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Network Optimization Intern](https://jobright.ai/jobs/info/69d5f4a44a12eb12c5e14d31?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e19b6940a62c1fa93b921b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
-| **[TikTok](https://www.tiktok.com)** | **[CPU Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/6926927627bf2f41a2c470a3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
-| ↳ | **[Data Engineer Intern (Data Platform - Global Live) - 2026 Start (MS)](https://jobright.ai/jobs/info/69bcbd334828227293fe9d3b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Engineer Intern (Data Platform - Global Live) - 2026 Start (MS)](https://jobright.ai/jobs/info/69bcbd334828227293fe9d3b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| ↳ | **[CPU Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/6926927627bf2f41a2c470a3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/6997be7481476f6176afe639?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Apr 26 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Solid Waste Engineer Intern](https://jobright.ai/jobs/info/69600fdba1bbea1d9a7ad994?utm_campaign=1048&utm_source=git)** | Daphne, AL | On Site | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Data Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd084fb10602456281e5d2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
