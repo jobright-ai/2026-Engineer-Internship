@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69af2d67749500645093a689?utm_campaign=1048&utm_source=git)** | Baltimore, Maryland | On Site | Apr 26 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69edb78ddc35f7132c4b95a6?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Apr 25 |
 | **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Microfabrication Intern](https://jobright.ai/jobs/info/69edaba916b2612c2a124e45?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 25 |
+| ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69edc5bd58811370cb1429b7?utm_campaign=1048&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
+| ↳ | **[Mechanisms/ Payload Internship - Fall 2026](https://jobright.ai/jobs/info/69edc6420a6e095553050b6a?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 25 |
 | ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69edb78fdc35f7132c4b95ad?utm_campaign=1048&utm_source=git)** | San Mateo, CA | On Site | Apr 25 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[DevOps Engineer Intern](https://jobright.ai/jobs/info/69e6b3e57820c036924d1f59?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90b658811370cb141f3e?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83db4b0fa35a707847b0?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
 | ↳ | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83d94b0fa35a7078479f?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
 | **[Twilio](https://www.twilio.com/)** | **[Developer Advocacy Intern](https://jobright.ai/jobs/info/69c2a43cec22f8310ab08382?utm_campaign=1048&utm_source=git)** | Remote - US | Remote | Apr 25 |
-| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (Austin/San Antonio Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed683258811370cb1419e1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69ceba4d366bb95ba550e989?utm_campaign=1048&utm_source=git)** | Concord, MA | Remote | Apr 25 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/69ed680b4b0fa35a707845c6?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Apr 25 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern – Cell Analysis](https://jobright.ai/jobs/info/69ed68074b0fa35a707845af?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern (Summer 2026)](https://jobright.ai/jobs/info/697bc1ee0b88cc7d64228eb0?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Apr 25 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Civil Intern](https://jobright.ai/jobs/info/6945d8eb95165407353809c8?utm_campaign=1048&utm_source=git)** | Carlsbad, CA | On Site | Apr 25 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927cd39f0beb0723262e238?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 25 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Wet Lab Scientist Intern](https://jobright.ai/jobs/info/69b4ca1706c1ba00c546463d?utm_campaign=1048&utm_source=git)** | Hercules, CA | On Site | Apr 25 |
-| **[Revvity](https://www.revvity.com/)** | **[Intern - Quality Assurance Coordinator](https://jobright.ai/jobs/info/69d0cf7ccdb525785fbaeb31?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
