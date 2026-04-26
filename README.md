@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee914b7820c036924ff091?utm_campaign=1048&utm_source=git)** | US, Kenosha WI, US | On Site | Apr 26 |
+| ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee9136dc35f7132c4bb178?utm_campaign=1048&utm_source=git)** | US, Concord NC, US | On Site | Apr 26 |
+| ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee91204b0fa35a7078712f?utm_campaign=1048&utm_source=git)** | US: Research Triangle Park NC, US | On Site | Apr 26 |
+| ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee911d0a6e0955530526bf?utm_campaign=1048&utm_source=git)** | US, Indianapolis IN, US | On Site | Apr 26 |
 | **[Harmony Castings, LLC](https://www.harmonycastings.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69ee79814b0fa35a70786db8?utm_campaign=1048&utm_source=git)** | Harmony, PA | On Site | Apr 26 |
 | **[NDT.org](http://www.ndt.org)** | **[Ultrasonic Level 2 Inspector](https://jobright.ai/jobs/info/69ee79754b0fa35a70786d8b?utm_campaign=1048&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Apr 26 |
 | **[Desert Research Institute](http://www.dri.edu)** | **[Graduate Research Intern](https://jobright.ai/jobs/info/69ee796a0a6e095553052341?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | Apr 26 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69eac3ad3aa0c479643b17af?utm_campaign=1048&utm_source=git)** | Woodbridge, VA | On Site | Apr 26 |
 | ↳ | **[Intern - Materials](https://jobright.ai/jobs/info/69ee4f9e7820c036924fe70e?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Apr 26 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship - Technician](https://jobright.ai/jobs/info/694613acd1953b5d11bf3405?utm_campaign=1048&utm_source=git)** | Galesburg, MI | On Site | Apr 26 |
+| **[Mason & Hanger](http://masonandhanger.com)** | **[Structural Engineering Summer Intern](https://jobright.ai/jobs/info/697e02f8abff4c399a9cca86?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 26 |
 | **[Braum's](https://www.braums.com)** | **[ROUTE MAINT TECH/FT SMITH AREA](https://jobright.ai/jobs/info/69ee667cdc35f7132c4ba8b2?utm_campaign=1048&utm_source=git)** | Fayetteville, AR | On Site | Apr 26 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Power Electronics Intern (Year-Round)](https://jobright.ai/jobs/info/69b48b8f3b74eb1e2c81e962?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Apr 26 |
 | **[ArborMetrics Solutions, LLC](https://arbormetrics.com)** | **[Utility Arborist Intern](https://jobright.ai/jobs/info/69ee48387820c036924fe6b0?utm_campaign=1048&utm_source=git)** | Hickory, NC | On Site | Apr 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b7dfa7227b3ece66635e?utm_campaign=1048&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 26 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Network Optimization Intern](https://jobright.ai/jobs/info/69d5f4a44a12eb12c5e14d31?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e19b6940a62c1fa93b921b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
-| **[TikTok](https://www.tiktok.com)** | **[CPU Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/6926927627bf2f41a2c470a3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
-| ↳ | **[Data Engineer Intern (Data Platform - Global Live) - 2026 Start (MS)](https://jobright.ai/jobs/info/69bcbd334828227293fe9d3b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/6997be7481476f6176afe639?utm_campaign=1048&utm_source=git)** | Sarasota, FL | On Site | Apr 26 |
-| **[LaBella Associates](http://www.labellapc.com/)** | **[Solid Waste Engineer Intern](https://jobright.ai/jobs/info/69600fdba1bbea1d9a7ad994?utm_campaign=1048&utm_source=git)** | Daphne, AL | On Site | Apr 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Data Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd084fb10602456281e5d2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
