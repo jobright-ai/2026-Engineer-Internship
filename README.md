@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Patten Seed Company/Super-Sod](https://www.supersod.com/)** | **[Horticulture Internship](https://jobright.ai/jobs/info/69c53fea1b5ad028873714bb?utm_campaign=1048&utm_source=git)** | 158 Sod Farm Road  Fort Valley,  GA  31030 | On Site | Apr 26 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[AI Engineering Intern, Computer Science](https://jobright.ai/jobs/info/69ebe4db7820c036924f7ccc?utm_campaign=1048&utm_source=git)** | Davidson, NC | Hybrid | Apr 26 |
+| **[Precisely](https://www.precisely.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69b425e506c1ba00c5455d35?utm_campaign=1048&utm_source=git)** | Atlanta Metro | Remote | Apr 26 |
+| **[GHD](http://www.ghd.com)** | **[Transportation Engineering Intern](https://jobright.ai/jobs/info/69096b47bcccf20de59daf1d?utm_campaign=1048&utm_source=git)** | Roseville, CA | Hybrid | Apr 26 |
+| **[Bakar Bio Labs](https://bio.bakarlabs.org/)** | **[Machine Learning Research Intern](https://jobright.ai/jobs/info/69ede0434b0fa35a707856ba?utm_campaign=1048&utm_source=git)** | Emeryville, CA | On Site | Apr 26 |
 | **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69af2d67749500645093a689?utm_campaign=1048&utm_source=git)** | Baltimore, Maryland | On Site | Apr 26 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/69eb0bce4b0fa35a70777903?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | Apr 26 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69edb78ddc35f7132c4b95a6?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
@@ -140,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Richardson International](https://www.richardson.ca/)** | **[Electrical Maintenance Intern](https://jobright.ai/jobs/info/69d759ea706f771673bb2dd3?utm_campaign=1048&utm_source=git)** | Carrington, ND | On Site | Apr 25 |
 | **[Braun Intertec Corporation](http://braunintertec.com)** | **[2026 Nondestructive Examination Intern](https://jobright.ai/jobs/info/697ae1f31423772304eac813?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 25 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Building Science Intern (Spring 2026)](https://jobright.ai/jobs/info/6996850481476f6176ae5e55?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 25 |
+| **[Crusoe](https://crusoe.ai)** | **[Site Reliability Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/697bdf100b88cc7d6422bcd1?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op, Quality Engineering](https://jobright.ai/jobs/info/69b4afdc5697383741398bfd?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 25 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/6943389494730b7398763df2?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | Apr 25 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern-Lithography Engineer](https://jobright.ai/jobs/info/69b4c48c06c1ba00c54643d3?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AvePoint](http://www.avepoint.com)** | **[Customer Data ML Intern](https://jobright.ai/jobs/info/69d04641891d7b11cfcda323?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | On Site | Apr 25 |
 | **[Richardson International](https://www.richardson.ca/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69db1ed9b67cec4f9b0ad6ae?utm_campaign=1048&utm_source=git)** | Carrington, ND | On Site | Apr 25 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69d5cb33706f771673ba6d03?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Etched](https://www.etched.com)** | **[DV Intern](https://jobright.ai/jobs/info/69b43fd406c1ba00c54575da?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Justrite Safety Group](https://www.justrite.com)** | **[Quality Intern](https://jobright.ai/jobs/info/697c27e71423772304ec87e7?utm_campaign=1048&utm_source=git)** | Wellsburg, WV | On Site | Apr 25 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Mechanical Engineer](https://jobright.ai/jobs/info/69ea9cad7820c036924eec66?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
-| **[Jacobs](http://www.jacobs.com)** | **[Internship – Jacobs Mayo River Bridge Community Replacement Project](https://jobright.ai/jobs/info/697aa2dd9d60e431a16c394e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 25 |
-| **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern (Summer 2026)](https://jobright.ai/jobs/info/697bc1ee0b88cc7d64228eb0?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Apr 25 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Civil Intern](https://jobright.ai/jobs/info/6945d8eb95165407353809c8?utm_campaign=1048&utm_source=git)** | Carlsbad, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
