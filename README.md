@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Construction Internship - Columbus Summer 2026](https://jobright.ai/jobs/info/68d1b1158c62e63bc7fce8a0?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Apr 26 |
+| **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Vehicle Perception (Internship)](https://jobright.ai/jobs/info/6962155925e18715077ef372?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
+| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69ee2c307820c036924fe2ed?utm_campaign=1048&utm_source=git)** | Norcross, GA | On Site | Apr 26 |
+| ↳ | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/69ee2c264b0fa35a70786249?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | Apr 26 |
+| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d20e2954f00230c6d1fb73?utm_campaign=1048&utm_source=git)** | Miami-FTL Area | Remote | Apr 26 |
+| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Concrete Division Intern - Engineer](https://jobright.ai/jobs/info/699aae61e0bddb6acac9cf6a?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 26 |
 | **[Holland & Hart LLP](http://www.hollandhart.com)** | **[EE Patent Engineer/Internship: Colorado, Utah, or Idaho](https://jobright.ai/jobs/info/69499d1f7d506e3808f4c613?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Apr 26 |
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d5bf4d366bb95ba55472ec?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5e0b6cfdc6132f9466c57?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | Apr 26 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[CMTA, Inc.](https://www.cmta.com)** | **[MEP Summer Internship - AMA Group](https://jobright.ai/jobs/info/6945124663141d188454967e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Construction Intern-Fall 2026 (Indianapolis)](https://jobright.ai/jobs/info/69dc8c7ff748bc5d08a5b07b?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
 | **[Neuralink](https://www.neuralink.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/68cd221fe23def7af55b5e4a?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69601c4ea1bbea1d9a7aeac9?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 26 |
 | **[Red Star Yeast Company LLC](https://redstaryeast.com)** | **[Intern, Maintenance](https://jobright.ai/jobs/info/6998f99e81476f6176b16831?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5bbe2706f771673ba5183?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 26 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69b4739406c1ba00c545e508?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Apr 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Electrical Engineering](https://jobright.ai/jobs/info/69ed419058811370cb14160d?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28068](https://jobright.ai/jobs/info/69d0585acdb525785fba98d8?utm_campaign=1048&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Apr 25 |
 | **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/69d72c28cfdc6132f946f93b?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 25 |
-| **[Cadence](https://www.cadence.com)** | **[AI Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5dcffe63cea7a8b6659dd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Pathward](https://www.pathward.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer and Fall Electrical Compliance Co-op (R14780)](https://jobright.ai/jobs/info/69d02f7c366bb95ba551c3eb?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 25 |
-| **[Figure](https://www.figure.ai)** | **[Electrical Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed384b7820c036924fc64d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| ↳ | **[Electrical Interconnect Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed37eb16b2612c2a1240ed?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69d01576cfdc6132f943835a?utm_campaign=1048&utm_source=git)** | Mason, OH | On Site | Apr 25 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Graduate Internship Program Engineering Services - Weapons Project Delivery (ES-WPD)](https://jobright.ai/jobs/info/69b2dedeae2a534885ea1b76?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
