@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Versaunt](https://www.versaunt.com)** | **[Applied AI Engineer (Intern)](https://jobright.ai/jobs/info/69ed7ab9dc35f7132c4b87c7?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 25 |
+| **[Chromalox](http://www.chromalox.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69ed83f44b0fa35a707847d6?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
+| **[AMETEK](http://www.ametek.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83db4b0fa35a707847b0?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
+| ↳ | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83d94b0fa35a7078479f?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
 | **[Twilio](https://www.twilio.com/)** | **[Developer Advocacy Intern](https://jobright.ai/jobs/info/69c2a43cec22f8310ab08382?utm_campaign=1048&utm_source=git)** | Remote - US | Remote | Apr 25 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (Austin/San Antonio Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed683258811370cb1419e1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69ceba4d366bb95ba550e989?utm_campaign=1048&utm_source=git)** | Concord, MA | Remote | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Bridge Intern](https://jobright.ai/jobs/info/68d1aa81a54edb3bf3e14a56?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
 | **[Whisker](https://www.litter-robot.com/)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/69d0904acdb525785fbab88c?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 | **[CoolIT Systems](http://www.coolitsystems.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69967d3ce0bddb6acac4f7b0?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 25 |
-| **[Amazon](https://amazon.com)** | **[Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://jobright.ai/jobs/info/6960c72d7ebc25398eb6a200?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Apr 25 |
-| **[Etched](https://www.etched.com)** | **[RTL Intern](https://jobright.ai/jobs/info/69b43fb6569738374138e27d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
