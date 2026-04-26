@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Versaunt](https://www.versaunt.com)** | **[Applied AI Engineer (Intern)](https://jobright.ai/jobs/info/69ed7ab9dc35f7132c4b87c7?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 25 |
+| **[Twilio](https://www.twilio.com/)** | **[Developer Advocacy Intern](https://jobright.ai/jobs/info/69c2a43cec22f8310ab08382?utm_campaign=1048&utm_source=git)** | Remote - US | Remote | Apr 25 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (Austin/San Antonio Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed683258811370cb1419e1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69ceba4d366bb95ba550e989?utm_campaign=1048&utm_source=git)** | Concord, MA | Remote | Apr 25 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/69ed680b4b0fa35a707845c6?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Apr 25 |
@@ -66,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (North Texas) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed67e2dc35f7132c4b85f1?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 25 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69e65f663cfd986aa6f85414?utm_campaign=1048&utm_source=git)** | Dedham, MA | Hybrid | Apr 25 |
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed5ac916b2612c2a124347?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Apr 25 |
-| ↳ | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed54a358811370cb141829?utm_campaign=1048&utm_source=git)** | Bedford, Massachusetts, United States of America | Hybrid | Apr 25 |
+| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Safety Technician Intern](https://jobright.ai/jobs/info/69ed74da4b0fa35a7078467d?utm_campaign=1048&utm_source=git)** | Yonges Island, SC | On Site | Apr 25 |
+| **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed54a358811370cb141829?utm_campaign=1048&utm_source=git)** | Bedford, Massachusetts, United States of America | Hybrid | Apr 25 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Supplier Documentation & Validation Intern](https://jobright.ai/jobs/info/69ed46894b0fa35a707842ba?utm_campaign=1048&utm_source=git)** | High Ridge, MO | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Mechanical Designer](https://jobright.ai/jobs/info/69ed40b10a6e09555304f943?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69ed34b1dc35f7132c4b830c?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 25 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Bridge Intern](https://jobright.ai/jobs/info/68d1aa81a54edb3bf3e14a56?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
 | **[Whisker](https://www.litter-robot.com/)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/69d0904acdb525785fbab88c?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
 | **[CoolIT Systems](http://www.coolitsystems.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69967d3ce0bddb6acac4f7b0?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 25 |
+| **[Amazon](https://amazon.com)** | **[Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://jobright.ai/jobs/info/6960c72d7ebc25398eb6a200?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[RTL Intern](https://jobright.ai/jobs/info/69b43fb6569738374138e27d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Murphy USA](https://www.murphyusa.com/)** | **[IT Security Operations Intern](https://jobright.ai/jobs/info/69ecdb510a6e09555304ef90?utm_campaign=1048&utm_source=git)** | 200 E Peach St | On Site | Apr 25 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/697b9b920b88cc7d642258cd?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 25 |
-| **[Roblox](https://corp.roblox.com)** | **[[2026] Applied Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed78946e5b153e5a60908?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 25 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Marine Science & Education Intern (In-Person)](https://jobright.ai/jobs/info/69ecda7d7820c036924fbd5c?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
