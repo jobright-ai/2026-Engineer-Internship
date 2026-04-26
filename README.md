@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (Austin/San Antonio Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed683258811370cb1419e1?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 25 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69ceba4d366bb95ba550e989?utm_campaign=1048&utm_source=git)** | Concord, MA | Remote | Apr 25 |
+| **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/69ed680b4b0fa35a707845c6?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | Apr 25 |
+| **[Revvity](https://www.revvity.com/)** | **[Intern – Cell Analysis](https://jobright.ai/jobs/info/69ed68074b0fa35a707845af?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69d5e0e3891d7b11cfd06782?utm_campaign=1048&utm_source=git)** | Dallas, TX | Remote | Apr 25 |
+| **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[QA Automation Intern](https://jobright.ai/jobs/info/69b4b6bd569738374139901a?utm_campaign=1048&utm_source=git)** | Troy, MI | On Site | Apr 25 |
+| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Heavy Civil Engineering Internship (North Texas) - Austin Bridge & Road](https://jobright.ai/jobs/info/69ed67e2dc35f7132c4b85f1?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Apr 25 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69e65f663cfd986aa6f85414?utm_campaign=1048&utm_source=git)** | Dedham, MA | Hybrid | Apr 25 |
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed5ac916b2612c2a124347?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Apr 25 |
 | ↳ | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed54a358811370cb141829?utm_campaign=1048&utm_source=git)** | Bedford, Massachusetts, United States of America | Hybrid | Apr 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/697b9b920b88cc7d642258cd?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Apr 25 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Applied Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed78946e5b153e5a60908?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 25 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Marine Science & Education Intern (In-Person)](https://jobright.ai/jobs/info/69ecda7d7820c036924fbd5c?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | Apr 25 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[2026 BIM Modeler Design Internship](https://jobright.ai/jobs/info/69d0639254f00230c6d11b6a?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Health and Safety Intern](https://jobright.ai/jobs/info/69964480e0bddb6acac4ab51?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Bowman Consulting](https://bowman.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/69d00ff8891d7b11cfcd84fa?utm_campaign=1048&utm_source=git)** | San Marcos, TX | On Site | Apr 25 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Engineering](https://jobright.ai/jobs/info/69d024f9cdb525785fba7ba4?utm_campaign=1048&utm_source=git)** | Pearl City, HI | On Site | Apr 25 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, AI Engineer (LIMS Process Optimization)](https://jobright.ai/jobs/info/69d08f72891d7b11cfcdc9ce?utm_campaign=1048&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
-| **[Alcami Corporation](www.alcami.com)** | **[Manufacturing Specialist Intern](https://jobright.ai/jobs/info/69d00c5fcdb525785fba6c7c?utm_campaign=1048&utm_source=git)** | Morrisville, NC | On Site | Apr 25 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Data Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697c32200b88cc7d64233969?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
