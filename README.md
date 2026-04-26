@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Microfabrication Intern](https://jobright.ai/jobs/info/69edaba916b2612c2a124e45?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90b658811370cb141f3e?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
 | ↳ | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90a84b0fa35a70784ad0?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
 | **[Chromalox](http://www.chromalox.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69ed83f44b0fa35a707847d6?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Digital Twin of Liquid Crystal Optical Circuit Switch (OCS)](https://jobright.ai/jobs/info/69b4c4813b74eb1e2c822381?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
 | ↳ | **[Intern, Process Engineer, Plasma Etch on RIE and ICP](https://jobright.ai/jobs/info/69c8c39183ea553769febc0d?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
 | **[Zillow](http://www.zillow.com)** | **[AI Applied Scientist - PhD Intern, Next-Gen Agentic and Multi-Modal Home Exploration Experience](https://jobright.ai/jobs/info/68d32937f0d9af73038df84b?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Bridge Intern](https://jobright.ai/jobs/info/68d1aa81a54edb3bf3e14a56?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
