@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90b658811370cb141f3e?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
+| ↳ | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed90a84b0fa35a70784ad0?utm_campaign=1048&utm_source=git)** | Kent, OH | On Site | Apr 25 |
 | **[Chromalox](http://www.chromalox.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69ed83f44b0fa35a707847d6?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83db4b0fa35a707847b0?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
 | ↳ | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ed83d94b0fa35a7078479f?utm_campaign=1048&utm_source=git)** | Kent, OH, US, 44240 | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Process Engineer, Plasma Etch on RIE and ICP](https://jobright.ai/jobs/info/69c8c39183ea553769febc0d?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
 | **[Zillow](http://www.zillow.com)** | **[AI Applied Scientist - PhD Intern, Next-Gen Agentic and Multi-Modal Home Exploration Experience](https://jobright.ai/jobs/info/68d32937f0d9af73038df84b?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Bridge Intern](https://jobright.ai/jobs/info/68d1aa81a54edb3bf3e14a56?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Hardware Test Engineering Intern](https://jobright.ai/jobs/info/69d0904acdb525785fbab88c?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
-| **[CoolIT Systems](http://www.coolitsystems.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69967d3ce0bddb6acac4f7b0?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
