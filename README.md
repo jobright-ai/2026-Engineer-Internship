@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69e65f663cfd986aa6f85414?utm_campaign=1048&utm_source=git)** | Dedham, MA | Hybrid | Apr 25 |
+| **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed5ac916b2612c2a124347?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | Apr 25 |
+| ↳ | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69ed54a358811370cb141829?utm_campaign=1048&utm_source=git)** | Bedford, Massachusetts, United States of America | Hybrid | Apr 25 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Supplier Documentation & Validation Intern](https://jobright.ai/jobs/info/69ed46894b0fa35a707842ba?utm_campaign=1048&utm_source=git)** | High Ridge, MO | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Mechanical Designer](https://jobright.ai/jobs/info/69ed40b10a6e09555304f943?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69ed34b1dc35f7132c4b830c?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, AI Engineer (LIMS Process Optimization)](https://jobright.ai/jobs/info/69d08f72891d7b11cfcdc9ce?utm_campaign=1048&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
 | **[Alcami Corporation](www.alcami.com)** | **[Manufacturing Specialist Intern](https://jobright.ai/jobs/info/69d00c5fcdb525785fba6c7c?utm_campaign=1048&utm_source=git)** | Morrisville, NC | On Site | Apr 25 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697c32200b88cc7d64233969?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | Apr 25 |
-| **[Etched](https://www.etched.com)** | **[Electrical Platform Intern](https://jobright.ai/jobs/info/69b446783b74eb1e2c8171f5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6969de2e639b452fb57fd890?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | Apr 25 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c266c1423772304ec8661?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
