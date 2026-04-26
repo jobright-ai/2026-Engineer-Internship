@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Supplier Documentation & Validation Intern](https://jobright.ai/jobs/info/69ed46894b0fa35a707842ba?utm_campaign=1048&utm_source=git)** | High Ridge, MO | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Mechanical Designer](https://jobright.ai/jobs/info/69ed40b10a6e09555304f943?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69ed34b1dc35f7132c4b830c?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | Apr 25 |
 | **[BWBR](https://www.bwbr.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc56a?utm_campaign=1048&utm_source=git)** | St Paul, MN | Hybrid | Apr 25 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/69d72c28cfdc6132f946f93b?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | Apr 25 |
 | **[Cadence](https://www.cadence.com)** | **[AI Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5dcffe63cea7a8b6659dd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Pathward](https://www.pathward.com)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 25 |
-| **[VOLTAS](www.voltas.io)** | **[Summer Internship](https://jobright.ai/jobs/info/69ed1d0e0a6e09555304f68c?utm_campaign=1048&utm_source=git)** | Cottage Grove, MN | On Site | Apr 25 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer and Fall Electrical Compliance Co-op (R14780)](https://jobright.ai/jobs/info/69d02f7c366bb95ba551c3eb?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Apr 25 |
 | **[Figure](https://www.figure.ai)** | **[Electrical Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed384b7820c036924fc64d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | ↳ | **[Electrical Interconnect Engineering Intern [Fall 2026]New](https://jobright.ai/jobs/info/69ed37eb16b2612c2a1240ed?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
@@ -77,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Klute](https://kluteinc.com)** | **[Maintenance Technician Internship](https://jobright.ai/jobs/info/69ed146458811370cb1412fa?utm_campaign=1048&utm_source=git)** | York, NE | On Site | Apr 25 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69602e66a112b402660ee859?utm_campaign=1048&utm_source=git)** | Kent, WA | On Site | Apr 25 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Student Co-op or Intern](https://jobright.ai/jobs/info/69ed12e258811370cb141297?utm_campaign=1048&utm_source=git)** | Roanoke, TX | On Site | Apr 25 |
+| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - CSTS](https://jobright.ai/jobs/info/69d0691e891d7b11cfcdb39c?utm_campaign=1048&utm_source=git)** | Bethesda, MD | On Site | Apr 25 |
+| **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op - Research and Development Engineering](https://jobright.ai/jobs/info/69b460d65697383741392263?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 25 |
 | **[AvePoint](http://www.avepoint.com)** | **[People Data Intern](https://jobright.ai/jobs/info/69d0462b0b098b7a67077ffd?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | Apr 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[ELECTRICAL ENG. CO-OP - FALL 2026 (VALDOSTA MILL)](https://jobright.ai/jobs/info/691d47fe7481340785ed5e22?utm_campaign=1048&utm_source=git)** | Valdosta Area | On Site | Apr 25 |
 | ↳ | **[MECHANICAL ENG. CO-OP - FALL 2026 (VALDOSTA MILL)](https://jobright.ai/jobs/info/68e6035be8daec61499a7635?utm_campaign=1048&utm_source=git)** | Valdosta Area | On Site | Apr 25 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Platform Intern](https://jobright.ai/jobs/info/69b441de3b74eb1e2c816b48?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern- Sacramento Projects](https://jobright.ai/jobs/info/69d0213354f00230c6d0f52a?utm_campaign=1048&utm_source=git)** | Greater Sacramento | On Site | Apr 25 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69e08f4cc5691b27c176de8a?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | Apr 25 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Apr 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Network Engineer (SkillBridge Intern) - 28069](https://jobright.ai/jobs/info/69d0584054f00230c6d1144e?utm_campaign=1048&utm_source=git)** | Langley Air Force Base, VA | On Site | Apr 25 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6998d07481476f6176b139fa?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | ↳ | **[Civil Drafting Intern](https://jobright.ai/jobs/info/6959e8b6f1f8465b79f03e21?utm_campaign=1048&utm_source=git)** | Broomfield, CO | On Site | Apr 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Electrical Platform Intern](https://jobright.ai/jobs/info/69b446783b74eb1e2c8171f5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6969de2e639b452fb57fd890?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | Apr 25 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c266c1423772304ec8661?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | Apr 25 |
-| **[Graham](https://www.grahambuilds.com)** | **[Field Engineer Intern- Infrastructure](https://jobright.ai/jobs/info/6961d7a7a112b40266105f60?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927b6eef0beb0723262d6d6?utm_campaign=1048&utm_source=git)** | Asheville, NC | On Site | Apr 25 |
-| **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69d03d4d891d7b11cfcd9f22?utm_campaign=1048&utm_source=git)** | Moriarty, NM | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
