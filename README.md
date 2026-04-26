@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Network Building + Consulting](https://www.networkbuilding.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69af2d67749500645093a689?utm_campaign=1048&utm_source=git)** | Baltimore, Maryland | On Site | Apr 26 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/69eb0bce4b0fa35a70777903?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | Apr 26 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69edb78ddc35f7132c4b95a6?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Apr 25 |
 | **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Microfabrication Intern](https://jobright.ai/jobs/info/69edaba916b2612c2a124e45?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Internship – Jacobs Mayo River Bridge Community Replacement Project](https://jobright.ai/jobs/info/697aa2dd9d60e431a16c394e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 25 |
 | **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern (Summer 2026)](https://jobright.ai/jobs/info/697bc1ee0b88cc7d64228eb0?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | Apr 25 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Civil Intern](https://jobright.ai/jobs/info/6945d8eb95165407353809c8?utm_campaign=1048&utm_source=git)** | Carlsbad, CA | On Site | Apr 25 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927cd39f0beb0723262e238?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
