@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Printpack](http://www.printpack.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69eee84158811370cb144cb7?utm_campaign=1048&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 26 |
+| ↳ | **[EHS Intern](https://jobright.ai/jobs/info/69eee82316b2612c2a127d96?utm_campaign=1048&utm_source=git)** | Newport News, VA, US | On Site | Apr 26 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69eecbe116b2612c2a1275ff?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 26 |
 | **[AIA Minnesota](https://www.aia-mn.org)** | **[Senior Project Architect](https://jobright.ai/jobs/info/69eec6964b0fa35a707874ce?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 26 |
-| **[WalterFedy](https://www.walterfedy.com/)** | **[Energy Engineering Intern](https://jobright.ai/jobs/info/69eed7f2dc35f7132c4bb6aa?utm_campaign=1048&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Apr 26 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 PhD Graduate - Cyber Resilience of Military Systems](https://jobright.ai/jobs/info/69eeb13e58811370cb1443b8?utm_campaign=1048&utm_source=git)** | Laurel, MD | On Site | Apr 26 |
+| **[Northgate Vehicle Hire (Ireland) Ltd](http://www.northgatevehiclehire.ie/home)** | **[Motor Mechanic](https://jobright.ai/jobs/info/69eee1ec7820c036924ffa9e?utm_campaign=1048&utm_source=git)** | Bolton, Ontario, Canada | On Site | Apr 26 |
 | **[Precision Medical Technologies, Incorporated](http://premedtec.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69eeaaaddc35f7132c4bb321?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | Apr 26 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee914b7820c036924ff091?utm_campaign=1048&utm_source=git)** | US, Kenosha WI, US | On Site | Apr 26 |
 | ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee9136dc35f7132c4bb178?utm_campaign=1048&utm_source=git)** | US, Concord NC, US | On Site | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Manufacturing Engineering Cooperative-KPO Industrial Engineering](https://jobright.ai/jobs/info/69e9a34c0a6e09555303d05f?utm_campaign=1048&utm_source=git)** | Malden, MA | On Site | Apr 26 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1ddb654f00230c6d1d982?utm_campaign=1048&utm_source=git)** | Albany, GA | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b58b94730b739877f974?utm_campaign=1048&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Facilities Engineering & Architecture Intern](https://jobright.ai/jobs/info/69dca6a5b67cec4f9b0b24a3?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Apr 26 |
-| **[DOWL](http://dowl.com)** | **[Transportation Design Intern - Summer 2026](https://jobright.ai/jobs/info/6998c94f81476f6176b1340a?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
