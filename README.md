@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 PhD Graduate - Cyber Resilience of Military Systems](https://jobright.ai/jobs/info/69eeb13e58811370cb1443b8?utm_campaign=1048&utm_source=git)** | Laurel, MD | On Site | Apr 26 |
+| **[Precision Medical Technologies, Incorporated](http://premedtec.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69eeaaaddc35f7132c4bb321?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | Apr 26 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee914b7820c036924ff091?utm_campaign=1048&utm_source=git)** | US, Kenosha WI, US | On Site | Apr 26 |
 | ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee9136dc35f7132c4bb178?utm_campaign=1048&utm_source=git)** | US, Concord NC, US | On Site | Apr 26 |
 | ↳ | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee91204b0fa35a7078712f?utm_campaign=1048&utm_source=git)** | US: Research Triangle Park NC, US | On Site | Apr 26 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ee66737820c036924fe8a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 26 |
 | **[Arconic](https://www.arconic.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/696c6565350cf43803139549?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 26 |
 | **[Frontline](https://thefrontline.org.uk)** | **[Concrete Construction Intern](https://jobright.ai/jobs/info/69ee60127820c036924fe7f0?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Apr 26 |
-| **[Avolta Inc.](https://www.avoltacanada.com)** | **[Electronics Student Intern (co-op)](https://jobright.ai/jobs/info/69ee5ffe0a6e095553051c7b?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 26 |
 | **[Skanska](http://skanska.com)** | **[2026 Summer Internship (Heavy Civil Construction)](https://jobright.ai/jobs/info/6945090d94730b739878425a?utm_campaign=1048&utm_source=git)** | Jurupa Valley, CA | On Site | Apr 26 |
 | ↳ | **[2026 Summer Internship (Heavy Civil Construction)](https://jobright.ai/jobs/info/6945089294730b7398784210?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
 | **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Rail and Transit](https://jobright.ai/jobs/info/697bd08a1136d179eeef5639?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Graduate Intelligent Automation Analyst](https://jobright.ai/jobs/info/69c77f8fe565c26a700295af?utm_campaign=1048&utm_source=git)** | Schenectady, NY | Hybrid | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b7dfa7227b3ece66635e?utm_campaign=1048&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 26 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Network Optimization Intern](https://jobright.ai/jobs/info/69d5f4a44a12eb12c5e14d31?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
-| **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e19b6940a62c1fa93b921b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
