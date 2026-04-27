@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Aviation Civil Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ef147e7820c03692500073?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef11a07820c03692500055?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 27 |
+| ↳ | **[College Intern - Design Engineering](https://jobright.ai/jobs/info/69ef119f58811370cb14510e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | Hybrid | Apr 27 |
+| **[TRIMEDX](https://trimedx.com/)** | **[Clinical Engineering Intern](https://jobright.ai/jobs/info/69ef0e844b0fa35a707880f9?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
+| **[Precision Castparts](http://precast.com)** | **[Engineering Co-op (Summer 2026)](https://jobright.ai/jobs/info/69ef0daadc35f7132c4bbda0?utm_campaign=1048&utm_source=git)** | Gardena, CA | On Site | Apr 27 |
 | **[Thnks](https://www.thnks.com/)** | **[AI Agent Intern](https://jobright.ai/jobs/info/69eefa5f16b2612c2a127f7d?utm_campaign=1048&utm_source=git)** | Franklin, TN | Hybrid | Apr 26 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69eef27758811370cb144dad?utm_campaign=1048&utm_source=git)** | Milwaukee, Wisconsin, US | On Site | Apr 26 |
+| **[Bragg Creek Trails Association](http://www.braggcreektrails.org)** | **[Trail Operations Summer Intern](https://jobright.ai/jobs/info/69ef0f1c7820c036924fff84?utm_campaign=1048&utm_source=git)** | Bragg Creek, Alberta, Canada | On Site | Apr 26 |
 | **[Printpack](http://www.printpack.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69eee84158811370cb144cb7?utm_campaign=1048&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 26 |
 | ↳ | **[EHS Intern](https://jobright.ai/jobs/info/69eee82316b2612c2a127d96?utm_campaign=1048&utm_source=git)** | Newport News, VA, US | On Site | Apr 26 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69eecbe116b2612c2a1275ff?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/68254fc4a9a8b87e52895b8f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/6945b2a863141d188455408f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Apr 26 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Site Deployment Intern (Fall 2026, 12months)](https://jobright.ai/jobs/info/69b46bf206c1ba00c545d778?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 26 |
-| **[Michael Foods](http://michaelfoods.com)** | **[Intern - Safety](https://jobright.ai/jobs/info/690a8ef64a1b456627b093aa?utm_campaign=1048&utm_source=git)** | Wakefield, NE | On Site | Apr 26 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Threat Detection and Incident Response Intern (Summer 2026)](https://jobright.ai/jobs/info/697d5cb5137a051025667c8a?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 26 |
-| **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1a99c54f00230c6d1b456?utm_campaign=1048&utm_source=git)** | Columbus, GA | On Site | Apr 26 |
-| **[CarolinaPower](http://www.carolinapower.com)** | **[Intern](https://jobright.ai/jobs/info/69d10a76366bb95ba552463d?utm_campaign=1048&utm_source=git)** | Charleston, SC | On Site | Apr 26 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Systems Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69b47d4d06c1ba00c545f4f5?utm_campaign=1048&utm_source=git)** | Warrendale, PA | Hybrid | Apr 26 |
-| **[Pursuit Aerospace](https://pursuitaero.com)** | **[Manufacturing Engineering Cooperative-KPO Industrial Engineering](https://jobright.ai/jobs/info/69e9a34c0a6e09555303d05f?utm_campaign=1048&utm_source=git)** | Malden, MA | On Site | Apr 26 |
-| **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1ddb654f00230c6d1d982?utm_campaign=1048&utm_source=git)** | Albany, GA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
