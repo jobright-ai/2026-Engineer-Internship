@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thnks](https://www.thnks.com/)** | **[AI Agent Intern](https://jobright.ai/jobs/info/69eefa5f16b2612c2a127f7d?utm_campaign=1048&utm_source=git)** | Franklin, TN | Hybrid | Apr 26 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69eef27758811370cb144dad?utm_campaign=1048&utm_source=git)** | Milwaukee, Wisconsin, US | On Site | Apr 26 |
 | **[Printpack](http://www.printpack.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69eee84158811370cb144cb7?utm_campaign=1048&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 26 |
 | ↳ | **[EHS Intern](https://jobright.ai/jobs/info/69eee82316b2612c2a127d96?utm_campaign=1048&utm_source=git)** | Newport News, VA, US | On Site | Apr 26 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Materials](https://jobright.ai/jobs/info/69ee4f9e7820c036924fe70e?utm_campaign=1048&utm_source=git)** | Richmond, VA | On Site | Apr 26 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship - Technician](https://jobright.ai/jobs/info/694613acd1953b5d11bf3405?utm_campaign=1048&utm_source=git)** | Galesburg, MI | On Site | Apr 26 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Structural Engineering Summer Intern](https://jobright.ai/jobs/info/697e02f8abff4c399a9cca86?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | Apr 26 |
-| **[Braum's](https://www.braums.com)** | **[ROUTE MAINT TECH/FT SMITH AREA](https://jobright.ai/jobs/info/69ee667cdc35f7132c4ba8b2?utm_campaign=1048&utm_source=git)** | Fayetteville, AR | On Site | Apr 26 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Power Electronics Intern (Year-Round)](https://jobright.ai/jobs/info/69b48b8f3b74eb1e2c81e962?utm_campaign=1048&utm_source=git)** | Kokomo, IN | On Site | Apr 26 |
 | **[ArborMetrics Solutions, LLC](https://arbormetrics.com)** | **[Utility Arborist Intern](https://jobright.ai/jobs/info/69ee48387820c036924fe6b0?utm_campaign=1048&utm_source=git)** | Hickory, NC | On Site | Apr 26 |
 | ↳ | **[Utility Arborist Intern](https://jobright.ai/jobs/info/69ee483716b2612c2a12650c?utm_campaign=1048&utm_source=git)** | Boone, NC | On Site | Apr 26 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/699a6fd1ce78e77b4fdf3017?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[Ralph L. Wadsworth Construction](https://www.wadsco.com/)** | **[Internship- Diesel Mechanic](https://jobright.ai/jobs/info/697c24f60b88cc7d6423290b?utm_campaign=1048&utm_source=git)** | West Jordan, UT | On Site | Apr 26 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Engineering Co-op - Post Market Engineering](https://jobright.ai/jobs/info/69b461dc06c1ba00c545b945?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | Apr 26 |
+| **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Technology Transfer Intern - KUCTC](https://jobright.ai/jobs/info/69b4c51c3b74eb1e2c822428?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | Apr 26 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Engineering Documentation & Metadata Intern](https://jobright.ai/jobs/info/69d194dacdb525785fbb34db?utm_campaign=1048&utm_source=git)** | Independence, KS | On Site | Apr 26 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Rail Engineering Internship - 2026](https://jobright.ai/jobs/info/69611c37a112b402660fa783?utm_campaign=1048&utm_source=git)** | Orange, CA | Hybrid | Apr 26 |
 | **[Arconic](https://www.arconic.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69c844161818a24cd84d40cb?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Systems Engineering Intern Summer 2026](https://jobright.ai/jobs/info/69b47d4d06c1ba00c545f4f5?utm_campaign=1048&utm_source=git)** | Warrendale, PA | Hybrid | Apr 26 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Manufacturing Engineering Cooperative-KPO Industrial Engineering](https://jobright.ai/jobs/info/69e9a34c0a6e09555303d05f?utm_campaign=1048&utm_source=git)** | Malden, MA | On Site | Apr 26 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/69d1ddb654f00230c6d1d982?utm_campaign=1048&utm_source=git)** | Albany, GA | On Site | Apr 26 |
-| **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b58b94730b739877f974?utm_campaign=1048&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
