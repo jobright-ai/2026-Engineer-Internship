@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69eecbe116b2612c2a1275ff?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 26 |
+| **[AIA Minnesota](https://www.aia-mn.org)** | **[Senior Project Architect](https://jobright.ai/jobs/info/69eec6964b0fa35a707874ce?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 26 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 PhD Graduate - Cyber Resilience of Military Systems](https://jobright.ai/jobs/info/69eeb13e58811370cb1443b8?utm_campaign=1048&utm_source=git)** | Laurel, MD | On Site | Apr 26 |
 | **[Precision Medical Technologies, Incorporated](http://premedtec.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69eeaaaddc35f7132c4bb321?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | Apr 26 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Manufacturing Science - Intern to Intern](https://jobright.ai/jobs/info/69ee914b7820c036924ff091?utm_campaign=1048&utm_source=git)** | US, Kenosha WI, US | On Site | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Facilities Engineering & Architecture Intern](https://jobright.ai/jobs/info/69dca6a5b67cec4f9b0b24a3?utm_campaign=1048&utm_source=git)** | Everett, WA | On Site | Apr 26 |
 | **[DOWL](http://dowl.com)** | **[Transportation Design Intern - Summer 2026](https://jobright.ai/jobs/info/6998c94f81476f6176b1340a?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 26 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Graduate Intelligent Automation Analyst](https://jobright.ai/jobs/info/69c77f8fe565c26a700295af?utm_campaign=1048&utm_source=git)** | Schenectady, NY | Hybrid | Apr 26 |
-| **[Xometry](https://www.xometry.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b7dfa7227b3ece66635e?utm_campaign=1048&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Network Optimization Intern](https://jobright.ai/jobs/info/69d5f4a44a12eb12c5e14d31?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
