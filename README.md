@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69eef27758811370cb144dad?utm_campaign=1048&utm_source=git)** | Milwaukee, Wisconsin, US | On Site | Apr 26 |
 | **[Printpack](http://www.printpack.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69eee84158811370cb144cb7?utm_campaign=1048&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 26 |
 | ↳ | **[EHS Intern](https://jobright.ai/jobs/info/69eee82316b2612c2a127d96?utm_campaign=1048&utm_source=git)** | Newport News, VA, US | On Site | Apr 26 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[CAD Internship - Summer 2026](https://jobright.ai/jobs/info/69eecbe116b2612c2a1275ff?utm_campaign=1048&utm_source=git)** | Maple Grove, MN | On Site | Apr 26 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Perception Autolabeling (Internship)](https://jobright.ai/jobs/info/6961c8c1e7ed9a5731ba9993?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 26 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c2b841136d179eeefe542?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Apr 26 |
 | ↳ | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c27751136d179eeefe0e4?utm_campaign=1048&utm_source=git)** | Middlesex County, MA | On Site | Apr 26 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Engineering Intern- South Boston, VA](https://jobright.ai/jobs/info/69ee3291dc35f7132c4ba3e8?utm_campaign=1048&utm_source=git)** | South Boston, VA | On Site | Apr 26 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Construction Internship - Columbus Summer 2026](https://jobright.ai/jobs/info/68d1b1158c62e63bc7fce8a0?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Apr 26 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Vehicle Perception (Internship)](https://jobright.ai/jobs/info/6962155925e18715077ef372?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d20e2954f00230c6d1fb73?utm_campaign=1048&utm_source=git)** | Miami-FTL Area | Remote | Apr 26 |
