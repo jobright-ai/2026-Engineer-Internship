@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
+| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef15004b0fa35a70788182?utm_campaign=1048&utm_source=git)** | Evanston, IL | On Site | Apr 27 |
+| **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69ef14ef16b2612c2a128183?utm_campaign=1048&utm_source=git)** | Meridian, ID | On Site | Apr 27 |
+| **[TRDI](https://trdi.org/)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ef14ee16b2612c2a128182?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Apr 27 |
+| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816b?utm_campaign=1048&utm_source=git)** | McHenry, IL | On Site | Apr 27 |
+| ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816a?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
+| ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Aviation Civil Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ef147e7820c03692500073?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef11a07820c03692500055?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 27 |
 | ↳ | **[College Intern - Design Engineering](https://jobright.ai/jobs/info/69ef119f58811370cb14510e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | Hybrid | Apr 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tektronix](http://www.tek.com)** | **[Continuous Improvement Intern (RBSL) Summer - 2026](https://jobright.ai/jobs/info/699909a6e0bddb6acac800fd?utm_campaign=1048&utm_source=git)** | Beaverton, OR | Remote | Apr 26 |
 | **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Battery Engineering Internship](https://jobright.ai/jobs/info/697a62d39d60e431a16be01f?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 26 |
 | **[RoboForce](https://www.roboforce.ai)** | **[Robotics Electrical Engineering Intern](https://jobright.ai/jobs/info/69debe13aba61f1417317821?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 26 |
-| **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Slurry and Coating Internship](https://jobright.ai/jobs/info/6979b5b0d7df290257fc26f3?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 26 |
-| **[Precision Castparts](http://precast.com)** | **[Engineering Co-Op, Fall 2026](https://jobright.ai/jobs/info/6925fe43f0beb07232620f07?utm_campaign=1048&utm_source=git)** | Niskayuna, NY | On Site | Apr 26 |
-| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/68254fc4a9a8b87e52895b8f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
-| **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/6945b2a863141d188455408f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | Apr 26 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Site Deployment Intern (Fall 2026, 12months)](https://jobright.ai/jobs/info/69b46bf206c1ba00c545d778?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
