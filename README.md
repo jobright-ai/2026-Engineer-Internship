@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netflix](https://www.netflix.com)** | **[Machine Learning Engineer Intern, (MS/PhD) 2026](https://jobright.ai/jobs/info/69af8a136b21de023e60befb?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Engineer Intern (Ads Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976d6513778585635105b38?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Land/Site Development, Internship](https://jobright.ai/jobs/info/689a294cfaa4e875e825650b?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Apr 27 |
+| **[Netflix](https://www.netflix.com)** | **[Machine Learning/AI Scientist Intern (PhD), 2026](https://jobright.ai/jobs/info/69af97fa749500645094252b?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Machine Learning Engineer Intern (TikTok- Video Recommendation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69449aa250bbaf765056a300?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c4c36a33eecf3107952a64?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 27 |
 | **[Spectral AI](https://www.spectral-ai.com/)** | **[Imaging System Intern](https://jobright.ai/jobs/info/69ef3bed4b0fa35a707883b5?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69ef230816b2612c2a128265?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 27 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816b?utm_campaign=1048&utm_source=git)** | McHenry, IL | On Site | Apr 27 |
 | ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Aviation Civil Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ef147e7820c03692500073?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
+| **[Pretzels, Inc](http://pretzels-inc.com)** | **[Future Opportunities Environmental Health & Safety Intern](https://jobright.ai/jobs/info/69ef411f58811370cb1453b5?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Apr 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef11a07820c03692500055?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 27 |
 | ↳ | **[College Intern - Design Engineering](https://jobright.ai/jobs/info/69ef119f58811370cb14510e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | Hybrid | Apr 27 |
 | **[TRIMEDX](https://trimedx.com/)** | **[Clinical Engineering Intern](https://jobright.ai/jobs/info/69ef0e844b0fa35a707880f9?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69601c4ea1bbea1d9a7aeac9?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 26 |
 | **[Red Star Yeast Company LLC](https://redstaryeast.com)** | **[Intern, Maintenance](https://jobright.ai/jobs/info/6998f99e81476f6176b16831?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5bbe2706f771673ba5183?utm_campaign=1048&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Apr 26 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69b4739406c1ba00c545e508?utm_campaign=1048&utm_source=git)** | Portland, ME | On Site | Apr 26 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Construction Intern-Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69ea7fdc7820c036924ee4aa?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d1c596cfdc6132f9445f55?utm_campaign=1048&utm_source=git)** | Atlanta Metro | Remote | Apr 26 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c0a?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
-| **[Michael Foods](http://michaelfoods.com)** | **[***DOD Skillbridge Maintenance Tech Internship Opportunity*** Transitioning Service Members](https://jobright.ai/jobs/info/68b7a0981ade4306aa64cb79?utm_campaign=1048&utm_source=git)** | Norwalk, IA | On Site | Apr 26 |
-| **[Amazon Science](https://www.amazon.science)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/69ee08814b0fa35a70785d29?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
