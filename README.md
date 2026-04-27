@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALKEGEN](https://alkegen.com/)** | **[Quality Intern-2](https://jobright.ai/jobs/info/69ef674ce624fe645d530d05?utm_campaign=1048&utm_source=git)** | Marshalltown, IA, US | On Site | Apr 27 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Systems Engineering](https://jobright.ai/jobs/info/69ef67364b0fa35a70788fa3?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | Apr 27 |
+| **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/6998e5b2e0bddb6acac7cf82?utm_campaign=1048&utm_source=git)** | Canton, MA | Hybrid | Apr 27 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef65950a6e095553054502?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Apr 27 |
+| ↳ | **[College Intern - Design Engineering](https://jobright.ai/jobs/info/69ef658e16b2612c2a128ffc?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 27 |
+| **[P2S](http://p2seng.com)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/69d37e97891d7b11cfcf15c7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
+| **[Tarkett Sports](https://tarkettsports.com/)** | **[R&D Intern](https://jobright.ai/jobs/info/69ef5e7d16b2612c2a128f03?utm_campaign=1048&utm_source=git)** | United States, Middlefield (OH), US | On Site | Apr 27 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/69d2e65b0b098b7a6708b12e?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 27 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Technical Modeler Intern - Structural](https://jobright.ai/jobs/info/69ef59ae0a6e09555305443f?utm_campaign=1048&utm_source=git)** | Tippecanoe County, IN | On Site | Apr 27 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Power Electronics Development Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69ef59a00a6e095553054404?utm_campaign=1048&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
@@ -78,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816b?utm_campaign=1048&utm_source=git)** | McHenry, IL | On Site | Apr 27 |
 | ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816a?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
 | ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Aviation Civil Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ef147e7820c03692500073?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[Pretzels, Inc](http://pretzels-inc.com)** | **[Future Opportunities Environmental Health & Safety Intern](https://jobright.ai/jobs/info/69ef411f58811370cb1453b5?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | Apr 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef11a07820c03692500055?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 27 |
 | ↳ | **[College Intern - Design Engineering](https://jobright.ai/jobs/info/69ef119f58811370cb14510e?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | Hybrid | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d5bf4d366bb95ba55472ec?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Apr 26 |
 | **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5e0b6cfdc6132f9466c57?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | Apr 26 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Asset Management (EAM) Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69b5445206c1ba00c5470191?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 26 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c28d71136d179eeefe262?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | Apr 26 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[MEP Summer Internship - AMA Group](https://jobright.ai/jobs/info/6945241063141d188454b21b?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Apr 26 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69b77d3c3b74eb1e2c851125?utm_campaign=1048&utm_source=git)** | Greater Boston | Remote | Apr 26 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Atlanta Safety Intern 25-26](https://jobright.ai/jobs/info/69eaa19e4b0fa35a7077588a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 26 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69bbea4a4828227293fcf0fb?utm_campaign=1048&utm_source=git)** | DC-Baltimore Area | Remote | Apr 26 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[MEP Summer Internship - AMA Group](https://jobright.ai/jobs/info/6945124663141d188454967e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
