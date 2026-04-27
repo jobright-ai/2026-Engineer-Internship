@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/69ef76eafbe0994a40eb6508?utm_campaign=1048&utm_source=git)** | Piping Technology & Products Inc. | On Site | Apr 27 |
+| **[JPS Composite Materials](https://jpscm.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/69ef76c5fbe0994a40eb64ab?utm_campaign=1048&utm_source=git)** | Camden, DE, 19934, United States | On Site | Apr 27 |
+| **[AECOM](http://www.aecom.com/)** | **[Survey Technician Intern](https://jobright.ai/jobs/info/69ef756016b2612c2a1299a5?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | Apr 27 |
+| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Data Analytics (Biosimilars) Bridgewater, NJ](https://jobright.ai/jobs/info/69ef74fbfbe0994a40eb640d?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ, United States | On Site | Apr 27 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Motor Control Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6961a54da112b40266103859?utm_campaign=1048&utm_source=git)** | San Carlos, CA | On Site | Apr 27 |
+| **[Typeface](https://www.typeface.ai)** | **[ML Engineer Intern](https://jobright.ai/jobs/info/69619e12e7ed9a5731ba7861?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 27 |
+| **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69ef733d16b2612c2a1298db?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 27 |
+| **[AECOM](http://www.aecom.com/)** | **[Survey Technician Intern](https://jobright.ai/jobs/info/69ef72f158811370cb14645e?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | Apr 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69460e3b63141d188455bcfc?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | On Site | Apr 27 |
+| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d474aecfdc6132f945aedf?utm_campaign=1048&utm_source=git)** | LA Metro Area | Remote | Apr 27 |
+| **[Freight Flex](http://www.freightflex.com)** | **[AI Development Intern](https://jobright.ai/jobs/info/69ef6ade16b2612c2a129130?utm_campaign=1048&utm_source=git)** | Denton, TX | On Site | Apr 27 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Quality Intern-2](https://jobright.ai/jobs/info/69ef674ce624fe645d530d05?utm_campaign=1048&utm_source=git)** | Marshalltown, IA, US | On Site | Apr 27 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Systems Engineering](https://jobright.ai/jobs/info/69ef67364b0fa35a70788fa3?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | Apr 27 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/6998e5b2e0bddb6acac7cf82?utm_campaign=1048&utm_source=git)** | Canton, MA | Hybrid | Apr 27 |
@@ -112,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69ee794e16b2612c2a126fc0?utm_campaign=1048&utm_source=git)** | Daphne, AL | On Site | Apr 26 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2a43d753c101b2155e997?utm_campaign=1048&utm_source=git)** | Rio Rancho, New Mexico, United States | On Site | Apr 26 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Intern](https://jobright.ai/jobs/info/69ee73250a6e09555305225e?utm_campaign=1048&utm_source=git)** | Mobile, AL | On Site | Apr 26 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69cec07c891d7b11cfccc292?utm_campaign=1048&utm_source=git)** | Concord, MA | Remote | Apr 26 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Laser Communication](https://jobright.ai/jobs/info/69cd986fcfdc6132f941d8e3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Systems Test Engineer (SkillBridge Intern) - 26005](https://jobright.ai/jobs/info/69ee6b9e4b0fa35a70786d18?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 26 |
 | **[SWBC](https://www.swbc.com)** | **[AI Intern](https://jobright.ai/jobs/info/69d5c7a2366bb95ba5548978?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arconic](https://www.arconic.com)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/69c844161818a24cd84d40cb?utm_campaign=1048&utm_source=git)** | Davenport, IA | On Site | Apr 26 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, DSP Engineer](https://jobright.ai/jobs/info/69b47135569738374139484c?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 26 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Perception Autolabeling (Internship)](https://jobright.ai/jobs/info/6961c8c1e7ed9a5731ba9993?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 26 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c2b841136d179eeefe542?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Apr 26 |
-| ↳ | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c27751136d179eeefe0e4?utm_campaign=1048&utm_source=git)** | Middlesex County, MA | On Site | Apr 26 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Construction Internship - Columbus Summer 2026](https://jobright.ai/jobs/info/68d1b1158c62e63bc7fce8a0?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | Apr 26 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[Machine Learning Engineer, Vehicle Perception (Internship)](https://jobright.ai/jobs/info/6962155925e18715077ef372?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d20e2954f00230c6d1fb73?utm_campaign=1048&utm_source=git)** | Miami-FTL Area | Remote | Apr 26 |
-| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Concrete Division Intern - Engineer](https://jobright.ai/jobs/info/699aae61e0bddb6acac9cf6a?utm_campaign=1048&utm_source=git)** | California, United States | On Site | Apr 26 |
-| **[Holland & Hart LLP](http://www.hollandhart.com)** | **[EE Patent Engineer/Internship: Colorado, Utah, or Idaho](https://jobright.ai/jobs/info/69499d1f7d506e3808f4c613?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | Apr 26 |
-| **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d5bf4d366bb95ba55472ec?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Apr 26 |
-| **[Circle](https://www.circle.com)** | **[Intern, Application Security](https://jobright.ai/jobs/info/69d5e0b6cfdc6132f9466c57?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | Apr 26 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Asset Management (EAM) Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69b5445206c1ba00c5470191?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
