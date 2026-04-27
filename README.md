@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c4c36a33eecf3107952a64?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 27 |
+| **[Spectral AI](https://www.spectral-ai.com/)** | **[Imaging System Intern](https://jobright.ai/jobs/info/69ef3bed4b0fa35a707883b5?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69ef230816b2612c2a128265?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 27 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Summer Internship - Materials & Process Engineering](https://jobright.ai/jobs/info/69b0f7f9dfaeda6ff59bd52f?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 27 |
+| **[GenPark](https://genpark.ai)** | **[Data science developer intern](https://jobright.ai/jobs/info/69ef3e980a6e095553053a1d?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Apr 27 |
 | **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef15004b0fa35a70788182?utm_campaign=1048&utm_source=git)** | Evanston, IL | On Site | Apr 27 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69ef14ef16b2612c2a128183?utm_campaign=1048&utm_source=git)** | Meridian, ID | On Site | Apr 27 |
 | **[TRDI](https://trdi.org/)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ef14ee16b2612c2a128182?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Apr 27 |
-| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816b?utm_campaign=1048&utm_source=git)** | McHenry, IL | On Site | Apr 27 |
-| ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816a?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
+| **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816a?utm_campaign=1048&utm_source=git)** | Waukegan, IL | On Site | Apr 27 |
+| ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14ee4b0fa35a7078816b?utm_campaign=1048&utm_source=git)** | McHenry, IL | On Site | Apr 27 |
 | ↳ | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef14897820c03692500082?utm_campaign=1048&utm_source=git)** | Kenosha, WI | On Site | Apr 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Aviation Civil Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ef147e7820c03692500073?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Flight Services](https://jobright.ai/jobs/info/69ef11a07820c03692500055?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/67fae278cd7306d3a7c79c0a?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
 | **[Michael Foods](http://michaelfoods.com)** | **[***DOD Skillbridge Maintenance Tech Internship Opportunity*** Transitioning Service Members](https://jobright.ai/jobs/info/68b7a0981ade4306aa64cb79?utm_campaign=1048&utm_source=git)** | Norwalk, IA | On Site | Apr 26 |
 | **[Amazon Science](https://www.amazon.science)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/69ee08814b0fa35a70785d29?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | Apr 26 |
-| **[Jimmy's Gourmet Bakery](http://jimmyscookies.com/)** | **[Food Scientist Intern](https://jobright.ai/jobs/info/69d9403af748bc5d08a4a1d8?utm_campaign=1048&utm_source=git)** | Clifton, NJ | On Site | Apr 26 |
-| **[Neuralink](https://www.neuralink.com)** | **[Electrical Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/684c8c9747c3d20069255649?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
-| **[Tektronix](http://www.tek.com)** | **[Continuous Improvement Intern (RBSL) Summer - 2026](https://jobright.ai/jobs/info/699909a6e0bddb6acac800fd?utm_campaign=1048&utm_source=git)** | Beaverton, OR | Remote | Apr 26 |
-| **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Battery Engineering Internship](https://jobright.ai/jobs/info/697a62d39d60e431a16be01f?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
