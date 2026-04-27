@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/69ef230816b2612c2a128265?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 27 |
 | **[Six Flags](https://www.sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/69ef15004b0fa35a70788182?utm_campaign=1048&utm_source=git)** | Evanston, IL | On Site | Apr 27 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69ef14ef16b2612c2a128183?utm_campaign=1048&utm_source=git)** | Meridian, ID | On Site | Apr 27 |
 | **[TRDI](https://trdi.org/)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69ef14ee16b2612c2a128182?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Electrical Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/684c8c9747c3d20069255649?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Apr 26 |
 | **[Tektronix](http://www.tek.com)** | **[Continuous Improvement Intern (RBSL) Summer - 2026](https://jobright.ai/jobs/info/699909a6e0bddb6acac800fd?utm_campaign=1048&utm_source=git)** | Beaverton, OR | Remote | Apr 26 |
 | **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Battery Engineering Internship](https://jobright.ai/jobs/info/697a62d39d60e431a16be01f?utm_campaign=1048&utm_source=git)** | Alameda, CA | On Site | Apr 26 |
-| **[RoboForce](https://www.roboforce.ai)** | **[Robotics Electrical Engineering Intern](https://jobright.ai/jobs/info/69debe13aba61f1417317821?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
