@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Pipe](http://www.uspipe.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/69f04611ecbc8c2f731ff44a?utm_campaign=1048&utm_source=git)** | UNION CITY, CA (SFODIP) | On Site | Apr 27 |
-| **[Marubeni America Corporation](http://www.marubeniamerica.com)** | **[SkillBridge Driver Operator Intern](https://jobright.ai/jobs/info/69f04609ecbc8c2f731ff420?utm_campaign=1048&utm_source=git)** | 1690 N 167th St W, Goddard, KS 67052, USA | On Site | Apr 27 |
+| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering Intern (Traffic) - Summer 2026](https://jobright.ai/jobs/info/69f052d92b095843b031243e?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 27 |
+| **[Kerr Corporation](https://www.kerrdental.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69f052d12b095843b0312425?utm_campaign=1048&utm_source=git)** | Pomona, CA | On Site | Apr 27 |
+| **[SonoThera](https://sonothera.com)** | **[Nucleic Acid Analytics Intern](https://jobright.ai/jobs/info/69f052c6825a315d7ca31d8f?utm_campaign=1048&utm_source=git)** | South San Francisco | On Site | Apr 27 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round - Explosive Technology Maturation & Advanced Programs, Onsite](https://jobright.ai/jobs/info/69f05206825a315d7ca31ce3?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Apr 27 |
+| **[MacroSource LLC](https://www.macrosource.com)** | **[SkillBridge Driver Operator Intern](https://jobright.ai/jobs/info/69f051f3825a315d7ca31c88?utm_campaign=1048&utm_source=git)** | Goddard, KS | On Site | Apr 27 |
+| **[Jacobs](http://www.jacobs.com)** | **[Civil Engineering Intern (Traffic) - Summer 2026](https://jobright.ai/jobs/info/69f051d82b095843b0312376?utm_campaign=1048&utm_source=git)** | Pompano Beach, FL | On Site | Apr 27 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[National Security Engineering Division (NSED) Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69f044c9a4aa3545d8a5dbce?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | Apr 27 |
 | **[HEICO](http://www.heico.com)** | **[Engineering Assistant Intern](https://jobright.ai/jobs/info/69f044c9a4aa3545d8a5dbcf?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Apr 27 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69f04423ecbc8c2f731ff2f6?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 27 |
@@ -71,11 +75,13 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Environmental Test Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69f036c4ecbc8c2f731fef5e?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Collections Nursery Intern](https://jobright.ai/jobs/info/69f0362bb27fee43e8cd2b51?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | ↳ | **[Herb Garden Intern](https://jobright.ai/jobs/info/69f036298feca91f1491a3d3?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[The Marvin Group](http://www.marvingroup.com)** | **[INTERN (MANUFACTURING)](https://jobright.ai/jobs/info/69f05216ecbc8c2f731ff592?utm_campaign=1048&utm_source=git)** | Inglewood, CA | On Site | Apr 27 |
 | **[UST](https://www.ust.com)** | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/69f02be8ecbc8c2f731fed73?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/69f02bdeb27fee43e8cd2a1b?utm_campaign=1048&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
 | **[Ideal Tridon Group](http://www.idealtridongroup.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69f02bc7b27fee43e8cd29ba?utm_campaign=1048&utm_source=git)** | Smyrna, TN | On Site | Apr 27 |
 | **[Actian](http://www.actian.com)** | **[Executive Intelligence & AI Strategy Intern](https://jobright.ai/jobs/info/69e2a3fe3ce36005badbef60?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Applications Engineer Intern](https://jobright.ai/jobs/info/69f02b948feca91f1491a2b4?utm_campaign=1048&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
+| **[Karh](http://karh.energy)** | **[Structural Mechanical Design Engineer (unpaid internship)](https://jobright.ai/jobs/info/69f048368feca91f1491a780?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 27 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[RF Filter Engineer Intern](https://jobright.ai/jobs/info/69f02a47825a315d7ca315ed?utm_campaign=1048&utm_source=git)** | Goleta, CA, US, 104175 | On Site | Apr 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69f02978825a315d7ca31286?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 27 |
 | ↳ | **[Quality Intern](https://jobright.ai/jobs/info/69f0289decbc8c2f731fe90c?utm_campaign=1048&utm_source=git)** | Jeffersonville, IN | On Site | Apr 27 |
@@ -108,9 +114,11 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[AI/Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69f01e248feca91f14919ac7?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | Apr 27 |
 | **[Canopy Technologies](https://www.canopy-ad.com)** | **[Summer Engineer Internship](https://jobright.ai/jobs/info/69f01e1becbc8c2f731fe5a7?utm_campaign=1048&utm_source=git)** | Ontario, California | On Site | Apr 27 |
 | **[EY](http://www.ey.com)** | **[Independence Intern](https://jobright.ai/jobs/info/69f01dfaecbc8c2f731fe580?utm_campaign=1048&utm_source=git)** | Hoboken, NJ | Hybrid | Apr 27 |
+| **[Oldham County Schools](https://www.oldham.kyschools.us)** | **[Facilities Systems Integrator](https://jobright.ai/jobs/info/69f051f6825a315d7ca31c97?utm_campaign=1048&utm_source=git)** | Crestwood, KY | On Site | Apr 27 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Health and Safety Intern - Renton, WA](https://jobright.ai/jobs/info/69f01a0eecbc8c2f731fe532?utm_campaign=1048&utm_source=git)** | Renton, WA | On Site | Apr 27 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Engineering, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f03737a4aa3545d8a5d966?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Fleet Mechanic Internship](https://jobright.ai/jobs/info/69e9ef703aa0c479643abff6?utm_campaign=1048&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 27 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - (Ophthalmology)](https://jobright.ai/jobs/info/69f051e9825a315d7ca31c64?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Webber - Field Engineer Intern I - Heavy Civil](https://jobright.ai/jobs/info/69f01357ecbc8c2f731fe474?utm_campaign=1048&utm_source=git)** | Fayetteville, NC | On Site | Apr 27 |
 | ↳ | **[Webber - Field Engineer Intern I - Heavy Civil](https://jobright.ai/jobs/info/69f0133ea4aa3545d8a5cf9f?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Field Engineer Intern I - Infrastructure](https://jobright.ai/jobs/info/69f0133ea4aa3545d8a5cf9e?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | Apr 27 |
@@ -123,38 +131,30 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f00d49fbe0994a40eba266?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036b42b095843b0311d77?utm_campaign=1048&utm_source=git)** | Rochester, NY | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d89c?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03721a4aa3545d8a5d8d2?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d899?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d8a0?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef08?utm_campaign=1048&utm_source=git)** | Richmond, VA | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef01?utm_campaign=1048&utm_source=git)** | Sacramento, CA | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03721a4aa3545d8a5d8d2?utm_campaign=1048&utm_source=git)** | Hartford, CT | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b27?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef08?utm_campaign=1048&utm_source=git)** | Richmond, VA | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d8a0?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef01?utm_campaign=1048&utm_source=git)** | Sacramento, CA | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d7?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef07?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b25?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b24?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d7?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b26?utm_campaign=1048&utm_source=git)** | Toledo, OH | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d6?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036228feca91f1491a3a6?utm_campaign=1048&utm_source=git)** | Greenville, SC | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef04?utm_campaign=1048&utm_source=git)** | Akron, OH | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036b42b095843b0311d7a?utm_campaign=1048&utm_source=git)** | Orlando, FL | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d5?utm_campaign=1048&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b26?utm_campaign=1048&utm_source=git)** | Toledo, OH | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036228feca91f1491a3a6?utm_campaign=1048&utm_source=git)** | Greenville, SC | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d89b?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d898?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036beecbc8c2f731fef38?utm_campaign=1048&utm_source=git)** | Cleveland, OH | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d8a2?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b2a?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036228feca91f1491a3a9?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03625b27fee43e8cd2b2a?utm_campaign=1048&utm_source=git)** | Memphis, TN | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03717a4aa3545d8a5d8a2?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 27 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036228feca91f1491a3a9?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f0363d825a315d7ca3180d?utm_campaign=1048&utm_source=git)** | Providence, RI | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef00?utm_campaign=1048&utm_source=git)** | Rogers, AR | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef03?utm_campaign=1048&utm_source=git)** | Raleigh, NC | Hybrid | Apr 27 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036b42b095843b0311d78?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036b42b095843b0311d7d?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036afecbc8c2f731fef05?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f03632825a315d7ca317d8?utm_campaign=1048&utm_source=git)** | Detroit, MI | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f036b42b095843b0311d7c?utm_campaign=1048&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f00a710a6e095553058f1e?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 27 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69f00a620a6e095553058eff?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Apr 27 |
-| **[WindBorne Systems](https://windbornesystems.com)** | **[Sensors Intern](https://jobright.ai/jobs/info/69eb3a090a6e095553045ca3?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
