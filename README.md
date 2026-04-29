@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanmina](https://www.sanmina.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f1902a8d8d624381a9d491?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 28 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[DevSecOps Intern](https://jobright.ai/jobs/info/69f18fe78feca91f149214e1?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Electrical Engineering Technical Intern](https://jobright.ai/jobs/info/69f18fbf8feca91f1492149b?utm_campaign=1048&utm_source=git)** | Cypress, CA, US, 90630 | On Site | Apr 28 |
+| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Electrical Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/69f18fa8825a315d7ca38ee0?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[Project Engineer (Intern) - UIC Construction](https://jobright.ai/jobs/info/69f186d68d8d624381a9caaf?utm_campaign=1048&utm_source=git)** | Anchorage, AK | On Site | Apr 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Sustainability](https://jobright.ai/jobs/info/69cc1153cdb525785fb79529?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69f186bc825a315d7ca38579?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
@@ -90,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Edgewater Technical Associates, LLC](http://edgewatertech.net)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69f179ef8feca91f149202be?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | Apr 28 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - SharePoint PM](https://jobright.ai/jobs/info/69f179e48feca91f1492029c?utm_campaign=1048&utm_source=git)** | Albany, NY | Hybrid | Apr 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Drafting Intern](https://jobright.ai/jobs/info/69f172d3ecbc8c2f73205af7?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL | On Site | Apr 28 |
+| **[Kitchell](https://www.kitchell.com/)** | **[Construction Management Internship Summer 2026](https://jobright.ai/jobs/info/69f18fa1b27fee43e8cda20d?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
+| **[City Colleges of Chicago-Harry S Truman College](http://www.ccc.edu/colleges/truman/pages/default.aspx)** | **[STEAMbassador Intern (Chicago Youth Works)](https://jobright.ai/jobs/info/69f18fb1b27fee43e8cda284?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Intern, Equipment](https://jobright.ai/jobs/info/69f16d9f8d8d624381a9c074?utm_campaign=1048&utm_source=git)** | Clyde Companies, Inc. | On Site | Apr 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Red Team Security Engineer, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/69f16cd48d8d624381a9c05b?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Apr 28 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Civil](https://jobright.ai/jobs/info/69f16cc78d8d624381a9c036?utm_campaign=1048&utm_source=git)** | Richardson, TX | On Site | Apr 28 |
@@ -97,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[AtriCure, Inc.](http://atricure.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/69f16b28b27fee43e8cd8e8e?utm_campaign=1048&utm_source=git)** | Mason, OH | Remote | Apr 28 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Civil](https://jobright.ai/jobs/info/69f16b27ecbc8c2f73205a1c?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Apr 28 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co-Op - Design Verification Engineer](https://jobright.ai/jobs/info/69f16b27b27fee43e8cd8e73?utm_campaign=1048&utm_source=git)** | Chandler, AZ | On Site | Apr 28 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/69f1902e8d8d624381a9d4a3?utm_campaign=1048&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Apr 28 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern - Procurement and Data Management](https://jobright.ai/jobs/info/69f16649ecbc8c2f732059da?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 28 |
 | **[Aflac](http://www.aflac.com)** | **[Platform Engineer III (Salesforce Admin)](https://jobright.ai/jobs/info/69f1663f8feca91f1492002a?utm_campaign=1048&utm_source=git)** | Columbus, GA | Hybrid | Apr 28 |
 | **[Revvity](https://www.revvity.com/)** | **[Intern - Procurement & Data Management](https://jobright.ai/jobs/info/69f1663b62b48c68387955f0?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Apr 28 |
@@ -117,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[RK&K](https://www.rkk.com/)** | **[College Intern - Construction](https://jobright.ai/jobs/info/69f15cb362b48c6838795272?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Apr 28 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[IT Systems Analyst 2026-2027 School Year (7289)](https://jobright.ai/jobs/info/69f15ca862b48c683879523f?utm_campaign=1048&utm_source=git)** | Queen Creek, AZ | On Site | Apr 28 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Artificial Intelligence](https://jobright.ai/jobs/info/69f15c298feca91f1491fdbe?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | Apr 28 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f15c218feca91f1491fda5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Apr 28 |
-| ↳ | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f15c218feca91f1491fda4?utm_campaign=1048&utm_source=git)** | Utah, United States | Remote | Apr 28 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f15c218feca91f1491fda4?utm_campaign=1048&utm_source=git)** | Utah, United States | Remote | Apr 28 |
+| ↳ | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f15c218feca91f1491fda5?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Apr 28 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Student Tech- Imaging, PRN, Variable Shifts](https://jobright.ai/jobs/info/69f179f0ecbc8c2f73205bf2?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | Apr 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/69f157ae8feca91f1491fd85?utm_campaign=1048&utm_source=git)** | Harrisburg, PA | On Site | Apr 28 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f15786ecbc8c2f73205596?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Apr 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chemist Intern (Bachelor/Masters - Santa Clara, CA)](https://jobright.ai/jobs/info/69f14f6eecbc8c2f7320528c?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 | **[The New School](http://www.newschool.edu/nssr/)** | **[Temporary Cyber Security Intern](https://jobright.ai/jobs/info/69e6e326f8fa2f3ec32a3e64?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Altera](https://www.altera.com)** | **[GenAI / Machine Learning Intern – Design Automation (AI Agents)](https://jobright.ai/jobs/info/69f14f5f62b48c6838794e9a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
-| **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Hydrogeologist/Environmental Scientist Intern](https://jobright.ai/jobs/info/69f172f1ecbc8c2f73205b62?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Apr 28 |
-| ↳ | **[Analytical Chemist Intern](https://jobright.ai/jobs/info/69f1733762b48c6838795771?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Apr 28 |
-| **[Safariland](http://www.safariland.com/)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/69f16604b27fee43e8cd8cdc?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Apr 28 |
-| **[Woodard & Curran](https://www.woodardcurran.com)** | **[Environmental Field Monitoring Internship](https://jobright.ai/jobs/info/69f14902825a315d7ca3736a?utm_campaign=1048&utm_source=git)** | Butte, MT | On Site | Apr 28 |
-| **[Jacobs](http://www.jacobs.com)** | **[Mechanical Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/69f14901825a315d7ca3735d?utm_campaign=1048&utm_source=git)** | Gainesville, FL | Hybrid | Apr 28 |
-| **[Lunar Energy](https://www.lunarenergy.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f148edecbc8c2f7320525c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Physics & AI modeling Engineering](https://jobright.ai/jobs/info/69f148e0ecbc8c2f7320522d?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
