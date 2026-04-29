@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/69d5374ccdb525785fbcf1c3?utm_campaign=1048&utm_source=git)** | Bay Shore, NY | On Site | Apr 29 |
+| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Structural Engineering (Onsite)](https://jobright.ai/jobs/info/69f1ddcb8d8d624381a9e654?utm_campaign=1048&utm_source=git)** | Middletown, CT | On Site | Apr 29 |
+| **[Aqua](https://www.aquawater.com/)** | **[Gas Supply Intern](https://jobright.ai/jobs/info/69bb8d143b74eb1e2c8a0e09?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Apr 29 |
+| **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Test Engineering Intern](https://jobright.ai/jobs/info/69f1d5338feca91f149225be?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Apr 29 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Quality Control Intern - 2026](https://jobright.ai/jobs/info/69f1d5298feca91f14922574?utm_campaign=1048&utm_source=git)** | Montgomery, MN | On Site | Apr 29 |
+| **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Analytical Chemist Intern](https://jobright.ai/jobs/info/69f1d5228d8d624381a9e601?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Apr 29 |
+| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Laboratory Technician Intern](https://jobright.ai/jobs/info/69d56060706f771673ba29f8?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 29 |
+| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer](https://jobright.ai/jobs/info/68ce5583846f0b04af678d25?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | Apr 29 |
+| ↳ | **[2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern](https://jobright.ai/jobs/info/68d5c3f91f7fb2169ab1386d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Hydrogeologist/Environmental Scientist Intern](https://jobright.ai/jobs/info/69f1d3d3825a315d7ca39fb9?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | Apr 29 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[ASCE Student Symposium Event](https://jobright.ai/jobs/info/69f1d3bab27fee43e8cdb323?utm_campaign=1048&utm_source=git)** | Mechanicsburg, PA | On Site | Apr 29 |
 | ↳ | **[ASCE Student Symposium Event](https://jobright.ai/jobs/info/69f1d3b9b27fee43e8cdb321?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | Apr 29 |
@@ -72,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69f1d3d5b27fee43e8cdb392?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Apr 29 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Quality Engineering Intern - Summer](https://jobright.ai/jobs/info/69f1d3a4ecbc8c2f73208180?utm_campaign=1048&utm_source=git)** | Lewisburg, TN | On Site | Apr 29 |
 | **[Maryland Nonprofits](https://www.marylandnonprofits.org/)** | **[Canal Quarters Preservation Internship](https://jobright.ai/jobs/info/69f1d3d6b27fee43e8cdb393?utm_campaign=1048&utm_source=git)** | Williamsport, MD | On Site | Apr 29 |
-| **[11 Motorsports](https://www.linkedin.com/company/104945135)** | **[Mechanical Design Engineer Intern](https://jobright.ai/jobs/info/69f1b0e08feca91f14921eb7?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 29 |
 | **[MAHLE](https://www.mahle.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69e983067820c036924e8d8f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN | On Site | Apr 28 |
 | **[RoboForce](https://www.roboforce.ai)** | **[AI & Robotics Data Collection Engineer (Intern)](https://jobright.ai/jobs/info/69f1a79a62b48c6838797362?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 28 |
 | **[Grain & Protein Technologies](https://www.grainandprotein.com)** | **[Intern, Manufacturing Engineer](https://jobright.ai/jobs/info/69f1c913825a315d7ca39e3c?utm_campaign=1048&utm_source=git)** | Paris, IL | On Site | Apr 28 |
@@ -100,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Sustainability](https://jobright.ai/jobs/info/69cc1153cdb525785fb79529?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69f186bc825a315d7ca38579?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/693c8a68aa598a08c3ed5e2e?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | Hybrid | Apr 28 |
-| **[Commerce City](http://www.c3gov.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69f186a1825a315d7ca3852f?utm_campaign=1048&utm_source=git)** | Thornton, CO | On Site | Apr 28 |
 | **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Operational Excellence (MBA & Graduate)](https://jobright.ai/jobs/info/69f1867b62b48c6838796094?utm_campaign=1048&utm_source=git)** | Livingston, CA | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern – TikTok Recommendation(NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69f1867becbc8c2f7320645b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Leidos](https://www.leidos.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69f18672ecbc8c2f73206431?utm_campaign=1048&utm_source=git)** | Long Beach, MS | On Site | Apr 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Intern](https://jobright.ai/jobs/info/69f16637ecbc8c2f73205976?utm_campaign=1048&utm_source=git)** | Coppell, TX | On Site | Apr 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - AI & Data Science Analyst](https://jobright.ai/jobs/info/69f1662a8feca91f1491ffc0?utm_campaign=1048&utm_source=git)** | California - San Francisco, US | On Site | Apr 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Corporate SMS and IEP (Fall 2026)](https://jobright.ai/jobs/info/69f1661bb27fee43e8cd8d5a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
-| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Manufacturing Engineer (Intern)](https://jobright.ai/jobs/info/69ec177ddc35f7132c4b5684?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Apr 28 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Drainage Engineering Intern](https://jobright.ai/jobs/info/69f165e6ecbc8c2f73205843?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Hardware Asset Management Intern](https://jobright.ai/jobs/info/69f165c28d8d624381a9be2f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 28 |
-| **[Trillium Flow Technologies](https://www.trilliumflow.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69f165998d8d624381a9bdee?utm_campaign=1048&utm_source=git)** | Fresno, CA, US, 93706 | On Site | Apr 28 |
-| **[Washington State University](https://wsu.edu/)** | **[Research Intern](https://jobright.ai/jobs/info/69f16233825a315d7ca378d1?utm_campaign=1048&utm_source=git)** | Pullman, WA | On Site | Apr 28 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/69f15ede62b48c683879530b?utm_campaign=1048&utm_source=git)** | Chicago, Illinois, United States of America | On Site | Apr 28 |
-| **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/69f186cb8d8d624381a9ca85?utm_campaign=1048&utm_source=git)** | South Burlington, VT | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
