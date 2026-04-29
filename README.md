@@ -57,17 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69f1b9378d8d624381a9ddcc?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | Apr 29 |
+| **[Engineering Systems Inc. (ESi)](http://engsys.com)** | **[Engineering Intern (Winter/Spring January to May 2027)](https://jobright.ai/jobs/info/69f1b9258feca91f149220b4?utm_campaign=1048&utm_source=git)** | Ann Arbor, Ann Arbor, MI, US | On Site | Apr 29 |
 | **[11 Motorsports](https://www.linkedin.com/company/104945135)** | **[Mechanical Design Engineer Intern](https://jobright.ai/jobs/info/69f1b0e08feca91f14921eb7?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 29 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern – Hardware Engineer – Bothell, WA – Summer 2026](https://jobright.ai/jobs/info/69f1b0d9b27fee43e8cdac58?utm_campaign=1048&utm_source=git)** | Bothell, WA | On Site | Apr 29 |
 | **[RoboForce](https://www.roboforce.ai)** | **[AI & Robotics Data Collection Engineer (Intern)](https://jobright.ai/jobs/info/69f1a79a62b48c6838797362?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | Apr 28 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/69f1a3ae62b48c6838796b1b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
 | **[Level AI](https://thelevel.ai)** | **[Research Intern – Reinforcement Learning (RL) - Onsite](https://jobright.ai/jobs/info/69f19ddcecbc8c2f73206f8f?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Apr 28 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Electrical Engineering Technical Intern](https://jobright.ai/jobs/info/69f1b973825a315d7ca39b1e?utm_campaign=1048&utm_source=git)** | Cypress, CA | On Site | Apr 28 |
 | **[Sanmina](https://www.sanmina.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f1902a8d8d624381a9d491?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 28 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[DevSecOps Intern](https://jobright.ai/jobs/info/69f18fe78feca91f149214e1?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Electrical Engineering Technical Intern](https://jobright.ai/jobs/info/69f18fbf8feca91f1492149b?utm_campaign=1048&utm_source=git)** | Cypress, CA, US, 90630 | On Site | Apr 28 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Electrical Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/69f18fa8825a315d7ca38ee0?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Reliability Analytics, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f1b06e8feca91f14921d3b?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 28 |
 | ↳ | **[Predictive Maintenance and Material Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f1b095825a315d7ca39717?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 28 |
+| **[EQ Bank](http://www.eqbank.ca)** | **[Applied AI Experimentation Intern, Finance Innovation Studio - 2026 Summer](https://jobright.ai/jobs/info/69f1b9f2b27fee43e8cdb17b?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
+| **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern](https://jobright.ai/jobs/info/69af41dd749500645093c68a?utm_campaign=1048&utm_source=git)** | Gormley, Ontario, Canada | On Site | Apr 28 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[DevSecOps Intern](https://jobright.ai/jobs/info/69f1b0688feca91f14921d1f?utm_campaign=1048&utm_source=git)** | Niceville, FL | Remote | Apr 28 |
 | ↳ | **[DevSecOps Intern](https://jobright.ai/jobs/info/69f1b090825a315d7ca39703?utm_campaign=1048&utm_source=git)** | Huntsville, AL | Remote | Apr 28 |
 | **[International](https://www.international.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69f1b08a825a315d7ca396f4?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Apr 28 |
@@ -88,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69f1866062b48c6838796011?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 High School Technical Intern - Roy UT - R10229498](https://jobright.ai/jobs/info/69f1b0f8825a315d7ca39894?utm_campaign=1048&utm_source=git)** | Roy, UT | On Site | Apr 28 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69eb8eff7820c036924f42b6?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | Apr 28 |
+| ↳ | **[Intern Engineer](https://jobright.ai/jobs/info/69f1b96462b48c6838797611?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | Apr 28 |
 | **[FMI Aerostructures](https://www.fmiaerostructures.com/)** | **[NC Programming Intern - Part time](https://jobright.ai/jobs/info/69f18113b27fee43e8cd9760?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | On Site | Apr 28 |
 | **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69f17f888feca91f149209bf?utm_campaign=1048&utm_source=git)** | Torrance, CA 90505 | On Site | Apr 28 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Hardware Engineer – Bothell, WA – Summer 2026](https://jobright.ai/jobs/info/69f17f1f62b48c6838795eea?utm_campaign=1048&utm_source=git)** | Bothell, Washington, United States, US | On Site | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Atlantic University](http://www.fau.edu)** | **[OIT Network Intern](https://jobright.ai/jobs/info/69f153ed8d8d624381a9ba86?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | Apr 28 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Data Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f153eb825a315d7ca3767d?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | Apr 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Product Management](https://jobright.ai/jobs/info/69f153e3825a315d7ca3764d?utm_campaign=1048&utm_source=git)** | Waltham, MA | Hybrid | Apr 28 |
-| **[Martin/Martin, Inc](http://martinmartin.com)** | **[Building Information Modeling (BIM) Intern](https://jobright.ai/jobs/info/69f153d0b27fee43e8cd893f?utm_campaign=1048&utm_source=git)** | Lakewood, CO | On Site | Apr 28 |
-| **[South Western Communications](http://swc.net)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f1732062b48c683879572a?utm_campaign=1048&utm_source=git)** | Suwanee, GA | On Site | Apr 28 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Mechanical Engineer Intern - Undergrad (Santa Clara, CA)](https://jobright.ai/jobs/info/69f153c5825a315d7ca3758b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
-| ↳ | **[Mechnical Engineer Intern](https://jobright.ai/jobs/info/69dfc7a714bf245fc7a6db6a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
-| ↳ | **[2026 Summer Process Engineer Intern - Doctorate (Albany, NY)](https://jobright.ai/jobs/info/69ebb7e858811370cb13bfc5?utm_campaign=1048&utm_source=git)** | Albany, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
