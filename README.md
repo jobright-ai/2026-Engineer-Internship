@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering - KCI](https://jobright.ai/jobs/info/69f3030c8d8d624381aa4e59?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | Apr 30 |
+| **[Agiliti](https://www.agilitihealth.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69f30063825a315d7ca418f0?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | Apr 30 |
+| **[Bristol Bay Construction Holdings LLC](https://www.bbch-llc.com)** | **[GIS Technician - Summer Intern](https://jobright.ai/jobs/info/69ebb7e858811370cb13bfc8?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Apr 30 |
 | **[Jacobs](http://www.jacobs.com)** | **[Instruments & Controls CAD Intern](https://jobright.ai/jobs/info/69f2f74934c4af7a79ab80ff?utm_campaign=1048&utm_source=git)** | Corvallis, OR | Hybrid | Apr 29 |
 | **[Medpace](http://www.medpace.com)** | **[AI Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69f2f72534c4af7a79ab8069?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Apr 29 |
 | **[Cadence](https://www.cadence.com)** | **[Signal Integrity Validation Internship (Summer 2025)](https://jobright.ai/jobs/info/69f2f72034c4af7a79ab8048?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
@@ -104,6 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/69f2cbf334c4af7a79ab637a?utm_campaign=1048&utm_source=git)** | Oro Valley, AZ | On Site | Apr 29 |
 | **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Research Intern, AI & Visual Computing](https://jobright.ai/jobs/info/69f2ca3734c4af7a79ab62ec?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | ↳ | **[Intern, ML Algorithms](https://jobright.ai/jobs/info/69f2ca3334c4af7a79ab62e0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
+| **[Nokia](http://www.nokia.com)** | **[Test Automation Co-op/Intern](https://jobright.ai/jobs/info/69f303148feca91f149293d9?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[NW Automation Practice Co-op/Intern](https://jobright.ai/jobs/info/69f302e58d8d624381aa4e00?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/69f2f8f68feca91f14928f13?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Apr 29 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Hydrogeologist Intern](https://jobright.ai/jobs/info/69f2c4b2ab4ec4779fffbfb0?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Apr 29 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Intern, Environmental Engineer](https://jobright.ai/jobs/info/69f2c4b0ab4ec4779fffbfaa?utm_campaign=1048&utm_source=git)** | Manchester, NH | On Site | Apr 29 |
@@ -112,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Hardware Developer Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2dfcdab4ec4779fffd96f?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Electromechanical Assembly Co-op/Intern](https://jobright.ai/jobs/info/69f2e026ecbc8c2f7320f0e5?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Mechanical Co-op/Intern](https://jobright.ai/jobs/info/69f2dfaf825a315d7ca41235?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[Service Router QA Co-op/Intern](https://jobright.ai/jobs/info/69f2dfcfab4ec4779fffd98a?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Optical Test Co-op/Intern](https://jobright.ai/jobs/info/69f2e026ecbc8c2f7320f0e2?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Lab Tech Co-op/Intern](https://jobright.ai/jobs/info/69f2dfee8feca91f14928bb0?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[Service Router QA Co-op/Intern](https://jobright.ai/jobs/info/69f2dfcfab4ec4779fffd98a?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Electronics Component Qual Co-op/Intern](https://jobright.ai/jobs/info/69f2dfcdab4ec4779fffd975?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship Turbomachinery Operations](https://jobright.ai/jobs/info/696b8f7b350cf4380312e8d0?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Engineering)](https://jobright.ai/jobs/info/69f2c16f8d8d624381aa3c3e?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | Apr 29 |
@@ -140,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NW Automation Practice Co-op/Intern](https://jobright.ai/jobs/info/69f2b0768d8d624381aa234f?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Test Automation  Co-op/Intern](https://jobright.ai/jobs/info/69f2b0758d8d624381aa2347?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Mechanical Co-op/Intern](https://jobright.ai/jobs/info/69f2b06cecbc8c2f7320bf4c?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
-| ↳ | **[Service Router QA Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf40?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[Hardware Developer Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf4a?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
+| ↳ | **[Service Router QA Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf40?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[System Reliability Co-op/Intern](https://jobright.ai/jobs/info/69f2b0668feca91f149264ef?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Apr 29 |
 | ↳ | **[Lab Tech Co-op/Intern](https://jobright.ai/jobs/info/69f2b0658feca91f149264e5?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[Electromechanical Assembly Co-op/Intern](https://jobright.ai/jobs/info/69f2b0658feca91f149264e1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bragg Companies](http://www.braggcompanies.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f2af568d8d624381aa230d?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Apr 29 |
 | **[Precision Castparts](http://precast.com)** | **[Manufacturing Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/69f2af3534c4af7a79ab47d6?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 29 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Nursing, Physical Therapy)](https://jobright.ai/jobs/info/69f2aecc8feca91f14926491?utm_campaign=1048&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 29 |
-| **[Accuris](https://accuristech.com)** | **[AI/Machine Learning, Summer Intern (Hybrid)](https://jobright.ai/jobs/info/69f2aeb58feca91f14926440?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Apr 29 |
-| **[Thermo Systems](http://thermosystems.com)** | **[Control Systems Intern](https://jobright.ai/jobs/info/69f2ade68feca91f1492642f?utm_campaign=1048&utm_source=git)** | , United States | On Site | Apr 29 |
-| **[Revise Robotics (YC W25)](https://www.reviserobotics.com)** | **[Engineering Intern — Summer/Fall 2026](https://jobright.ai/jobs/info/69f2cbe634c4af7a79ab633d?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[Sceye](https://www.sceye.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f2adb234c4af7a79ab4625?utm_campaign=1048&utm_source=git)** | Moriarty, NM, US | On Site | Apr 29 |
-| **[Moon](https://moon.tech)** | **[Software Engineering Intern, Data & Machine Learning](https://jobright.ai/jobs/info/69f2adb1ecbc8c2f7320bd52?utm_campaign=1048&utm_source=git)** | Glendale, CA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
