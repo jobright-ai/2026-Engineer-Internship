@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Intern, ML Algorithms](https://jobright.ai/jobs/info/69f2bd398d8d624381aa3a5a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
+| **[d-Matrix](https://www.d-matrix.ai)** | **[Applied AI Engineering Intern](https://jobright.ai/jobs/info/69f2bd388feca91f14926c4a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 29 |
+| **[Fabick Cat](https://www.fabickcat.com/)** | **[Technician - Intern](https://jobright.ai/jobs/info/69f2bd368d8d624381aa3a1c?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Quality Assurance - Intern](https://jobright.ai/jobs/info/69f2bd298d8d624381aa3989?utm_campaign=1048&utm_source=git)** | Honey Brook, PA | On Site | Apr 29 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f2bd28ecbc8c2f7320d65e?utm_campaign=1048&utm_source=git)** | Redding-Red Bluff Area | On Site | Apr 29 |
+| **[Knife River Corporation](https://www.kniferiver.com/)** | **[QUALITY CONTROL TECH - (SEASONAL INTERN)](https://jobright.ai/jobs/info/69f2b684ecbc8c2f7320c061?utm_campaign=1048&utm_source=git)** | Grand Forks, ND | On Site | Apr 29 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Developer intern](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfb0?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | Apr 29 |
+| **[Tenaska](http://www.tenaska.com/)** | **[Intern EMS & SCADA Engineer](https://jobright.ai/jobs/info/69f2b65fab4ec4779fffa798?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Apr 29 |
+| **[Credo](http://www.credosemi.com)** | **[System Application Engineer Intern](https://jobright.ai/jobs/info/69a7664576bbe83d3afac8dc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
+| **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Energy Engineer - CDFM - FT Admin](https://jobright.ai/jobs/info/69f2b650825a315d7ca3dfed?utm_campaign=1048&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Apr 29 |
 | **[BOBST](http://www.bobst.com/inen/#.Vp3XgU90ZUM)** | **[IoT Technical Intern](https://jobright.ai/jobs/info/69f2b32d8feca91f1492662c?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Apr 29 |
 | **[Nokia](http://www.nokia.com)** | **[Hardware Developer Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2b07a825a315d7ca3dfa5?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Emergency Response Projects Internship](https://jobright.ai/jobs/info/69f2b07a825a315d7ca3dfa6?utm_campaign=1048&utm_source=git)** | 11231 Phillips Industrial, Jacksonville, FL, 32256, US | On Site | Apr 29 |
@@ -64,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NW Automation Practice Co-op/Intern](https://jobright.ai/jobs/info/69f2b0768d8d624381aa234f?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Test Automation  Co-op/Intern](https://jobright.ai/jobs/info/69f2b0758d8d624381aa2347?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Mechanical Co-op/Intern](https://jobright.ai/jobs/info/69f2b06cecbc8c2f7320bf4c?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
-| ↳ | **[Hardware Developer Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf4a?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[Service Router QA Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf40?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
+| ↳ | **[Hardware Developer Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf4a?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[System Reliability Co-op/Intern](https://jobright.ai/jobs/info/69f2b0668feca91f149264ef?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Apr 29 |
 | ↳ | **[Lab Tech Co-op/Intern](https://jobright.ai/jobs/info/69f2b0658feca91f149264e5?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[Electromechanical Assembly Co-op/Intern](https://jobright.ai/jobs/info/69f2b0658feca91f149264e1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Research Intern - AMES Research Center](https://jobright.ai/jobs/info/69f296e3ecbc8c2f7320b720?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Apr 29 |
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Intern Engineer](https://jobright.ai/jobs/info/69f29652825a315d7ca3d678?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Modeling and Simulation Intern](https://jobright.ai/jobs/info/69f295d6ecbc8c2f7320b6fe?utm_campaign=1048&utm_source=git)** | US-CA-Santa Cruz | On Site | Apr 29 |
-| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Core Development Intern](https://jobright.ai/jobs/info/69f295a78feca91f14925c05?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Apr 29 |
-| **[Palermo's Pizza](http://www.palermospizza.com/)** | **[Quality Systems & Process Support - Summer Internship!](https://jobright.ai/jobs/info/69f2959d8feca91f14925bce?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
-| **[David Evans and Associates, Inc.](http://www.deainc.com)** | **[Internship: Land Development - Spokane](https://jobright.ai/jobs/info/69f2959d8feca91f14925bd2?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Apr 29 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Applied Mathematics](https://jobright.ai/jobs/info/69f295918d8d624381aa1a0c?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 29 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69f295918d8d624381aa1a16?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Apr 29 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Intern - Applied Mathematics](https://jobright.ai/jobs/info/69f295908d8d624381aa19fc?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | Apr 29 |
-| **[First American](http://www.firstam.com)** | **[Data Engineering Intern - REMOTE](https://jobright.ai/jobs/info/69f293a8f154d768fbaa7e3a?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Remote | Apr 29 |
-| **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Thermal/Mechanical](https://jobright.ai/jobs/info/69f2931aecbc8c2f7320b59e?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | Apr 29 |
-| **[Ellsworth Adhesives](http://ellsworth.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f29315ab4ec4779fff9dc3?utm_campaign=1048&utm_source=git)** | Germantown, Wisconsin, United States | On Site | Apr 29 |
-| **[SHINE Technologies](https://www.shinefusion.com)** | **[Research & Development Intern](https://jobright.ai/jobs/info/69f2930becbc8c2f7320b540?utm_campaign=1048&utm_source=git)** | Fitchburg, WI | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
