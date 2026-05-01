@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mason Controls](https://masoncontrols.com/)** | **[Mechanical Manufacturing Design Internship](https://jobright.ai/jobs/info/69f472d081706a5bd2160699?utm_campaign=1048&utm_source=git)** | Sylmar, California | On Site | May 01 |
+| **[AEM](https://www.aemonitoring.com)** | **[AI Hydrology Model Intern](https://jobright.ai/jobs/info/69f4727581706a5bd2160606?utm_campaign=1048&utm_source=git)** | Germantown, MD | Remote | May 01 |
+| ↳ | **[AI Hydrology Model Intern](https://jobright.ai/jobs/info/69f47256db88714bcdfad6ae?utm_campaign=1048&utm_source=git)** | Germantown, MD | Remote | May 01 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/69eb0bce4b0fa35a70777903?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | May 01 |
 | **[GrayMatter Robotics](https://www.graymatter-robotics.com)** | **[2026 Fall Robotics Engineering Intern: Systems & Applications](https://jobright.ai/jobs/info/69f4634881706a5bd216041c?utm_campaign=1048&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | **[Sanmina](https://www.sanmina.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f1902a8d8d624381a9d491?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[General Sense](https://www.generalsense.com/)** | **[Summer Intern - ML, Hardware/EE, and Animal](https://jobright.ai/jobs/info/69f456b76942c746fa69771c?utm_campaign=1048&utm_source=git)** | Gainesville, FL | Hybrid | May 01 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69f456b7343eef4fb0aa09d7?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 01 |
 | **[Strohwig](http://www.strohwig.com)** | **[Maintenance Summer Intern](https://jobright.ai/jobs/info/69f4566858b23a2329daa4be?utm_campaign=1048&utm_source=git)** | Richfield, WI | On Site | May 01 |
+| **[Metalcraft of Mayville, Inc.](http://www.mtlcraft.com/)** | **[Safety Intern (Mayville)](https://jobright.ai/jobs/info/69f472950b36ff035474c907?utm_campaign=1048&utm_source=git)** | Mayville, Wisconsin | On Site | May 01 |
+| **[Society for Industrial Microbiology and Biotechnology](https://www.simbhq.org)** | **[Technologist Trainee - Microbiology](https://jobright.ai/jobs/info/69f4724d12f2811ab5a5e693?utm_campaign=1048&utm_source=git)** | Dublin, OH | On Site | May 01 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year Round - Advanced Nuclear Concepts, Hybrid](https://jobright.ai/jobs/info/69f4404d343eef4fb0aa03f6?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 30 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f4633481706a5bd21603d7?utm_campaign=1048&utm_source=git)** | San Fernando, CA | On Site | Apr 30 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69f43a886942c746fa697164?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Apr 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northgate Vehicle Hire (Ireland) Ltd](http://www.northgatevehiclehire.ie/home)** | **[Motor Mechanic](https://jobright.ai/jobs/info/69f446e6343eef4fb0aa05f0?utm_campaign=1048&utm_source=git)** | Bolton, Ontario, Canada | On Site | Apr 30 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Engineering Intern, Buffalo, NY, Summer 2026](https://jobright.ai/jobs/info/69f423c758b23a2329da996e?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Technical-Engineering) -  17256](https://jobright.ai/jobs/info/69f3e8cb343eef4fb0a9f06a?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Hybrid | Apr 30 |
-| **[IDT911](http://www.cyberscout.com)** | **[Summer Student Intern](https://jobright.ai/jobs/info/69f3e85b343eef4fb0a9ee5f?utm_campaign=1048&utm_source=git)** | Grande Prairie, AB, CA | On Site | Apr 30 |
-| **[Electroflow Technologies](https://www.eflowtech.com/)** | **[Electrode Fabrication Intern (Summer 2026)](https://jobright.ai/jobs/info/69f423bf1f90bd6ae23d3a0f?utm_campaign=1048&utm_source=git)** | San Bruno, CA | On Site | Apr 30 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[IT / AI Development Intern – On-site](https://jobright.ai/jobs/info/69f3e403461b9b613a624f3e?utm_campaign=1048&utm_source=git)** | Cedar Park, TX | On Site | Apr 30 |
-| **[Bartlett & West](http://www.bartlettwest.com)** | **[Engineer Intern (Regional Water)](https://jobright.ai/jobs/info/69f3e3e458b23a2329da8bbd?utm_campaign=1048&utm_source=git)** | US-ND-Bismarck | On Site | Apr 30 |
-| **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Construction Crew Intern](https://jobright.ai/jobs/info/69f3e3de58b23a2329da8b76?utm_campaign=1048&utm_source=git)** | McKinney, TX | On Site | Apr 30 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[IT / AI Development Intern – Remote](https://jobright.ai/jobs/info/69f3e3dac78b9e4518958a6a?utm_campaign=1048&utm_source=git)** | United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
