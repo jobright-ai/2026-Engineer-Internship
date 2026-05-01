@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NV5](http://www.nv5.com)** | **[Urban Planning Student Intern](https://jobright.ai/jobs/info/699febbece78e77b4fe5e6fb?utm_campaign=1048&utm_source=git)** | Alachua, FL | On Site | May 01 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Process Technician](https://jobright.ai/jobs/info/69a93fd479f3f4037f441cc8?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | May 01 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Spring 27](https://jobright.ai/jobs/info/69a098d781476f6176bae9c7?utm_campaign=1048&utm_source=git)** | Bentonville, AR | On Site | May 01 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Mechanical Manufacturing Design Internship](https://jobright.ai/jobs/info/69f472d081706a5bd2160699?utm_campaign=1048&utm_source=git)** | Sylmar, California | On Site | May 01 |
-| **[AEM](https://www.aemonitoring.com)** | **[AI Hydrology Model Intern](https://jobright.ai/jobs/info/69f4727581706a5bd2160606?utm_campaign=1048&utm_source=git)** | Germantown, MD | Remote | May 01 |
-| ↳ | **[AI Hydrology Model Intern](https://jobright.ai/jobs/info/69f47256db88714bcdfad6ae?utm_campaign=1048&utm_source=git)** | Germantown, MD | Remote | May 01 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/69eb0bce4b0fa35a70777903?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | May 01 |
 | **[GrayMatter Robotics](https://www.graymatter-robotics.com)** | **[2026 Fall Robotics Engineering Intern: Systems & Applications](https://jobright.ai/jobs/info/69f4634881706a5bd216041c?utm_campaign=1048&utm_source=git)** | LA Metro Area | On Site | May 01 |
 | **[Sanmina](https://www.sanmina.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f1902a8d8d624381a9d491?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 01 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f148edecbc8c2f7320525c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Apr 30 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Electrical Engineering, Emergent Talent Intern (Fall)](https://jobright.ai/jobs/info/69f456ad1f90bd6ae23d4501?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Apr 30 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Mechanical Engineering Co-op/Intern](https://jobright.ai/jobs/info/69f45a1a0b36ff035474c5b7?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 30 |
-| ↳ | **[Optical Verification Engineer Co-op/Intern](https://jobright.ai/jobs/info/69f4630181706a5bd2160312?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 30 |
+| ↳ | **[Optical Verification Engineer Co-op/Intern](https://jobright.ai/jobs/info/69f462f9a3d34b4f76f4f022?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Optical Engineer Co-op/Intern Student](https://jobright.ai/jobs/info/69f45fea12f2811ab5a5e3cf?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 30 |
 | **[Bank of Hope](http://bankofhope.com)** | **[Security Operations Engineer – Intern](https://jobright.ai/jobs/info/69f43090343eef4fb0aa0279?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | **[Leidos](https://www.leidos.com)** | **[CAD Drafter Intern](https://jobright.ai/jobs/info/69f42a501f90bd6ae23d3cba?utm_campaign=1048&utm_source=git)** | Walled Lake, MI | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKinstry](http://www.mckinstry.com)** | **[Construction Project Engineer Intern](https://jobright.ai/jobs/info/69f3eb53461b9b613a624fe0?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | **[Northgate Vehicle Hire (Ireland) Ltd](http://www.northgatevehiclehire.ie/home)** | **[Motor Mechanic](https://jobright.ai/jobs/info/69f446e6343eef4fb0aa05f0?utm_campaign=1048&utm_source=git)** | Bolton, Ontario, Canada | On Site | Apr 30 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Engineering Intern, Buffalo, NY, Summer 2026](https://jobright.ai/jobs/info/69f423c758b23a2329da996e?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Technical-Engineering) -  17256](https://jobright.ai/jobs/info/69f3e8cb343eef4fb0a9f06a?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
