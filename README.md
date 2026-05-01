@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69f43a886942c746fa697164?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Apr 30 |
+| **[Karma Automotive](https://www.karmaautomotive.com/)** | **[Diagnostics Validation Intern](https://jobright.ai/jobs/info/69f43a77c78b9e4518959b1b?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
+| ↳ | **[Battery Management Systems (BMS) Intern](https://jobright.ai/jobs/info/69f43a77c78b9e4518959b18?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
 | **[Bank of Hope](http://bankofhope.com)** | **[Security Operations Engineer – Intern](https://jobright.ai/jobs/info/69f43090343eef4fb0aa0279?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[HVAC Technician Intern](https://jobright.ai/jobs/info/69f42a5c343eef4fb0aa00e1?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | Apr 30 |
 | **[Leidos](https://www.leidos.com)** | **[CAD Drafter Intern](https://jobright.ai/jobs/info/69f42a501f90bd6ae23d3cba?utm_campaign=1048&utm_source=git)** | Walled Lake, MI | On Site | Apr 30 |
 | **[Parallel](https://www.moveparallel.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/69b1efa065de58104c7147ee?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil/Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69f423ef343eef4fb0a9fe8b?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Apr 30 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 30 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Apr 30 |
 | **[Cash Construction Company, Inc., a MasTec Company](https://www.cashconstruction.com)** | **[Construction Field Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69f40df3461b9b613a625854?utm_campaign=1048&utm_source=git)** | ABERNATHY,Texas,United States | On Site | Apr 30 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Research HS Intern](https://jobright.ai/jobs/info/69f430f2c78b9e4518959abf?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Apr 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Construction Management - Office Engineering Intern](https://jobright.ai/jobs/info/69f42a53461b9b613a625dee?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | ↳ | **[Landscape Water Efficiency Program Intern](https://jobright.ai/jobs/info/69f429e16942c746fa696e55?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | Apr 30 |
 | ↳ | **[Meter Reading Intern](https://jobright.ai/jobs/info/69f4253cc78b9e4518959773?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Louisiana Bridge Builders](www.lbbi10.com)** | **[Field Engineer - Intern](https://jobright.ai/jobs/info/69f3dcbf461b9b613a624968?utm_campaign=1048&utm_source=git)** | Lake Charles, LA | On Site | Apr 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern, Agronomy - Connell, WA](https://jobright.ai/jobs/info/69f3dcb2461b9b613a624937?utm_campaign=1048&utm_source=git)** | Connell, WA | On Site | Apr 30 |
 | ↳ | **[Retail Field Intern, Agronomy - Pasco, WA](https://jobright.ai/jobs/info/69f3dcb1461b9b613a62492a?utm_campaign=1048&utm_source=git)** | Pasco, WA | On Site | Apr 30 |
-| **[Ambi Robotics](http://www.ambirobotics.com)** | **[Robotics QA Intern](https://jobright.ai/jobs/info/69f3dc8b1f90bd6ae23d2490?utm_campaign=1048&utm_source=git)** | Berkeley, California | On Site | Apr 30 |
-| **[Voith Turbo](http://www.voith.com/drivetrain)** | **[Production Engineering Intern](https://jobright.ai/jobs/info/69f404c36942c746fa6965ae?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Apr 30 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Entry Level - Logistics & Storage Engineering - Project Engineer 1 (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/69f3f8a558b23a2329da910c?utm_campaign=1048&utm_source=git)** | Findlay, OH | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
