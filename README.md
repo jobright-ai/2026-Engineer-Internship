@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Research Intern, Generative AI & World Modeling](https://jobright.ai/jobs/info/69f4177258b23a2329da96c5?utm_campaign=1048&utm_source=git)** | Basking Ridge, NJ | On Site | Apr 30 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – IT & Data Analytics Intern (AI/ML Focus)](https://jobright.ai/jobs/info/69c1885575f7ff1cd80fae0f?utm_campaign=1048&utm_source=git)** | Irving, Texas | On Site | Apr 30 |
 | **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Apr 30 |
 | **[Cash Construction Company, Inc., a MasTec Company](https://www.cashconstruction.com)** | **[Construction Field Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69f40df3461b9b613a625854?utm_campaign=1048&utm_source=git)** | ABERNATHY,Texas,United States | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Environmental Health and Safety Intern - Rockford, IL](https://jobright.ai/jobs/info/69f3d0ea461b9b613a62405f?utm_campaign=1048&utm_source=git)** | Rockford, IL, United States | On Site | Apr 30 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Machine Learning Internship - PhD: 2027](https://jobright.ai/jobs/info/69f3d0d3343eef4fb0a9e350?utm_campaign=1048&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | **[Tim O'Brien Homes](http://timobrienhomes.com)** | **[Construction Manager Intern](https://jobright.ai/jobs/info/69f40518343eef4fb0a9f795?utm_campaign=1048&utm_source=git)** | Pewaukee, WI | On Site | Apr 30 |
-| **[Aquatera Utilities Inc.](https://www.aquatera.ca/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/69f3eb6dc78b9e4518958b89?utm_campaign=1048&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
