@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - Materials Characterization & Performance, Remote](https://jobright.ai/jobs/info/69f597b0a3d34b4f76f55a26?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Remote | May 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Summer Intern - Fire Alarm Helper](https://jobright.ai/jobs/info/69f58de1a3d34b4f76f5597c?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 01 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 High School Technical Intern - Grand Sky ND - R10231513](https://jobright.ai/jobs/info/69f58d4281706a5bd2166b56?utm_campaign=1048&utm_source=git)** | Emerado, ND | On Site | May 01 |
-| **[Siemens](https://www.siemens.com)** | **[Environmental Compliance Internship- Rolling Stock- Lexington, NC](https://jobright.ai/jobs/info/69f58c2b43a25828a8d190a1?utm_campaign=1048&utm_source=git)** | Lexington, NC | On Site | May 01 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69f58bff0b36ff035475262a?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 5, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57d2943a25828a8d18fd3?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[Leidos](https://www.leidos.com)** | **[Engineering Intern – Modeling and Simulation](https://jobright.ai/jobs/info/69f57d0b12f2811ab5a64e8b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 01 |
@@ -68,10 +68,13 @@ For a complete list, click the following sortable link below:
 | **[GlobalLogic](http://www.globallogic.com)** | **[Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762](https://jobright.ai/jobs/info/69f57c3f43a25828a8d18f4c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 3, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57c2343a25828a8d18f17?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | ↳ | **[Maintenance Technician Intern 10, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57781db88714bcdfb3dd1?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
-| ↳ | **[Maintenance Technician Intern 1, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f574250b36ff03547522dd?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69f292f5ecbc8c2f7320b4ce?utm_campaign=1048&utm_source=git)** | Taunton, MA | On Site | May 01 |
+| **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 1, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f574250b36ff03547522dd?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Flight Software Intern](https://jobright.ai/jobs/info/69f56f7143a25828a8d18949?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 01 |
+| **[First Solar](http://www.firstsolar.com)** | **[Materials Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb94a3dc35f7132c4b1b39?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | May 01 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[Research Intern Fellow](https://jobright.ai/jobs/info/69f568400b36ff0354751d43?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 8, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57fa5db88714bcdfb3f1a?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/69f5921b0b36ff0354752791?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Thermal Design Engineer, Electronic Devices (Fall 2026)](https://jobright.ai/jobs/info/69f560b681706a5bd2166172?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 01 |
 | **[Town of Jackson](http://www.townofjackson.com)** | **[Public Works Engineering Division - Summer Intern](https://jobright.ai/jobs/info/69f57d9f12f2811ab5a64f1f?utm_campaign=1048&utm_source=git)** | Jackson, WY | On Site | May 01 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co-Op - Mixed Signal Modeling & Verification Engineer](https://jobright.ai/jobs/info/69f55feb12f2811ab5a6465d?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2346?utm_campaign=1048&utm_source=git)** | Duluth, GA | On Site | May 01 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Internship - Cyber Security Products Hardware Development](https://jobright.ai/jobs/info/69f5228081706a5bd2164f5f?utm_campaign=1048&utm_source=git)** | Plantation, US | Hybrid | May 01 |
 | **[Parkson Corporation](https://www.parkson.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f5226ddb88714bcdfb22fc?utm_campaign=1048&utm_source=git)** | Shawnee, KS | On Site | May 01 |
-| **[Perfection Servo Hydraulics](https://www.perfectionservo.com/)** | **[Electronic Summer Intern](https://jobright.ai/jobs/info/69f5222b81706a5bd2164ed7?utm_campaign=1048&utm_source=git)** | Batavia, IL | On Site | May 01 |
-| **[Serverfarm](https://www.serverfarmllc.com/)** | **[Data Center Operations Intern](https://jobright.ai/jobs/info/69f5221edb88714bcdfb229d?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | May 01 |
-| ↳ | **[Data Center Operations Intern](https://jobright.ai/jobs/info/69f521f10b36ff0354750ad6?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
