@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Summer Intern - Fire Alarm Helper](https://jobright.ai/jobs/info/69f58de1a3d34b4f76f5597c?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 01 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 High School Technical Intern - Grand Sky ND - R10231513](https://jobright.ai/jobs/info/69f58d4281706a5bd2166b56?utm_campaign=1048&utm_source=git)** | Emerado, ND | On Site | May 01 |
+| **[Siemens](https://www.siemens.com)** | **[Environmental Compliance Internship- Rolling Stock- Lexington, NC](https://jobright.ai/jobs/info/69f58c2b43a25828a8d190a1?utm_campaign=1048&utm_source=git)** | Lexington, NC | On Site | May 01 |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69f58bff0b36ff035475262a?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 5, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57d2943a25828a8d18fd3?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[Leidos](https://www.leidos.com)** | **[Engineering Intern – Modeling and Simulation](https://jobright.ai/jobs/info/69f57d0b12f2811ab5a64e8b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | ↳ | **[Cybersecurity Platform Intern](https://jobright.ai/jobs/info/69f57cbe81706a5bd21668a0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 01 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Hospitality AI & Automation Intern](https://jobright.ai/jobs/info/69f52e12a3d34b4f76f54267?utm_campaign=1048&utm_source=git)** | LV Metro Area | On Site | May 01 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Student Co-op or Intern](https://jobright.ai/jobs/info/69f568b543a25828a8d18877?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/69f1483db27fee43e8cd8647?utm_campaign=1048&utm_source=git)** | Taunton, MA | On Site | May 01 |
-| **[Steele Solutions, Inc](https://steelesolutions.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69f52c7981706a5bd216542d?utm_campaign=1048&utm_source=git)** | Milwaukee, WI, US | On Site | May 01 |
 | **[Thales](http://www.thalesgroup.com)** | **[Internship - Cyber Security Products Hardware Development](https://jobright.ai/jobs/info/69f52c2981706a5bd216534b?utm_campaign=1048&utm_source=git)** | Plantation,FL,33324,USA | Hybrid | May 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Materials Engineer, Cell Engineering (Fall 2026)](https://jobright.ai/jobs/info/69f52bb443a25828a8d1796f?utm_campaign=1048&utm_source=git)** | Hutto, TX | Hybrid | May 01 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[MBA Summer Intern, AI Retail Project](https://jobright.ai/jobs/info/69f52b0a12f2811ab5a63981?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perfection Servo Hydraulics](https://www.perfectionservo.com/)** | **[Electronic Summer Intern](https://jobright.ai/jobs/info/69f5222b81706a5bd2164ed7?utm_campaign=1048&utm_source=git)** | Batavia, IL | On Site | May 01 |
 | **[Serverfarm](https://www.serverfarmllc.com/)** | **[Data Center Operations Intern](https://jobright.ai/jobs/info/69f5221edb88714bcdfb229d?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | May 01 |
 | ↳ | **[Data Center Operations Intern](https://jobright.ai/jobs/info/69f521f10b36ff0354750ad6?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Mechanical Design Engineer, Cell Engineering (Fall 2026)](https://jobright.ai/jobs/info/69f53c920b36ff035475155b?utm_campaign=1048&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 01 |
-| ↳ | **[Internship, Mechanical Engineer, Cell Engineering (Fall 2026)](https://jobright.ai/jobs/info/69f53bff12f2811ab5a63f64?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | On Site | May 01 |
-| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering](https://jobright.ai/jobs/info/69f53c01db88714bcdfb2f92?utm_campaign=1048&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
