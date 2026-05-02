@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bourns, Inc.](http://www.bourns.com/)** | **[Analytic Lab Intern - SO](https://jobright.ai/jobs/info/69f5c47fdb88714bcdfb49ba?utm_campaign=1048&utm_source=git)** | Riverside, CA | On Site | May 02 |
 | **[Lochner](http://hwlochner.com)** | **[Intern](https://jobright.ai/jobs/info/69f5ace643a25828a8d19732?utm_campaign=1048&utm_source=git)** | Tallahassee, FL 32301 | On Site | May 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - Materials Characterization & Performance, Remote](https://jobright.ai/jobs/info/69f597b0a3d34b4f76f55a26?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Remote | May 01 |
+| **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Engineering - KCI](https://jobright.ai/jobs/info/69f5c4c212f2811ab5a65800?utm_campaign=1048&utm_source=git)** | Kansas City, Missouri | On Site | May 01 |
+| ↳ | **[Intern, Mechanical Engineer](https://jobright.ai/jobs/info/69f5c4bfa3d34b4f76f56647?utm_campaign=1048&utm_source=git)** | Portland, Tennessee | On Site | May 01 |
+| **[LSNE Contract Manufacturing](http://www.pci.com)** | **[Microbiology Laboratory Internship](https://jobright.ai/jobs/info/69f5c5badb88714bcdfb4a26?utm_campaign=1048&utm_source=git)** | Rockford, IL | On Site | May 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Summer Intern - Fire Alarm Helper](https://jobright.ai/jobs/info/69f58de1a3d34b4f76f5597c?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 01 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 High School Technical Intern - Grand Sky ND - R10231513](https://jobright.ai/jobs/info/69f58d4281706a5bd2166b56?utm_campaign=1048&utm_source=git)** | Emerado, ND | On Site | May 01 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Electronic Tech-Fire Alarm/Intrusion Detection Technician](https://jobright.ai/jobs/info/69f5c690a3d34b4f76f566a8?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69f58bff0b36ff035475262a?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Servers & Storage Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299d?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Hardware & Logistics Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fba81706a5bd2166c93?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 01 |
@@ -80,7 +85,8 @@ For a complete list, click the following sortable link below:
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Flight Software Intern](https://jobright.ai/jobs/info/69f56f7143a25828a8d18949?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[First Solar](http://www.firstsolar.com)** | **[Materials Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb94a3dc35f7132c4b1b39?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | May 01 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[Research Intern Fellow](https://jobright.ai/jobs/info/69f568400b36ff0354751d43?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 01 |
-| **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 6, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5a9b381706a5bd2166e48?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
+| **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 2, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5ba510b36ff0354752d4e?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
+| ↳ | **[Maintenance Technician Intern 6, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5a9b381706a5bd2166e48?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | ↳ | **[Maintenance Technician Intern 9, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5ad9adb88714bcdfb47f7?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[TEMPORARY/INTERNSHIP Property Technician – Area 5.](https://jobright.ai/jobs/info/69f5a3bb0b36ff0354752a7c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 8, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57fa5db88714bcdfb3f1a?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thales](http://www.thalesgroup.com)** | **[Internship - Cyber Security Products Hardware Development](https://jobright.ai/jobs/info/69f52c2981706a5bd216534b?utm_campaign=1048&utm_source=git)** | Plantation,FL,33324,USA | Hybrid | May 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Materials Engineer, Cell Engineering (Fall 2026)](https://jobright.ai/jobs/info/69f52bb443a25828a8d1796f?utm_campaign=1048&utm_source=git)** | Hutto, TX | Hybrid | May 01 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[MBA Summer Intern, AI Retail Project](https://jobright.ai/jobs/info/69f52b0a12f2811ab5a63981?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | May 01 |
-| **[Mason Controls](https://masoncontrols.com/)** | **[Mechanical Manufacturing Design Internship](https://jobright.ai/jobs/info/69f52a9212f2811ab5a638a6?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Mechanical Engineer, Cell Engineering (Fall 2026)](https://jobright.ai/jobs/info/69f52a8ddb88714bcdfb291f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 01 |
-| ↳ | **[Internship, Engineer, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/69f52a6ea3d34b4f76f5411f?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 01 |
-| ↳ | **[Internship, Controls & Software Automation Engineer, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/69f52a42a3d34b4f76f54095?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 01 |
-| **[Hill International, Inc.](http://hillintl.com)** | **[Intern](https://jobright.ai/jobs/info/69f52a4112f2811ab5a637af?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | May 01 |
-| **[Tinder](http://www.tinder.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69f52a3612f2811ab5a6376d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
