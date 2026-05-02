@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f557c10b36ff0354751ae6?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 01 |
+| **[University of Washington](http://www.washington.edu)** | **[Research Internship in Clinical Pharmacology](https://jobright.ai/jobs/info/69f557bd0b36ff0354751ae4?utm_campaign=1048&utm_source=git)** | United States | Remote | May 01 |
+| **[Zanskar](https://zanskar.com)** | **[Exploration Geology Intern — Summer 2026](https://jobright.ai/jobs/info/69f5558243a25828a8d18573?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah | On Site | May 01 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f5534ba3d34b4f76f54cba?utm_campaign=1048&utm_source=git)** | Arkadelphia, AR | On Site | May 01 |
+| **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/69f552e0a3d34b4f76f54c35?utm_campaign=1048&utm_source=git)** | Chicago, IL | Remote | May 01 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Application Engineering Intern](https://jobright.ai/jobs/info/69f55275db88714bcdfb34b2?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | May 01 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69f551c512f2811ab5a6435d?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | May 01 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Quality Engineering Summer Intern](https://jobright.ai/jobs/info/69f54c8543a25828a8d18289?utm_campaign=1048&utm_source=git)** | Germantown, MD | On Site | May 01 |
+| **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f54c2d81706a5bd2165d51?utm_campaign=1048&utm_source=git)** | SLC Metro Area | On Site | May 01 |
+| **[Pali Wine Co.](http://paliwineco.com)** | **[Harvest Intern (Paid)](https://jobright.ai/jobs/info/69f54bd812f2811ab5a641d8?utm_campaign=1048&utm_source=git)** | Lompoc, CA | On Site | May 01 |
+| **[USA Rare Earth, Inc. (Nasdaq: USAR)](https://usare.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/69f54b0581706a5bd2165cc9?utm_campaign=1048&utm_source=git)** | Utica-Rome Area | On Site | May 01 |
 | **[Altera](https://www.altera.com)** | **[FPGA Development Tools Engineer - Intern](https://jobright.ai/jobs/info/69f544b481706a5bd2165c4e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f5446781706a5bd2165c0a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
 | ↳ | **[Research Internship (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f543d4a3d34b4f76f548a1?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 01 |
@@ -75,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Advanced Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f53a45db88714bcdfb2e97?utm_campaign=1048&utm_source=git)** | Carmel, IN | On Site | May 01 |
 | **[VT Group (VTG)](https://vtgdefense.com/)** | **[DevOps Engineer Intern](https://jobright.ai/jobs/info/69f53a1181706a5bd2165938?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | May 01 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f539ef12f2811ab5a63dff?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| **[Capex Funds](https://www.capexfunds.co)** | **[AI Data Engineering Intern](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eb9?utm_campaign=1048&utm_source=git)** | United States | Remote | May 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Machine Learning Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69f5365681706a5bd21658b5?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Civil Engineering Intern - Land Development](https://jobright.ai/jobs/info/69f5361912f2811ab5a63d94?utm_campaign=1048&utm_source=git)** | Englewood, CO | On Site | May 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Machine Learning Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69f5350b0b36ff035475137f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 01 |
@@ -83,6 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Palmetto](http://www.palmetto.com)** | **[CX AI Intern](https://jobright.ai/jobs/info/69f532c60b36ff0354751226?utm_campaign=1048&utm_source=git)** | 1616 Camden Rd Charlotte, NC 28203 | On Site | May 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Machine Learning Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69f5328a81706a5bd21656f8?utm_campaign=1048&utm_source=git)** | Triangle, NC | On Site | May 01 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Electrical Engineer](https://jobright.ai/jobs/info/69f5325c0b36ff035475110d?utm_campaign=1048&utm_source=git)** | Pittsfield, MA | On Site | May 01 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[TEMPORARY/INTERNSHIP Property Technician – Area 5](https://jobright.ai/jobs/info/69f551a6a3d34b4f76f54b66?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 01 |
+| **[Capex Funds](https://www.capexfunds.co)** | **[AI Data Engineering Intern](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eb9?utm_campaign=1048&utm_source=git)** | United States | Remote | May 01 |
+| **[Cohere](https://cohere.com)** | **[Research Internship (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f54ce3db88714bcdfb3270?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 01 |
+| **[Penn State University](http://psu.edu)** | **[Summer Internship: Biomechanical Modeling of Human Postural Control](https://jobright.ai/jobs/info/69f552150b36ff0354751928?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | May 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Transportation Engineering, Architecture, and Planning Intern](https://jobright.ai/jobs/info/69f52e2212f2811ab5a63abb?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Hospitality AI & Automation Intern](https://jobright.ai/jobs/info/69f52e12a3d34b4f76f54267?utm_campaign=1048&utm_source=git)** | LV Metro Area | On Site | May 01 |
 | **[Steele Solutions, Inc](https://steelesolutions.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/69f52c7981706a5bd216542d?utm_campaign=1048&utm_source=git)** | Milwaukee, WI, US | On Site | May 01 |
@@ -103,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Qnity](https://www.qnityelectronics.com/)** | **[Automated Process Equipment Intern](https://jobright.ai/jobs/info/69f52a0081706a5bd2165298?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | May 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Summer Intern - Business AI Research [Newport Beach, CA]](https://jobright.ai/jobs/info/69f529eca3d34b4f76f53fe5?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | May 01 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Molecular Biology Summer Intern](https://jobright.ai/jobs/info/69f529e8a3d34b4f76f53fd4?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 01 |
+| **[Karma Automotive](https://www.karmaautomotive.com/)** | **[Supply Chain AI & Automation Intern](https://jobright.ai/jobs/info/69f552f381706a5bd2165ee2?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 01 |
 | **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (Computer Vision)_Bilingual Chinese](https://jobright.ai/jobs/info/69f5232c12f2811ab5a6330a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | May 01 |
 | **[Verdantas](https://www.verdantas.com)** | **[Summer Ecological Intern](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2345?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 01 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2346?utm_campaign=1048&utm_source=git)** | Duluth, GA | On Site | May 01 |
@@ -124,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Palmetto](http://www.palmetto.com)** | **[CX AI Intern](https://jobright.ai/jobs/info/69f51c80a3d34b4f76f53be8?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | May 01 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[ENG_Co-Op/Intern/Trainee 3](https://jobright.ai/jobs/info/69f51c730b36ff03547509dd?utm_campaign=1048&utm_source=git)** | Maumee, OH | On Site | May 01 |
 | **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f51c0ba3d34b4f76f53a6e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, US | On Site | May 01 |
-| **[Allegion](https://www.allegion.com)** | **[Advanced Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f51b4c43a25828a8d16ddf?utm_campaign=1048&utm_source=git)** | Greenfield, IN - West 350N, US | On Site | May 01 |
-| ↳ | **[Advanced Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f51b4c43a25828a8d16de8?utm_campaign=1048&utm_source=git)** | Carmel, IN, US | On Site | May 01 |
+| **[Allegion](https://www.allegion.com)** | **[Advanced Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f51b4c43a25828a8d16de8?utm_campaign=1048&utm_source=git)** | Carmel, IN, US | On Site | May 01 |
+| ↳ | **[Advanced Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f51b4c43a25828a8d16ddf?utm_campaign=1048&utm_source=git)** | Greenfield, IN - West 350N, US | On Site | May 01 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69f53e6edb88714bcdfb3065?utm_campaign=1048&utm_source=git)** | Russellville, Arkansas, US | On Site | May 01 |
 | **[US Modules](https://usmodules.com)** | **[Construction Engineering & Management Intern](https://jobright.ai/jobs/info/69f536f3db88714bcdfb2d78?utm_campaign=1048&utm_source=git)** | College Station, TX | On Site | May 01 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Data Engineering Intern - REMOTE](https://jobright.ai/jobs/info/69f515df81706a5bd2164b82?utm_campaign=1048&utm_source=git)** | Santa Ana, CA | Remote | May 01 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Children's Health Care System](http://www.cookchildrens.org)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/69f52dffa3d34b4f76f54240?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 01 |
 | **[Seaboard Energy](https://seaboardenergy.com)** | **[Summer Lab Intern](https://jobright.ai/jobs/info/69f530a743a25828a8d17c41?utm_campaign=1048&utm_source=git)** | Guymon, OK | On Site | May 01 |
 | **[Upbound Group](https://www.upbound.com)** | **[Data Governance and Data Engineering Intern](https://jobright.ai/jobs/info/69f50d440b36ff03547504b4?utm_campaign=1048&utm_source=git)** | Plano, TX, US | On Site | May 01 |
-| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Marketing Application Engineering Intern](https://jobright.ai/jobs/info/69f50d430b36ff03547504b0?utm_campaign=1048&utm_source=git)** | Plymouth, MI, US | On Site | May 01 |
-| **[Aviagen](http://www.avigen.com)** | **[Summer Hatchery Intern](https://jobright.ai/jobs/info/69f53cbca3d34b4f76f5476b?utm_campaign=1048&utm_source=git)** | Lewisburg, WV | On Site | May 01 |
-| **[City of College Park](http://www.claytoncountyga.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/69f52a6c12f2811ab5a63847?utm_campaign=1048&utm_source=git)** | College Park, MD | On Site | May 01 |
-| **[Serverfarm](https://www.serverfarmllc.com/)** | **[Data Center Operations Intern](https://jobright.ai/jobs/info/69f5296bdb88714bcdfb25e5?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
-| **[UES](https://www.teamues.com)** | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5362e81706a5bd216588d?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5364ca3d34b4f76f5455b?utm_campaign=1048&utm_source=git)** | Lebanon, TN | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f536d1db88714bcdfb2d50?utm_campaign=1048&utm_source=git)** | Kingsport, TN | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f536300b36ff03547513c2?utm_campaign=1048&utm_source=git)** | Ooltewah, TN | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5399c43a25828a8d17e8a?utm_campaign=1048&utm_source=git)** | Auburn, AL | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5364ca3d34b4f76f54558?utm_campaign=1048&utm_source=git)** | Douglasville, GA | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f536efdb88714bcdfb2d6a?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5399743a25828a8d17e87?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5364ca3d34b4f76f54559?utm_campaign=1048&utm_source=git)** | Martinez, GA | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f539a543a25828a8d17ea4?utm_campaign=1048&utm_source=git)** | Montgomery, AL | On Site | May 01 |
-| ↳ | **[Intern/Co-Op](https://jobright.ai/jobs/info/69f5362e0b36ff03547513bd?utm_campaign=1048&utm_source=git)** | Pelham, AL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
