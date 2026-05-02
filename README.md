@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lochner](http://hwlochner.com)** | **[Intern](https://jobright.ai/jobs/info/69f5ace643a25828a8d19732?utm_campaign=1048&utm_source=git)** | Tallahassee, FL 32301 | On Site | May 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - Materials Characterization & Performance, Remote](https://jobright.ai/jobs/info/69f597b0a3d34b4f76f55a26?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Remote | May 01 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Summer Intern - Fire Alarm Helper](https://jobright.ai/jobs/info/69f58de1a3d34b4f76f5597c?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 01 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 High School Technical Intern - Grand Sky ND - R10231513](https://jobright.ai/jobs/info/69f58d4281706a5bd2166b56?utm_campaign=1048&utm_source=git)** | Emerado, ND | On Site | May 01 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Materials Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb94a3dc35f7132c4b1b39?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | May 01 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[Research Intern Fellow](https://jobright.ai/jobs/info/69f568400b36ff0354751d43?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 6, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5a9b381706a5bd2166e48?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
+| ↳ | **[Maintenance Technician Intern 9, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f5ad9adb88714bcdfb47f7?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[TEMPORARY/INTERNSHIP Property Technician – Area 5.](https://jobright.ai/jobs/info/69f5a3bb0b36ff0354752a7c?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[Maintenance Technician Intern 8, Associates Degree (Summer 2026)](https://jobright.ai/jobs/info/69f57fa5db88714bcdfb3f1a?utm_campaign=1048&utm_source=git)** | Malta, NY | On Site | May 01 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Biomedical Engineering Intern](https://jobright.ai/jobs/info/69f5921b0b36ff0354752791?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Controls & Software Automation Engineer, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/69f52a42a3d34b4f76f54095?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Intern](https://jobright.ai/jobs/info/69f52a4112f2811ab5a637af?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | May 01 |
 | **[Tinder](http://www.tinder.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/69f52a3612f2811ab5a6376d?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
-| **[Refined Technologies](http://r-t-i.com)** | **[IT Intern – Production Enablement](https://jobright.ai/jobs/info/69f52a3681706a5bd216531e?utm_campaign=1048&utm_source=git)** | Spring, TX | Hybrid | May 01 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f52a350b36ff0354750ef0?utm_campaign=1048&utm_source=git)** | Crest Hill, IL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
