@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[AI/ML Intern](https://jobright.ai/jobs/info/69d9a4ab5356a60f40fdb5d2?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | May 02 |
+| **[Pond & Company](https://www.pondco.com)** | **[Mechanical Intern - Mechanical](https://jobright.ai/jobs/info/69d9689bb67cec4f9b0a1e33?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | May 02 |
 | **[Magna International](http://www.magna.com/)** | **[Manufacturing Process Improvement Intern- Summer 2026](https://jobright.ai/jobs/info/69871e078ca8121a3a69ac84?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/693025604c474121999e42ea?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[Riverside Natural Foods Ltd. (Home of MadeGood)](https://riversidenaturalfoods.com)** | **[IT Security & Operations Specialist](https://jobright.ai/jobs/info/69bda8ef393a1008f74306e1?utm_campaign=1048&utm_source=git)** | North York, Ontario, Canada | On Site | May 02 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Silicon Photonics R&D](https://jobright.ai/jobs/info/69ea8f8b4b0fa35a70774f39?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 02 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f61de4a3d34b4f76f57c46?utm_campaign=1048&utm_source=git)** | Panama City, FL | On Site | May 02 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern Quality Engineer Metrology](https://jobright.ai/jobs/info/69bdb2d2393a1008f743160b?utm_campaign=1048&utm_source=git)** | Easton, PA | On Site | May 02 |
-| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/69f61d9e0b36ff0354754757?utm_campaign=1048&utm_source=git)** | Export, PA | On Site | May 02 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Equipment Engineering associate - Photolithography / Metrology](https://jobright.ai/jobs/info/69bdb147b10602456282a75b?utm_campaign=1048&utm_source=git)** | Sherman, TX | On Site | May 02 |
+| ↳ | **[Intern, Equipment Engineering associate - Photolithography / Metrology](https://jobright.ai/jobs/info/69bdb147b10602456282a75b?utm_campaign=1048&utm_source=git)** | Sherman, TX | On Site | May 02 |
 | ↳ | **[Intern -Maintenance Administrator (CMMS, Preventative Maintenance, Operations)](https://jobright.ai/jobs/info/69bdb6104828227293ffff42?utm_campaign=1048&utm_source=git)** | Easton, PA | On Site | May 02 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Sustaining Product Engineer](https://jobright.ai/jobs/info/69eb923916b2612c2a11ceff?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Inventory Management Intern](https://jobright.ai/jobs/info/69dc8d1bf748bc5d08a5b356?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 02 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[SAFETY INTERN](https://jobright.ai/jobs/info/699ff86f81476f6176b9e6f1?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | ↳ | **[MANUFACTURING GLAZE LINE INTERN](https://jobright.ai/jobs/info/699fd97153d97f23ee655c68?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | May 02 |
 | **[Graco](http://graco.com/in/en/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6983b89b01214b4cdacb9a9c?utm_campaign=1048&utm_source=git)** | Flagstaff, AZ | On Site | May 02 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[AI/ML Intern](https://jobright.ai/jobs/info/69d993c0f748bc5d08a4c04c?utm_campaign=1048&utm_source=git)** | Arizona, United States | Remote | May 02 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Equipment Engineering associate - BackGrind / CEB](https://jobright.ai/jobs/info/69eae86258811370cb136084?utm_campaign=1048&utm_source=git)** | Sherman, TX | On Site | May 02 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Summer 2026](https://jobright.ai/jobs/info/69a615e40da45516f16ef737?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Hardware Design Intern, Software Defined Radio Team (Summer 2026)](https://jobright.ai/jobs/info/69719a5d51f726477183f48a?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kurt Manufacturing](https://www.kurt.com/)** | **[Machinist Intern](https://jobright.ai/jobs/info/69d82429b67cec4f9b09ad2b?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | On Site | May 02 |
 | **[Trench Group](https://trench-group.com/)** | **[AI/ML Intern: Developer (4 to 8 months contract)](https://jobright.ai/jobs/info/69ed5ae058811370cb141854?utm_campaign=1048&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 02 |
 | **[Slayden Constructors Inc.](https://slayden.com/)** | **[Oregon - 2026 Project Engineer Internship - PDX](https://jobright.ai/jobs/info/69a16f910da45516f16ad601?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | May 02 |
-| **[Trench Group](https://trench-group.com/)** | **[AI/ML Intern: Mechanical Engineer (4 to 8 months contract)](https://jobright.ai/jobs/info/69d99394b67cec4f9b0a2b98?utm_campaign=1048&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 02 |
-| **[GA Telesis](http://www.gatelesis.com/)** | **[Jr. Jet Engine Mechanics Intern](https://jobright.ai/jobs/info/69d96d1f5356a60f40fd9b11?utm_campaign=1048&utm_source=git)** | Wilmington, OH | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
