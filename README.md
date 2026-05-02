@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Manufacturing Process Improvement Intern- Summer 2026](https://jobright.ai/jobs/info/69871e078ca8121a3a69ac84?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/693025604c474121999e42ea?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 02 |
+| **[Riverside Natural Foods Ltd. (Home of MadeGood)](https://riversidenaturalfoods.com)** | **[IT Security & Operations Specialist](https://jobright.ai/jobs/info/69bda8ef393a1008f74306e1?utm_campaign=1048&utm_source=git)** | North York, Ontario, Canada | On Site | May 02 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Silicon Photonics R&D](https://jobright.ai/jobs/info/69ea8f8b4b0fa35a70774f39?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 02 |
+| **[Trilon Group](https://www.trilongroup.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f61de4a3d34b4f76f57c46?utm_campaign=1048&utm_source=git)** | Panama City, FL | On Site | May 02 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern Quality Engineer Metrology](https://jobright.ai/jobs/info/69bdb2d2393a1008f743160b?utm_campaign=1048&utm_source=git)** | Easton, PA | On Site | May 02 |
+| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/69f61d9e0b36ff0354754757?utm_campaign=1048&utm_source=git)** | Export, PA | On Site | May 02 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Equipment Engineering associate - Photolithography / Metrology](https://jobright.ai/jobs/info/69bdb147b10602456282a75b?utm_campaign=1048&utm_source=git)** | Sherman, TX | On Site | May 02 |
 | ↳ | **[Intern -Maintenance Administrator (CMMS, Preventative Maintenance, Operations)](https://jobright.ai/jobs/info/69bdb6104828227293ffff42?utm_campaign=1048&utm_source=git)** | Easton, PA | On Site | May 02 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Sustaining Product Engineer](https://jobright.ai/jobs/info/69eb923916b2612c2a11ceff?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | May 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Slayden Constructors Inc.](https://slayden.com/)** | **[Oregon - 2026 Project Engineer Internship - PDX](https://jobright.ai/jobs/info/69a16f910da45516f16ad601?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | May 02 |
 | **[Trench Group](https://trench-group.com/)** | **[AI/ML Intern: Mechanical Engineer (4 to 8 months contract)](https://jobright.ai/jobs/info/69d99394b67cec4f9b0a2b98?utm_campaign=1048&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 02 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Jr. Jet Engine Mechanics Intern](https://jobright.ai/jobs/info/69d96d1f5356a60f40fd9b11?utm_campaign=1048&utm_source=git)** | Wilmington, OH | On Site | May 02 |
-| **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[Summer Research Intern](https://jobright.ai/jobs/info/69e8f6460a6e095553037adf?utm_campaign=1048&utm_source=git)** | Arlington, Virginia | On Site | May 02 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Cybersecurity Associate Intern](https://jobright.ai/jobs/info/69d97697b67cec4f9b0a22b8?utm_campaign=1048&utm_source=git)** | Springfield, VA | On Site | May 02 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/69d9caa0b67cec4f9b0a4ae7?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Environmental Health & Safety Intern](https://jobright.ai/jobs/info/69d918ec9f97a42dc9c1f8a3?utm_campaign=1048&utm_source=git)** | Benson, NC | On Site | May 02 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[Mechanical Engineering Intern (Senior)](https://jobright.ai/jobs/info/69d9084bb67cec4f9b09f955?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | May 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Efficient ML Engineer Research Intern, (AI Platform) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69d9c070738f2f099e8a444c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 02 |
-| ↳ | **[Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69d9bfb0869c7e25d859d531?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
