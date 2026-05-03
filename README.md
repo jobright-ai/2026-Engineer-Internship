@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Castelion](https://www.castelion.com)** | **[Summer 2026 Mechanical Engineering Internship](https://jobright.ai/jobs/info/69d45b71cdb525785fbc8b84?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 03 |
 | **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | May 03 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Corrosion](https://jobright.ai/jobs/info/691ccd49ff7024498416a771?utm_campaign=1048&utm_source=git)** | Longview, TX | On Site | May 03 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Packaging Equipment Lubrication Intern](https://jobright.ai/jobs/info/69f762be0b36ff0354757e73?utm_campaign=1048&utm_source=git)** | Breinigsville, PA | On Site | May 03 |
@@ -130,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69858cf88da7a61204603860?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Intern](https://jobright.ai/jobs/info/69de84cb433ac8430e0da18f?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 03 |
 | **[Avanade](http://www.avanade.com)** | **[Manager, Infrastructure Architecture](https://jobright.ai/jobs/info/69da4643869c7e25d85a14cd?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 03 |
-| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69dad60bb67cec4f9b0ac456?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| ↳ | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-Multimodal Generative Model) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857202348f733a5c39dad9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[CalPortland](https://www.calportland.com)** | **[Production Engineering Intern](https://jobright.ai/jobs/info/691a9b1b15b4156367189426?utm_campaign=1048&utm_source=git)** | Oro Grande, CA | On Site | May 03 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Mechanical Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6932524b764507023d1ad13e?utm_campaign=1048&utm_source=git)** | Simsbury, CT | On Site | May 03 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Opinion Dynamics](https://opiniondynamics.com)** | **[Engineering Internship - Energy Efficiency Evaluation](https://jobright.ai/jobs/info/69a9b6b11f59c56275e2717e?utm_campaign=1048&utm_source=git)** | Remote from Illinois | Remote | May 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Uptime Management Center](https://jobright.ai/jobs/info/69f697bf0b36ff0354755ecf?utm_campaign=1048&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Occupational Safety and Environmental Compliance and Industrial Hygienist Intern](https://jobright.ai/jobs/info/69f68abfa3d34b4f76f5919a?utm_campaign=1048&utm_source=git)** | USA-Illinois-Chicago | On Site | May 02 |
-| **[Northgate Vehicle Hire (Ireland) Ltd](http://www.northgatevehiclehire.ie/home)** | **[Motor Mechanic](https://jobright.ai/jobs/info/69f6ce8eb1fc847fc1ae46aa?utm_campaign=1048&utm_source=git)** | Bolton, Ontario, Canada | On Site | May 02 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69f295918d8d624381aa1a16?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | May 02 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Technical Intern, Advanced Structural Analysis](https://jobright.ai/jobs/info/69af2f9bdfaeda6ff5974602?utm_campaign=1048&utm_source=git)** | Waltham, Massachusetts, United States | On Site | May 02 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[Mechanical Engineer Internship](https://jobright.ai/jobs/info/69f679e4b1fc847fc1ae3595?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | May 02 |
+| **[Falcomm](https://www.myfalcomm.com/)** | **[Graduate RFIC Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69f674fc582f810f9c8c8dab?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
