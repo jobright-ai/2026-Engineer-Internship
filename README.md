@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | May 03 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Corrosion](https://jobright.ai/jobs/info/691ccd49ff7024498416a771?utm_campaign=1048&utm_source=git)** | Longview, TX | On Site | May 03 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Packaging Equipment Lubrication Intern](https://jobright.ai/jobs/info/69f762be0b36ff0354757e73?utm_campaign=1048&utm_source=git)** | Breinigsville, PA | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - San Diego '25-'26](https://jobright.ai/jobs/info/69eb938558811370cb13a62f?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 03 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/69d5d811706f771673ba73e9?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 03 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ad73d5fc862418539fe94?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d07b2354f00230c6d12516?utm_campaign=1048&utm_source=git)** | West Monroe, LA | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
+| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Robotics Systems Engineer Intern/Co-op, Robotics Deployment Engineering](https://jobright.ai/jobs/info/68cde8b21ad6b16f0289fcd9?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | May 03 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f988f7a628d10664e8da77?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | May 03 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern - Environmental Services, Environmental Studies (Phoenix)](https://jobright.ai/jobs/info/69e20491ff71e82d604bc3ec?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[BW Papersystems](http://www.bwpapersystems.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69e96b9158811370cb12d417?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Southern California '25-'26](https://jobright.ai/jobs/info/69b7802d06c1ba00c54931df?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[iSono Health](http://www.isonohealth.com/)** | **[Manufacturing Technician Temp / Intern](https://jobright.ai/jobs/info/69f74b8281706a5bd216b8b3?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 03 |
+| **[Magna International](http://www.magna.com/)** | **[Maintenance Intern- Summer 2026](https://jobright.ai/jobs/info/699ff03fce78e77b4fe5f1a1?utm_campaign=1048&utm_source=git)** | Sterling Heights, MI | On Site | May 03 |
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process, Controls, and Automation)](https://jobright.ai/jobs/info/69f746efa3d34b4f76f5b111?utm_campaign=1048&utm_source=git)** | Vandergrift, PA | On Site | May 03 |
 | **[Ardurra](https://ardurra.com/)** | **[Aviation Engineering Intern](https://jobright.ai/jobs/info/69864e190f6f7e7a2ce131c5?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | May 03 |
 | **[Aspire Fine Homes](https://aspirefinehomes.com)** | **[AI Strategy & Innovation Intern](https://jobright.ai/jobs/info/69f745d6582f810f9c8cb6a7?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - Systems Engineer](https://jobright.ai/jobs/info/69f295918d8d624381aa1a16?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | May 02 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Technical Intern, Advanced Structural Analysis](https://jobright.ai/jobs/info/69af2f9bdfaeda6ff5974602?utm_campaign=1048&utm_source=git)** | Waltham, Massachusetts, United States | On Site | May 02 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[Mechanical Engineer Internship](https://jobright.ai/jobs/info/69f679e4b1fc847fc1ae3595?utm_campaign=1048&utm_source=git)** | Nashua, NH | On Site | May 02 |
-| **[Falcomm](https://www.myfalcomm.com/)** | **[Graduate RFIC Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69f674fc582f810f9c8c8dab?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 02 |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Process Plant Maintenance Internship](https://jobright.ai/jobs/info/69f6745881706a5bd2169137?utm_campaign=1048&utm_source=git)** | Nunavut-Rankin Inlet | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
