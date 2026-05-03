@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Neuralink](https://www.neuralink.com)** | **[Analog and Mixed-Signal IC Design Engineer Intern](https://jobright.ai/jobs/info/69966005ce78e77b4fda6956?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 03 |
-| **[Pareto Labs](https://www.trypareto.ai/)** | **[Summer Intern](https://jobright.ai/jobs/info/69f78cde81706a5bd216c20f?utm_campaign=1048&utm_source=git)** | San Diego, CA | Remote | May 03 |
 | **[Castelion](https://www.castelion.com)** | **[Summer 2026 Mechanical Engineering Internship](https://jobright.ai/jobs/info/69d45b71cdb525785fbc8b84?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 03 |
 | **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | May 03 |
 | **[Cohere](https://cohere.com)** | **[Machine Learning Intern/Co-op  (Spring/Summer 2026)](https://jobright.ai/jobs/info/69698998f25a380066982e96?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 03 |
@@ -85,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/69d5d811706f771673ba73e9?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 03 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ad73d5fc862418539fe94?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d07b2354f00230c6d12516?utm_campaign=1048&utm_source=git)** | West Monroe, LA | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
-| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Robotics Systems Engineer Intern/Co-op, Robotics Deployment Engineering](https://jobright.ai/jobs/info/68cde8b21ad6b16f0289fcd9?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | May 03 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f988f7a628d10664e8da77?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | May 03 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern - Environmental Services, Environmental Studies (Phoenix)](https://jobright.ai/jobs/info/69e20491ff71e82d604bc3ec?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/69f69caf81706a5bd216a042?utm_campaign=1048&utm_source=git)** | Bloomington, IN | On Site | May 02 |
 | **[Opinion Dynamics](https://opiniondynamics.com)** | **[Engineering Internship - Energy Efficiency Evaluation](https://jobright.ai/jobs/info/69a9b6b11f59c56275e2717e?utm_campaign=1048&utm_source=git)** | Remote from Illinois | Remote | May 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Uptime Management Center](https://jobright.ai/jobs/info/69f697bf0b36ff0354755ecf?utm_campaign=1048&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 02 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Occupational Safety and Environmental Compliance and Industrial Hygienist Intern](https://jobright.ai/jobs/info/69f68abfa3d34b4f76f5919a?utm_campaign=1048&utm_source=git)** | USA-Illinois-Chicago | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
