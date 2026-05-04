@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PCL Construction](http://www.pcl.com)** | **[Estimating Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f85093582f810f9c8cd377?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
+| ↳ | **[Engineering Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f8508d582f810f9c8cd371?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern - E&U](https://jobright.ai/jobs/info/69f82df1a3d34b4f76f5cb79?utm_campaign=1048&utm_source=git)** | Chapel Hill | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Engineer Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8242e81706a5bd216cf25?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Castelion](https://www.castelion.com)** | **[Summer 2026 Mechanical Engineering Internship](https://jobright.ai/jobs/info/69d45b71cdb525785fbc8b84?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 03 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Maintenance Internship](https://jobright.ai/jobs/info/69f70e5cb1fc847fc1ae4d72?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | May 03 |
 | **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Computational Biology](https://jobright.ai/jobs/info/69e538fc7820c036924ccf65?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts | On Site | May 03 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[AI Automation Intern](https://jobright.ai/jobs/info/69a1606db600907a9627bc1b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Energy & Utilities Analyst/ Mechanical- 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/69d1edeb54f00230c6d1e3ed?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | May 03 |
 | **[Cohere](https://cohere.com)** | **[Machine Learning Intern/Co-op  (Spring/Summer 2026)](https://jobright.ai/jobs/info/69698998f25a380066982e96?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69300da4fa28370be26aece5?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69de4f0718cf504166e2c4c8?utm_campaign=1048&utm_source=git)** | Latrobe, PA | On Site | May 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineer Intern, Next Gen](https://jobright.ai/jobs/info/68dc7b74ddc10244dd675b6e?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 03 |
 | **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Construction Management Intern-2601210ZBI01](https://jobright.ai/jobs/info/6984d7cc348f733a5c38f5a7?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | May 03 |
-| **[Brightline West Trains](https://www.BrightlineWest.com)** | **[Civil Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69a1fe13b600907a96284bcc?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | May 03 |
-| **[DOWL](http://dowl.com)** | **[Bridge Intern](https://jobright.ai/jobs/info/69438b5694730b739876b416?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | May 03 |
-| **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69bdf030393a1008f743c165?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
