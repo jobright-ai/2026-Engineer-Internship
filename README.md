@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Journify Learning](https://www.journify-learning.com/)** | **[Software Engineering Intern, AI](https://jobright.ai/jobs/info/69f7d023a3d34b4f76f5bde3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 03 |
+| **[IC Mechanical](https://icmech.com/)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69f7d9280b36ff0354758411?utm_campaign=1048&utm_source=git)** | Flagstaff, AZ | On Site | May 03 |
+| **[Lamb-Star Engineering](http://lamb-star.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69f7d9260b36ff035475840f?utm_campaign=1048&utm_source=git)** | Frisco, TX 75034, USA | On Site | May 03 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69f7d55881706a5bd216c552?utm_campaign=1048&utm_source=git)** | Conyers, GA, 30013, United States | On Site | May 03 |
+| **[Cardinal Glass Industries](http://www.cardinalcorp.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69f7d1f00b36ff03547583b5?utm_campaign=1048&utm_source=git)** | Statesboro, Georgia, United States | On Site | May 03 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Quality Compliance](https://jobright.ai/jobs/info/69b0a6ea0b2db6275c04faae?utm_campaign=1048&utm_source=git)** | Foster City | On Site | May 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SAP Research Operations Specialist Intern](https://jobright.ai/jobs/info/698565b38da7a612045ff571?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | May 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Analog and Mixed-Signal IC Design Engineer Intern](https://jobright.ai/jobs/info/69966005ce78e77b4fda6956?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 03 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[DOWL](http://dowl.com)** | **[Bridge Intern](https://jobright.ai/jobs/info/69438b5694730b739876b416?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | May 03 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69bdf030393a1008f743c165?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | May 03 |
 | **[ABB](https://global.abb/group/en)** | **[Aspire Internship - Mechatronics Engineering](https://jobright.ai/jobs/info/69f7396aa3d34b4f76f5aca6?utm_campaign=1048&utm_source=git)** | Location, WV | Remote | May 03 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[QC Chemistry Intern](https://jobright.ai/jobs/info/69f738e9b1fc847fc1ae5580?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 03 |
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69f75fa8a3d34b4f76f5b75e?utm_campaign=1048&utm_source=git)** | Monaca, PA | On Site | May 03 |
 | **[Richemont](https://www.richemont.com/)** | **[Watchmaking Summer Internship for High School Graduating Seniors](https://jobright.ai/jobs/info/69683f33f25a38006696a885?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 03 |
 | **[DZYNE Technologies](http://dzynetech.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69f731c181706a5bd216afae?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ceco Concrete Construction L.L.C.](https://www.cecoconcrete.com)** | **[Concrete Construction Internship/Trainee Opportunity - Kansas City, KS](https://jobright.ai/jobs/info/69869f8f8ca8121a3a68ee7a?utm_campaign=1048&utm_source=git)** | Kansas City, KS | On Site | May 03 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[BIM/Revit Modeler Intern - Full time](https://jobright.ai/jobs/info/69865c7f8ca8121a3a689689?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | May 03 |
 | **[Capitol Federal® Savings Bank](http://www.capfed.com)** | **[Intern - Network Ops](https://jobright.ai/jobs/info/69f7036cdb88714bcdfb7ea5?utm_campaign=1048&utm_source=git)** | Topeka, KS | On Site | May 02 |
-| **[LotusWorks](https://www.lotusworks.com/)** | **[Waste/UPW O&M Technician - Internship](https://jobright.ai/jobs/info/69c2c18a94007a2195deb5ee?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | May 02 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Tree Steward and Urban Forest Researcher](https://jobright.ai/jobs/info/69f6d3a40b36ff035475693d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
