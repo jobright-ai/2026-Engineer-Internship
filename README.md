@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NiSource](https://www.nisource.com/)** | **[Intern Engineering NIPSCO](https://jobright.ai/jobs/info/69f814b8b1fc847fc1ae718e?utm_campaign=1048&utm_source=git)** | Wheatfield IN-RMSGS, US | On Site | May 03 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/69f811ad81706a5bd216ca0a?utm_campaign=1048&utm_source=git)** | US-NE-Lincoln | On Site | May 03 |
+| ↳ | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/69f810f4db88714bcdfb9dbb?utm_campaign=1048&utm_source=git)** | Lincoln, NE, US | On Site | May 03 |
 | **[Lallemand](http://www.lallemand.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/69f801a40b36ff03547586a7?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 03 |
 | **[Journify Learning](https://www.journify-learning.com/)** | **[Software Engineering Intern, AI](https://jobright.ai/jobs/info/69f7ea4fa3d34b4f76f5bffc?utm_campaign=1048&utm_source=git)** | United States | Remote | May 03 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Robotic AI-DL-ML-Developer Trainee Intern TO Fulltime ONSITE](https://jobright.ai/jobs/info/69f7e42fb1fc847fc1ae6960?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69858cf88da7a61204603860?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Intern](https://jobright.ai/jobs/info/69de84cb433ac8430e0da18f?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 03 |
 | **[Avanade](http://www.avanade.com)** | **[Manager, Infrastructure Architecture](https://jobright.ai/jobs/info/69da4643869c7e25d85a14cd?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 03 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-Multimodal Generative Model) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857202348f733a5c39dad9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| **[CalPortland](https://www.calportland.com)** | **[Production Engineering Intern](https://jobright.ai/jobs/info/691a9b1b15b4156367189426?utm_campaign=1048&utm_source=git)** | Oro Grande, CA | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
