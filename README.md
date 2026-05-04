@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern - E&U](https://jobright.ai/jobs/info/69f82df1a3d34b4f76f5cb79?utm_campaign=1048&utm_source=git)** | Chapel Hill | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Engineer Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8242e81706a5bd216cf25?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | ↳ | **[Velocity - AI Engineer Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8242d81706a5bd216cf21?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Product & Data Engineering (September 2026 - 12 months)](https://jobright.ai/jobs/info/69f8208ba3d34b4f76f5c82b?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | May 03 |
@@ -113,15 +114,14 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/69d5d811706f771673ba73e9?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 03 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ad73d5fc862418539fe94?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d07b2354f00230c6d12516?utm_campaign=1048&utm_source=git)** | West Monroe, LA | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
+| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Robotics Systems Engineer Intern/Co-op, Robotics Deployment Engineering](https://jobright.ai/jobs/info/68cde8b21ad6b16f0289fcd9?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | May 03 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f988f7a628d10664e8da77?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | May 03 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern - Environmental Services, Environmental Studies (Phoenix)](https://jobright.ai/jobs/info/69e20491ff71e82d604bc3ec?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern EHS](https://jobright.ai/jobs/info/6955ed919f1b381eb26f2273?utm_campaign=1048&utm_source=git)** | Woburn, MA | On Site | May 03 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Building Group Intern - Engineer](https://jobright.ai/jobs/info/68ddad25a125e75c422ae1bd?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 03 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Materials Field Engineer Internship (Chesapeake) 2026](https://jobright.ai/jobs/info/68f7fda8ec6dbe7073fcfc9b?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | May 03 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/69f74c3c81706a5bd216b995?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69b6751156973837413bd530?utm_campaign=1048&utm_source=git)** | Brackenridge, PA | On Site | May 03 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Intern, Early College STEM](https://jobright.ai/jobs/info/69bda5264828227293ffdce7?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 03 |
 | **[Precision Castparts](http://precast.com)** | **[1st Shift Quality Intern (Co-Op)](https://jobright.ai/jobs/info/698593b88da7a61204603e65?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
