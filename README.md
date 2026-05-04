@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern - E&U](https://jobright.ai/jobs/info/69f82df1a3d34b4f76f5cb79?utm_campaign=1048&utm_source=git)** | Chapel Hill | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Engineer Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8242e81706a5bd216cf25?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | ↳ | **[Velocity - AI Engineer Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8242d81706a5bd216cf21?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightline West Trains](https://www.BrightlineWest.com)** | **[Civil Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69a1fe13b600907a96284bcc?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | May 03 |
 | **[DOWL](http://dowl.com)** | **[Bridge Intern](https://jobright.ai/jobs/info/69438b5694730b739876b416?utm_campaign=1048&utm_source=git)** | Billings, MT | On Site | May 03 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69bdf030393a1008f743c165?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX | On Site | May 03 |
-| **[ABB](https://global.abb/group/en)** | **[Aspire Internship - Mechatronics Engineering](https://jobright.ai/jobs/info/69f7396aa3d34b4f76f5aca6?utm_campaign=1048&utm_source=git)** | Location, WV | Remote | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
