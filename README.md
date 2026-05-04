@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - SQL Server Database Administration](https://jobright.ai/jobs/info/69f86b59a3d34b4f76f5cddc?utm_campaign=1048&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
+| **[Accuray](http://www.accuray.com)** | **[Process Optimization Intern - Global Service](https://jobright.ai/jobs/info/69dca818738f2f099e8b2a62?utm_campaign=1048&utm_source=git)** | Madison, WI | Hybrid | May 04 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Enterprise Supply Chain Solutions](https://jobright.ai/jobs/info/69f86b88b1fc847fc1ae789c?utm_campaign=1048&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
+| ↳ | **[College Intern - SQL Server Database Administration](https://jobright.ai/jobs/info/69f86b59a3d34b4f76f5cddc?utm_campaign=1048&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f85093582f810f9c8cd377?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | ↳ | **[Engineering Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f8508d582f810f9c8cd371?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bdc5084828227293003102?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SAP Research Operations Specialist Intern](https://jobright.ai/jobs/info/698565b38da7a612045ff571?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | May 03 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Graduate Engineer, Civil - Geotech](https://jobright.ai/jobs/info/69b65f8c06c1ba00c54835ce?utm_campaign=1048&utm_source=git)** | Overland Park, KS | Hybrid | May 03 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Mixed-Signal Design](https://jobright.ai/jobs/info/6985a6938da7a612046057b2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Analog and Mixed-Signal IC Design Engineer Intern](https://jobright.ai/jobs/info/69966005ce78e77b4fda6956?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 03 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Maintenance and Reliability Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882c?utm_campaign=1048&utm_source=git)** | Perry, GA | On Site | May 03 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69a210a2b600907a96285e70?utm_campaign=1048&utm_source=git)** | Maitland, FL | On Site | May 03 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/69d5d811706f771673ba73e9?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 03 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/696ad73d5fc862418539fe94?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | May 03 |
 | **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d07b2354f00230c6d12516?utm_campaign=1048&utm_source=git)** | West Monroe, LA | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
-| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/698fffd06ea51a7610f26f3c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| ↳ | **[Safety Intern - Northern CA Bay Area '25-'26](https://jobright.ai/jobs/info/69316944fa28370be26b9191?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Robotics Systems Engineer Intern/Co-op, Robotics Deployment Engineering](https://jobright.ai/jobs/info/68cde8b21ad6b16f0289fcd9?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | May 03 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f988f7a628d10664e8da77?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | Remote | May 03 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Environmental Scientist Intern - Environmental Services, Environmental Studies (Phoenix)](https://jobright.ai/jobs/info/69e20491ff71e82d604bc3ec?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Electrical Intern - Lubbock](https://jobright.ai/jobs/info/69a1f6ed359fe034b1cd3626?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | May 03 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69bdf082b106024562834f64?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 03 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69139d38e344172248f728b5?utm_campaign=1048&utm_source=git)** | Rochester, NH | On Site | May 03 |
-| **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69d1e8c2cfdc6132f94473cd?utm_campaign=1048&utm_source=git)** | Rochester, PA | On Site | May 03 |
-| ↳ | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69de4f0718cf504166e2c4c8?utm_campaign=1048&utm_source=git)** | Latrobe, PA | On Site | May 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineer Intern, Next Gen](https://jobright.ai/jobs/info/68dc7b74ddc10244dd675b6e?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
