@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - SQL Server Database Administration](https://jobright.ai/jobs/info/69f86b59a3d34b4f76f5cddc?utm_campaign=1048&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f85093582f810f9c8cd377?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | ↳ | **[Engineering Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f8508d582f810f9c8cd371?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69d1e8c2cfdc6132f94473cd?utm_campaign=1048&utm_source=git)** | Rochester, PA | On Site | May 03 |
 | ↳ | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69de4f0718cf504166e2c4c8?utm_campaign=1048&utm_source=git)** | Latrobe, PA | On Site | May 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineer Intern, Next Gen](https://jobright.ai/jobs/info/68dc7b74ddc10244dd675b6e?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 03 |
-| **[Ardmore Roderick](http://www.ardmoreroderick.com/)** | **[Construction Management Intern-2601210ZBI01](https://jobright.ai/jobs/info/6984d7cc348f733a5c38f5a7?utm_campaign=1048&utm_source=git)** | Memphis, TN | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
