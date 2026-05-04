@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f85093582f810f9c8cd377?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | ↳ | **[Engineering Student - Fall Internship 2026](https://jobright.ai/jobs/info/69f8508d582f810f9c8cd371?utm_campaign=1048&utm_source=git)** | Calgary, Alberta | On Site | May 04 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Make Ready/Maintenance Technician Internship - Arizona](https://jobright.ai/jobs/info/69b09a93dfaeda6ff59ac70b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 03 |
+| **[Western Aircraft](http://westair.com)** | **[Aircraft Maintenance Internship - SkillBridge](https://jobright.ai/jobs/info/69f87bb2a3d34b4f76f5ce3c?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | May 03 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern - E&U](https://jobright.ai/jobs/info/69f82df1a3d34b4f76f5cb79?utm_campaign=1048&utm_source=git)** | Chapel Hill | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Engineer Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8242e81706a5bd216cf25?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | ↳ | **[Velocity - AI Engineer Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8242d81706a5bd216cf21?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process Controls and Automation)](https://jobright.ai/jobs/info/69b6560e3b74eb1e2c841353?utm_campaign=1048&utm_source=git)** | Natrona Heights, PA | On Site | May 03 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Electrical Intern - Lubbock](https://jobright.ai/jobs/info/69a1f6ed359fe034b1cd3626?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | May 03 |
 | **[Ardurra](https://ardurra.com/)** | **[Water/Wastewater Engineering Intern](https://jobright.ai/jobs/info/69bdf082b106024562834f64?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 03 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[EHS Intern](https://jobright.ai/jobs/info/69139d38e344172248f728b5?utm_campaign=1048&utm_source=git)** | Rochester, NH | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
