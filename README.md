@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lallemand](http://www.lallemand.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/69f801a40b36ff03547586a7?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 03 |
 | **[Journify Learning](https://www.journify-learning.com/)** | **[Software Engineering Intern, AI](https://jobright.ai/jobs/info/69f7ea4fa3d34b4f76f5bffc?utm_campaign=1048&utm_source=git)** | United States | Remote | May 03 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Robotic AI-DL-ML-Developer Trainee Intern TO Fulltime ONSITE](https://jobright.ai/jobs/info/69f7e42fb1fc847fc1ae6960?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | May 03 |
 | **[IC Mechanical](https://icmech.com/)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69f7d9280b36ff0354758411?utm_campaign=1048&utm_source=git)** | Flagstaff, AZ | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-Multimodal Generative Model) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857202348f733a5c39dad9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[CalPortland](https://www.calportland.com)** | **[Production Engineering Intern](https://jobright.ai/jobs/info/691a9b1b15b4156367189426?utm_campaign=1048&utm_source=git)** | Oro Grande, CA | On Site | May 03 |
-| **[Dyno Nobel](http://www.dynonobel.com)** | **[Mechanical Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6932524b764507023d1ad13e?utm_campaign=1048&utm_source=git)** | Simsbury, CT | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
