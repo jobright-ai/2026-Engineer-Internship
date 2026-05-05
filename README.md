@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environmental Science Associates](http://www.esassoc.com)** | **[Intern - Florida Environmental Internship (Fall 2026)](https://jobright.ai/jobs/info/69f1505becbc8c2f732053d8?utm_campaign=1048&utm_source=git)** | Tampa, Florida, United States | On Site | May 05 |
 | **[CareComply](https://carecomply.ai)** | **[MBA Intern](https://jobright.ai/jobs/info/69f9747281706a5bd2171d82?utm_campaign=1048&utm_source=git)** | United States | Remote | May 04 |
 | **[XPENG](https://www.xiaopeng.com)** | **[AI Intern – Scenario Analysis](https://jobright.ai/jobs/info/69f9728d81706a5bd2171d5b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
 | ↳ | **[AI Intern – VLA Deployment](https://jobright.ai/jobs/info/69f97269a3d34b4f76f61805?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/69f904ee582f810f9c8cfcec?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | May 04 |
 | **[IERUS Technologies Inc](https://www.ierustech.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/69f904d481706a5bd216fe77?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 04 |
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/69f903fd0b36ff035475c812?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 04 |
-| **[Geotab](http://www.geotab.com/)** | **[Vehicle Systems Engineering Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f9017f81706a5bd216fdae?utm_campaign=1048&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
