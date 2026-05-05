@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NociQuant](https://nociquant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69f99cdaa3d34b4f76f61eca?utm_campaign=1048&utm_source=git)** | United States | Remote | May 05 |
 | **[CareComply](https://carecomply.ai)** | **[MBA Intern](https://jobright.ai/jobs/info/69f9747281706a5bd2171d82?utm_campaign=1048&utm_source=git)** | United States | Remote | May 04 |
 | **[XPENG](https://www.xiaopeng.com)** | **[AI Intern – Scenario Analysis](https://jobright.ai/jobs/info/69f9728d81706a5bd2171d5b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
 | ↳ | **[AI Intern – VLA Deployment](https://jobright.ai/jobs/info/69f97269a3d34b4f76f61805?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
@@ -65,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Imperative Care](http://www.imperativecare.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69f97048b1fc847fc1aec310?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | May 04 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[AI Software Engineering, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96ff2a3d34b4f76f617bf?utm_campaign=1048&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[AI Program Enablement, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe50b36ff035475e7c3?utm_campaign=1048&utm_source=git)** | Toronto, CA | On Site | May 04 |
+| **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/69d72c28cfdc6132f946f93b?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | May 04 |
 | **[Sony](https://www.sony.com)** | **[Intern, Security Policy](https://jobright.ai/jobs/info/69d5e84d366bb95ba5549de0?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 04 |
 | **[SonyAI](https://ai.sony/)** | **[Research Intern- AI Ethics](https://jobright.ai/jobs/info/69e14f92d612782e61147fb4?utm_campaign=1048&utm_source=git)** | California, United States | Remote | May 04 |
 | **[Sony](https://www.sony.com)** | **[Intern, Vulnerability Management](https://jobright.ai/jobs/info/69b1f548d04c69566c74906b?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 04 |
@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f95223db88714bcdfbe823?utm_campaign=1048&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | May 04 |
 | **[Faurecia](https://www.forvia.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69f51ddc12f2811ab5a630c7?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 04 |
 | **[Gauss Management Research & Engineering (GMRE Inc.)](https://gmre-inc.com/)** | **[Production / Operations Intern (Summer – Special Projects Focus)](https://jobright.ai/jobs/info/69f94d4d582f810f9c8d12b2?utm_campaign=1048&utm_source=git)** | Ogden,UT,US | On Site | May 04 |
+| **[Covia](https://www.coviacorp.com/)** | **[Innovation Intern](https://jobright.ai/jobs/info/69e0ebcf6c20aa114953e63c?utm_campaign=1048&utm_source=git)** | Concord, NC | On Site | May 04 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Survey Intern](https://jobright.ai/jobs/info/69f947a2b1fc847fc1aeba09?utm_campaign=1048&utm_source=git)** | Alpharetta, GA, US | On Site | May 04 |
 | **[NV5](http://www.nv5.com)** | **[Transmission Line Design Intern](https://jobright.ai/jobs/info/69f94472582f810f9c8d1228?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | May 04 |
 | ↳ | **[Transmission Line Design Intern](https://jobright.ai/jobs/info/69f94465a3d34b4f76f60f10?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | May 04 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Undergrad Intern](https://jobright.ai/jobs/info/69f90c6181706a5bd2170024?utm_campaign=1048&utm_source=git)** | Fort Worth, Texas, United States | On Site | May 04 |
 | **[PASLIN](http://paslin.com)** | **[Spare Parts Coordinator - Summer Internship](https://jobright.ai/jobs/info/69f90c580b36ff035475ca86?utm_campaign=1048&utm_source=git)** | Warren, MI, US | On Site | May 04 |
 | **[Saint Louis Zoo](https://stlzoo.org)** | **[Research - Endocrinology 2026 Paid Internship](https://jobright.ai/jobs/info/69f90c4e0b36ff035475ca62?utm_campaign=1048&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 04 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Field Airborne Support Team AMT V A&P (Avionics)](https://jobright.ai/jobs/info/69bd53ec4828227293ff926a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 04 |
 | **[Hermeus](http://www.hermeus.com)** | **[Structures Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/699cda79ce78e77b4fe19370?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[AI Developer I – 4 months Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/69f907d30b36ff035475c958?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, CAN, CA | Hybrid | May 04 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[AI/ML Vulnerability Analysis Intern](https://jobright.ai/jobs/info/69f907c581706a5bd216ff27?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, US | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IERUS Technologies Inc](https://www.ierustech.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/69f904d481706a5bd216fe77?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 04 |
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/69f903fd0b36ff035475c812?utm_campaign=1048&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Vehicle Systems Engineering Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f9017f81706a5bd216fdae?utm_campaign=1048&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 04 |
-| **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f9017a0b36ff035475c80b?utm_campaign=1048&utm_source=git)** | Brooklyn, New York | Remote | May 04 |
-| **[Relativity Space](http://relativityspace.com)** | **[Weld Development Engineer Intern](https://jobright.ai/jobs/info/69f90137b1fc847fc1aea3b7?utm_campaign=1048&utm_source=git)** | Long Beach, California | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
