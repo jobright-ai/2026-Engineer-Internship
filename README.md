@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Undergrad Intern](https://jobright.ai/jobs/info/69f90c6181706a5bd2170024?utm_campaign=1048&utm_source=git)** | Fort Worth, Texas, United States | On Site | May 04 |
 | **[PASLIN](http://paslin.com)** | **[Spare Parts Coordinator - Summer Internship](https://jobright.ai/jobs/info/69f90c580b36ff035475ca86?utm_campaign=1048&utm_source=git)** | Warren, MI, US | On Site | May 04 |
 | **[Saint Louis Zoo](https://stlzoo.org)** | **[Research - Endocrinology 2026 Paid Internship](https://jobright.ai/jobs/info/69f90c4e0b36ff035475ca62?utm_campaign=1048&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 04 |
-| **[City of Weslaco](http://www.weslacotx.gov)** | **[ENGINEERING INTERN-TEMP (SUMMER)](https://jobright.ai/jobs/info/69f90c390b36ff035475ca40?utm_campaign=1048&utm_source=git)** | 255 South Kansas Avenue, Weslaco, TX, USA | On Site | May 04 |
 | **[Hermeus](http://www.hermeus.com)** | **[Structures Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/699cda79ce78e77b4fe19370?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[AI Developer I – 4 months Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/69f907d30b36ff035475c958?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, CAN, CA | Hybrid | May 04 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[AI/ML Vulnerability Analysis Intern](https://jobright.ai/jobs/info/69f907c581706a5bd216ff27?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, US | On Site | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Relativity Space](http://relativityspace.com)** | **[Weld Development Engineer Intern](https://jobright.ai/jobs/info/69f90137b1fc847fc1aea3b7?utm_campaign=1048&utm_source=git)** | Long Beach, California | On Site | May 04 |
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, R&D (Thin Film Materials)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab23?utm_campaign=1048&utm_source=git)** | Palo Alto, California, United States | On Site | May 04 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69f8ffa581706a5bd216fcfe?utm_campaign=1048&utm_source=git)** | Ithaca, NY | On Site | May 04 |
+| **[InfoCepts](http://www.infocepts.com)** | **[Data, Analytics & AI Intern](https://jobright.ai/jobs/info/69f8ff300b36ff035475c701?utm_campaign=1048&utm_source=git)** | New Jersey, United States | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
