@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Henry Schein](http://www.henryschein.com)** | **[Intern](https://jobright.ai/jobs/info/69f92dcf582f810f9c8d0e7c?utm_campaign=1048&utm_source=git)** | United States - Remote, US | Remote | May 04 |
+| **[Centific](https://www.centific.com)** | **[Technical Intern (Masters or PhD)](https://jobright.ai/jobs/info/69f93be1b1fc847fc1aeb7e9?utm_campaign=1048&utm_source=git)** | Redmond, Washington, US | Remote | May 04 |
+| ↳ | **[Technical Intern (Masters or PhD)](https://jobright.ai/jobs/info/69f93bdedb88714bcdfbe566?utm_campaign=1048&utm_source=git)** | Remote Work( USA), US | Remote | May 04 |
+| **[VOLTAS](www.voltas.io)** | **[Summer Engineer Internship](https://jobright.ai/jobs/info/69f931ba582f810f9c8d0f0a?utm_campaign=1048&utm_source=git)** | Cottage Grove, MN | On Site | May 04 |
+| **[BMW Group US](http://www.bmwusa.com)** | **[Intern, Technology Scouting Summer/Fall 2026](https://jobright.ai/jobs/info/69f92fc5582f810f9c8d0ec0?utm_campaign=1048&utm_source=git)** | Mountain View, OK, US | Hybrid | May 04 |
+| **[Veolia](https://www.veolia.com/fr)** | **[Lab/Operator Intern](https://jobright.ai/jobs/info/69f92e9b81706a5bd2171009?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | May 04 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Quality Engineer - Plant 5](https://jobright.ai/jobs/info/69f92e83db88714bcdfbe3d5?utm_campaign=1048&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | May 04 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[PLL Intern](https://jobright.ai/jobs/info/69f92e570b36ff035475dad0?utm_campaign=1048&utm_source=git)** | USA, US | On Site | May 04 |
 | **[Hamilton](http://hamiltongroup.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f92c260b36ff035475da5b?utm_campaign=1048&utm_source=git)** | US-NV-Reno | On Site | May 04 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f92bf6582f810f9c8d0e1a?utm_campaign=1048&utm_source=git)** | Reno, NV, US | On Site | May 04 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Construction Engineering Intern/Program Delivery - Summer 2026](https://jobright.ai/jobs/info/69f92bed81706a5bd2170f71?utm_campaign=1048&utm_source=git)** | US - NJ, Newark, US | On Site | May 04 |
@@ -87,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Halff](https://www.halff.com/)** | **[Intern, Water / Wastewater](https://jobright.ai/jobs/info/69f91b38a3d34b4f76f604f2?utm_campaign=1048&utm_source=git)** | Fayetteville, AR 72703, USA | Hybrid | May 04 |
 | **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Network Security Intern](https://jobright.ai/jobs/info/69f91b12db88714bcdfbdc8e?utm_campaign=1048&utm_source=git)** | 40 Walter Jones Blvd., El Paso, TX, US | On Site | May 04 |
 | **[CTL Engineering, Inc.](http://ctleng.com)** | **[Internship – Geotechnical Engineering/Geology _ Summer 2026](https://jobright.ai/jobs/info/69f91b12db88714bcdfbdc8d?utm_campaign=1048&utm_source=git)** | New Albany, OH, US | On Site | May 04 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69ebfbd3dc35f7132c4b4ab2?utm_campaign=1048&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
 | **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/69f91693db88714bcdfbdbb6?utm_campaign=1048&utm_source=git)** | LOC-10013-Boston Office, US | On Site | May 04 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Controls Engineering Intern / Toldeo, OH](https://jobright.ai/jobs/info/69f91501582f810f9c8d0376?utm_campaign=1048&utm_source=git)** | Toledo, OH, US | On Site | May 04 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/69f914f281706a5bd217047f?utm_campaign=1048&utm_source=git)** | US Nationwide - Remote, US | Remote | May 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Construction Engineering Summer Intern](https://jobright.ai/jobs/info/69f8f84fdb88714bcdfbcd96?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[Enjet Aero](https://www.enjetaero.com)** | **[IT/Systems Administrator Intern](https://jobright.ai/jobs/info/69f8f84e0b36ff035475c471?utm_campaign=1048&utm_source=git)** | Bloomfield, CT, US | On Site | May 04 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Process Controls Intern](https://jobright.ai/jobs/info/69f8f801b1fc847fc1aea01b?utm_campaign=1048&utm_source=git)** | Illinois-Naperville | On Site | May 04 |
-| **[Enjet Aero](https://www.enjetaero.com)** | **[IT/Systems Administrator Intern](https://jobright.ai/jobs/info/69f8f7fab1fc847fc1ae9fff?utm_campaign=1048&utm_source=git)** | Newington, CT, US | On Site | May 04 |
-| ↳ | **[IT/Systems Administrator Intern](https://jobright.ai/jobs/info/69f8f7f1db88714bcdfbccd1?utm_campaign=1048&utm_source=git)** | Terre Haute, IN, US | On Site | May 04 |
-| **[Lattice Semiconductor](http://www.latticesemi.com)** | **[Internship in HW/SW design and debugging](https://jobright.ai/jobs/info/69f8f7ae582f810f9c8cf7be?utm_campaign=1048&utm_source=git)** | US-CA-San Jose | On Site | May 04 |
-| **[Hoffman Construction Company](http://www.hoffmancorp.com)** | **[Intern Project Engineer Summer 2026 - CA](https://jobright.ai/jobs/info/69f8f7a1582f810f9c8cf79e?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA, United States | On Site | May 04 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Intern Facilities Coordinator - HVAC](https://jobright.ai/jobs/info/69f8f7850b36ff035475c40e?utm_campaign=1048&utm_source=git)** | CA.ON.Mississauga.2251 Speakman Drive, CA | On Site | May 04 |
-| **[Lattice Semiconductor](http://www.latticesemi.com)** | **[Internship in HW/SW design and debugging](https://jobright.ai/jobs/info/69f8f77e81706a5bd216f98e?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | May 04 |
-| **[Kiewit](http://www.kiewit.com)** | **[Quality Intern - Kiewit Industrial District (Summer 2026)](https://jobright.ai/jobs/info/69f8f76081706a5bd216f93d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
