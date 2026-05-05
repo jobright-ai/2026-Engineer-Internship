@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anagram Therapeutics, Inc.](https://anagramtx.com)** | **[Summer Intern - Formulation Development](https://jobright.ai/jobs/info/69fa5e5ca3d34b4f76f65351?utm_campaign=1048&utm_source=git)** | Natick, MA | On Site | May 05 |
+| **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/69fa5e50b1fc847fc1aefc94?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 05 |
 | **[Engineered Floors, LLC](http://engineeredfloorsllc.com)** | **[Manufacturing Intern II](https://jobright.ai/jobs/info/69fa5530b1fc847fc1aefb49?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | May 05 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Automation Engineering Intern, Oncology](https://jobright.ai/jobs/info/69fa5367b1fc847fc1aefaa8?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | May 05 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/69fa5270db88714bcdfc285f?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | May 05 |
-| **[Intel](http://www.intel.com)** | **[Ocotillo Technology Fabrication Process Engineering Graduate Intern](https://jobright.ai/jobs/info/69fa5270db88714bcdfc285a?utm_campaign=1048&utm_source=git)** | US, Arizona, Phoenix, US | On Site | May 05 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (3-month) Intern – AI Data Center Workloads Characterization & Simulation](https://jobright.ai/jobs/info/69fa5267db88714bcdfc2841?utm_campaign=1048&utm_source=git)** | Remote Site, US | Remote | May 05 |
 | ↳ | **[Graduate (3-month) Intern – AI Data Center Workloads Characterization & Simulation](https://jobright.ai/jobs/info/69fa525e81706a5bd217535a?utm_campaign=1048&utm_source=git)** | Golden, CO, US | Hybrid | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69fa4c130b36ff0354761d5b?utm_campaign=1048&utm_source=git)** | White Sands, NM, US | On Site | May 05 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Part-Time Summer 2026 Intern - Mechanical Engineering (Broward, FL)](https://jobright.ai/jobs/info/69fa45d1582f810f9c8d50c7?utm_campaign=1048&utm_source=git)** | Sunrise, Florida, United States | On Site | May 05 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69fa458ddb88714bcdfc209e?utm_campaign=1048&utm_source=git)** | Milpitas-CA, US | On Site | May 05 |
 | **[Boeing](https://www.boeing.com)** | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e8582f810f9c8d4f14?utm_campaign=1048&utm_source=git)** | USA - Tukwila, WA, US | Hybrid | May 05 |
-| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4f01?utm_campaign=1048&utm_source=git)** | USA - Auburn, WA, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4eff?utm_campaign=1048&utm_source=git)** | USA - Huntsville, AL, US | Hybrid | May 05 |
+| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4f01?utm_campaign=1048&utm_source=git)** | USA - Auburn, WA, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4efc?utm_campaign=1048&utm_source=git)** | USA - Colorado Springs, CO, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e4582f810f9c8d4ef1?utm_campaign=1048&utm_source=git)** | USA - Huntington Beach, CA, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e4582f810f9c8d4ef5?utm_campaign=1048&utm_source=git)** | USA - New Orleans, LA, US | Hybrid | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rosenbauer America](http://rosenbaueramerica.com)** | **[RMN Body Fabrication Intern](https://jobright.ai/jobs/info/69fa46f6582f810f9c8d5346?utm_campaign=1048&utm_source=git)** | Rosenbauer Minnesota - Wyoming, MN 55092 | On Site | May 05 |
 | **[AECOM](http://www.aecom.com/)** | **[Construction Intern - AECOM Hunt](https://jobright.ai/jobs/info/69fa1eb7a3d34b4f76f63fdb?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 05 |
 | ↳ | **[Digital & Engineering Technology Intern](https://jobright.ai/jobs/info/69fa1eaca3d34b4f76f63fce?utm_campaign=1048&utm_source=git)** | Arlington, VA | Hybrid | May 05 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[HR Automation Analyst Intern](https://jobright.ai/jobs/info/69fa1e94b1fc847fc1aee378?utm_campaign=1048&utm_source=git)** | Providence, RI, US, 02903 | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
