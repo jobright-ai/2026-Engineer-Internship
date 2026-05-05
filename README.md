@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f95223db88714bcdfbe823?utm_campaign=1048&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | May 04 |
+| **[Gauss Management Research & Engineering (GMRE Inc.)](https://gmre-inc.com/)** | **[Production / Operations Intern (Summer – Special Projects Focus)](https://jobright.ai/jobs/info/69f94d4d582f810f9c8d12b2?utm_campaign=1048&utm_source=git)** | Ogden,UT,US | On Site | May 04 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Survey Intern](https://jobright.ai/jobs/info/69f947a2b1fc847fc1aeba09?utm_campaign=1048&utm_source=git)** | Alpharetta, GA, US | On Site | May 04 |
-| **[Philo Homes](https://philo.homes/)** | **[Machine Learning Engineer Intern_Chinese-English](https://jobright.ai/jobs/info/69f944b40b36ff035475de6f?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | May 04 |
 | **[NV5](http://www.nv5.com)** | **[Transmission Line Design Intern](https://jobright.ai/jobs/info/69f94472582f810f9c8d1228?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | May 04 |
 | ↳ | **[Transmission Line Design Intern](https://jobright.ai/jobs/info/69f94465a3d34b4f76f60f10?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | May 04 |
 | **[Huber AgroSolutions](https://huberagrosolutions.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f93f75db88714bcdfbe6ec?utm_campaign=1048&utm_source=git)** | Rifle, CO (Plant) | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Summer Intern - Wind Development](https://jobright.ai/jobs/info/69f8f8f1b1fc847fc1aea15c?utm_campaign=1048&utm_source=git)** | US, Louisville, CO, US | On Site | May 04 |
 | **[East Tennessee Children's Hospital](https://dollychildrens.org)** | **[Cybersecurity Intern- Temporary Role  Part Time Days](https://jobright.ai/jobs/info/69f8f8e3b1fc847fc1aea13c?utm_campaign=1048&utm_source=git)** | Knoxville, TN, US | On Site | May 04 |
 | **[American Electric Power](http://aep.com)** | **[Power Tech/Station Electrician Intern](https://jobright.ai/jobs/info/69f8f8d8db88714bcdfbce35?utm_campaign=1048&utm_source=git)** | Columbus, OH, US | On Site | May 04 |
-| **[Fathom Digital Manufacturing](https://www.fathommfg.com/)** | **[Internship - Pre-Sales Engineering](https://jobright.ai/jobs/info/69f8f861a3d34b4f76f5f54c?utm_campaign=1048&utm_source=git)** | Hartland, WI, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
