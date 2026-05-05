@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Imperative Care](http://www.imperativecare.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69f93da0582f810f9c8d1118?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | May 04 |
 | **[Centific](https://www.centific.com)** | **[Technical Intern (Masters or PhD)](https://jobright.ai/jobs/info/69f93be1b1fc847fc1aeb7e9?utm_campaign=1048&utm_source=git)** | Redmond, Washington, US | Remote | May 04 |
 | ↳ | **[Technical Intern (Masters or PhD)](https://jobright.ai/jobs/info/69f93bdedb88714bcdfbe566?utm_campaign=1048&utm_source=git)** | Remote Work( USA), US | Remote | May 04 |
-| **[VOLTAS](www.voltas.io)** | **[Summer Engineer Internship](https://jobright.ai/jobs/info/69f931ba582f810f9c8d0f0a?utm_campaign=1048&utm_source=git)** | Cottage Grove, MN | On Site | May 04 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Intern, Technology Scouting Summer/Fall 2026](https://jobright.ai/jobs/info/69f92fc5582f810f9c8d0ec0?utm_campaign=1048&utm_source=git)** | Mountain View, OK, US | Hybrid | May 04 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Lab/Operator Intern](https://jobright.ai/jobs/info/69f92e9b81706a5bd2171009?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | May 04 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Quality Engineer - Plant 5](https://jobright.ai/jobs/info/69f92e83db88714bcdfbe3d5?utm_campaign=1048&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | May 04 |
@@ -95,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Support Engineering Intern (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/69f91e260b36ff035475d555?utm_campaign=1048&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[AMT Engineering](http://amtengineering.com)** | **[Surveying Intern](https://jobright.ai/jobs/info/69f91dd1a3d34b4f76f605eb?utm_campaign=1048&utm_source=git)** | Rockville, Maryland | On Site | May 04 |
 | **[PennAero](https://pennaero.com/)** | **[Environment, Health and Safety Intern](https://jobright.ai/jobs/info/69f91da7db88714bcdfbde24?utm_campaign=1048&utm_source=git)** | Tolleson, AZ | On Site | May 04 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Remote Audio & Quality Control Editing Intern Position](https://jobright.ai/jobs/info/69f91ccd81706a5bd2170a38?utm_campaign=1048&utm_source=git)** | United States | Remote | May 04 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Lab/Operator Intern](https://jobright.ai/jobs/info/69f91bc30b36ff035475d4bf?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | May 04 |
 | **[BrainChip](https://brainchip.com/)** | **[Developer Experience & Content Intern (AI / Edge)](https://jobright.ai/jobs/info/69f91ba70b36ff035475d493?utm_campaign=1048&utm_source=git)** | United States | Remote | May 04 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Water / Wastewater](https://jobright.ai/jobs/info/69f91b38a3d34b4f76f604f2?utm_campaign=1048&utm_source=git)** | Fayetteville, AR 72703, USA | Hybrid | May 04 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](https://www.aes.com)** | **[Summer Intern - Wind Development](https://jobright.ai/jobs/info/69f8f8f1b1fc847fc1aea15c?utm_campaign=1048&utm_source=git)** | US, Louisville, CO, US | On Site | May 04 |
 | **[East Tennessee Children's Hospital](https://dollychildrens.org)** | **[Cybersecurity Intern- Temporary Role  Part Time Days](https://jobright.ai/jobs/info/69f8f8e3b1fc847fc1aea13c?utm_campaign=1048&utm_source=git)** | Knoxville, TN, US | On Site | May 04 |
 | **[American Electric Power](http://aep.com)** | **[Power Tech/Station Electrician Intern](https://jobright.ai/jobs/info/69f8f8d8db88714bcdfbce35?utm_campaign=1048&utm_source=git)** | Columbus, OH, US | On Site | May 04 |
+| **[Fathom Digital Manufacturing](https://www.fathommfg.com/)** | **[Internship - Pre-Sales Engineering](https://jobright.ai/jobs/info/69f8f861a3d34b4f76f5f54c?utm_campaign=1048&utm_source=git)** | Hartland, WI, US | On Site | May 04 |
+| **[Enjet Aero](https://www.enjetaero.com)** | **[IT/Systems Administrator Intern](https://jobright.ai/jobs/info/69f8f852a3d34b4f76f5f522?utm_campaign=1048&utm_source=git)** | Manchester, CT, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
