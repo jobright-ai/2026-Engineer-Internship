@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NociQuant](https://nociquant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69f99cdaa3d34b4f76f61eca?utm_campaign=1048&utm_source=git)** | United States | Remote | May 05 |
 | **[CareComply](https://carecomply.ai)** | **[MBA Intern](https://jobright.ai/jobs/info/69f9747281706a5bd2171d82?utm_campaign=1048&utm_source=git)** | United States | Remote | May 04 |
 | **[XPENG](https://www.xiaopeng.com)** | **[AI Intern – Scenario Analysis](https://jobright.ai/jobs/info/69f9728d81706a5bd2171d5b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
 | ↳ | **[AI Intern – VLA Deployment](https://jobright.ai/jobs/info/69f97269a3d34b4f76f61805?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Vehicle Systems Engineering Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f9017f81706a5bd216fdae?utm_campaign=1048&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 04 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f9017a0b36ff035475c80b?utm_campaign=1048&utm_source=git)** | Brooklyn, New York | Remote | May 04 |
 | **[Relativity Space](http://relativityspace.com)** | **[Weld Development Engineer Intern](https://jobright.ai/jobs/info/69f90137b1fc847fc1aea3b7?utm_campaign=1048&utm_source=git)** | Long Beach, California | On Site | May 04 |
-| **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, R&D (Thin Film Materials)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab23?utm_campaign=1048&utm_source=git)** | Palo Alto, California, United States | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
