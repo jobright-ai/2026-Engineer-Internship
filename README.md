@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Analytics Engineering, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fac356e156000841153507?utm_campaign=1048&utm_source=git)** | Toronto, CA | On Site | May 05 |
+| **[Semtech](http://www.semtech.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69fac32b87a4820e6da820de?utm_campaign=1048&utm_source=git)** | CAN - Burlington, ON, CA | On Site | May 05 |
+| **[Rainmaker Technology Corporation](https://makerain.com)** | **[Radar Intern](https://jobright.ai/jobs/info/69fabd3c86d5cd46527cfd12?utm_campaign=1048&utm_source=git)** | Norman, OK | On Site | May 05 |
 | **[Descope](https://www.descope.com)** | **[Intern, Developer Relations](https://jobright.ai/jobs/info/69faab2218b94b2515bdbde3?utm_campaign=1048&utm_source=git)** | Los Altos, CA (HQ) | On Site | May 05 |
 | **[Opinion Dynamics](https://opiniondynamics.com)** | **[Engineering Internship - Energy Efficiency Evaluation](https://jobright.ai/jobs/info/69a9b6b11f59c56275e2717e?utm_campaign=1048&utm_source=git)** | Remote from Illinois | Remote | May 05 |
 | **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern, Hardware/Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/69faaac886d5cd46527cf7af?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 05 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Anagram Therapeutics, Inc.](https://anagramtx.com)** | **[Summer Intern - Formulation Development](https://jobright.ai/jobs/info/69fa5e5ca3d34b4f76f65351?utm_campaign=1048&utm_source=git)** | Natick, MA | On Site | May 05 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/69fa5e50b1fc847fc1aefc94?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 05 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer IT-Intern, AI Technology](https://jobright.ai/jobs/info/69fa98a80b36ff0354763154?utm_campaign=1048&utm_source=git)** | Cleveland, OH, United States | On Site | May 05 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician 5 - A&P](https://jobright.ai/jobs/info/698f92ba0f6f7e7a2cebd653?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[OTJ Architects](http://otj.com)** | **[Design Technology Intern](https://jobright.ai/jobs/info/69eb93ce58811370cb13a72c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
 | **[Sony](https://www.sony.com)** | **[Intern, AI Adoption](https://jobright.ai/jobs/info/69d5f805891d7b11cfd07365?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 05 |
 | **[Atwell, LLC](https://atwell.com)** | **[Survey Intern/New Grad/Early Career Survey](https://jobright.ai/jobs/info/69fa91e90b36ff0354762fce?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | May 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | May 05 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Automation Engineering Intern, Oncology](https://jobright.ai/jobs/info/69fa5367b1fc847fc1aefaa8?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | May 05 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/69fa5270db88714bcdfc285f?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | May 05 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (3-month) Intern – AI Data Center Workloads Characterization & Simulation](https://jobright.ai/jobs/info/69fa5267db88714bcdfc2841?utm_campaign=1048&utm_source=git)** | Remote Site, US | Remote | May 05 |
-| ↳ | **[Graduate (3-month) Intern – AI Data Center Workloads Characterization & Simulation](https://jobright.ai/jobs/info/69fa525e81706a5bd217535a?utm_campaign=1048&utm_source=git)** | Golden, CO, US | Hybrid | May 05 |
-| **[Western Aircraft](http://westair.com)** | **[Structures Internship - SkillBridge](https://jobright.ai/jobs/info/69fa6fb30b36ff0354762629?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | May 05 |
-| ↳ | **[Avionics Internship - SkillBridge](https://jobright.ai/jobs/info/69fa697081706a5bd2175771?utm_campaign=1048&utm_source=git)** | Boise, ID | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
