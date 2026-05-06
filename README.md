@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f92a7da628d10664e89c38?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 06 |
+| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69fae5b638179b6f1ae73066?utm_campaign=1048&utm_source=git)** | 3738 SW 15th Street, Oklahoma City, OK, 73108, US | On Site | May 05 |
 | **[Artis Energy Solutions](https://www.artisenergysolutions.com/)** | **[Energy Efficiency Intern](https://jobright.ai/jobs/info/69fae2c8e156000841153e10?utm_campaign=1048&utm_source=git)** | Northampton, MA | Hybrid | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Analytics Engineering, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fac356e156000841153507?utm_campaign=1048&utm_source=git)** | Toronto, CA | On Site | May 05 |
 | **[Semtech](http://www.semtech.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69fac32b87a4820e6da820de?utm_campaign=1048&utm_source=git)** | CAN - Burlington, ON, CA | On Site | May 05 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa9f5218b94b2515bdb9cf?utm_campaign=1048&utm_source=git)** | Northlake, Texas,United States,Northlake | On Site | May 05 |
 | **[Murata](https://www.murata.com/about/company/muratalocations/europe/mfi)** | **[Intern, Failure Analysis Engineering - Summer 2026](https://jobright.ai/jobs/info/69fa9699b1fc847fc1af0dee?utm_campaign=1048&utm_source=git)** | US | On Site | May 05 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern - School of Medicine Orthopaedics](https://jobright.ai/jobs/info/69fad99318b94b2515bdc8fb?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 05 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Salesforce Developer Engineer Intern](https://jobright.ai/jobs/info/69fa8de50b36ff0354762fa2?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
-| ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/69fa8de581706a5bd217646e?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/69fa8de581706a5bd217646e?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
+| ↳ | **[Salesforce Developer Engineer Intern](https://jobright.ai/jobs/info/69fa8de50b36ff0354762fa2?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cc681706a5bd21763d0?utm_campaign=1048&utm_source=git)** | RICHMOND, Virginia,United States,RICHMOND | On Site | May 05 |
 | ↳ | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cbedb88714bcdfc368e?utm_campaign=1048&utm_source=git)** | FORT COLLINS, Colorado,United States,FORT COLLINS | On Site | May 05 |
 | ↳ | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cb30b36ff0354762f0f?utm_campaign=1048&utm_source=git)** | ATLANTA, Georgia,United States,ATLANTA | On Site | May 05 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7053a3d34b4f76f65b61?utm_campaign=1048&utm_source=git)** | Stillwater, OK, US | On Site | May 05 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern -Quality Technician](https://jobright.ai/jobs/info/69fa704d81706a5bd2175d80?utm_campaign=1048&utm_source=git)** | ACD Chippewa Falls WI, US | On Site | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703f0b36ff0354762823?utm_campaign=1048&utm_source=git)** | Edmond, OK, US | On Site | May 05 |
-| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
+| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30bc?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 05 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69e6528fe0cd471b2f124e51?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | May 05 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - AI Developer](https://jobright.ai/jobs/info/69ebfbc34b0fa35a7077fbf2?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OTJ Architects](http://otj.com)** | **[Design Technology Intern](https://jobright.ai/jobs/info/69eb93ce58811370cb13a72c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
 | **[Sony](https://www.sony.com)** | **[Intern, AI Adoption](https://jobright.ai/jobs/info/69d5f805891d7b11cfd07365?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 05 |
 | **[Atwell, LLC](https://atwell.com)** | **[Survey Intern/New Grad/Early Career Survey](https://jobright.ai/jobs/info/69fa91e90b36ff0354762fce?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | May 05 |
-| **[Engineered Floors, LLC](http://engineeredfloorsllc.com)** | **[Manufacturing Intern II](https://jobright.ai/jobs/info/69fa5530b1fc847fc1aefb49?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | May 05 |
-| **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
