@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syntiant Corp.](https://www.syntiant.com)** | **[Machine Learning Computer Vision Intern](https://jobright.ai/jobs/info/69fa821fb1fc847fc1af0879?utm_campaign=1048&utm_source=git)** | Redwood City, California, United States | On Site | May 05 |
+| **[MicroPort Orthopedics](http://www.microportortho.com)** | **[Clinical Research Intern (Summer)](https://jobright.ai/jobs/info/69fa8206582f810f9c8d6322?utm_campaign=1048&utm_source=git)** | Arlington, Tennessee, United States | On Site | May 05 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Machine Learning Audio Intern](https://jobright.ai/jobs/info/69fa80620b36ff0354762a91?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | May 05 |
 | ↳ | **[Machine Learning Computer Vision Intern](https://jobright.ai/jobs/info/69fa8014582f810f9c8d631d?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | May 05 |
 | **[Job Hunting U](http://jobhuntingu.com/)** | **[AI Automations Developer Internship](https://jobright.ai/jobs/info/69fa7feb582f810f9c8d6313?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | May 05 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/69fa7fcedb88714bcdfc32f4?utm_campaign=1048&utm_source=git)** | US-CA-San Carlos | On Site | May 05 |
-| **[GenPark](https://genpark.ai)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/69fa7fb8a3d34b4f76f65dc1?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | May 05 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/69fa7f6cb1fc847fc1af0804?utm_campaign=1048&utm_source=git)** | San Carlos, CA, US | On Site | May 05 |
+| ↳ | **[Technical Program Management Intern](https://jobright.ai/jobs/info/69fa7f6cb1fc847fc1af0804?utm_campaign=1048&utm_source=git)** | San Carlos, CA, US | On Site | May 05 |
 | **[Pharmaceutical Company](http://None)** | **[Clinical Pharmacology Intern – Oncology (PK/PD)](https://jobright.ai/jobs/info/69fa7af081706a5bd2175ec8?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 05 |
 | **[Above Green](https://abovegreen.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69fa778bb1fc847fc1af075c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Deployed Hardware Engineer/Analyst – Automatic Vehicle Location, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa763ea3d34b4f76f65cca?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 05 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Content Developer](https://jobright.ai/jobs/info/69fa7fd881706a5bd2175f80?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 05 |
 | **[Anagram Therapeutics, Inc.](https://anagramtx.com)** | **[Summer Intern - Formulation Development](https://jobright.ai/jobs/info/69fa5e5ca3d34b4f76f65351?utm_campaign=1048&utm_source=git)** | Natick, MA | On Site | May 05 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/69fa5e50b1fc847fc1aefc94?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 05 |
+| **[OTJ Architects](http://otj.com)** | **[Design Technology Intern](https://jobright.ai/jobs/info/69eb93ce58811370cb13a72c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
 | **[Sony](https://www.sony.com)** | **[Intern, AI Adoption](https://jobright.ai/jobs/info/69d5f805891d7b11cfd07365?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 05 |
 | **[Engineered Floors, LLC](http://engineeredfloorsllc.com)** | **[Manufacturing Intern II](https://jobright.ai/jobs/info/69fa5530b1fc847fc1aefb49?utm_campaign=1048&utm_source=git)** | Dalton, GA | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | May 05 |
@@ -133,11 +135,11 @@ For a complete list, click the following sortable link below:
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Part-Time Summer 2026 Intern - Mechanical Engineering (Broward, FL)](https://jobright.ai/jobs/info/69fa45d1582f810f9c8d50c7?utm_campaign=1048&utm_source=git)** | Sunrise, Florida, United States | On Site | May 05 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69fa458ddb88714bcdfc209e?utm_campaign=1048&utm_source=git)** | Milpitas-CA, US | On Site | May 05 |
 | **[Boeing](https://www.boeing.com)** | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e8582f810f9c8d4f14?utm_campaign=1048&utm_source=git)** | USA - Tukwila, WA, US | Hybrid | May 05 |
-| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4eff?utm_campaign=1048&utm_source=git)** | USA - Huntsville, AL, US | Hybrid | May 05 |
-| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4f01?utm_campaign=1048&utm_source=git)** | USA - Auburn, WA, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4efc?utm_campaign=1048&utm_source=git)** | USA - Colorado Springs, CO, US | Hybrid | May 05 |
-| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e4582f810f9c8d4ef1?utm_campaign=1048&utm_source=git)** | USA - Huntington Beach, CA, US | Hybrid | May 05 |
+| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4f01?utm_campaign=1048&utm_source=git)** | USA - Auburn, WA, US | Hybrid | May 05 |
+| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e5582f810f9c8d4eff?utm_campaign=1048&utm_source=git)** | USA - Huntsville, AL, US | Hybrid | May 05 |
 | ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e4582f810f9c8d4ef5?utm_campaign=1048&utm_source=git)** | USA - New Orleans, LA, US | Hybrid | May 05 |
+| ↳ | **[Intern to Entry Level Conversion - Engineering (Summer 2025 Intern Program)](https://jobright.ai/jobs/info/69fa43e4582f810f9c8d4ef1?utm_campaign=1048&utm_source=git)** | USA - Huntington Beach, CA, US | Hybrid | May 05 |
 | **[B&G Foods Inc.](http://bgfoods.com)** | **[Quality Intern](https://jobright.ai/jobs/info/69fa43e2582f810f9c8d4ee8?utm_campaign=1048&utm_source=git)** | Terre Haute, IN, US | On Site | May 05 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Mechanical Engineer Intern, Electronic Access Controls](https://jobright.ai/jobs/info/69fa3dea81706a5bd2174992?utm_campaign=1048&utm_source=git)** | USA: Connecticut (New Haven - 110 Sargent Dr) | Hybrid | May 05 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[MEMS Engineering Intern](https://jobright.ai/jobs/info/69fa3dca81706a5bd2174951?utm_campaign=1048&utm_source=git)** | Itasca, Illinois, United States | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69dda6055913ad33981398a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 05 |
 | **[Ensemble](https://www.ensembletravel.com/)** | **[AI Implementation Intern](https://jobright.ai/jobs/info/69fa389881706a5bd21746fd?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | Hybrid | May 05 |
 | **[Autura](https://autura.com)** | **[Data Intern](https://jobright.ai/jobs/info/69fa37870b36ff0354761230?utm_campaign=1048&utm_source=git)** | United States | Remote | May 05 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Technology Intern](https://jobright.ai/jobs/info/69fa37340b36ff03547611f3?utm_campaign=1048&utm_source=git)** | Roswell, GA | On Site | May 05 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Engineering Intern, Scottsville, KY, Summer 2026](https://jobright.ai/jobs/info/69fa366b582f810f9c8d4a25?utm_campaign=1048&utm_source=git)** | Scottsville, KY, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
