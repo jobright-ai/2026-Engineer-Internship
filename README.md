@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Alstom](https://www.alstom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fba03cd21cf86d1e3d4572?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[K. Hovnanian® Homes](https://www.khov.com/)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/69fb9eca87a4820e6da8a035?utm_campaign=1048&utm_source=git)** | Matawan, NJ | Hybrid | May 06 |
 | **[Slate Auto](https://slate.auto)** | **[Manufacturing Coating & Bonding Intern](https://jobright.ai/jobs/info/69fb9ec418b94b2515be4233?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | May 06 |
-| ↳ | **[Manufacturing General Assembly Intern](https://jobright.ai/jobs/info/69fb9ebd38179b6f1ae7a38a?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | May 06 |
+| ↳ | **[Manufacturing General Assembly Intern](https://jobright.ai/jobs/info/69fb9ebd18b94b2515be421a?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | May 06 |
 | ↳ | **[Manufacturing Body Shop Intern](https://jobright.ai/jobs/info/69fb9eac18b94b2515be41ec?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | May 06 |
 | **[H3X Technologies](http://h3x.tech/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69fb9eaa38179b6f1ae7a376?utm_campaign=1048&utm_source=git)** | Louisville, CO | On Site | May 06 |
 | **[Slate Auto](https://slate.auto)** | **[Manufacturing Quality Intern](https://jobright.ai/jobs/info/69fb9ea738179b6f1ae7a361?utm_campaign=1048&utm_source=git)** | Warsaw, IN | On Site | May 06 |
