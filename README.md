@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lunar Energy](https://www.lunarenergy.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f13610825a315d7ca36aea?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6969f37b1703f05405abfa89?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 06 |
 | ↳ | **[Data Engineer Intern (E-commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976d67d206da320f4a07eb7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 06 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Salem Engineering Internship Summer 2026](https://jobright.ai/jobs/info/69de738be34484770f1a2198?utm_campaign=1048&utm_source=git)** | Salem, NH | On Site | May 06 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/693179963b6d6f265f4ea7a8?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | May 06 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69fb06e6d21cf86d1e3cf1b2?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 06 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Machine Learning Intern](https://jobright.ai/jobs/info/69b8505b3b74eb1e2c85ee1b?utm_campaign=1048&utm_source=git)** | United States | Remote | May 06 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f92a7da628d10664e89c38?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 06 |
@@ -127,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Deployed Hardware Engineer/Analyst – Automatic Vehicle Location, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa763ea3d34b4f76f65cca?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 05 |
 | ↳ | **[Fire Marshall, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa75d781706a5bd2175ea9?utm_campaign=1048&utm_source=git)** | Hollis, NY | On Site | May 05 |
 | **[V2X Inc](https://gov2x.com)** | **[EHS Engineer Intern](https://jobright.ai/jobs/info/69fa75c5db88714bcdfc3133?utm_campaign=1048&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 05 |
+| **[Lynker](https://lynker.com)** | **[Space Weather Intern](https://jobright.ai/jobs/info/69fb2aa0d21cf86d1e3d08a4?utm_campaign=1048&utm_source=git)** | United States | Remote | May 05 |
 | **[Thomas Global Systems](http://www.thomas-global.com/)** | **[Technician Intern](https://jobright.ai/jobs/info/69fa96840b36ff03547630a5?utm_campaign=1048&utm_source=git)** | Irvine, California, United States | On Site | May 05 |
 | **[Fugro](http://www.fugro.com)** | **[Summer internship 2026](https://jobright.ai/jobs/info/69fa7237b1fc847fc1af043e?utm_campaign=1048&utm_source=git)** | Norfolk, Virginia, US | On Site | May 05 |
 | **[GlobalFoundries](https://gf.com/)** | **[Field Application Engineering Intern, Austin, TX (Summer 2026)](https://jobright.ai/jobs/info/69fa7236b1fc847fc1af0439?utm_campaign=1048&utm_source=git)** | USA - Texas - Austin, US | On Site | May 05 |
@@ -136,25 +140,21 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7053a3d34b4f76f65b61?utm_campaign=1048&utm_source=git)** | Stillwater, OK, US | On Site | May 05 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern -Quality Technician](https://jobright.ai/jobs/info/69fa704d81706a5bd2175d80?utm_campaign=1048&utm_source=git)** | ACD Chippewa Falls WI, US | On Site | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703f0b36ff0354762823?utm_campaign=1048&utm_source=git)** | Edmond, OK, US | On Site | May 05 |
-| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
+| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30bc?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 05 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69e6528fe0cd471b2f124e51?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | May 05 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - AI Developer](https://jobright.ai/jobs/info/69ebfbc34b0fa35a7077fbf2?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | May 05 |
 | **[Purdue University](https://www.purdue.edu)** | **[Undergraduate Researcher](https://jobright.ai/jobs/info/69fa6e6eb1fc847fc1aefe31?utm_campaign=1048&utm_source=git)** | West Lafayette, IN | On Site | May 05 |
 | **[Pharmaceutical Company](http://None)** | **[PhD Intern – Computational Biology](https://jobright.ai/jobs/info/69fa6da2582f810f9c8d5b7a?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 05 |
+| **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69fb2aa8e1560008411573e5?utm_campaign=1048&utm_source=git)** | Moriarty, NM | On Site | May 05 |
+| **[Lochner](http://hwlochner.com)** | **[Intern](https://jobright.ai/jobs/info/69fb275e18b94b2515bdf9c8?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 05 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern - (Systems, Software, Electrical Engineer)](https://jobright.ai/jobs/info/69fb27e938179b6f1ae75f14?utm_campaign=1048&utm_source=git)** | Wahiawa, HI | On Site | May 05 |
+| **[VHB](https://www.vhb.com/)** | **[Transportation Intern – Summer 2026](https://jobright.ai/jobs/info/69fb274f87a4820e6da857f8?utm_campaign=1048&utm_source=git)** | Orlando, FL | Hybrid | May 05 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Digital Service Technician Intern](https://jobright.ai/jobs/info/69fb2a8ce156000841157395?utm_campaign=1048&utm_source=git)** | Carrollton, TX | On Site | May 05 |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Supply Chain Intern - Manufacturing - Marshall, MO](https://jobright.ai/jobs/info/69fb27fc38179b6f1ae75f5d?utm_campaign=1048&utm_source=git)** | Marshall, MO | On Site | May 05 |
 | **[Pioneer Metal Finishing](https://www.pioneermetal.com/)** | **[Mechanical Engineer, Intern CHF](https://jobright.ai/jobs/info/69fa64b2582f810f9c8d5a07?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI, US | On Site | May 05 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, DevOps](https://jobright.ai/jobs/info/69fa64a2582f810f9c8d59fc?utm_campaign=1048&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 05 |
 | ↳ | **[Co-op/Intern Content Developer](https://jobright.ai/jobs/info/69fa648ca3d34b4f76f65428?utm_campaign=1048&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 05 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/69fa6486582f810f9c8d59ae?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 05 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, DevOps](https://jobright.ai/jobs/info/69fa647d81706a5bd217569d?utm_campaign=1048&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 05 |
-| **[HERE Technologies](https://www.here.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69fa646a81706a5bd2175690?utm_campaign=1048&utm_source=git)** | US-IL-Chicago | On Site | May 05 |
-| **[PSA Airlines, Inc.](http://www.psaairlines.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fa6460a3d34b4f76f65408?utm_campaign=1048&utm_source=git)** | US-NC-Charlotte | On Site | May 05 |
-| **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/69fa644281706a5bd217566f?utm_campaign=1048&utm_source=git)** | On-Site | On Site | May 05 |
-| **[VHB](https://www.vhb.com/)** | **[Transportation Intern – Summer 2026](https://jobright.ai/jobs/info/69fa643d81706a5bd217566a?utm_campaign=1048&utm_source=git)** | US-FL-Orlando | Hybrid | May 05 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, DevOps](https://jobright.ai/jobs/info/69fa64200b36ff0354762113?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 05 |
-| **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Intern Diesel Mechanic (Paid)](https://jobright.ai/jobs/info/69fa641ea3d34b4f76f653c3?utm_campaign=1048&utm_source=git)** | Waco, TX, USA, US | On Site | May 05 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Content Developer](https://jobright.ai/jobs/info/69fa7fd881706a5bd2175f80?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 05 |
-| **[Anagram Therapeutics, Inc.](https://anagramtx.com)** | **[Summer Intern - Formulation Development](https://jobright.ai/jobs/info/69fa5e5ca3d34b4f76f65351?utm_campaign=1048&utm_source=git)** | Natick, MA | On Site | May 05 |
-| **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/69fa5e50b1fc847fc1aefc94?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
