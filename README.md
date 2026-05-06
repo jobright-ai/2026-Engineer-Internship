@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Legence](https://www.wearelegence.com)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/69fb0e8ed21cf86d1e3cf292?utm_campaign=1048&utm_source=git)** | 1201 3rd Ave #3500, Seattle, WA 98101, USA | On Site | May 06 |
-| ↳ | **[Electrical Design Intern](https://jobright.ai/jobs/info/69fb0e8738179b6f1ae74c1e?utm_campaign=1048&utm_source=git)** | 5000 E Spring St 8th floor, Long Beach, CA 90815, USA | On Site | May 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6969f37b1703f05405abfa89?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 06 |
+| ↳ | **[Data Engineer Intern (E-commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976d67d206da320f4a07eb7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69fb06e6d21cf86d1e3cf1b2?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 06 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Machine Learning Intern](https://jobright.ai/jobs/info/69b8505b3b74eb1e2c85ee1b?utm_campaign=1048&utm_source=git)** | United States | Remote | May 06 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f92a7da628d10664e89c38?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 06 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7053a3d34b4f76f65b61?utm_campaign=1048&utm_source=git)** | Stillwater, OK, US | On Site | May 05 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern -Quality Technician](https://jobright.ai/jobs/info/69fa704d81706a5bd2175d80?utm_campaign=1048&utm_source=git)** | ACD Chippewa Falls WI, US | On Site | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703f0b36ff0354762823?utm_campaign=1048&utm_source=git)** | Edmond, OK, US | On Site | May 05 |
-| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
+| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30bc?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 05 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69e6528fe0cd471b2f124e51?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | May 05 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - AI Developer](https://jobright.ai/jobs/info/69ebfbc34b0fa35a7077fbf2?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | May 05 |
