@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f92a7da628d10664e89c38?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 06 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69fae5b638179b6f1ae73066?utm_campaign=1048&utm_source=git)** | 3738 SW 15th Street, Oklahoma City, OK, 73108, US | On Site | May 05 |
 | **[Artis Energy Solutions](https://www.artisenergysolutions.com/)** | **[Energy Efficiency Intern](https://jobright.ai/jobs/info/69fae2c8e156000841153e10?utm_campaign=1048&utm_source=git)** | Northampton, MA | Hybrid | May 05 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round - Explosive Technology Maturation & Advanced Programs, Onsite](https://jobright.ai/jobs/info/69f05206825a315d7ca31ce3?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Analytics Engineering, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fac356e156000841153507?utm_campaign=1048&utm_source=git)** | Toronto, CA | On Site | May 05 |
 | **[Semtech](http://www.semtech.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69fac32b87a4820e6da820de?utm_campaign=1048&utm_source=git)** | CAN - Burlington, ON, CA | On Site | May 05 |
 | **[Rainmaker Technology Corporation](https://makerain.com)** | **[Radar Intern](https://jobright.ai/jobs/info/69fabd3c86d5cd46527cfd12?utm_campaign=1048&utm_source=git)** | Norman, OK | On Site | May 05 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7053a3d34b4f76f65b61?utm_campaign=1048&utm_source=git)** | Stillwater, OK, US | On Site | May 05 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern -Quality Technician](https://jobright.ai/jobs/info/69fa704d81706a5bd2175d80?utm_campaign=1048&utm_source=git)** | ACD Chippewa Falls WI, US | On Site | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703f0b36ff0354762823?utm_campaign=1048&utm_source=git)** | Edmond, OK, US | On Site | May 05 |
-| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa703781706a5bd2175d01?utm_campaign=1048&utm_source=git)** | Lawton, OK, US | On Site | May 05 |
+| ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa7037b1fc847fc1af035d?utm_campaign=1048&utm_source=git)** | Norman, OK, US | On Site | May 05 |
 | ↳ | **[Junior CEMA Software Engineer Intern](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30bc?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 05 |
 | **[Interstates](http://interstates.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69e6528fe0cd471b2f124e51?utm_campaign=1048&utm_source=git)** | Sioux Center, IA | On Site | May 05 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - AI Developer](https://jobright.ai/jobs/info/69ebfbc34b0fa35a7077fbf2?utm_campaign=1048&utm_source=git)** | Roseville, CA | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician 5 - A&P](https://jobright.ai/jobs/info/698f92ba0f6f7e7a2cebd653?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[OTJ Architects](http://otj.com)** | **[Design Technology Intern](https://jobright.ai/jobs/info/69eb93ce58811370cb13a72c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
 | **[Sony](https://www.sony.com)** | **[Intern, AI Adoption](https://jobright.ai/jobs/info/69d5f805891d7b11cfd07365?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 05 |
-| **[Atwell, LLC](https://atwell.com)** | **[Survey Intern/New Grad/Early Career Survey](https://jobright.ai/jobs/info/69fa91e90b36ff0354762fce?utm_campaign=1048&utm_source=git)** | Reno, NV | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
