@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legence](https://www.wearelegence.com)** | **[Electrical Design Intern](https://jobright.ai/jobs/info/69fb0e8ed21cf86d1e3cf292?utm_campaign=1048&utm_source=git)** | 1201 3rd Ave #3500, Seattle, WA 98101, USA | On Site | May 06 |
+| ↳ | **[Electrical Design Intern](https://jobright.ai/jobs/info/69fb0e8738179b6f1ae74c1e?utm_campaign=1048&utm_source=git)** | 5000 E Spring St 8th floor, Long Beach, CA 90815, USA | On Site | May 06 |
+| **[Dusty Robotics](http://dustyrobotics.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/69fb06e6d21cf86d1e3cf1b2?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 06 |
+| **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Machine Learning Intern](https://jobright.ai/jobs/info/69b8505b3b74eb1e2c85ee1b?utm_campaign=1048&utm_source=git)** | United States | Remote | May 06 |
 | **[Scale AI](https://scale.com)** | **[Technical Advisor Specialist (Part-Time Internship)](https://jobright.ai/jobs/info/68f92a7da628d10664e89c38?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 06 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/69fae5b638179b6f1ae73066?utm_campaign=1048&utm_source=git)** | 3738 SW 15th Street, Oklahoma City, OK, 73108, US | On Site | May 05 |
 | **[Artis Energy Solutions](https://www.artisenergysolutions.com/)** | **[Energy Efficiency Intern](https://jobright.ai/jobs/info/69fae2c8e156000841153e10?utm_campaign=1048&utm_source=git)** | Northampton, MA | Hybrid | May 05 |
@@ -102,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa9f5218b94b2515bdb9cf?utm_campaign=1048&utm_source=git)** | Northlake, Texas,United States,Northlake | On Site | May 05 |
 | **[Murata](https://www.murata.com/about/company/muratalocations/europe/mfi)** | **[Intern, Failure Analysis Engineering - Summer 2026](https://jobright.ai/jobs/info/69fa9699b1fc847fc1af0dee?utm_campaign=1048&utm_source=git)** | US | On Site | May 05 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern - School of Medicine Orthopaedics](https://jobright.ai/jobs/info/69fad99318b94b2515bdc8fb?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 05 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/69fa8de581706a5bd217646e?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
-| ↳ | **[Salesforce Developer Engineer Intern](https://jobright.ai/jobs/info/69fa8de50b36ff0354762fa2?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Salesforce Developer Engineer Intern](https://jobright.ai/jobs/info/69fa8de50b36ff0354762fa2?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
+| ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/69fa8de581706a5bd217646e?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, US | On Site | May 05 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cc681706a5bd21763d0?utm_campaign=1048&utm_source=git)** | RICHMOND, Virginia,United States,RICHMOND | On Site | May 05 |
 | ↳ | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cbedb88714bcdfc368e?utm_campaign=1048&utm_source=git)** | FORT COLLINS, Colorado,United States,FORT COLLINS | On Site | May 05 |
 | ↳ | **[DoD Skillbridge Safety Internship](https://jobright.ai/jobs/info/69fa8cb30b36ff0354762f0f?utm_campaign=1048&utm_source=git)** | ATLANTA, Georgia,United States,ATLANTA | On Site | May 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Content Developer](https://jobright.ai/jobs/info/69fa7fd881706a5bd2175f80?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 05 |
 | **[Anagram Therapeutics, Inc.](https://anagramtx.com)** | **[Summer Intern - Formulation Development](https://jobright.ai/jobs/info/69fa5e5ca3d34b4f76f65351?utm_campaign=1048&utm_source=git)** | Natick, MA | On Site | May 05 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/69fa5e50b1fc847fc1aefc94?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 05 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer IT-Intern, AI Technology](https://jobright.ai/jobs/info/69fa98a80b36ff0354763154?utm_campaign=1048&utm_source=git)** | Cleveland, OH, United States | On Site | May 05 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Aircraft Maintenance Technician 5 - A&P](https://jobright.ai/jobs/info/698f92ba0f6f7e7a2cebd653?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
-| **[OTJ Architects](http://otj.com)** | **[Design Technology Intern](https://jobright.ai/jobs/info/69eb93ce58811370cb13a72c?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 05 |
-| **[Sony](https://www.sony.com)** | **[Intern, AI Adoption](https://jobright.ai/jobs/info/69d5f805891d7b11cfd07365?utm_campaign=1048&utm_source=git)** | Reston, VA | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
