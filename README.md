@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Cirrus Logic](https://cirrus.com/)** | **[Entry Level Analog Design Engineer (GV)](https://jobright.ai/jobs/info/69fbaa9986d5cd46527d7a92?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 06 |
 | **[Hennepin County Library](http://www.hclib.org)** | **[Internship: STEAM Squad](https://jobright.ai/jobs/info/69fba9e718b94b2515be4567?utm_campaign=1048&utm_source=git)** | Hennepin County, MN | On Site | May 06 |
 | **[AECOM](http://www.aecom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fba326d21cf86d1e3d462c?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | May 06 |
-| **[Cesta Inc.](https://cestatech.com)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/69fba12e18b94b2515be42b8?utm_campaign=1048&utm_source=git)** | Cary, NC | On Site | May 06 |
 | **[H3X Technologies](http://h3x.tech/)** | **[Test Engineering Intern (Fall)](https://jobright.ai/jobs/info/69fba12218b94b2515be42a6?utm_campaign=1048&utm_source=git)** | Louisville, CO | On Site | May 06 |
 | **[Alstom](https://www.alstom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fba03cd21cf86d1e3d4572?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[K. Hovnanian® Homes](https://www.khov.com/)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/69fb9eca87a4820e6da8a035?utm_campaign=1048&utm_source=git)** | Matawan, NJ | Hybrid | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Process Engineering (EPI)](https://jobright.ai/jobs/info/69fb976487a4820e6da8920b?utm_campaign=1048&utm_source=git)** | Colorado Springs Area | On Site | May 06 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Neurobiology Research Assistant](https://jobright.ai/jobs/info/69fb9b1a18b94b2515be3f96?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 06 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Energy Engineering Intern](https://jobright.ai/jobs/info/69fb90c9d21cf86d1e3d3ce4?utm_campaign=1048&utm_source=git)** | Portland, OR | Hybrid | May 06 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/69fb90dfd21cf86d1e3d3d22?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
