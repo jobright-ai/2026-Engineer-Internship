@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[AI Software Intern](https://jobright.ai/jobs/info/69fd22ac938a651755f9937c?utm_campaign=1048&utm_source=git)** | 2500 Bee Cave Road Building 1, #300, Austin, TX, 78746, US | Hybrid | May 07 |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern](https://jobright.ai/jobs/info/69fd2299b113035a9f8ee9ba?utm_campaign=1048&utm_source=git)** | US-WA-Seattle | On Site | May 07 |
+| **[SKXYWTF](http://www.worldtradefactory.com)** | **[World Trade Factory - The Future Belongs To You - AI Engineering Intern](https://jobright.ai/jobs/info/69fd2287b113035a9f8ee99a?utm_campaign=1048&utm_source=git)** | United States | Remote | May 07 |
+| **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Manufacturing Quality Engineering Intern (Summer Internship)](https://jobright.ai/jobs/info/69fd1efeb113035a9f8ee918?utm_campaign=1048&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 07 |
+| ↳ | **[Continuous Improvement Intern (Summer Internship)](https://jobright.ai/jobs/info/69fd1efdb113035a9f8ee915?utm_campaign=1048&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 07 |
 | **[HRD Aero Systems, Inc.](https://hrd-aerosystems.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69fd1586666f063d3d6d334e?utm_campaign=1048&utm_source=git)** | HRD Ca - Valencia, CA 91355 | On Site | May 07 |
 | **[HRL Laboratories, LLC](http://www.hrl.com/)** | **[Modeling Intern - Doctorate](https://jobright.ai/jobs/info/69fd14df6b788e7e7a5c5095?utm_campaign=1048&utm_source=git)** | Malibu, CA | On Site | May 07 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[System Validation Engineer (Intern 2026)](https://jobright.ai/jobs/info/69fd14dc6b788e7e7a5c5083?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 07 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69fd0adc432a3c4da8e01620?utm_campaign=1048&utm_source=git)** | Chicago (Green St), IL, US | Hybrid | May 07 |
 | **[SWBC](https://www.swbc.com)** | **[IT Intern (Network Security)](https://jobright.ai/jobs/info/69fd0ac6432a3c4da8e015d4?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | May 07 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69fd09836b788e7e7a5c482b?utm_campaign=1048&utm_source=git)** | 2 Westbrook Corporate Ctr, Westchester, IL, 60154, US | On Site | May 07 |
-| **[Cape Fear Solar Systems, LLC](https://capefearsolarsystems.com)** | **[Energy Efficiency Summer Intern](https://jobright.ai/jobs/info/69fd0861938a651755f98795?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | May 07 |
 | **[Curia](https://curiaglobal.com)** | **[Intern, Process Sciences](https://jobright.ai/jobs/info/69fd038e432a3c4da8e010e9?utm_campaign=1048&utm_source=git)** | 35 South Street, Hopkinton, MA, 01748, US | On Site | May 07 |
 | **[HERE Technologies](https://www.here.com)** | **[Intern](https://jobright.ai/jobs/info/69fd02a2938a651755f98634?utm_campaign=1048&utm_source=git)** | US-IL-Chicago | On Site | May 07 |
 | **[General Dynamics](https://www.gd.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69fd0228b113035a9f8eda3d?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | Hybrid | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pali Wine Co.](http://paliwineco.com)** | **[Harvest Intern (Paid)](https://jobright.ai/jobs/info/69fce8c46b788e7e7a5c3955?utm_campaign=1048&utm_source=git)** | Lompoc,CA,US | On Site | May 07 |
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern- Engineering (Fall 2026) IS (ET26030)](https://jobright.ai/jobs/info/69fce8af938a651755f9798e?utm_campaign=1048&utm_source=git)** | Roanoke, Virginia, United States | On Site | May 07 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69fce81e5cff890b03f346b1?utm_campaign=1048&utm_source=git)** | Duryea, Pennsylvania, United States | On Site | May 07 |
-| **[ANS](https://ansgeo.com)** | **[Lab Engineer (Intern)](https://jobright.ai/jobs/info/69fce78e666f063d3d6d18cb?utm_campaign=1048&utm_source=git)** | South Plainfield, NJ | On Site | May 07 |
-| **[Rubbercraft](http://rubbercraft.com)** | **[High School Intern Co-Op](https://jobright.ai/jobs/info/69fce58e5cff890b03f3443f?utm_campaign=1048&utm_source=git)** | Kamatics Corporation, Bloomfield, CT, US | On Site | May 07 |
-| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Electrical Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/69fce2bd6b788e7e7a5c34c6?utm_campaign=1048&utm_source=git)** | Norfolk, VA, US | On Site | May 07 |
-| **[BiOrigin Specialty Products](https://www.bioriginsp.com)** | **[College Engineering Intern (Mechanical/Paper)](https://jobright.ai/jobs/info/69fce1fe666f063d3d6d1795?utm_campaign=1048&utm_source=git)** | Wiggins, MS, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
