@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KoiReader Technologies](https://www.koireader.com/#/)** | **[Industrial Automation Intern](https://jobright.ai/jobs/info/69fdc0b2f363bc4dc33996c0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 08 |
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69fdbba2f363bc4dc33994f7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 08 |
 | **[Endpoint Clinical](http://www.endpointclinical.com)** | **[AI Intern](https://jobright.ai/jobs/info/69fdab1c52e2b44f558ac1ce?utm_campaign=1048&utm_source=git)** | Remote US | Remote | May 08 |
 | **[EngineeRD](https://engineerd.com)** | **[Internship - Management Information Systems](https://jobright.ai/jobs/info/69fda5007714cd50b90fbc3f?utm_campaign=1048&utm_source=git)** | Fairfax, VA | Hybrid | May 08 |
@@ -65,12 +66,10 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Distribution Asset Failure Analysis Engineering Intern, Electric Engineering Planning and Strategy](https://jobright.ai/jobs/info/69fda3bf52e2b44f558ac0ff?utm_campaign=1048&utm_source=git)** | Oakland, CA, US | Hybrid | May 08 |
 | ↳ | **[Bonding Intern](https://jobright.ai/jobs/info/69fd9e4152e2b44f558abdd8?utm_campaign=1048&utm_source=git)** | Gorham, ME, US | On Site | May 08 |
 | **[Roush](https://www.roush.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69fd997a7714cd50b90fb6fd?utm_campaign=1048&utm_source=git)** | Allen Park, MI | On Site | May 08 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/69fd92a84b9bbf21744ab923?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 08 |
 | **[Air Squared](http://airsquared.com)** | **[Mechanical Engineering Testing Intern - Summer 2026](https://jobright.ai/jobs/info/69fd8bfd52e2b44f558abba0?utm_campaign=1048&utm_source=git)** | Thornton | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[SkillBridge Intern DoD: Information System Security Officer - Forest, MS](https://jobright.ai/jobs/info/69fd85854b9bbf21744ab7a9?utm_campaign=1048&utm_source=git)** | forest, Mississippi, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd838e4b9bbf21744ab6d1?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI, US | On Site | May 07 |
 | **[Cresta](https://www.cresta.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69205aaea49a885af9a39202?utm_campaign=1048&utm_source=git)** | Toronto Canada | Hybrid | May 07 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/69fd95c652e2b44f558abc1b?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 07 |
 | **[Providence Therapeutics](https://www.providencetherapeutics.com)** | **[Research Intern](https://jobright.ai/jobs/info/69fd9ff37714cd50b90fb9b1?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Associate (Internship Program)](https://jobright.ai/jobs/info/69fd66e66bcf315dc8f517b4?utm_campaign=1048&utm_source=git)** | FL, US | On Site | May 07 |
 | ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66976bcf315dc8f51798?utm_campaign=1048&utm_source=git)** | NC, US | On Site | May 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Multiple Myeloma Research Foundation - MMRF](https://themmrf.org)** | **[AI Research Engineering Intern (Translational Genomics & Multi-Omic Data Platforms)](https://jobright.ai/jobs/info/69fd100c938a651755f98d02?utm_campaign=1048&utm_source=git)** | Norwalk, CT | Remote | May 07 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - Contract Development & Manufacturing Organization](https://jobright.ai/jobs/info/69fd0feab113035a9f8ee35f?utm_campaign=1048&utm_source=git)** | California, US | Remote | May 07 |
 | **[Tencent](https://www.tencent.com/)** | **[Multimedia Codec Development Intern](https://jobright.ai/jobs/info/69fd0fe9b113035a9f8ee355?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 07 |
+| **[Airbus](https://us.airbus.com)** | **[Co-Op Internship - Engineering](https://jobright.ai/jobs/info/69fd0fc86b788e7e7a5c4d89?utm_campaign=1048&utm_source=git)** | Columbus, MS, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
