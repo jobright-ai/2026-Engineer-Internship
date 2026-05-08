@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd838e4b9bbf21744ab6d1?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI, US | On Site | May 07 |
+| **[Cresta](https://www.cresta.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69205aaea49a885af9a39202?utm_campaign=1048&utm_source=git)** | Toronto Canada | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Associate (Internship Program)](https://jobright.ai/jobs/info/69fd66e66bcf315dc8f517b4?utm_campaign=1048&utm_source=git)** | FL, US | On Site | May 07 |
 | ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66976bcf315dc8f51798?utm_campaign=1048&utm_source=git)** | NC, US | On Site | May 07 |
 | ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66966bcf315dc8f51797?utm_campaign=1048&utm_source=git)** | TN, US | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69fd0228b113035a9f8eda3d?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | Hybrid | May 07 |
 | **[HERE Technologies](https://www.here.com)** | **[Intern](https://jobright.ai/jobs/info/69fd0221b113035a9f8eda1c?utm_campaign=1048&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 | **[General Dynamics](https://www.gd.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69fd0220666f063d3d6d28ba?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 07 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd0200432a3c4da8e00e16?utm_campaign=1048&utm_source=git)** | IN - Virtual - B+ - EST, US | On Site | May 07 |
-| ↳ | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd01ff938a651755f985c6?utm_campaign=1048&utm_source=git)** | DC - Washington, 1325 G ST NW STE 300, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
