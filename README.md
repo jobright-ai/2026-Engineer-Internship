@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Bonding Intern](https://jobright.ai/jobs/info/69fd9e4152e2b44f558abdd8?utm_campaign=1048&utm_source=git)** | Gorham, ME, US | On Site | May 08 |
+| **[Endpoint Clinical](http://www.endpointclinical.com)** | **[AI Intern](https://jobright.ai/jobs/info/69fdab1c52e2b44f558ac1ce?utm_campaign=1048&utm_source=git)** | Remote US | Remote | May 08 |
+| **[EngineeRD](https://engineerd.com)** | **[Internship - Management Information Systems](https://jobright.ai/jobs/info/69fda5007714cd50b90fbc3f?utm_campaign=1048&utm_source=git)** | Fairfax, VA | Hybrid | May 08 |
+| ↳ | **[Internship - Cybersecurity and AI R&D](https://jobright.ai/jobs/info/69fda4fb52e2b44f558ac166?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | May 08 |
+| **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Intern, IT Security (Summer 2026)](https://jobright.ai/jobs/info/69fda4144b9bbf21744abe83?utm_campaign=1048&utm_source=git)** | CA-BC-Vancouver-Vancouver | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Distribution Asset Failure Analysis Engineering Intern, Electric Engineering Planning and Strategy](https://jobright.ai/jobs/info/69fda3bf52e2b44f558ac0ff?utm_campaign=1048&utm_source=git)** | Oakland, CA, US | Hybrid | May 08 |
+| ↳ | **[Bonding Intern](https://jobright.ai/jobs/info/69fd9e4152e2b44f558abdd8?utm_campaign=1048&utm_source=git)** | Gorham, ME, US | On Site | May 08 |
 | **[Roush](https://www.roush.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69fd997a7714cd50b90fb6fd?utm_campaign=1048&utm_source=git)** | Allen Park, MI | On Site | May 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/69fd92a84b9bbf21744ab923?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 08 |
 | **[Air Squared](http://airsquared.com)** | **[Mechanical Engineering Testing Intern - Summer 2026](https://jobright.ai/jobs/info/69fd8bfd52e2b44f558abba0?utm_campaign=1048&utm_source=git)** | Thornton | On Site | May 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - Contract Development & Manufacturing Organization](https://jobright.ai/jobs/info/69fd0feab113035a9f8ee35f?utm_campaign=1048&utm_source=git)** | California, US | Remote | May 07 |
 | **[Tencent](https://www.tencent.com/)** | **[Multimedia Codec Development Intern](https://jobright.ai/jobs/info/69fd0fe9b113035a9f8ee355?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 07 |
 | **[Airbus](https://us.airbus.com)** | **[Co-Op Internship - Engineering](https://jobright.ai/jobs/info/69fd0fc86b788e7e7a5c4d89?utm_campaign=1048&utm_source=git)** | Columbus, MS, US | On Site | May 07 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Marine Science & Education Intern (In-Person)](https://jobright.ai/jobs/info/69fd348ab113035a9f8eeeed?utm_campaign=1048&utm_source=git)** | Gloucester, MA | On Site | May 07 |
-| **[TRIMEDX](https://trimedx.com/)** | **[Clinical Engineering Intern](https://jobright.ai/jobs/info/69fd0aeeb113035a9f8ee029?utm_campaign=1048&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
-| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Engineering](https://jobright.ai/jobs/info/69fd0aee432a3c4da8e01643?utm_campaign=1048&utm_source=git)** | Wichita, KS, US | On Site | May 07 |
-| **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[VSL - Construction Internship - Summer 2026](https://jobright.ai/jobs/info/69fd0aedb113035a9f8ee024?utm_campaign=1048&utm_source=git)** | Denver, CO, US | On Site | May 07 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69fd0adc432a3c4da8e01620?utm_campaign=1048&utm_source=git)** | Chicago (Green St), IL, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
