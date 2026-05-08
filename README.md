@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Intern - Year-Round](https://jobright.ai/jobs/info/69fd4cc739ea925ab9ed7518?utm_campaign=1048&utm_source=git)** | Richland, WA, US | On Site | May 07 |
+| ↳ | **[Automation & Controls Engineering Intern](https://jobright.ai/jobs/info/69fd4cc67824dc6135beeb65?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
+| ↳ | **[2026 Signal Processing and RF Engineering Grad Intern](https://jobright.ai/jobs/info/69fd4cbc44192e601700afc3?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
+| **[Chartbeat](http://chartbeat.com)** | **[Data Engineering  Internship](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af9?utm_campaign=1048&utm_source=git)** | United States | Remote | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[CAD Drafting Intern](https://jobright.ai/jobs/info/69fd493439ea925ab9ed7386?utm_campaign=1048&utm_source=git)** | OR, US | On Site | May 07 |
+| ↳ | **[Enterprise Integration Services (EIS) Summer Intern 2026](https://jobright.ai/jobs/info/69fd4933e7252f429d40ed78?utm_campaign=1048&utm_source=git)** | United States | Remote | May 07 |
 | **[Autonomique](https://www.autonomique.ai)** | **[Robotics Manipulation / Physical AI Internship](https://jobright.ai/jobs/info/69fd3ea2938a651755f9a01c?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 07 |
 | **[Kiewit](http://www.kiewit.com)** | **[Commissioning Engineer Intern - Kiewit OGC Engineering (Summer 2026)](https://jobright.ai/jobs/info/69fd3a536b788e7e7a5c5954?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 07 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Intern, E-Systems & Total Vehicle Validation - Fall 2026/Winter 2027](https://jobright.ai/jobs/info/69fd3a136b788e7e7a5c5917?utm_campaign=1048&utm_source=git)** | Oxnard, Cali, US | Hybrid | May 07 |
@@ -141,20 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Liquid Crystal on Silicon Research Co-op/Intern](https://jobright.ai/jobs/info/69fd01f76b788e7e7a5c44ee?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | May 07 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Process Engineering (Defect)](https://jobright.ai/jobs/info/69fd01ecb113035a9f8ed96e?utm_campaign=1048&utm_source=git)** | CO - Colorado Springs - East Cheyenne Mountain Blvd, US | On Site | May 07 |
 | **[Magna International](http://www.magna.com/)** | **[Logistics Engineer Intern](https://jobright.ai/jobs/info/69fd01cf5cff890b03f35491?utm_campaign=1048&utm_source=git)** | Clinton, Tennessee, US | On Site | May 07 |
-| **[AECOM](http://www.aecom.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/69fd0183432a3c4da8e00cae?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | May 07 |
 | **[iSono Health](http://www.isonohealth.com/)** | **[Biomedical/Electrical Engineering Imaging Intern](https://jobright.ai/jobs/info/69fcfed3666f063d3d6d26d7?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 07 |
-| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Automation Intern](https://jobright.ai/jobs/info/69b5cccb56973837413b2de9?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | May 07 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Automation Intern](https://jobright.ai/jobs/info/69d1fb560b098b7a67085f60?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 07 |
+| ↳ | **[I&E Engineering Intern](https://jobright.ai/jobs/info/69ed914d0a6e0955530501d3?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | May 07 |
+| ↳ | **[Automation Intern](https://jobright.ai/jobs/info/69b5cccb56973837413b2de9?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | May 07 |
 | **[RAYUS Radiology](https://www.rayusradiology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/69fcfc05938a651755f9833d?utm_campaign=1048&utm_source=git)** | St. Louis Park, MN, 55416, United States | On Site | May 07 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4 (Second Shift)](https://jobright.ai/jobs/info/69d13e8f891d7b11cfce2484?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | May 07 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Engineering Intern (Site/Civil)](https://jobright.ai/jobs/info/69fcfb28b113035a9f8ed686?utm_campaign=1048&utm_source=git)** | Montgomery, AL, US | On Site | May 07 |
 | **[Minnesota Valley Transit Authority](https://www.mvta.com/)** | **[Transit Planning Intern](https://jobright.ai/jobs/info/69fcfaef6b788e7e7a5c43af?utm_campaign=1048&utm_source=git)** | Burnsville, MN, US | On Site | May 07 |
 | **[Penn United Technologies, Inc.](http://pennunited.com)** | **[Intern](https://jobright.ai/jobs/info/69fcfa485cff890b03f35399?utm_campaign=1048&utm_source=git)** | Cabot, PA 16023 | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Pharm Fellow Internship, Medical Intern](https://jobright.ai/jobs/info/69fcf91e6b788e7e7a5c42ce?utm_campaign=1048&utm_source=git)** | NY, US | On Site | May 07 |
-| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/69f4a90612f2811ab5a5ff46?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | May 07 |
-| **[IRP Medical](http://www.irpi.com)** | **[High School Intern Co-Op](https://jobright.ai/jobs/info/69fcf8c4938a651755f98249?utm_campaign=1048&utm_source=git)** | Kamatics Corporation, Bloomfield, CT, US | On Site | May 07 |
-| **[AECOM](http://www.aecom.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/69fcf7de432a3c4da8e009cb?utm_campaign=1048&utm_source=git)** | Burnaby, Canada | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Systems Administrator & AI Analyst](https://jobright.ai/jobs/info/69fcf7d45cff890b03f3512c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 07 |
-| ↳ | **[Internship through The Hill](https://jobright.ai/jobs/info/69fcf7805cff890b03f35040?utm_campaign=1048&utm_source=git)** | Lexington, KY, US | On Site | May 07 |
-| ↳ | **[ML/AI Computer Science Intern](https://jobright.ai/jobs/info/69fcf767666f063d3d6d235f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
-| ↳ | **[AI / Automation Intern](https://jobright.ai/jobs/info/69fcf7286b788e7e7a5c4066?utm_campaign=1048&utm_source=git)** | IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
