@@ -59,6 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[KoiReader Technologies](https://www.koireader.com/#/)** | **[Industrial Automation Intern](https://jobright.ai/jobs/info/69fdc0b2f363bc4dc33996c0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 08 |
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69fdbba2f363bc4dc33994f7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 08 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Sustainability & Energy Intern / New York, NY](https://jobright.ai/jobs/info/69e014e3433ac8430e0e43e9?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa63519ca4e908ec65b769?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 08 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Business Group Intern](https://jobright.ai/jobs/info/69df090f18cf504166e319d4?utm_campaign=1048&utm_source=git)** | Greater Houston | On Site | May 08 |
+| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69cc95688130af1ac833c5f5?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 08 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co-Op - Software Engineer (AI/ML)](https://jobright.ai/jobs/info/69c41da5d5a1016e98db2868?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 08 |
 | **[Endpoint Clinical](http://www.endpointclinical.com)** | **[AI Intern](https://jobright.ai/jobs/info/69fdab1c52e2b44f558ac1ce?utm_campaign=1048&utm_source=git)** | Remote US | Remote | May 08 |
 | **[EngineeRD](https://engineerd.com)** | **[Internship - Management Information Systems](https://jobright.ai/jobs/info/69fda5007714cd50b90fbc3f?utm_campaign=1048&utm_source=git)** | Fairfax, VA | Hybrid | May 08 |
 | ↳ | **[Internship - Cybersecurity and AI R&D](https://jobright.ai/jobs/info/69fda4fb52e2b44f558ac166?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | May 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Security Compliance Intern (Unpaid)](https://jobright.ai/jobs/info/69fd12036b788e7e7a5c4e8c?utm_campaign=1048&utm_source=git)** | Bellevue, WA, US | On Site | May 07 |
 | ↳ | **[Transit Planning Intern](https://jobright.ai/jobs/info/69fd11f25cff890b03f35f54?utm_campaign=1048&utm_source=git)** | Burnsville, MN, US | On Site | May 07 |
 | ↳ | **[Project Management / Test Engineering Intern](https://jobright.ai/jobs/info/69fd11a0666f063d3d6d3125?utm_campaign=1048&utm_source=git)** | MI, US | On Site | May 07 |
-| ↳ | **[Engineering Intern (Site/Civil)](https://jobright.ai/jobs/info/69fd11396b788e7e7a5c4e56?utm_campaign=1048&utm_source=git)** | Montgomery, AL, US | On Site | May 07 |
-| **[Multiple Myeloma Research Foundation - MMRF](https://themmrf.org)** | **[AI Research Engineering Intern (Translational Genomics & Multi-Omic Data Platforms)](https://jobright.ai/jobs/info/69fd100c938a651755f98d02?utm_campaign=1048&utm_source=git)** | Norwalk, CT | Remote | May 07 |
-| **[Roche](http://www.roche.com)** | **[2026 Fall Intern - Contract Development & Manufacturing Organization](https://jobright.ai/jobs/info/69fd0feab113035a9f8ee35f?utm_campaign=1048&utm_source=git)** | California, US | Remote | May 07 |
-| **[Tencent](https://www.tencent.com/)** | **[Multimedia Codec Development Intern](https://jobright.ai/jobs/info/69fd0fe9b113035a9f8ee355?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 07 |
-| **[Airbus](https://us.airbus.com)** | **[Co-Op Internship - Engineering](https://jobright.ai/jobs/info/69fd0fc86b788e7e7a5c4d89?utm_campaign=1048&utm_source=git)** | Columbus, MS, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
