@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (AI/ML) - Fall 2026](https://jobright.ai/jobs/info/69fe5431f363bc4dc339de5b?utm_campaign=1048&utm_source=git)** | Bellevue, Washington, United States | On Site | May 08 |
+| ↳ | **[Software Engineer Intern (AI/ML) - Fall 2026](https://jobright.ai/jobs/info/69fe5431f363bc4dc339de59?utm_campaign=1048&utm_source=git)** | Menlo Park, California, United States | On Site | May 08 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Technology and Computer Science Intern](https://jobright.ai/jobs/info/69fe53744b9bbf21744b0b02?utm_campaign=1048&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
+| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Water Resources Engineering](https://jobright.ai/jobs/info/69fe53714b9bbf21744b0ae2?utm_campaign=1048&utm_source=git)** | US-NY-New York | On Site | May 08 |
+| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - Physical AI](https://jobright.ai/jobs/info/69fe50c06bcf315dc8f56cd0?utm_campaign=1048&utm_source=git)** | Markham, 19 Allstate Parkway, CA | On Site | May 08 |
+| ↳ | **[Intern Researcher - LLMs Agentic AI and RL](https://jobright.ai/jobs/info/69fe50bf7714cd50b910048c?utm_campaign=1048&utm_source=git)** | Markham, 19 Allstate Parkway, CA | On Site | May 08 |
+| **[University Health Network](https://www.uhn.ca/)** | **[Junior Developer (Intern), Analytics & Insights](https://jobright.ai/jobs/info/69fe4fff7714cd50b9100486?utm_campaign=1048&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | May 08 |
+| **[HNTB](http://www.hntb.com/)** | **[High School Intern - Summer 2026](https://jobright.ai/jobs/info/69fe4fa64b9bbf21744b09d2?utm_campaign=1048&utm_source=git)** | Milwaukee, WI (East Wisconsin Avenue), US | On Site | May 08 |
+| **[IERUS Technologies Inc](https://www.ierustech.com/)** | **[Engineering Internship (Must be US Citizen)](https://jobright.ai/jobs/info/69fe4d547714cd50b9100455?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 08 |
+| **[Dynax America Corporation](https://secure6.saashr.com/ta/6148095.careers?CareersSearch)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fe4d4d4b9bbf21744b08ea?utm_campaign=1048&utm_source=git)** | Roanoke, VA 24019-8229, USA | On Site | May 08 |
 | **[Corps Solutions](http://corps-solutions.com)** | **[System Administrator (SysAd) for Modeling and Simulation Systems](https://jobright.ai/jobs/info/69fe4c096bcf315dc8f56bae?utm_campaign=1048&utm_source=git)** | Twentynine Palms, CA | On Site | May 08 |
 | **[Spectrum Plastics Group, A DuPont Business](http://www.spectrumplastics.com)** | **[NPD Engineering Intern](https://jobright.ai/jobs/info/69fe4be46bcf315dc8f56b7d?utm_campaign=1048&utm_source=git)** | PPC - Pleasant Prairie - Pleasant Prairie, WI 53158 | On Site | May 08 |
 | ↳ | **[Manufacturing Engineer Intern - IST](https://jobright.ai/jobs/info/69fe4bddad691a11f34ed0d9?utm_campaign=1048&utm_source=git)** | PPC - Pleasant Prairie - Pleasant Prairie, WI 53158 | On Site | May 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rubbercraft](http://rubbercraft.com)** | **[Quality & Engineering Intern](https://jobright.ai/jobs/info/69fe136a7714cd50b90fe0ce?utm_campaign=1048&utm_source=git)** | IRP Medical, San Clemente, CA, US | On Site | May 08 |
 | **[Boxer Property](http://boxerproperty.com)** | **[HVAC Intern](https://jobright.ai/jobs/info/69fe13287714cd50b90fe0b3?utm_campaign=1048&utm_source=git)** | Houston - Southwest - Houston, TX 77074 | On Site | May 08 |
 | **[ZF Group](https://www.zf.com/)** | **[Engineering Intern Manufacturing](https://jobright.ai/jobs/info/69fe12d16bcf315dc8f54898?utm_campaign=1048&utm_source=git)** | Gray Court, SC, US, 29645 | On Site | May 08 |
-| **[OXEA](https://oxea.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/69fe12bc7714cd50b90fe058?utm_campaign=1048&utm_source=git)** | Houston | Hybrid | May 08 |
-| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Construction Project Design Intern](https://jobright.ai/jobs/info/69fe12936bcf315dc8f5486d?utm_campaign=1048&utm_source=git)** | HABITAT FOR HUMANITY OF OMAHA | On Site | May 08 |
-| **[Green Bay Packaging](https://gbp.com/)** | **[Electro-Mechanical Technician Internship](https://jobright.ai/jobs/info/69fe11dfad691a11f34eb965?utm_campaign=1048&utm_source=git)** | De Pere, WI 54115, USA | On Site | May 08 |
-| **[AAR](http://aarcorp.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69fe11826bcf315dc8f54822?utm_campaign=1048&utm_source=git)** | United States-Arkansas-Hot Springs-Triumph Airborne Structures | On Site | May 08 |
-| **[Advanced Construction Robotics](https://www.acrbots.com/)** | **[Intern Robotics Software Engineer](https://jobright.ai/jobs/info/69fe0f3a7714cd50b90fdeba?utm_campaign=1048&utm_source=git)** | 3812 William Flinn Highway, Allison Park, PA 15101, USA | On Site | May 08 |
-| ↳ | **[Intern Robotics Software Engineer](https://jobright.ai/jobs/info/69fe0f397714cd50b90fdeb8?utm_campaign=1048&utm_source=git)** | Hampton Township | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Manufacturing Engineering (Onsite)](https://jobright.ai/jobs/info/69fe0f22f363bc4dc339b5da?utm_campaign=1048&utm_source=git)** | Irvine, CA, US | On Site | May 08 |
-| ↳ | **[Intern/Co-op – Safety (Summer 2026)](https://jobright.ai/jobs/info/69fe0f124b9bbf21744ae1cf?utm_campaign=1048&utm_source=git)** | Carson, CA, US | On Site | May 08 |
-| ↳ | **[Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern](https://jobright.ai/jobs/info/69fe0f126bcf315dc8f54695?utm_campaign=1048&utm_source=git)** | Seattle, WA, US | On Site | May 08 |
-| ↳ | **[Transportation Planning Internship](https://jobright.ai/jobs/info/69fe0f104b9bbf21744ae1cc?utm_campaign=1048&utm_source=git)** | Arvada, CO, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
