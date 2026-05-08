@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stokes Robotics](https://stokeseducation.com)** | **[Robotics & AI Intern (6–10 Weeks)](https://jobright.ai/jobs/info/69fe03b1f363bc4dc339b098?utm_campaign=1048&utm_source=git)** | Carl Junction, MO | On Site | May 08 |
+| **[Rich Products Corporation](https://rich.com)** | **[Intern](https://jobright.ai/jobs/info/69fe02754b9bbf21744adcbb?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN | On Site | May 08 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Quality Engineer Intern/Co-op](https://jobright.ai/jobs/info/69fe020b4b9bbf21744adc92?utm_campaign=1048&utm_source=git)** | 4475 E 175th St, Cleveland, OH, 44128, US | On Site | May 08 |
+| **[DRMP](http://drmp.com)** | **[Engineer Intern (Civil/Facilities - Orlando)](https://jobright.ai/jobs/info/69fe007e52e2b44f558add65?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | May 08 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69fdfefc4b9bbf21744adbbd?utm_campaign=1048&utm_source=git)** | Urbandale, IA, US | On Site | May 08 |
+| ↳ | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69fdfef86bcf315dc8f54122?utm_campaign=1048&utm_source=git)** | IA, Urbandale - 3840  109th Street | On Site | May 08 |
+| ↳ | **[Automation Engineering Intern](https://jobright.ai/jobs/info/69fdfef752e2b44f558add23?utm_campaign=1048&utm_source=git)** | US-IA-Urbandale | On Site | May 08 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Production Support (CNC)](https://jobright.ai/jobs/info/69fdfeea6bcf315dc8f540fd?utm_campaign=1048&utm_source=git)** | Anniston, AL, US | On Site | May 08 |
+| **[Hermeus](http://www.hermeus.com)** | **[Manufacturing Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69fdfe656bcf315dc8f53fd5?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
+| ↳ | **[GNC Engineering Intern (Controls) - Fall 2026](https://jobright.ai/jobs/info/69a952e8f2055e05d171775a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 08 |
+| ↳ | **[Propulsion Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/69a8c66e7ac93962b70894ab?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
+| **[AMOT Controls](http://www.amot.com/)** | **[AI & Data Analytics Co-op/Intern](https://jobright.ai/jobs/info/69fdfdc64b9bbf21744ada4d?utm_campaign=1048&utm_source=git)** | Houston, Texas, United States | On Site | May 08 |
+| **[Centennial Bank](https://www.my100bank.com/)** | **[Intern, CCFG](https://jobright.ai/jobs/info/69fdfdb452e2b44f558adbce?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | May 08 |
+| **[Arclin](http://arclin.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/69fdfdb4f363bc4dc339ae65?utm_campaign=1048&utm_source=git)** | Hayward, Wisconsin, United States | On Site | May 08 |
+| **[Cubic Corporation](http://cubic.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69fdf9ca6bcf315dc8f53f4e?utm_campaign=1048&utm_source=git)** | New York, US | On Site | May 08 |
+| **[Trinity Information Technology, LLC](https://www.trinityit.biz)** | **[SKILLBRIDGE INTERNSHIP - Cybersecurity Engineer](https://jobright.ai/jobs/info/69fdf862ad691a11f34eb1f7?utm_campaign=1048&utm_source=git)** | Yardley, PA | On Site | May 08 |
 | **[nVent](https://www.nvent.com/)** | **[Mechanical Engineering and Design Internship](https://jobright.ai/jobs/info/69fdf45b52e2b44f558ad8fd?utm_campaign=1048&utm_source=git)** | Oshkosh, WI, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Mechanical Engineering and Design Internship](https://jobright.ai/jobs/info/69fdf2537714cd50b90fd26a?utm_campaign=1048&utm_source=git)** | Oshkosh, WI, US | On Site | May 08 |
 | ↳ | **[Packaging Development Intern](https://jobright.ai/jobs/info/69fdf2527714cd50b90fd268?utm_campaign=1048&utm_source=git)** | Rockford, IL, US | On Site | May 08 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Fall Intern - Contract Development & Manufacturing Organization](https://jobright.ai/jobs/info/69fd2fd7938a651755f996ee?utm_campaign=1048&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Modeling Intern - Doctorate](https://jobright.ai/jobs/info/69fd2fba432a3c4da8e021e3?utm_campaign=1048&utm_source=git)** | Malibu, CA, US | On Site | May 07 |
 | ↳ | **[Mechanical Assembly, Integration and Test Intern](https://jobright.ai/jobs/info/69fd2fac666f063d3d6d39cd?utm_campaign=1048&utm_source=git)** | Malibu, CA, US | On Site | May 07 |
-| ↳ | **[Data Engineer Intern - Connected Systems and Data Platform](https://jobright.ai/jobs/info/69fd2f90b113035a9f8eed1f?utm_campaign=1048&utm_source=git)** | MN, US | Hybrid | May 07 |
-| ↳ | **[Summer Intern - Engineering & Lean](https://jobright.ai/jobs/info/69fd2d55938a651755f995d0?utm_campaign=1048&utm_source=git)** | FL, US | On Site | May 07 |
-| ↳ | **[AI Software Intern](https://jobright.ai/jobs/info/69fd2d1a6b788e7e7a5c55a7?utm_campaign=1048&utm_source=git)** | TX, US | Hybrid | May 07 |
-| ↳ | **[Intern - CMC Development](https://jobright.ai/jobs/info/69fd2d005cff890b03f3662e?utm_campaign=1048&utm_source=git)** | Louisville, KY, US | On Site | May 07 |
-| **[Stefanini North America and APAC](http://www.stefanini.com/EN)** | **[Process Automation Intern](https://jobright.ai/jobs/info/69fd2c89666f063d3d6d3843?utm_campaign=1048&utm_source=git)** | Bishop, TX | On Site | May 07 |
-| **[ANDRITZ](http://www.andritz.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fd29ff432a3c4da8e01f47?utm_campaign=1048&utm_source=git)** | Muncy, PA, US | On Site | May 07 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Signal Processing and RF Engineering Grad Intern](https://jobright.ai/jobs/info/69fd26db938a651755f993e4?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[AI Software Intern](https://jobright.ai/jobs/info/69fd23445cff890b03f36417?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | May 07 |
-| **[AMETEK](http://www.ametek.com)** | **[Intern- Integrated Production Services Design](https://jobright.ai/jobs/info/69fd2320666f063d3d6d36c4?utm_campaign=1048&utm_source=git)** | Pasadena, CA, US, 91107 | On Site | May 07 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[AI Software Intern](https://jobright.ai/jobs/info/69fd22fc432a3c4da8e01eb7?utm_campaign=1048&utm_source=git)** | 2500 Bee Cave Road Building 1, #300, Austin, TX, 78746, US | Hybrid | May 07 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Environmental Summer Internship](https://jobright.ai/jobs/info/69fd22f3432a3c4da8e01e99?utm_campaign=1048&utm_source=git)** | US-CA-San Jose | On Site | May 07 |
-| ↳ | **[Environmental Summer Internship](https://jobright.ai/jobs/info/69fd22eb6b788e7e7a5c539b?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | May 07 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern](https://jobright.ai/jobs/info/69fd2299b113035a9f8ee9ba?utm_campaign=1048&utm_source=git)** | US-WA-Seattle | On Site | May 07 |
-| **[Lexington Manufacturing, LLC](https://www.lexingtonmfg.com/)** | **[Manufacturing Quality Engineering Intern (Summer Internship)](https://jobright.ai/jobs/info/69fd1efeb113035a9f8ee918?utm_campaign=1048&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 07 |
-| ↳ | **[Continuous Improvement Intern (Summer Internship)](https://jobright.ai/jobs/info/69fd1efdb113035a9f8ee915?utm_campaign=1048&utm_source=git)** | Coon Rapids, MN 55448, USA | On Site | May 07 |
-| **[HRD Aero Systems, Inc.](https://hrd-aerosystems.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69fd1586666f063d3d6d334e?utm_campaign=1048&utm_source=git)** | HRD Ca - Valencia, CA 91355 | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
