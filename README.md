@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arclin](http://arclin.com)** | **[Capital Project Engineering Intern](https://jobright.ai/jobs/info/69fde7947714cd50b90fc612?utm_campaign=1048&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 08 |
+| **[National Wire LLC](https://nationalwirellc.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69fde2e052e2b44f558ac99c?utm_campaign=1048&utm_source=git)** | Conroe, TX | On Site | May 08 |
+| **[Hermeus](http://www.hermeus.com)** | **[Operations and Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69a8dec32580d3183f010345?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Spectrum Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7fd4db861c42857c47a24?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | May 08 |
 | **[KoiReader Technologies](https://www.koireader.com/#/)** | **[Industrial Automation Intern](https://jobright.ai/jobs/info/69fdc0b2f363bc4dc33996c0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 08 |
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/69fdbba2f363bc4dc33994f7?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 08 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Sustainability & Energy Intern / New York, NY](https://jobright.ai/jobs/info/69e014e3433ac8430e0e43e9?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Engineering Intern, Marine Systems](https://jobright.ai/jobs/info/69fd1336938a651755f98eb9?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
 | ↳ | **[Manufacturing Process Improvement Intern](https://jobright.ai/jobs/info/69fd1301666f063d3d6d3187?utm_campaign=1048&utm_source=git)** | Radford, VA, US | On Site | May 07 |
 | ↳ | **[Vehicle Systems Engineering Intern (Fall/September 2026, 4- 8 Months)](https://jobright.ai/jobs/info/69fd1211666f063d3d6d313e?utm_campaign=1048&utm_source=git)** | Detroit, MI, US | Hybrid | May 07 |
-| ↳ | **[Undergraduate Intern -Electrical Engineer](https://jobright.ai/jobs/info/69fd1210432a3c4da8e019bc?utm_campaign=1048&utm_source=git)** | Richland, WA, US | On Site | May 07 |
-| ↳ | **[Cloud Security Compliance Intern (Unpaid)](https://jobright.ai/jobs/info/69fd12036b788e7e7a5c4e8c?utm_campaign=1048&utm_source=git)** | Bellevue, WA, US | On Site | May 07 |
-| ↳ | **[Transit Planning Intern](https://jobright.ai/jobs/info/69fd11f25cff890b03f35f54?utm_campaign=1048&utm_source=git)** | Burnsville, MN, US | On Site | May 07 |
-| ↳ | **[Project Management / Test Engineering Intern](https://jobright.ai/jobs/info/69fd11a0666f063d3d6d3125?utm_campaign=1048&utm_source=git)** | MI, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
