@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Bonding Intern](https://jobright.ai/jobs/info/69fd9e4152e2b44f558abdd8?utm_campaign=1048&utm_source=git)** | Gorham, ME, US | On Site | May 08 |
+| **[Roush](https://www.roush.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/69fd997a7714cd50b90fb6fd?utm_campaign=1048&utm_source=git)** | Allen Park, MI | On Site | May 08 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/69fd92a84b9bbf21744ab923?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 08 |
 | **[Air Squared](http://airsquared.com)** | **[Mechanical Engineering Testing Intern - Summer 2026](https://jobright.ai/jobs/info/69fd8bfd52e2b44f558abba0?utm_campaign=1048&utm_source=git)** | Thornton | On Site | May 08 |
 | **[Raytheon](http://www.bbn.com)** | **[SkillBridge Intern DoD: Information System Security Officer - Forest, MS](https://jobright.ai/jobs/info/69fd85854b9bbf21744ab7a9?utm_campaign=1048&utm_source=git)** | forest, Mississippi, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd838e4b9bbf21744ab6d1?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI, US | On Site | May 07 |
 | **[Cresta](https://www.cresta.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69205aaea49a885af9a39202?utm_campaign=1048&utm_source=git)** | Toronto Canada | Hybrid | May 07 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/69fd95c652e2b44f558abc1b?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 07 |
+| **[Providence Therapeutics](https://www.providencetherapeutics.com)** | **[Research Intern](https://jobright.ai/jobs/info/69fd9ff37714cd50b90fb9b1?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Associate (Internship Program)](https://jobright.ai/jobs/info/69fd66e66bcf315dc8f517b4?utm_campaign=1048&utm_source=git)** | FL, US | On Site | May 07 |
 | ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66976bcf315dc8f51798?utm_campaign=1048&utm_source=git)** | NC, US | On Site | May 07 |
 | ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66966bcf315dc8f51797?utm_campaign=1048&utm_source=git)** | TN, US | On Site | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Engineering](https://jobright.ai/jobs/info/69fd0aee432a3c4da8e01643?utm_campaign=1048&utm_source=git)** | Wichita, KS, US | On Site | May 07 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[VSL - Construction Internship - Summer 2026](https://jobright.ai/jobs/info/69fd0aedb113035a9f8ee024?utm_campaign=1048&utm_source=git)** | Denver, CO, US | On Site | May 07 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[AI Enablement Intern](https://jobright.ai/jobs/info/69fd0adc432a3c4da8e01620?utm_campaign=1048&utm_source=git)** | Chicago (Green St), IL, US | Hybrid | May 07 |
-| **[SWBC](https://www.swbc.com)** | **[IT Intern (Network Security)](https://jobright.ai/jobs/info/69fd0ac6432a3c4da8e015d4?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | May 07 |
-| **[Ritchie Bros.](http://www.rbauction.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69fd09836b788e7e7a5c482b?utm_campaign=1048&utm_source=git)** | 2 Westbrook Corporate Ctr, Westchester, IL, 60154, US | On Site | May 07 |
-| **[Curia](https://curiaglobal.com)** | **[Intern, Process Sciences](https://jobright.ai/jobs/info/69fd038e432a3c4da8e010e9?utm_campaign=1048&utm_source=git)** | 35 South Street, Hopkinton, MA, 01748, US | On Site | May 07 |
-| **[HERE Technologies](https://www.here.com)** | **[Intern](https://jobright.ai/jobs/info/69fd02a2938a651755f98634?utm_campaign=1048&utm_source=git)** | US-IL-Chicago | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
