@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd5968f363bc4dc3397806?utm_campaign=1048&utm_source=git)** | Chippewa Falls, Wisconsin, 54729 | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Associate (Internship Program)](https://jobright.ai/jobs/info/69fd66e66bcf315dc8f517b4?utm_campaign=1048&utm_source=git)** | FL, US | On Site | May 07 |
+| ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66976bcf315dc8f51798?utm_campaign=1048&utm_source=git)** | NC, US | On Site | May 07 |
+| ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd66966bcf315dc8f51797?utm_campaign=1048&utm_source=git)** | TN, US | On Site | May 07 |
+| ↳ | **[Field Service Engineer - Summer Intern](https://jobright.ai/jobs/info/69fd6686f363bc4dc33983c8?utm_campaign=1048&utm_source=git)** | NJ, US | On Site | May 07 |
+| ↳ | **[Intern-Electrical Engineer (Power)](https://jobright.ai/jobs/info/69fd65ed6bcf315dc8f5172f?utm_campaign=1048&utm_source=git)** | Bohemia, NY, US | On Site | May 07 |
+| ↳ | **[Summer Internship: CAD (AutoCAD LT) – Warehouse Operations](https://jobright.ai/jobs/info/69fd6579ad691a11f34e9617?utm_campaign=1048&utm_source=git)** | PA, US | On Site | May 07 |
+| ↳ | **[Harvest Intern (Paid)](https://jobright.ai/jobs/info/69fd6561f363bc4dc3398323?utm_campaign=1048&utm_source=git)** | Lompoc, CA, US | On Site | May 07 |
+| ↳ | **[Process Engineer Intern](https://jobright.ai/jobs/info/69fd655d7f9567150fa35cd0?utm_campaign=1048&utm_source=git)** | Aurora, IL, US | Hybrid | May 07 |
+| **[m6 Consulting Inc.](https://m6consultinginc.com)** | **[Civil Engineering Internship/Assistant](https://jobright.ai/jobs/info/69fd62187714cd50b90fac5a?utm_campaign=1048&utm_source=git)** | Moorpark, CA | On Site | May 07 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd5f7e7f9567150fa35b7d?utm_campaign=1048&utm_source=git)** | Chippewa Falls, Wisconsin, United States of America | On Site | May 07 |
+| ↳ | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd5968f363bc4dc3397806?utm_campaign=1048&utm_source=git)** | Chippewa Falls, Wisconsin, 54729 | On Site | May 07 |
 | **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Validation](https://jobright.ai/jobs/info/69fd573139ea925ab9ed7984?utm_campaign=1048&utm_source=git)** | US-IL-Champaign | On Site | May 07 |
 | **[NV5](http://www.nv5.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fd57302839d87f06ce4655?utm_campaign=1048&utm_source=git)** | US-CA-Ventura | On Site | May 07 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69fd572e39ea925ab9ed7981?utm_campaign=1048&utm_source=git)** | Ventura, CA, US | On Site | May 07 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/69fd0220666f063d3d6d28ba?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd0200432a3c4da8e00e16?utm_campaign=1048&utm_source=git)** | IN - Virtual - B+ - EST, US | On Site | May 07 |
 | ↳ | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd01ff938a651755f985c6?utm_campaign=1048&utm_source=git)** | DC - Washington, 1325 G ST NW STE 300, US | On Site | May 07 |
-| ↳ | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd01fd666f063d3d6d2843?utm_campaign=1048&utm_source=git)** | IN - Virtual - B+ - CST, US | On Site | May 07 |
-| ↳ | **[Comcast AI Research Intern](https://jobright.ai/jobs/info/69fd01fbb113035a9f8ed9b9?utm_campaign=1048&utm_source=git)** | MA - Virtual - D+, US | On Site | May 07 |
-| **[Generac](https://www.generac.com)** | **[Intern Engineering - Advanced Manufacturing](https://jobright.ai/jobs/info/69fd01f8b113035a9f8ed9a9?utm_campaign=1048&utm_source=git)** | Waukesha, WI - USA, US | On Site | May 07 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Liquid Crystal on Silicon Research Co-op/Intern](https://jobright.ai/jobs/info/69fd01f76b788e7e7a5c44ee?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | May 07 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Process Engineering (Defect)](https://jobright.ai/jobs/info/69fd01ecb113035a9f8ed96e?utm_campaign=1048&utm_source=git)** | CO - Colorado Springs - East Cheyenne Mountain Blvd, US | On Site | May 07 |
-| **[Magna International](http://www.magna.com/)** | **[Logistics Engineer Intern](https://jobright.ai/jobs/info/69fd01cf5cff890b03f35491?utm_campaign=1048&utm_source=git)** | Clinton, Tennessee, US | On Site | May 07 |
-| **[Revvity](https://www.revvity.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69fd56e26b5b765031e8271d?utm_campaign=1048&utm_source=git)** | Hopkinton, US | On Site | May 07 |
-| **[iSono Health](http://www.isonohealth.com/)** | **[Biomedical/Electrical Engineering Imaging Intern](https://jobright.ai/jobs/info/69fcfed3666f063d3d6d26d7?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 07 |
-| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Automation Intern](https://jobright.ai/jobs/info/69d1fb560b098b7a67085f60?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 07 |
-| ↳ | **[I&E Engineering Intern](https://jobright.ai/jobs/info/69ed914d0a6e0955530501d3?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
