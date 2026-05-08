@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Thermal Engineering Intern](https://jobright.ai/jobs/info/69fd5968f363bc4dc3397806?utm_campaign=1048&utm_source=git)** | Chippewa Falls, Wisconsin, 54729 | On Site | May 07 |
+| **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Validation](https://jobright.ai/jobs/info/69fd573139ea925ab9ed7984?utm_campaign=1048&utm_source=git)** | US-IL-Champaign | On Site | May 07 |
+| **[NV5](http://www.nv5.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fd57302839d87f06ce4655?utm_campaign=1048&utm_source=git)** | US-CA-Ventura | On Site | May 07 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/69fd572e39ea925ab9ed7981?utm_campaign=1048&utm_source=git)** | Ventura, CA, US | On Site | May 07 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud DevOps Engineer Intern- Hybrid/ Austin, TX](https://jobright.ai/jobs/info/69fd51122839d87f06ce4483?utm_campaign=1048&utm_source=git)** | Austin, TX, US, 78728 | Hybrid | May 07 |
+| **[Sonova Group](http://www.sonova.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/69fd50f92839d87f06ce446b?utm_campaign=1048&utm_source=git)** | Aurora (IL), United States | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Engineering Intern - Year-Round](https://jobright.ai/jobs/info/69fd4cc739ea925ab9ed7518?utm_campaign=1048&utm_source=git)** | Richland, WA, US | On Site | May 07 |
 | ↳ | **[Automation & Controls Engineering Intern](https://jobright.ai/jobs/info/69fd4cc67824dc6135beeb65?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
 | ↳ | **[2026 Signal Processing and RF Engineering Grad Intern](https://jobright.ai/jobs/info/69fd4cbc44192e601700afc3?utm_campaign=1048&utm_source=git)** | El Segundo, CA, US | On Site | May 07 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Liquid Crystal on Silicon Research Co-op/Intern](https://jobright.ai/jobs/info/69fd01f76b788e7e7a5c44ee?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | May 07 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Process Engineering (Defect)](https://jobright.ai/jobs/info/69fd01ecb113035a9f8ed96e?utm_campaign=1048&utm_source=git)** | CO - Colorado Springs - East Cheyenne Mountain Blvd, US | On Site | May 07 |
 | **[Magna International](http://www.magna.com/)** | **[Logistics Engineer Intern](https://jobright.ai/jobs/info/69fd01cf5cff890b03f35491?utm_campaign=1048&utm_source=git)** | Clinton, Tennessee, US | On Site | May 07 |
+| **[Revvity](https://www.revvity.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/69fd56e26b5b765031e8271d?utm_campaign=1048&utm_source=git)** | Hopkinton, US | On Site | May 07 |
 | **[iSono Health](http://www.isonohealth.com/)** | **[Biomedical/Electrical Engineering Imaging Intern](https://jobright.ai/jobs/info/69fcfed3666f063d3d6d26d7?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 07 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Automation Intern](https://jobright.ai/jobs/info/69d1fb560b098b7a67085f60?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 07 |
 | ↳ | **[I&E Engineering Intern](https://jobright.ai/jobs/info/69ed914d0a6e0955530501d3?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | May 07 |
-| ↳ | **[Automation Intern](https://jobright.ai/jobs/info/69b5cccb56973837413b2de9?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | May 07 |
-| **[RAYUS Radiology](https://www.rayusradiology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/69fcfc05938a651755f9833d?utm_campaign=1048&utm_source=git)** | St. Louis Park, MN, 55416, United States | On Site | May 07 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4 (Second Shift)](https://jobright.ai/jobs/info/69d13e8f891d7b11cfce2484?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | May 07 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Engineering Intern (Site/Civil)](https://jobright.ai/jobs/info/69fcfb28b113035a9f8ed686?utm_campaign=1048&utm_source=git)** | Montgomery, AL, US | On Site | May 07 |
-| **[Minnesota Valley Transit Authority](https://www.mvta.com/)** | **[Transit Planning Intern](https://jobright.ai/jobs/info/69fcfaef6b788e7e7a5c43af?utm_campaign=1048&utm_source=git)** | Burnsville, MN, US | On Site | May 07 |
-| **[Penn United Technologies, Inc.](http://pennunited.com)** | **[Intern](https://jobright.ai/jobs/info/69fcfa485cff890b03f35399?utm_campaign=1048&utm_source=git)** | Cabot, PA 16023 | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Pharm Fellow Internship, Medical Intern](https://jobright.ai/jobs/info/69fcf91e6b788e7e7a5c42ce?utm_campaign=1048&utm_source=git)** | NY, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
