@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Risewell Homes](http://www.risewellhomes.com)** | **[Construction Intern](https://jobright.ai/jobs/info/69e2d6ab3770bd5361cda5d1?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | May 09 |
+| **[Modjeski and Masters](http://modjeski.com)** | **[Civil Engineer Internship - Bridge Design](https://jobright.ai/jobs/info/69ff657f74b5407dd46750db?utm_campaign=1048&utm_source=git)** | New Orleans LA - New Orleans, LA 70163 | On Site | May 09 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- SharePoint & Knowledge Management](https://jobright.ai/jobs/info/69d59f81cfdc6132f94639e9?utm_campaign=1048&utm_source=git)** | WA - Seattle | Hybrid | May 09 |
 | **[Wells](http://wellsconcrete.com)** | **[ENGINEER INTERN](https://jobright.ai/jobs/info/69ff5e21c2ffb31f4535eb88?utm_campaign=1048&utm_source=git)** | Hillsboro, TX | On Site | May 09 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program - Architecture Intern](https://jobright.ai/jobs/info/69ab018b7e1fab39d38292c0?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | May 09 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69fb2b9887a4820e6da85f3b?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | May 08 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Field Airborne Support Team AMT V A&P (Avionics)](https://jobright.ai/jobs/info/69bd53ec4828227293ff926a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Electrical Engineering/Power System Intern](https://jobright.ai/jobs/info/69fecb6bae08e368e37a10d0?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 08 |
-| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c0?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 08 |
+| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | ↳ | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/69fecb08cdb965044a8648c8?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 08 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Peoria, IL](https://jobright.ai/jobs/info/69e014ed4920452a85dd187d?utm_campaign=1048&utm_source=git)** | Peoria, IL | On Site | May 08 |
 | **[Atalys](https://www.atalys-energy.fr/)** | **[Process Engineer - Intern](https://jobright.ai/jobs/info/69febca4cdb965044a86472f?utm_campaign=1048&utm_source=git)** | Cloverdale, OH 45827 | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Radix Metasystems, Inc.](http://www.radixmeta.com)** | **[Network Engineering - SkillBridge/Hiring-Our-Heroes Intern](https://jobright.ai/jobs/info/69febb3f1161630dd3b03790?utm_campaign=1048&utm_source=git)** | ENGLEWOOD, CO 80112 | On Site | May 08 |
 | **[Craftwater](http://craftwater.com)** | **[Civil Design Intern](https://jobright.ai/jobs/info/69febaeb15859e57591cf3bd?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[AI Operations Internship – Manufacturing Systems](https://jobright.ai/jobs/info/69febabc373fc1347f2d0863?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | May 08 |
-| ↳ | **[AI/ML Data Scientist Intern](https://jobright.ai/jobs/info/69feb76815859e57591cf2a4?utm_campaign=1048&utm_source=git)** | Suffolk, VA, US | On Site | May 08 |
-| ↳ | **[Industrial Engineering Summer 2026 Intern](https://jobright.ai/jobs/info/69feb740d0dc596b8d119b6c?utm_campaign=1048&utm_source=git)** | Greenwood, SC, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
