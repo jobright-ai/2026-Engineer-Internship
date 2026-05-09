@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acceldata](http://acceldata.io)** | **[Field Engineering Co-Op](https://jobright.ai/jobs/info/69fedb2da0eddc08c2396ba4?utm_campaign=1048&utm_source=git)** | Kitchener | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[MFG Intern](https://jobright.ai/jobs/info/69fed98f74b5407dd4672e5f?utm_campaign=1048&utm_source=git)** | OK, US | On Site | May 08 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafc?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Construction Engineering Intern (Transportation/Heavy Highway)](https://jobright.ai/jobs/info/69fed2e9cdb965044a864ab0?utm_campaign=1048&utm_source=git)** | Elkin, NC, US | On Site | May 08 |
 | ↳ | **[Construction Engineering Intern (Transportation/Heavy Highway)](https://jobright.ai/jobs/info/69fed2e31161630dd3b04c56?utm_campaign=1048&utm_source=git)** | Boone, NC, US | On Site | May 08 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lab Assistant Intern I, Summer 2026](https://jobright.ai/jobs/info/69feacb7f363bc4dc33a012b?utm_campaign=1048&utm_source=git)** | Cedar Rapids Iowa | On Site | May 08 |
 | ↳ | **[Research &amp; Development Intern 2026](https://jobright.ai/jobs/info/69feac79ad691a11f34eeb12?utm_campaign=1048&utm_source=git)** | Radford Virginia | On Site | May 08 |
 | ↳ | **[High School Technical Intern](https://jobright.ai/jobs/info/69feac4f4b9bbf21744b2918?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 08 |
-| ↳ | **[PTECH Intern, Summer 2026](https://jobright.ai/jobs/info/69feac4f7714cd50b9102110?utm_campaign=1048&utm_source=git)** | Endicott New York | On Site | May 08 |
 | ↳ | **[ICBM Configuration Management Intern](https://jobright.ai/jobs/info/69feac4f52e2b44f558b2b8a?utm_campaign=1048&utm_source=git)** | Hill AFB Utah | On Site | May 08 |
+| ↳ | **[PTECH Intern, Summer 2026](https://jobright.ai/jobs/info/69feac4f7714cd50b9102110?utm_campaign=1048&utm_source=git)** | Endicott New York | On Site | May 08 |
 | ↳ | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69feac42ad691a11f34eeaef?utm_campaign=1048&utm_source=git)** | Manassas Virginia | On Site | May 08 |
 | ↳ | **[Aviation Internship Engineering Technician I](https://jobright.ai/jobs/info/69feac2c52e2b44f558b2b67?utm_campaign=1048&utm_source=git)** | Lexington Park Maryland | On Site | May 08 |
 | ↳ | **[Additive Manufacturing (3d Printing) Intern](https://jobright.ai/jobs/info/69feac046bcf315dc8f58b36?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 08 |
@@ -155,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, DPA (Destructive Physical Analysis) / EAG Laboratories](https://jobright.ai/jobs/info/69fe774df363bc4dc339edb3?utm_campaign=1048&utm_source=git)** | Irvine, CA, USA | On Site | May 08 |
 | **[Rincon Consultants](http://www.rinconconsultants.com/)** | **[Urban Planning and Design Intern](https://jobright.ai/jobs/info/69fe74924b9bbf21744b1ab8?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | May 08 |
 | **[CoPatible](https://copatible.com)** | **[AI/ML Engineer Intern](https://jobright.ai/jobs/info/69fe74904b9bbf21744b1ab4?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 08 |
-| **[EDF power solutions North America](http://www.edf-re.com)** | **[Intern -Transmission & Interconnection [Hybrid]](https://jobright.ai/jobs/info/69fe717f4b9bbf21744b1a21?utm_campaign=1048&utm_source=git)** | MN-Bloomington
-US-CA-San Diego
-US-TX-Houston
-US-CA-Oakland, UNAVAILABLE, US | Hybrid | May 08 |
-| ↳ | **[Intern -Transmission & Interconnection [Hybrid]](https://jobright.ai/jobs/info/69fe71787714cd50b9101257?utm_campaign=1048&utm_source=git)** | Bloomington, MN, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
