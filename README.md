@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
-| ↳ | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| **[DRMP](http://drmp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69ffa230c2ffb31f4535fc63?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| ↳ | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
 | **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff7de8c2ffb31f4535f1c6?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[MFG Intern](https://jobright.ai/jobs/info/69fed98f74b5407dd4672e5f?utm_campaign=1048&utm_source=git)** | OK, US | On Site | May 08 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafc?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Construction Engineering Intern (Transportation/Heavy Highway)](https://jobright.ai/jobs/info/69fed2e9cdb965044a864ab0?utm_campaign=1048&utm_source=git)** | Elkin, NC, US | On Site | May 08 |
-| ↳ | **[Construction Engineering Intern (Transportation/Heavy Highway)](https://jobright.ai/jobs/info/69fed2e31161630dd3b04c56?utm_campaign=1048&utm_source=git)** | Boone, NC, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
