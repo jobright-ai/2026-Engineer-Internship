@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Biomechanics Lab Intern](https://jobright.ai/jobs/info/69feb6cfcdb965044a8642e2?utm_campaign=1048&utm_source=git)** | WI, US | On Site | May 08 |
 | **[Phamily](https://phamily.com/)** | **[Intern:  AI Native Process Automation](https://jobright.ai/jobs/info/69feb5ad51699d6e54ef3bd4?utm_campaign=1048&utm_source=git)** | NYC | On Site | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/69feb5ab51699d6e54ef3bd3?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 08 |
-| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69feb572373fc1347f2d0646?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | May 08 |
 | ↳ | **[Electrical Engineering/Power System Intern](https://jobright.ai/jobs/info/69feb572373fc1347f2d0645?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 08 |
+| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69feb572373fc1347f2d0646?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | May 08 |
 | **[Phamily](https://phamily.com/)** | **[Intern:  AI Native Process Automation](https://jobright.ai/jobs/info/69feb43715859e57591cf159?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Shipyard Management Intern Spring/Summer 2026](https://jobright.ai/jobs/info/69feacb96bcf315dc8f58ba1?utm_campaign=1048&utm_source=git)** | San Diego California | On Site | May 08 |
 | ↳ | **[Lab Assistant Intern I, Summer 2026](https://jobright.ai/jobs/info/69feacb7f363bc4dc33a012b?utm_campaign=1048&utm_source=git)** | Cedar Rapids Iowa | On Site | May 08 |
@@ -159,5 +159,5 @@ US-CA-Oakland, UNAVAILABLE, US | Hybrid | May 08 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Avionics Test Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69fe6d80ad691a11f34edd03?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 08 |
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fe6d734b9bbf21744b18f5?utm_campaign=1048&utm_source=git)** | Englewood, Colorado, United States | On Site | May 08 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69fe6d2bad691a11f34edcea?utm_campaign=1048&utm_source=git)** | Minneapolis, Minnesota, United States of America | Hybrid | May 08 |
-| **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, ATE - Engineering Sciences / EAG Laboratories](https://jobright.ai/jobs/info/69fe6ac74b9bbf21744b1833?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 08 |
+| **[EDF power solutions North America](http://www.edf-re.com)** | **[Intern -Transmission & Interconnection [Hybrid]](https://jobright.ai/jobs/info/69febdb11161630dd3b0477d?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
