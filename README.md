@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Research &amp; Development Intern 2026](https://jobright.ai/jobs/info/69feac79ad691a11f34eeb12?utm_campaign=1048&utm_source=git)** | Radford Virginia | On Site | May 08 |
+| ↳ | **[PTECH Intern, Summer 2026](https://jobright.ai/jobs/info/69feac4f7714cd50b9102110?utm_campaign=1048&utm_source=git)** | Endicott New York | On Site | May 08 |
+| ↳ | **[ICBM Configuration Management Intern](https://jobright.ai/jobs/info/69feac4f52e2b44f558b2b8a?utm_campaign=1048&utm_source=git)** | Hill AFB Utah | On Site | May 08 |
+| ↳ | **[High School Technical Intern](https://jobright.ai/jobs/info/69feac4f4b9bbf21744b2918?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 08 |
+| ↳ | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69feac42ad691a11f34eeaef?utm_campaign=1048&utm_source=git)** | Manassas Virginia | On Site | May 08 |
+| ↳ | **[Aviation Internship Engineering Technician I](https://jobright.ai/jobs/info/69feac2c52e2b44f558b2b67?utm_campaign=1048&utm_source=git)** | Lexington Park Maryland | On Site | May 08 |
+| ↳ | **[Additive Manufacturing (3d Printing) Intern](https://jobright.ai/jobs/info/69feac046bcf315dc8f58b36?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 08 |
+| ↳ | **[RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69feabfbad691a11f34eeabf?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 08 |
+| ↳ | **[EE/CE/RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69feabf552e2b44f558b2b3d?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 08 |
 | **[Power Integrations](https://www.power.com)** | **[AI Operations Internship – Manufacturing Systems](https://jobright.ai/jobs/info/69fe9f936bcf315dc8f58967?utm_campaign=1048&utm_source=git)** | San Jose, California | On Site | May 08 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69fe9ee64b9bbf21744b2721?utm_campaign=1048&utm_source=git)** | Pennsylvania - Harrisburg | On Site | May 08 |
 | ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69fe9ee17714cd50b9101f4e?utm_campaign=1048&utm_source=git)** | Pennsylvania - Lancaster | On Site | May 08 |
@@ -81,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Structural Diagnostics Intern](https://jobright.ai/jobs/info/69fe9ce5ad691a11f34ee702?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 08 |
 | ↳ | **[Geophysical Intern](https://jobright.ai/jobs/info/69fe9cdf6bcf315dc8f586c6?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 08 |
 | ↳ | **[Materials Testing Intern](https://jobright.ai/jobs/info/69fe9cdf4b9bbf21744b24a8?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | May 08 |
-| ↳ | **[Ecology / Natural Resources Intern](https://jobright.ai/jobs/info/69fe9cd77714cd50b9101cb3?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | May 08 |
 | ↳ | **[Materials Testing Intern](https://jobright.ai/jobs/info/69fe9cd77714cd50b9101cb2?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | May 08 |
+| ↳ | **[Ecology / Natural Resources Intern](https://jobright.ai/jobs/info/69fe9cd77714cd50b9101cb3?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | May 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fe9cd67714cd50b9101cb1?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 08 |
 | ↳ | **[Material Testing Intern](https://jobright.ai/jobs/info/69fe9cd66bcf315dc8f586c0?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | May 08 |
 | ↳ | **[Intern (Environmental)](https://jobright.ai/jobs/info/69fe9cc87714cd50b9101ca9?utm_campaign=1048&utm_source=git)** | Madison, AL | On Site | May 08 |
@@ -90,10 +99,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Materials Intern](https://jobright.ai/jobs/info/69fe9cbc7714cd50b9101ca1?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | May 08 |
 | ↳ | **[Intern - Geotechnical Services](https://jobright.ai/jobs/info/69fe9cbc6bcf315dc8f586b1?utm_campaign=1048&utm_source=git)** | Winter Park, FL | On Site | May 08 |
 | ↳ | **[Intern (Civil Engineering)](https://jobright.ai/jobs/info/69fe9cbb6bcf315dc8f586b0?utm_campaign=1048&utm_source=git)** | Madison, AL | On Site | May 08 |
-| ↳ | **[Terracon Summer Internship &amp; Co-Op Program - Geotechnical](https://jobright.ai/jobs/info/69fe9cb852e2b44f558b270d?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | May 08 |
 | ↳ | **[Intern (Civil Engineering)](https://jobright.ai/jobs/info/69fe9cb8f363bc4dc339f7b4?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA | On Site | May 08 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/69fe9cb84b9bbf21744b2498?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 08 |
 | ↳ | **[Facilities Intern](https://jobright.ai/jobs/info/69fe9cb8f363bc4dc339f7b3?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 08 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/69fe9cb84b9bbf21744b2498?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 08 |
+| ↳ | **[Terracon Summer Internship &amp; Co-Op Program - Geotechnical](https://jobright.ai/jobs/info/69fe9cb852e2b44f558b270d?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | May 08 |
 | ↳ | **[Materials Intern](https://jobright.ai/jobs/info/69fe9cb7ad691a11f34ee6db?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 08 |
 | ↳ | **[Geotechnical Intern](https://jobright.ai/jobs/info/69fe9cb56bcf315dc8f586ac?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 08 |
 | ↳ | **[Terracon Summer Internship &amp; Co-Op Program – Construction Materials](https://jobright.ai/jobs/info/69fe9cb06bcf315dc8f586aa?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | May 08 |
@@ -151,13 +160,4 @@ US-CA-Oakland, UNAVAILABLE, US | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Manufacturing Engineer Intern - IST](https://jobright.ai/jobs/info/69fe6608ad691a11f34ed9a5?utm_campaign=1048&utm_source=git)** | Pleasant Prairie, WI, US | On Site | May 08 |
 | ↳ | **[Manufacturing Intern](https://jobright.ai/jobs/info/69fe65e5ad691a11f34ed984?utm_campaign=1048&utm_source=git)** | East Granby, CT, US | On Site | May 08 |
 | ↳ | **[Intern - Water Resources Engineering](https://jobright.ai/jobs/info/69fe65e4ad691a11f34ed982?utm_campaign=1048&utm_source=git)** | NY, US | On Site | May 08 |
-| ↳ | **[EIC Information Security Operations Engineer Intern](https://jobright.ai/jobs/info/69fe65d77714cd50b9100d2e?utm_campaign=1048&utm_source=git)** | United States | Remote | May 08 |
-| ↳ | **[Corporate Engineering Intern](https://jobright.ai/jobs/info/69fe65c752e2b44f558b18a2?utm_campaign=1048&utm_source=git)** | Arabi, LA, US | On Site | May 08 |
-| ↳ | **[Colorado Climate Center Intern](https://jobright.ai/jobs/info/69fe65c46bcf315dc8f57652?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, US | On Site | May 08 |
-| ↳ | **[High School Intern - Summer 2026](https://jobright.ai/jobs/info/69fe65a66bcf315dc8f57629?utm_campaign=1048&utm_source=git)** | Madison, WI, US | On Site | May 08 |
-| ↳ | **[Newsroom Engineering Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/69fe65956bcf315dc8f5760e?utm_campaign=1048&utm_source=git)** | Arlington, VA, US | Hybrid | May 08 |
-| **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[AI Intern](https://jobright.ai/jobs/info/69fe6591ad691a11f34ed8ae?utm_campaign=1048&utm_source=git)** | Woodridge, IL, 60517, United States | On Site | May 08 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69fe64c44b9bbf21744b13a6?utm_campaign=1048&utm_source=git)** | Pennsylvania - Pittsburgh | Hybrid | May 08 |
-| **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Mechanical- Fluids Intern (Summer 26)](https://jobright.ai/jobs/info/69d95b8ef748bc5d08a4acba?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/69fe62c34b9bbf21744b1213?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
