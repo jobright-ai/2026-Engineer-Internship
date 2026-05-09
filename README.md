@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/69007d79e0c73b3a111a549f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 09 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Service Forestry Admin & Field Intern, Western Region (Unpaid Internship)](https://jobright.ai/jobs/info/69ff2d38c4b08448a0b16d4e?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Amherst-Route 116 | On Site | May 09 |
+| **[ADM](http://www.adm.com)** | **[Process Automation Intern](https://jobright.ai/jobs/info/69ff2bfe74b5407dd4673d2a?utm_campaign=1048&utm_source=git)** | Decatur | On Site | May 09 |
+| ↳ | **[Process Automation Intern](https://jobright.ai/jobs/info/69ff2bfd74b5407dd4673d29?utm_campaign=1048&utm_source=git)** | IL - Illinois | On Site | May 09 |
+| **[Deltek](http://www.deltek.com)** | **[QA Automation Intern](https://jobright.ai/jobs/info/69ff2bc3fa1aa73213d8aa2e?utm_campaign=1048&utm_source=git)** | US (Remote) | Remote | May 09 |
+| ↳ | **[DevOps Pipeline &amp; Automation Analyst - Intern](https://jobright.ai/jobs/info/69ff2bbb238f143e835240e4?utm_campaign=1048&utm_source=git)** | US (Remote) | Remote | May 09 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ff2b9dc4b08448a0b16c70?utm_campaign=1048&utm_source=git)** | Pennsylvania - Pittsburgh | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29e674b5407dd4673cc4?utm_campaign=1048&utm_source=git)** | Manassas Virginia | On Site | May 09 |
 | ↳ | **[Additive Manufacturing (3d Printing) Intern](https://jobright.ai/jobs/info/69ff29e5c2ffb31f4535d8fe?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 09 |
 | ↳ | **[EE/CE/RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29dfa0eddc08c2397a01?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
@@ -73,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Specialist Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff298074b5407dd4673c92?utm_campaign=1048&utm_source=git)** | Florida - West Palm Beach | On Site | May 09 |
 | ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff297c74b5407dd4673c8d?utm_campaign=1048&utm_source=git)** | Pennsylvania - Statewide | On Site | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Surface Engineer Summer Intern](https://jobright.ai/jobs/info/69ff2963c4b08448a0b16bcd?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979ab?utm_campaign=1048&utm_source=git)** | Keewatin, MN | On Site | May 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979ab?utm_campaign=1048&utm_source=git)** | Keewatin, MN | On Site | May 09 |
 | ↳ | **[CNC Lathe Programmer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a98d?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
 | ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
 | ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayer](https://www.mayerelectric.com)** | **[Intern](https://jobright.ai/jobs/info/69f21c56ab4ec4779fff74f5?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | May 08 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[AI EdTech Product Intern (Flexible, 10-20hrs/week)](https://jobright.ai/jobs/info/69fe899e7714cd50b9101929?utm_campaign=1048&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 08 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Engineering Assistant](https://jobright.ai/jobs/info/69fbddf7d21cf86d1e3d581b?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 08 |
-| **[Oxford BioTherapeutics](http://www.oxfordbiotherapeutics.com)** | **[R&D Intern](https://jobright.ai/jobs/info/69fe83874b9bbf21744b2014?utm_campaign=1048&utm_source=git)** | San Jose, California, United States | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern -Transmission & Interconnection [Hybrid]](https://jobright.ai/jobs/info/69fe82cd4b9bbf21744b1f8d?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | Hybrid | May 08 |
-| ↳ | **[Intern - Weatherization Technician](https://jobright.ai/jobs/info/69fe82bc6bcf315dc8f5819b?utm_campaign=1048&utm_source=git)** | Christiansburg, VA, US | On Site | May 08 |
-| ↳ | **[Intern - Generative AI Research Engineer](https://jobright.ai/jobs/info/69fe82b46bcf315dc8f5818f?utm_campaign=1048&utm_source=git)** | United States | Remote | May 08 |
-| ↳ | **[Intern - Electronics Service](https://jobright.ai/jobs/info/69fe82b26bcf315dc8f5817e?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, US | On Site | May 08 |
-| ↳ | **[DSP Construction & Engineering Intern [On-Site]](https://jobright.ai/jobs/info/69fe82ab52e2b44f558b2258?utm_campaign=1048&utm_source=git)** | Columbia, MD, US | On Site | May 08 |
-| ↳ | **[Environmental Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69fe829f6bcf315dc8f58151?utm_campaign=1048&utm_source=git)** | NY, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
