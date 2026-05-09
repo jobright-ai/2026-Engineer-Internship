@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[CNC Lathe Programmer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a98d?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
 | ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
-| ↳ | **[Product Application CAD Engineer Intern](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d8a1?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
 | ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
+| ↳ | **[Product Application CAD Engineer Intern](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d8a1?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
 | ↳ | **[Product Metallurgist Summer Intern](https://jobright.ai/jobs/info/69ff2956238f143e83524048?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
 | **[VMRD, Inc.](https://www.vmrd.com)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/69ff2918c2ffb31f4535d880?utm_campaign=1048&utm_source=git)** | Pullman,WA,US | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Material Planning & Scheduler Intern](https://jobright.ai/jobs/info/69ff273cc4b08448a0b16b4a?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, US | On Site | May 09 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69fb2b9887a4820e6da85f3b?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | May 08 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Field Airborne Support Team AMT V A&P (Avionics)](https://jobright.ai/jobs/info/69bd53ec4828227293ff926a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Electrical Engineering/Power System Intern](https://jobright.ai/jobs/info/69fecb6bae08e368e37a10d0?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 08 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c0?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 08 |
 | ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c0?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 08 |
 | ↳ | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/69fecb08cdb965044a8648c8?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 08 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Peoria, IL](https://jobright.ai/jobs/info/69e014ed4920452a85dd187d?utm_campaign=1048&utm_source=git)** | Peoria, IL | On Site | May 08 |
 | **[Atalys](https://www.atalys-energy.fr/)** | **[Process Engineer - Intern](https://jobright.ai/jobs/info/69febca4cdb965044a86472f?utm_campaign=1048&utm_source=git)** | Cloverdale, OH 45827 | On Site | May 08 |
