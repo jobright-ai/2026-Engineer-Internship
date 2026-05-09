@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff7de8c2ffb31f4535f1c6?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 09 |
 | **[Graco](http://graco.com/in/en/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69ff7d83c2ffb31f4535f1b2?utm_campaign=1048&utm_source=git)** | Kamas, Utah, USA, US | On Site | May 09 |
@@ -104,12 +105,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Specialist Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff298074b5407dd4673c92?utm_campaign=1048&utm_source=git)** | Florida - West Palm Beach | On Site | May 09 |
 | ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff297c74b5407dd4673c8d?utm_campaign=1048&utm_source=git)** | Pennsylvania - Statewide | On Site | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Surface Engineer Summer Intern](https://jobright.ai/jobs/info/69ff2963c4b08448a0b16bcd?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979ab?utm_campaign=1048&utm_source=git)** | Keewatin, MN | On Site | May 09 |
-| ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[CNC Lathe Programmer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a98d?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
-| ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
+| ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
 | ↳ | **[Product Application CAD Engineer Intern](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d8a1?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
+| ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
 | ↳ | **[Product Metallurgist Summer Intern](https://jobright.ai/jobs/info/69ff2956238f143e83524048?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
 | **[VMRD, Inc.](https://www.vmrd.com)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/69ff2918c2ffb31f4535d880?utm_campaign=1048&utm_source=git)** | Pullman,WA,US | On Site | May 09 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TBI INTERNSHIP - TBI FORENSIC SERVICES DIVISION - INTERN - FALL 2026 INTERN - 77437](https://jobright.ai/jobs/info/69fbf66cc39b9a66c0c55a6c?utm_campaign=1048&utm_source=git)** | Davidson County, TN | On Site | May 09 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Engineering Lab CMMC Intern](https://jobright.ai/jobs/info/69fb2b9887a4820e6da85f3b?utm_campaign=1048&utm_source=git)** | Bedford, MA | Hybrid | May 08 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Field Airborne Support Team AMT V A&P (Avionics)](https://jobright.ai/jobs/info/69bd53ec4828227293ff926a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Electrical Engineering/Power System Intern](https://jobright.ai/jobs/info/69fecb6bae08e368e37a10d0?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 08 |
-| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c0?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 08 |
+| ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/69fecb6aae08e368e37a10c6?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | ↳ | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/69fecb08cdb965044a8648c8?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 08 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Civil Engineering Intern / Peoria, IL](https://jobright.ai/jobs/info/69e014ed4920452a85dd187d?utm_campaign=1048&utm_source=git)** | Peoria, IL | On Site | May 08 |
 | **[Atalys](https://www.atalys-energy.fr/)** | **[Process Engineer - Intern](https://jobright.ai/jobs/info/69febca4cdb965044a86472f?utm_campaign=1048&utm_source=git)** | Cloverdale, OH 45827 | On Site | May 08 |
 | ↳ | **[Process Engineer - Intern](https://jobright.ai/jobs/info/69febca3cdb965044a86472b?utm_campaign=1048&utm_source=git)** | US OH Ottoville | On Site | May 08 |
 | **[Advanced Ionics](http://advanced-ionics.com)** | **[Electrolyzer Engineering Intern](https://jobright.ai/jobs/info/69febc9d373fc1347f2d0b02?utm_campaign=1048&utm_source=git)** | NEW BERLIN, WI 53151 | On Site | May 08 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Asset Modeling & Analytics (871)](https://jobright.ai/jobs/info/69febc9b373fc1347f2d0af5?utm_campaign=1048&utm_source=git)** | Davie, FL 33314 | On Site | May 08 |
-| ↳ | **[Materials Engineering Support Intern (911)](https://jobright.ai/jobs/info/69febc4851699d6e54ef3f80?utm_campaign=1048&utm_source=git)** | Independence, KS 67301 | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
