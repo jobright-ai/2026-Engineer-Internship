@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoPatible](https://copatible.com)** | **[AI Engineer Intern (Future of Recruiting & Talent Intelligence)](https://jobright.ai/jobs/info/69ffc71bc4b08448a0b196cd?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 09 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/69ffb607238f143e83526b3d?utm_campaign=1048&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | May 09 |
 | ↳ | **[Cyber Security Intern](https://jobright.ai/jobs/info/69ffb601238f143e83526b3c?utm_campaign=1048&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 09 |
 | **[DRMP](http://drmp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69ffa230c2ffb31f4535fc63?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
-| ↳ | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| ↳ | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
 | **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff7de8c2ffb31f4535f1c6?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 09 |
@@ -126,12 +127,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Specialist Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff298074b5407dd4673c92?utm_campaign=1048&utm_source=git)** | Florida - West Palm Beach | On Site | May 09 |
 | ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff297c74b5407dd4673c8d?utm_campaign=1048&utm_source=git)** | Pennsylvania - Statewide | On Site | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Surface Engineer Summer Intern](https://jobright.ai/jobs/info/69ff2963c4b08448a0b16bcd?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979ab?utm_campaign=1048&utm_source=git)** | Keewatin, MN | On Site | May 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
 | ↳ | **[CNC Lathe Programmer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a98d?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
-| ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
 | ↳ | **[Product Application CAD Engineer Intern](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d8a1?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
+| ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d89c?utm_campaign=1048&utm_source=git)** | Gary | On Site | May 09 |
 | ↳ | **[Product Metallurgist Summer Intern](https://jobright.ai/jobs/info/69ff2956238f143e83524048?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
 | **[VMRD, Inc.](https://www.vmrd.com)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/69ff2918c2ffb31f4535d880?utm_campaign=1048&utm_source=git)** | Pullman,WA,US | On Site | May 09 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TBI INTERNSHIP - TBI FORENSIC SERVICES DIVISION - INTERN - FALL 2026 INTERN - 77437](https://jobright.ai/jobs/info/69fbf66cc39b9a66c0c55a6c?utm_campaign=1048&utm_source=git)** | Davidson County, TN | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Manufacturing Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c5c68683ea553769fcf8b5?utm_campaign=1048&utm_source=git)** | Waterbury, CT | On Site | May 09 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6933aaf2764507023d1b7cc2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 09 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Maryland Spring 2026 Career Fair](https://jobright.ai/jobs/info/69a88f5c2580d3183f0093c0?utm_campaign=1048&utm_source=git)** | Hunt Valley, MD | On Site | May 09 |
-| **[Geo-Technology Associates, Inc. (GTA)](http://gtaeng.com)** | **[Geotechnical Engineering Technician Internship](https://jobright.ai/jobs/info/69ccb1f9891d7b11cfcb25d1?utm_campaign=1048&utm_source=git)** | York, PA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
