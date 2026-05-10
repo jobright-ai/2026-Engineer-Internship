@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Specialist Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff298074b5407dd4673c92?utm_campaign=1048&utm_source=git)** | Florida - West Palm Beach | On Site | May 09 |
 | ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff297c74b5407dd4673c8d?utm_campaign=1048&utm_source=git)** | Pennsylvania - Statewide | On Site | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Surface Engineer Summer Intern](https://jobright.ai/jobs/info/69ff2963c4b08448a0b16bcd?utm_campaign=1048&utm_source=git)** | Osceola | On Site | May 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979ab?utm_campaign=1048&utm_source=git)** | Keewatin, MN | On Site | May 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69ff295ea0eddc08c23979aa?utm_campaign=1048&utm_source=git)** | Mt. Iron, MN | On Site | May 09 |
 | ↳ | **[CNC Lathe Programmer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a98d?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
 | ↳ | **[Process Innovation Engineer Intern](https://jobright.ai/jobs/info/69ff295afa1aa73213d8a989?utm_campaign=1048&utm_source=git)** | Munhall | On Site | May 09 |
 | ↳ | **[Product Application CAD Engineer Intern](https://jobright.ai/jobs/info/69ff2957c2ffb31f4535d8a1?utm_campaign=1048&utm_source=git)** | Houston | On Site | May 09 |
