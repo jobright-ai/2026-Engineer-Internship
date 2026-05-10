@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a004631a0eddc08c239bbe3?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Horticultural Data and Asset Management Intern](https://jobright.ai/jobs/info/6a0040f3fa1aa73213d8ec1b?utm_campaign=1048&utm_source=git)** | West Chester, PA, US | On Site | May 10 |
 | ↳ | **[Process Engineering INTERN](https://jobright.ai/jobs/info/6a0040f2238f143e835285d3?utm_campaign=1048&utm_source=git)** | Wenatchee, WA, US | On Site | May 10 |
 | ↳ | **[Finishing Intern](https://jobright.ai/jobs/info/6a0040cf238f143e835285c3?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, US | On Site | May 10 |
@@ -83,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[DRMP](http://drmp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69ffa230c2ffb31f4535fc63?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 09 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Sensors Intern](https://jobright.ai/jobs/info/69eb3a090a6e095553045ca3?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | May 09 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Specialist Intern](https://jobright.ai/jobs/info/69e6f9197820c036924d2d6b?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
-| ↳ | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
+| ↳ | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - LLM Research Intern : Physics-AI-Powered Analysis of Atomistic Systems](https://jobright.ai/jobs/info/69e6515d3cfd986aa6f84afe?utm_campaign=1048&utm_source=git)** | Gresham, OR | On Site | May 09 |
 | **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EE/CE/RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29dfa0eddc08c2397a01?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
 | ↳ | **[Aviation Internship Engineering Technician I](https://jobright.ai/jobs/info/69ff29d9a0eddc08c23979ff?utm_campaign=1048&utm_source=git)** | Lexington Park Maryland | On Site | May 09 |
 | ↳ | **[RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29d674b5407dd4673cbc?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
+| ↳ | **[High School Technical Intern](https://jobright.ai/jobs/info/69ff29c8c4b08448a0b16c2c?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
