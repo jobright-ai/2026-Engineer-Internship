@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a00626fa0eddc08c239bf7c?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Electrical Engineer Intern/Co-op Summer 2026 - CMTA](https://jobright.ai/jobs/info/6a005c90238f143e83528a2b?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, US | On Site | May 10 |
+| **[GenPark](https://genpark.ai)** | **[Data science engineer intern](https://jobright.ai/jobs/info/6a005b0efa1aa73213d8f04d?utm_campaign=1048&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Horticultural Data and Asset Management Intern](https://jobright.ai/jobs/info/6a0040f3fa1aa73213d8ec1b?utm_campaign=1048&utm_source=git)** | West Chester, PA, US | On Site | May 10 |
 | ↳ | **[Process Engineering INTERN](https://jobright.ai/jobs/info/6a0040f2238f143e835285d3?utm_campaign=1048&utm_source=git)** | Wenatchee, WA, US | On Site | May 10 |
 | ↳ | **[Finishing Intern](https://jobright.ai/jobs/info/6a0040cf238f143e835285c3?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, US | On Site | May 10 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Rotorcraft Flight Test Pilot](https://jobright.ai/jobs/info/6800b7ae5bff52f714691761?utm_campaign=1048&utm_source=git)** | Salem, OR | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - GN&C Graduate](https://jobright.ai/jobs/info/6a002694a0eddc08c239b604?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | May 09 |
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Engineering Intern (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/69c6f6ea83ea553769fdf469?utm_campaign=1048&utm_source=git)** | Scranton, PA | On Site | May 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Intern](https://jobright.ai/jobs/info/69fff2a3238f143e83527367?utm_campaign=1048&utm_source=git)** | United States-Utah-Salt Lake City | On Site | May 09 |
@@ -116,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Data & Automation Student](https://jobright.ai/jobs/info/69e2797e2f28653593076c69?utm_campaign=1048&utm_source=git)** | Sparta, TN | On Site | May 09 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Engineering Intern Co-op](https://jobright.ai/jobs/info/68cdad48e23def7af55bdc23?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 09 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Clinical Laboratory Associate (CLA), Prenatal (Overnight Shift)](https://jobright.ai/jobs/info/69e620a03cfd986aa6f83bab?utm_campaign=1048&utm_source=git)** | Union City, CA | On Site | May 09 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Electrical Engineering Intern (Fall Semester)](https://jobright.ai/jobs/info/69c7c5feaa3c2c1995e1b1fd?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 09 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Internship - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/698de66d0f6f7e7a2ce9f0b9?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 09 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6402d627244576e3f95d?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | May 09 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ebd6a78b4502f12a59a83?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | May 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Electrical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ff2b9dc4b08448a0b16c70?utm_campaign=1048&utm_source=git)** | Pennsylvania - Pittsburgh | Hybrid | May 09 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6f81758f2e4ac3fff711?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29e674b5407dd4673cc4?utm_campaign=1048&utm_source=git)** | Manassas Virginia | On Site | May 09 |
-| ↳ | **[Additive Manufacturing (3d Printing) Intern](https://jobright.ai/jobs/info/69ff29e5c2ffb31f4535d8fe?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 09 |
-| ↳ | **[EE/CE/RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29dfa0eddc08c2397a01?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
-| ↳ | **[Aviation Internship Engineering Technician I](https://jobright.ai/jobs/info/69ff29d9a0eddc08c23979ff?utm_campaign=1048&utm_source=git)** | Lexington Park Maryland | On Site | May 09 |
-| ↳ | **[RF Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29d674b5407dd4673cbc?utm_campaign=1048&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
-| ↳ | **[High School Technical Intern](https://jobright.ai/jobs/info/69ff29c8c4b08448a0b16c2c?utm_campaign=1048&utm_source=git)** | Hudson New Hampshire | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
