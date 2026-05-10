@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a002a24a0eddc08c239b6c2?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - GN&C Graduate](https://jobright.ai/jobs/info/6a002694a0eddc08c239b604?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | May 09 |
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Engineering Intern (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/69c6f6ea83ea553769fdf469?utm_campaign=1048&utm_source=git)** | Scranton, PA | On Site | May 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Roadway Intern](https://jobright.ai/jobs/info/69fff2a3238f143e83527367?utm_campaign=1048&utm_source=git)** | United States-Utah-Salt Lake City | On Site | May 09 |
@@ -94,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Baseball Operations R&D Intern](https://jobright.ai/jobs/info/69effc5f16b2612c2a12d0d8?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Year Round - Environments Engineering & Integration, Onsite](https://jobright.ai/jobs/info/69fb482618b94b2515be0f8f?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 09 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Construction Intern](https://jobright.ai/jobs/info/69e2d6ab3770bd5361cda5d1?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | May 09 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - Metallurgy & Welding Engineering, Onsite](https://jobright.ai/jobs/info/69fb1a0386d5cd46527d2882?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 09 |
 | **[Modjeski and Masters](http://modjeski.com)** | **[Civil Engineer Internship - Bridge Design](https://jobright.ai/jobs/info/69ff657f74b5407dd46750db?utm_campaign=1048&utm_source=git)** | New Orleans LA - New Orleans, LA 70163 | On Site | May 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round - Explosive Technology Maturation & Advanced Programs, Onsite](https://jobright.ai/jobs/info/69f05206825a315d7ca31ce3?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 09 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- SharePoint & Knowledge Management](https://jobright.ai/jobs/info/69d59f81cfdc6132f94639e9?utm_campaign=1048&utm_source=git)** | WA - Seattle | Hybrid | May 09 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lab Assistant Intern I, Summer 2026](https://jobright.ai/jobs/info/69ff29bb238f143e8352408f?utm_campaign=1048&utm_source=git)** | Cedar Rapids Iowa | On Site | May 09 |
 | ↳ | **[Research &amp; Development Intern 2026](https://jobright.ai/jobs/info/69ff29ab74b5407dd4673ca6?utm_campaign=1048&utm_source=git)** | Radford Virginia | On Site | May 09 |
 | ↳ | **[Shipyard Management Intern Spring/Summer 2026](https://jobright.ai/jobs/info/69ff29a4a0eddc08c23979de?utm_campaign=1048&utm_source=git)** | San Diego California | On Site | May 09 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff2988fa1aa73213d8a9b3?utm_campaign=1048&utm_source=git)** | Pennsylvania - Lancaster | On Site | May 09 |
+| ↳ | **[Construction Representative Intern (Summer 2026!)](https://jobright.ai/jobs/info/69ff2981c4b08448a0b16bf7?utm_campaign=1048&utm_source=git)** | Pennsylvania - Harrisburg | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
