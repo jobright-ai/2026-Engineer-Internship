@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a00b6aaa0eddc08c239d250?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
 | **[Astrolab](https://astrolab.space)** | **[LTVS Systems Engineering Intern (NASA LTVS Contingent)](https://jobright.ai/jobs/info/69fcdba4666f063d3d6d1422?utm_campaign=1048&utm_source=git)** | Hawthorne, California | On Site | May 10 |
 | **[CRB](https://www.crbgroup.com/)** | **[Technical Advancement Group Intern - MEP](https://jobright.ai/jobs/info/69c82a03e565c26a7002e1c7?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | May 10 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a009915c2ffb31f453634a5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 10 |
@@ -108,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[DRMP](http://drmp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69ffa230c2ffb31f4535fc63?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 09 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Sensors Intern](https://jobright.ai/jobs/info/69eb3a090a6e095553045ca3?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | May 09 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Specialist Intern](https://jobright.ai/jobs/info/69e6f9197820c036924d2d6b?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
-| ↳ | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| ↳ | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - LLM Research Intern : Physics-AI-Powered Analysis of Atomistic Systems](https://jobright.ai/jobs/info/69e6515d3cfd986aa6f84afe?utm_campaign=1048&utm_source=git)** | Gresham, OR | On Site | May 09 |
 | **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6402d627244576e3f95d?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | May 09 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698ebd6a78b4502f12a59a83?utm_campaign=1048&utm_source=git)** | Catlettsburg, KY | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Lab Assistant Intern](https://jobright.ai/jobs/info/69ff4841c2ffb31f4535e621?utm_campaign=1048&utm_source=git)** | Pullman, WA, US | On Site | May 09 |
+| **[Motion](https://www.motion.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d5e868366bb95ba5549e3d?utm_campaign=1048&utm_source=git)** | Danvers, MA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
