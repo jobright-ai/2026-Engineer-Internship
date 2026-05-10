@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Pipe](http://www.uspipe.com/)** | **[Metallurgist Intern](https://jobright.ai/jobs/info/6a00eeec74b5407dd467a68a?utm_campaign=1048&utm_source=git)** | LYNCHBURG, VA (LYHDIP) | On Site | May 10 |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a00eee8a0eddc08c239dc3f?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[Soopra.ai](https://www.soopra.ai)** | **[Intern - AI Forward Deployed Engineer](https://jobright.ai/jobs/info/6a00fa97c4b08448a0b1d58c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 10 |
+| **[Fortis Energy Services, Inc.](https://fortisenergyservices.com/)** | **[Health, Safety, & Compliance Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69fb978786d5cd46527d6a23?utm_campaign=1048&utm_source=git)** | Waskom, TX 75692, USA | On Site | May 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Factory Planning - Onsite Support (International Student)](https://jobright.ai/jobs/info/6a00eb8f238f143e8352aaa9?utm_campaign=1048&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 10 |
 | ↳ | **[Internship in Factory Planning - Onsite Support (International Student)](https://jobright.ai/jobs/info/6a00eb85238f143e8352aaa4?utm_campaign=1048&utm_source=git)** | United States of America-Alabama Vance | On Site | May 10 |
 | **[Cytovale](http://www.cytovale.com/)** | **[Innovation & Development Summer Intern](https://jobright.ai/jobs/info/6a00e88ca0eddc08c239da3d?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 10 |
