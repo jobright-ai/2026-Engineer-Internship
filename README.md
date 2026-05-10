@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a007e6ea0eddc08c239c551?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Environmental Health and Safety](https://jobright.ai/jobs/info/69c6bb851b5ad02887386935?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | May 10 |
+| **[FLO Materials](https://www.flomaterials.co)** | **[Research Intern, Infinitely Recyclable Plastics](https://jobright.ai/jobs/info/6a008038a0eddc08c239c578?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | May 10 |
+| **[NOCO Energy Corp.](http://www.noco.com/)** | **[Spring/Summer Internship Opportunities](https://jobright.ai/jobs/info/6a007f3ea0eddc08c239c56e?utm_campaign=1048&utm_source=git)** | Tonawanda, NY | On Site | May 10 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Post Grad Intern](https://jobright.ai/jobs/info/697916bc88e2b47213bd30ec?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | May 10 |
 | **[Structural Integrity Associates](http://structint.com)** | **[Meteorology Intern](https://jobright.ai/jobs/info/6a0075ba74b5407dd4678ca8?utm_campaign=1048&utm_source=git)** | Rockdale, IL | On Site | May 10 |
 | **[ByteDance](http://bytedance.com)** | **[Optical Engineer Intern (PICO) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/6a0015d8238f143e83527b50?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 10 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[DRMP](http://drmp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69ffa230c2ffb31f4535fc63?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 09 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Sensors Intern](https://jobright.ai/jobs/info/69eb3a090a6e095553045ca3?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | May 09 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Specialist Intern](https://jobright.ai/jobs/info/69e6f9197820c036924d2d6b?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
-| ↳ | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff97b9c2ffb31f4535f9ef?utm_campaign=1048&utm_source=git)** | Berkeley, CA, US | On Site | May 09 |
+| ↳ | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff97b9238f143e83526293?utm_campaign=1048&utm_source=git)** | Mountain View, CA, US | On Site | May 09 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - LLM Research Intern : Physics-AI-Powered Analysis of Atomistic Systems](https://jobright.ai/jobs/info/69e6515d3cfd986aa6f84afe?utm_campaign=1048&utm_source=git)** | Gresham, OR | On Site | May 09 |
 | **[Eluvio](https://live.eluv.io)** | **[Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)](https://jobright.ai/jobs/info/69ff8357c4b08448a0b185e4?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 09 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab63dcdaf1431824c8edbc?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | May 09 |
 | **[Recor Medical](http://recormedical.com)** | **[Manufacturing Engineering Summer Intern](https://jobright.ai/jobs/info/69e2dbc75c44d4710fe273b7?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/69007d79e0c73b3a111a549f?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 09 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/69700cd882817106e97728f9?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | May 09 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e634f13cfd986aa6f840a6?utm_campaign=1048&utm_source=git)** | Annapolis, MD | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
