@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a009ac6a0eddc08c239cee4?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[Astrolab](https://astrolab.space)** | **[LTVS Systems Engineering Intern (NASA LTVS Contingent)](https://jobright.ai/jobs/info/69fcdba4666f063d3d6d1422?utm_campaign=1048&utm_source=git)** | Hawthorne, California | On Site | May 10 |
+| **[CRB](https://www.crbgroup.com/)** | **[Technical Advancement Group Intern - MEP](https://jobright.ai/jobs/info/69c82a03e565c26a7002e1c7?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | May 10 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a009915c2ffb31f453634a5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 10 |
 | **[CRB](https://www.crbgroup.com/)** | **[Construction Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e42c101852e62f008027f3?utm_campaign=1048&utm_source=git)** | Kansas City, MO | On Site | May 10 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Engineering - Civil Engineering Internship](https://jobright.ai/jobs/info/688b353e3a30793eb9639108?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Construction Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e42c001852e62f008027c6?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | May 09 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/698eb80a78b4502f12a59667?utm_campaign=1048&utm_source=git)** | Canton, OH | On Site | May 09 |
 | ↳ | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e86310f6f7e7a2ceaa587?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | May 09 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/69d587f1706f771673ba3d92?utm_campaign=1048&utm_source=git)** | Anacortes, WA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
