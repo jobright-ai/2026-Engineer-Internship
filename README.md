@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a01b3e6238f143e8352d680?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 11 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Systems Engineering](https://jobright.ai/jobs/info/6a01bfddfa1aa73213d94256?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | May 11 |
+| **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) within Computer Vision & Digital Transformation](https://jobright.ai/jobs/info/6a01b6a4df52f1450d844725?utm_campaign=1048&utm_source=git)** | Hamburg Area, DE | On Site | May 11 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a01b651238f143e8352d6e7?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 11 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a01b651238f143e8352d6e8?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 11 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a01b26cc4b08448a0b1fba5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 11 |
 | ↳ | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a01b26bc2ffb31f45366a88?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Site Reliability Engineer Intern (Compute Platform)  - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a01b0ddc2ffb31f45366a4b?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 11 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Information Security](https://jobright.ai/jobs/info/69c71e901818a24cd84cbd80?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | Remote | May 10 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern](https://jobright.ai/jobs/info/69af41dd749500645093c68a?utm_campaign=1048&utm_source=git)** | Gormley, Ontario, Canada | On Site | May 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[2026 Summer Manufacturing Engineer Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/69e75dc9e0cd471b2f12ae96?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | May 10 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Construction Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a01bd03238f143e8352d7eb?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 10 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Project Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/68c9eeded10eb800af148286?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | May 10 |
 | **[Amazon](https://amazon.com)** | **[Personal Robotics Group - Research Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Locomotion, Controls, Reinforcement Learning, Perception, Manipulation, Planning, HRI and more)](https://jobright.ai/jobs/info/6972ec4d98522904c697bd8e?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 10 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e764447820c036924d62a4?utm_campaign=1048&utm_source=git)** | Framingham, MA | On Site | May 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GKN Automotive](https://www.gknautomotive.com/)** | **[Environmental, Safety & Health - Summer Intern](https://jobright.ai/jobs/info/69c6d090e565c26a70022e6c?utm_campaign=1048&utm_source=git)** | Newton, NC | On Site | May 10 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Post Grad Intern](https://jobright.ai/jobs/info/697916bc88e2b47213bd30ec?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | May 10 |
 | **[Planet](http://www.planet.com)** | **[Intern, RF and Optical Communications](https://jobright.ai/jobs/info/69e76409f8fa2f3ec32a773d?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 10 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e75de53aa0c47964399630?utm_campaign=1048&utm_source=git)** | Dublin, OH | On Site | May 10 |
-| **[International](https://www.international.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69f1b08a825a315d7ca396f4?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 10 |
-| **[HITT Contracting Inc.](http://www.hitt.com)** | **[Commercial Construction Intern](https://jobright.ai/jobs/info/6939c26aac80bb5492bc48cc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 10 |
-| **[Structural Integrity Associates](http://structint.com)** | **[Meteorology Intern](https://jobright.ai/jobs/info/6a0075ba74b5407dd4678ca8?utm_campaign=1048&utm_source=git)** | Rockdale, IL | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
