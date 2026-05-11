@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a01436ea0eddc08c239ecfb?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
 | **[OmVrti.ai](www.omvrti.ai)** | **[Vertical Agentic AI Startup Internship](https://jobright.ai/jobs/info/6a0132d8fa1aa73213d91e69?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
 | **[Avolta Inc.](https://www.avoltacanada.com)** | **[Electronics Student Intern (Co-op)](https://jobright.ai/jobs/info/6a01230374b5407dd467af4c?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 10 |
 | **[Karman Space & Defense](https://karman-sd.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fb3da918b94b2515be0cd4?utm_campaign=1048&utm_source=git)** | Brea, CA | On Site | May 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Monitoring Intern (Summer 2026)](https://jobright.ai/jobs/info/69c6edd9b773006330b742a2?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 09 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Innovation Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69aaa1499ca4e908ec661257?utm_campaign=1048&utm_source=git)** | New Hope, MN | On Site | May 09 |
 | **[FormFactor Inc.](http://www.formfactor.com)** | **[Research & Development Intern](https://jobright.ai/jobs/info/69e2bfd25c44d4710fe2699e?utm_campaign=1048&utm_source=git)** | Livermore, CA | On Site | May 09 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Structural Mechanic 4 (Second Shift)](https://jobright.ai/jobs/info/69d13e8f891d7b11cfce2484?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
