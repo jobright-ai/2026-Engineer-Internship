@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a010b3fa0eddc08c239e3b7?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
 | **[DAWSON](http://www.dawsonohana.com)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/6a0104aac2ffb31f453645f4?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | May 10 |
 | **[Clearstone Technologies](www.clearstonetech.com)** | **[UV LED Product Development Intern, 20-40 hrs per week](https://jobright.ai/jobs/info/6a01029ea0eddc08c239e0fc?utm_campaign=1048&utm_source=git)** | St Paul, MN | On Site | May 10 |
 | **[Soopra.ai](https://www.soopra.ai)** | **[Intern - AI Forward Deployed Engineer](https://jobright.ai/jobs/info/6a00fa97c4b08448a0b1d58c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Infrastructure) - 16520](https://jobright.ai/jobs/info/69f00a070a6e095553058ee4?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania | Remote | May 09 |
 | **[Lunar Energy](https://www.lunarenergy.com)** | **[Reliability Test Intern](https://jobright.ai/jobs/info/69ff7de8c2ffb31f4535f1c6?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 09 |
 | **[Graco](http://graco.com/in/en/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/69ff7d83c2ffb31f4535f1b2?utm_campaign=1048&utm_source=git)** | Kamas, Utah, USA, US | On Site | May 09 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Commissioning Intern - Summer 2026](https://jobright.ai/jobs/info/69c803d4aa3c2c1995e1c972?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
