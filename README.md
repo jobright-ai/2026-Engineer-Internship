@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a01272da0eddc08c239e84a?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[OmVrti.ai](www.omvrti.ai)** | **[Vertical Agentic AI Startup Internship](https://jobright.ai/jobs/info/6a0132d8fa1aa73213d91e69?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
 | **[Avolta Inc.](https://www.avoltacanada.com)** | **[Electronics Student Intern (Co-op)](https://jobright.ai/jobs/info/6a01230374b5407dd467af4c?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 10 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/69604915a1bbea1d9a7b2d1b?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | Hybrid | May 10 |
 | **[DAWSON](http://www.dawsonohana.com)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/6a0104aac2ffb31f453645f4?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | May 10 |
