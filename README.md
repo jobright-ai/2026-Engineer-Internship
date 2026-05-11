@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a017b8b238f143e8352cda4?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/6a017bc8fa1aa73213d936e7?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | May 10 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Electrical Engineering (56363)](https://jobright.ai/jobs/info/6a017b5ac4b08448a0b1f2d3?utm_campaign=1048&utm_source=git)** | RADIATION TEST SOLUTIONS - COLORADO SPRINGS, CO 80919 | On Site | May 10 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a017a2ddf52f1450d843cbb?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 10 |
 | **[Teledyne Scientific & Imaging](http://www.teledyne-si.com/)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/69fb3ab187a4820e6da86685?utm_campaign=1048&utm_source=git)** | Camarillo, CA | On Site | May 10 |
