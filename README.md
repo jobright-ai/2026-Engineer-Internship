@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North American Lighting, Inc.](http://www.nal.com)** | **[Intern](https://jobright.ai/jobs/info/6a01da5c238f143e8352e528?utm_campaign=1048&utm_source=git)** | Elberfeld | On Site | May 11 |
+| **[Arcosa Inc.](https://www.arcosa.com/)** | **[CPG Summer Intern 2026](https://jobright.ai/jobs/info/6a01d9bbc2ffb31f45367988?utm_campaign=1048&utm_source=git)** | Arlington, Texas, United States | On Site | May 11 |
+| **[Murphy Company](https://www.murphynet.com/)** | **[Intern](https://jobright.ai/jobs/info/6a01d245fa1aa73213d94787?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 11 |
+| **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a01d1dffa1aa73213d9477a?utm_campaign=1048&utm_source=git)** | 10 S 11th Ave, Evansville, IN 47712, USA | On Site | May 11 |
+| **[TenCate Americas](http://www.tencategrass.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a01d1863053db70a117252e?utm_campaign=1048&utm_source=git)** | Dayton, TN | On Site | May 11 |
 | **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a01cfee238f143e8352e2ff?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 11 |
-| **[Quikrete](https://www.quikrete.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a01cfebc4b08448a0b20857?utm_campaign=1048&utm_source=git)** | Aggregates West - Utah - Delivery: Kilgore | On Site | May 11 |
-| ↳ | **[Estimating Intern](https://jobright.ai/jobs/info/6a01cfebc4b08448a0b20856?utm_campaign=1048&utm_source=git)** | WEST VALLEY CITY, UT | On Site | May 11 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Laser Communication](https://jobright.ai/jobs/info/69cd986fcfdc6132f941d8e3?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Power Device Corporation](https://powerdevicecorp.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a01c6fdfa1aa73213d942b6?utm_campaign=1048&utm_source=git)** | Bohemia, NY | On Site | May 11 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Systems Engineering](https://jobright.ai/jobs/info/6a01bfddfa1aa73213d94256?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | May 11 |
 | **[Qnity](https://www.qnityelectronics.com/)** | **[Automated Process Equipment Intern](https://jobright.ai/jobs/info/69f52a0081706a5bd2165298?utm_campaign=1048&utm_source=git)** | Newark, DE | On Site | May 11 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) within Computer Vision & Digital Transformation](https://jobright.ai/jobs/info/6a01b6a4df52f1450d844725?utm_campaign=1048&utm_source=git)** | Hamburg Area, DE | On Site | May 11 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a01b651238f143e8352d6e7?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 11 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a01b651238f143e8352d6e8?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 11 |
 | **[Instacart](https://www.instacart.com)** | **[Machine Learning Engineer, PhD Intern](https://jobright.ai/jobs/info/69f21c91ab4ec4779fff7582?utm_campaign=1048&utm_source=git)** | United States | Remote | May 11 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a01b26cc4b08448a0b1fba5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 11 |
 | ↳ | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a01b26bc2ffb31f45366a88?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 11 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Site Reliability Engineer Intern (Compute Platform)  - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a01b0ddc2ffb31f45366a4b?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 11 |
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Fall 26](https://jobright.ai/jobs/info/69efb015e624fe645d532b3f?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | May 11 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f552d712f2811ab5a644c2?utm_campaign=1048&utm_source=git)** | Arkadelphia, AR | On Site | May 11 |
-| **[Mayer](https://www.mayerelectric.com)** | **[Intern](https://jobright.ai/jobs/info/69f21c56ab4ec4779fff74f5?utm_campaign=1048&utm_source=git)** | Birmingham, AL | On Site | May 11 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/6a017bc8fa1aa73213d936e7?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | May 10 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Electrical Engineering (56363)](https://jobright.ai/jobs/info/6a017b5ac4b08448a0b1f2d3?utm_campaign=1048&utm_source=git)** | RADIATION TEST SOLUTIONS - COLORADO SPRINGS, CO 80919 | On Site | May 10 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a017a2ddf52f1450d843cbb?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 10 |
