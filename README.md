@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a015f70a0eddc08c239f4b9?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 10 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6a015ee5c4b08448a0b1e944?utm_campaign=1048&utm_source=git)** | Cedar Rapids Iowa | On Site | May 10 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, Security Sector, Fall 2026](https://jobright.ai/jobs/info/6a015ce5c4b08448a0b1e852?utm_campaign=1048&utm_source=git)** | Lévis, CA | Hybrid | May 10 |
 | ↳ | **[Internship, Security Sector, Fall 2026](https://jobright.ai/jobs/info/6a015cd9c2ffb31f45365773?utm_campaign=1048&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Engineering INTERN](https://jobright.ai/jobs/info/6a0040f2238f143e835285d3?utm_campaign=1048&utm_source=git)** | Wenatchee, WA, US | On Site | May 10 |
 | ↳ | **[Finishing Intern](https://jobright.ai/jobs/info/6a0040cf238f143e835285c3?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, US | On Site | May 10 |
 | **[ABB](https://global.abb/group/en)** | **[AI Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/6993ecace0bddb6acac235c0?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | May 10 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Rotorcraft Flight Test Pilot](https://jobright.ai/jobs/info/6800b7ae5bff52f714691761?utm_campaign=1048&utm_source=git)** | Salem, OR | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
