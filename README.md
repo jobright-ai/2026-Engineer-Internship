@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a02e9416c07461fe16fea7e?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 12 |
+| **[BluePath Labs (8(a) & SDVOSB)](https://www.bluepathlabs.com)** | **[China Research Intern PT – Defense (Hybrid)](https://jobright.ai/jobs/info/6a02e67ded6a637463f4aa12?utm_campaign=1048&utm_source=git)** | Washington, D.C., USA, 20007 | Hybrid | May 12 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[AI Innovation Intern](https://jobright.ai/jobs/info/6a02e637ed6a637463f4a947?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, USA | On Site | May 12 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Site/Civil Engineering Intern](https://jobright.ai/jobs/info/6a02d1346c07461fe16fe162?utm_campaign=1048&utm_source=git)** | US-NC-Charlotte | On Site | May 12 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02cffcbc4184089f22c92e?utm_campaign=1048&utm_source=git)** | Maple Grove, 55369 | On Site | May 12 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02cffa6c07461fe16fe02e?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 12 |
 | ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02cffa6c07461fe16fe02d?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 12 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02cffa6c07461fe16fe02e?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 12 |
 | **[Raytheon](http://www.bbn.com)** | **[Electrical (ASIC/FPGA) Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6a02cc2c22395b6dc6d8e7da?utm_campaign=1048&utm_source=git)** | cedar rapids, Iowa, United States of America | On Site | May 11 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/69a6f41276bbe83d3afa4843?utm_campaign=1048&utm_source=git)** | Hobart, NY | On Site | May 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Center Technicians INTERN](https://jobright.ai/jobs/info/6a02c3a1bc4184089f22b719?utm_campaign=1048&utm_source=git)** | United States, Arizona, Phoenix | On Site | May 11 |
 | **[Geneva Rock Products](https://genevarock.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a02b6786c07461fe16fcac8?utm_campaign=1048&utm_source=git)** | Park City, UT, US | On Site | May 11 |
 | **[Cambrex](http://www.cambrex.com)** | **[Intern - Process R&D](https://jobright.ai/jobs/info/6a02b67722395b6dc6d8d565?utm_campaign=1048&utm_source=git)** | US-MA-Waltham | On Site | May 11 |
 | **[Geneva Rock Products](https://genevarock.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a02b676bc4184089f22b489?utm_campaign=1048&utm_source=git)** | UT | On Site | May 11 |
+| **[OHLA USA](https://www.ohla-usa.com)** | **[2026 Field Engineer Intern](https://jobright.ai/jobs/info/69b860e056973837413da45f?utm_campaign=1048&utm_source=git)** | Santa Clara County, CA | On Site | May 11 |
 | **[Overwatch Imaging](http://www.overwatchimaging.com/)** | **[Aerial Imaging Intern](https://jobright.ai/jobs/info/6a02b0166c07461fe16fc912?utm_campaign=1048&utm_source=git)** | Hood River, Oregon, United States | On Site | May 11 |
 | **[Apptronik](https://apptronik.com)** | **[Software Engineer Intern: ML Ops](https://jobright.ai/jobs/info/6a02aea322395b6dc6d8d305?utm_campaign=1048&utm_source=git)** | Onsite - Austin, TX | On Site | May 11 |
 | **[Balfour Beatty Communities](http://balfourbeattycommunities.com)** | **[Renovations and Construction Intern](https://jobright.ai/jobs/info/6a02d57af3d6cc51d63710b3?utm_campaign=1048&utm_source=git)** | Fort Leonard Wood, MO | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Environmental Science/Engineering Intern](https://jobright.ai/jobs/info/6a023971c4b08448a0b24147?utm_campaign=1048&utm_source=git)** | Chicago, Illinois, United States | On Site | May 11 |
 | **[Elevate Semiconductor](https://www.elevatesemi.com)** | **[Test Operating Intern (Night & Weekends)](https://jobright.ai/jobs/info/6a02350c3053db70a11758ef?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Arterra Wines Canada](https://www.arterracanada.com/)** | **[Harvest Intern](https://jobright.ai/jobs/info/69aa1a4d2ebd316bece1d52e?utm_campaign=1048&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | May 11 |
-| **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[R&D Intern](https://jobright.ai/jobs/info/6a02338b238f143e835319ad?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a02338ac4b08448a0b23f74?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
-| **[RTX](http://rtx.com/)** | **[Electrical (ASIC/FPGA) Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6a023386c4b08448a0b23f71?utm_campaign=1048&utm_source=git)** | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193, US | On Site | May 11 |
-| **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a0233543053db70a1175839?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
