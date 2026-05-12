@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a025cb0238f143e83533a92?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 11 |
+| **[Pacific Defense](https://www.pacific-defense.com/)** | **[Pacific Defense Intern - Cedar Rapids](https://jobright.ai/jobs/info/6a026486238f143e83533cdd?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | May 11 |
+| **[ANI Pharmaceuticals, Inc.](http://www.anipharmaceuticals.com)** | **[Quality Assurance Ops and Quality Systems Intern](https://jobright.ai/jobs/info/6a026454c2ffb31f4536d013?utm_campaign=1048&utm_source=git)** | 210 Main Street West, Baudette, MN, 56623, US | On Site | May 11 |
+| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Vintage Automobile Mechanics Intern](https://jobright.ai/jobs/info/6a0263a5fa1aa73213d99f15?utm_campaign=1048&utm_source=git)** | Worcester, PA, US | On Site | May 11 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a025f673053db70a11779dd?utm_campaign=1048&utm_source=git)** | Maple Grove, 55369 | On Site | May 11 |
+| **[iORGANBIO](https://iorgan.bio)** | **[Mechatronics Intern](https://jobright.ai/jobs/info/6a025e73df52f1450d84a7b4?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | May 11 |
+| **[RTX](http://rtx.com/)** | **[2026 Raytheon Future Ready Lab Intern – Environmental, Health & Safety (EHS)](https://jobright.ai/jobs/info/6a025e6bc4b08448a0b25ff2?utm_campaign=1048&utm_source=git)** | US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04, US | On Site | May 11 |
+| **[Stored Energy Systems LLC (SENS)](http://www.sens-usa.com)** | **[Sales Engineering Intern - Mechanical](https://jobright.ai/jobs/info/6a025d9f3053db70a1177938?utm_campaign=1048&utm_source=git)** | Longmont, CO, US | On Site | May 11 |
 | **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a025b423053db70a1177745?utm_campaign=1048&utm_source=git)** | Ocala , FL, US, 34474 | On Site | May 11 |
 | **[LAPORTE](https://laporteconsultants.com)** | **[Stagiaire en génie mécanique](https://jobright.ai/jobs/info/6a025b02fa1aa73213d99bb2?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 11 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0259913053db70a117765c?utm_campaign=1048&utm_source=git)** | Valley City, OH, United States | On Site | May 11 |
@@ -111,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Elevate Semiconductor](https://www.elevatesemi.com)** | **[Test Operating Intern (Night & Weekends)](https://jobright.ai/jobs/info/6a02350c3053db70a11758ef?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Dirt Revolution Cycles LLC](www.dirtrevo.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0233f4c2ffb31f4536ae75?utm_campaign=1048&utm_source=git)** | Tacoma, WA | On Site | May 11 |
 | **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[R&D Intern](https://jobright.ai/jobs/info/6a02338b238f143e835319ad?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a02338ac4b08448a0b23f73?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a02338ac4b08448a0b23f74?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
 | **[RTX](http://rtx.com/)** | **[Electrical (ASIC/FPGA) Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6a023386c4b08448a0b23f71?utm_campaign=1048&utm_source=git)** | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193, US | On Site | May 11 |
 | **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a0233543053db70a1175839?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Biomedical Equipment Technician Intern - Mercy Hospital](https://jobright.ai/jobs/info/6a02331ffa1aa73213d97d13?utm_campaign=1048&utm_source=git)** | Mercy Hospital, US | On Site | May 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Electrical Engineering](https://jobright.ai/jobs/info/6957e366aa05c26e7ab1d226?utm_campaign=1048&utm_source=git)** | Warrendale, PA | On Site | May 11 |
 | **[Amentum](https://www.amentum.com/)** | **[Rotational Engineering Intern](https://jobright.ai/jobs/info/6a021fa2fa1aa73213d96ce3?utm_campaign=1048&utm_source=git)** | US-CA-Vandenberg AFB, US | On Site | May 11 |
 | **[Magna International](http://www.magna.com/)** | **[Intern/Co-op, Quality](https://jobright.ai/jobs/info/6a021fa0238f143e83530946?utm_campaign=1048&utm_source=git)** | Vaughan, Ontario, CA | On Site | May 11 |
-| **[Fortrend Engineering Corporation](https://www.fortrend.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a021e69c2ffb31f45369bf7?utm_campaign=1048&utm_source=git)** | Santa Cruz, CA | On Site | May 11 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Engineering - Civil Engineering Internship](https://jobright.ai/jobs/info/689d42c479a9f9666253eb66?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 11 |
-| **[GFT](https://www.gftinc.com)** | **[Intern - Roadway Engineering](https://jobright.ai/jobs/info/6a021cdbc2ffb31f45369a96?utm_campaign=1048&utm_source=git)** | Schaumburg, IL, US | On Site | May 11 |
-| **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[IT PMO Intern](https://jobright.ai/jobs/info/6a022db1df52f1450d847f39?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | May 11 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Rotational Homebuilding Intern - Houston Summer 2026](https://jobright.ai/jobs/info/69e648499b6eb37e26f7f04e?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 11 |
-| **[BASF](https://www.basf.com/)** | **[2026 Production Technician Internship](https://jobright.ai/jobs/info/693793cb1c1c2161c13f5efc?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
