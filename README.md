@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[R&D Product Development Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a0283a73053db70a1178418?utm_campaign=1048&utm_source=git)** | Bloomfield, Connecticut, United States of America | Hybrid | May 11 |
+| **[NV5](http://www.nv5.com)** | **[Geomatics Intern](https://jobright.ai/jobs/info/6a0280763053db70a11783e8?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | May 11 |
+| **[Impulse Space](https://www.impulsespace.com)** | **[RF Test Engineering Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a027d6bc4b08448a0b269a7?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 11 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a027b2d238f143e835344a7?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 11 |
+| **[Deckers Brands](http://deckers.com)** | **[Material Development Intern - HOKA Footwear](https://jobright.ai/jobs/info/6a027a783053db70a11782db?utm_campaign=1048&utm_source=git)** | Portland, Oregon, US | Hybrid | May 11 |
+| **[Inframark](https://www.inframark.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0279c7c4b08448a0b2690f?utm_campaign=1048&utm_source=git)** | Tomball, TX, USA | On Site | May 11 |
 | **[Strategic Group](https://www.strategicgroup.ca/)** | **[Junior–Intermediate Intern Architect/Designer](https://jobright.ai/jobs/info/6a0276b43053db70a1178162?utm_campaign=1048&utm_source=git)** | Calgary, AB, Canada | On Site | May 11 |
 | **[ELITechGroup - A Bruker Company](http://www.elitechgroup.com)** | **[Bioengineering Intern](https://jobright.ai/jobs/info/6a02741cdf52f1450d84adf5?utm_campaign=1048&utm_source=git)** | Logan,UT,US | On Site | May 11 |
 | **[Neuralink](https://www.neuralink.com)** | **[Analog and Mixed-Signal IC Design Engineer Intern](https://jobright.ai/jobs/info/69966005ce78e77b4fda6956?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 11 |
@@ -105,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[VRC Engineered Solutions](https://www.vrc-es.com)** | **[Engineering Intern - Milwaukee, Wisconsin](https://jobright.ai/jobs/info/6a0246dedf52f1450d8494e6?utm_campaign=1048&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | May 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a0246a2fa1aa73213d98aef?utm_campaign=1048&utm_source=git)** | United States-New Jersey-Newark | On Site | May 11 |
 | **[Jim Myers & Sons, Inc. (JMS)](https://www.jmsequipment.com)** | **[CAD Detailer Intern](https://jobright.ai/jobs/info/6a0246523053db70a1176645?utm_campaign=1048&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | May 11 |
-| **[gNucleus AI](https://gnucleus.ai/)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/6a02430a238f143e835327a3?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | Hybrid | May 11 |
 | **[BD](https://www.bd.com)** | **[R&D Engineering Intern (Hybrid) - Salt Lake City, UT](https://jobright.ai/jobs/info/6a024301df52f1450d849271?utm_campaign=1048&utm_source=git)** | USA UT - Salt Lake City BAS, US | Hybrid | May 11 |
 | **[BMO](http://www.bmo.com)** | **[Machine Learning Intern, Fall 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/6a0242e9238f143e83532728?utm_campaign=1048&utm_source=git)** | Chicago, IL, USA, US | On Site | May 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Construction Management Intern - Summer 2026](https://jobright.ai/jobs/info/6a0242c7238f143e835326bb?utm_campaign=1048&utm_source=git)** | Bellevue, WA (Seattle), US | On Site | May 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Slate Auto](https://slate.auto)** | **[Vehicle Safety & Testing Intern](https://jobright.ai/jobs/info/6a022d6a238f143e83530fd5?utm_campaign=1048&utm_source=git)** | Troy, Michigan, US | On Site | May 11 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Construction Management Intern](https://jobright.ai/jobs/info/6a022d5cc4b08448a0b23552?utm_campaign=1048&utm_source=git)** | Chicago, Illinois, US | On Site | May 11 |
 | **[Mabbett & Associates, Inc.](http://mabbett.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a022b8ec2ffb31f4536a357?utm_campaign=1048&utm_source=git)** | Stoneham,MA,US | On Site | May 11 |
-| **[FirstCall Group](https://firstcallmechanical.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0229f7fa1aa73213d971e3?utm_campaign=1048&utm_source=git)** | KPI Engineering - TAMPA, FL 33619 | On Site | May 11 |
-| **[C2H Air and Electric](http://c2hae.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0228c23053db70a1174d7f?utm_campaign=1048&utm_source=git)** | KPI Engineering - TAMPA, FL 33619 | Hybrid | May 11 |
-| **[Hudson Regional Health](https://www.hudsonregionalhospital.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/6a02288cdf52f1450d847d74?utm_campaign=1048&utm_source=git)** | Secaucus, NJ, US | On Site | May 11 |
-| **[altafiber](https://www.altafiber.com)** | **[Cyber & Physical Security Intern](https://jobright.ai/jobs/info/6a022662c4b08448a0b23270?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, 45202, United States | On Site | May 11 |
-| **[Shop LC](https://www.shoplc.com/)** | **[Broadcast Engineering Intern](https://jobright.ai/jobs/info/6a02259fc2ffb31f4536a0a8?utm_campaign=1048&utm_source=git)** | Austin Office, Austin, TX, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
