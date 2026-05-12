@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geneva Rock Products](https://genevarock.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a02b6786c07461fe16fcac8?utm_campaign=1048&utm_source=git)** | Park City, UT, US | On Site | May 11 |
+| **[Cambrex](http://www.cambrex.com)** | **[Intern - Process R&D](https://jobright.ai/jobs/info/6a02b67722395b6dc6d8d565?utm_campaign=1048&utm_source=git)** | US-MA-Waltham | On Site | May 11 |
+| **[Geneva Rock Products](https://genevarock.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a02b676bc4184089f22b489?utm_campaign=1048&utm_source=git)** | UT | On Site | May 11 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02b398bc4184089f22b408?utm_campaign=1048&utm_source=git)** | Maple Grove, 55369 | On Site | May 11 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a02b3966c07461fe16fca60?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 11 |
 | **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a02b12c6c07461fe16fc9eb?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 11 |
 | **[Overwatch Imaging](http://www.overwatchimaging.com/)** | **[Aerial Imaging Intern](https://jobright.ai/jobs/info/6a02b0166c07461fe16fc912?utm_campaign=1048&utm_source=git)** | Hood River, Oregon, United States | On Site | May 11 |
 | **[Apptronik](https://apptronik.com)** | **[Software Engineer Intern: ML Ops](https://jobright.ai/jobs/info/6a02aea322395b6dc6d8d305?utm_campaign=1048&utm_source=git)** | Onsite - Austin, TX | On Site | May 11 |
@@ -65,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a02971505484923de4767f3?utm_campaign=1048&utm_source=git)** | US - Torrance, CA, US | On Site | May 11 |
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a02970ced6a637463f48467?utm_campaign=1048&utm_source=git)** | US - Torrance, CA, US | On Site | May 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Center Technician INTERN](https://jobright.ai/jobs/info/6a028b7005484923de4763c1?utm_campaign=1048&utm_source=git)** | United States, Texas, San Antonio | On Site | May 11 |
-| ↳ | **[Data Center Technicians INTERN](https://jobright.ai/jobs/info/6a028b69ed6a637463f48016?utm_campaign=1048&utm_source=git)** | United States, Arizona, Phoenix | On Site | May 11 |
 | ↳ | **[Data Center Technicians INTERN](https://jobright.ai/jobs/info/6a028b676c07461fe16fbe90?utm_campaign=1048&utm_source=git)** | United States, Wyoming, Cheyenne | On Site | May 11 |
 | **[RTX](http://rtx.com/)** | **[Mechanical Design Engineer Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6a02876ced6a637463f48005?utm_campaign=1048&utm_source=git)** | US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA, US | On Site | May 11 |
 | **[ABB](https://global.abb/group/en)** | **[R&D Product Development Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a0283a73053db70a1178418?utm_campaign=1048&utm_source=git)** | Bloomfield, Connecticut, United States of America | Hybrid | May 11 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[SB Energy](https://sbenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a026b2dc2ffb31f4536d09d?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 11 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69eaf2ce7820c036924f0822?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | May 11 |
 | **[PROENERGY](http://www.proenergyservices.com)** | **[V - Cybersecurity Analyst Intern](https://jobright.ai/jobs/info/69faf75387a4820e6da83f48?utm_campaign=1048&utm_source=git)** | Sedalia, MO | Hybrid | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Industrial Engineering](https://jobright.ai/jobs/info/69976706e0bddb6acac61fed?utm_campaign=1048&utm_source=git)** | Buford, GA | On Site | May 11 |
 | **[Pacific Defense](https://www.pacific-defense.com/)** | **[Pacific Defense Intern - Cedar Rapids](https://jobright.ai/jobs/info/6a026486238f143e83533cdd?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA | On Site | May 11 |
 | **[ANI Pharmaceuticals, Inc.](http://www.anipharmaceuticals.com)** | **[Quality Assurance Ops and Quality Systems Intern](https://jobright.ai/jobs/info/6a026454c2ffb31f4536d013?utm_campaign=1048&utm_source=git)** | 210 Main Street West, Baudette, MN, 56623, US | On Site | May 11 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Vintage Automobile Mechanics Intern](https://jobright.ai/jobs/info/6a0263a5fa1aa73213d99f15?utm_campaign=1048&utm_source=git)** | Worcester, PA, US | On Site | May 11 |
@@ -141,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Elevate Semiconductor](https://www.elevatesemi.com)** | **[Test Operating Intern (Night & Weekends)](https://jobright.ai/jobs/info/6a02350c3053db70a11758ef?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Arterra Wines Canada](https://www.arterracanada.com/)** | **[Harvest Intern](https://jobright.ai/jobs/info/69aa1a4d2ebd316bece1d52e?utm_campaign=1048&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | May 11 |
 | **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[R&D Intern](https://jobright.ai/jobs/info/6a02338b238f143e835319ad?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a02338ac4b08448a0b23f74?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a02338ac4b08448a0b23f73?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
 | **[RTX](http://rtx.com/)** | **[Electrical (ASIC/FPGA) Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6a023386c4b08448a0b23f71?utm_campaign=1048&utm_source=git)** | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193, US | On Site | May 11 |
 | **[Asahi Kasei Bioprocess America, Inc.](http://www.ak-bio.com)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a0233543053db70a1175839?utm_campaign=1048&utm_source=git)** | Glenview, IL, US | On Site | May 11 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Biomedical Equipment Technician Intern - Mercy Hospital](https://jobright.ai/jobs/info/6a02331ffa1aa73213d97d13?utm_campaign=1048&utm_source=git)** | Mercy Hospital, US | On Site | May 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Gulf Coast Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a023134238f143e83531846?utm_campaign=1048&utm_source=git)** | US-FL-Tampa | On Site | May 11 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Substation Engineering](https://jobright.ai/jobs/info/6a023114c4b08448a0b23e05?utm_campaign=1048&utm_source=git)** | Roanoke, VA, US | On Site | May 11 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Generative AI Scientist - (Model Risk & Validation)](https://jobright.ai/jobs/info/6a0230dbc2ffb31f4536ac8c?utm_campaign=1048&utm_source=git)** | US-Remote | Remote | May 11 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Substation Engineering](https://jobright.ai/jobs/info/6a0230a2c2ffb31f4536ac57?utm_campaign=1048&utm_source=git)** | US-VA-Roanoke | On Site | May 11 |
-| **[Sierra Lobo, Inc.](http://www.sierralobo.com/)** | **[Summer Intern - Electrical Engineer (Propulsion)](https://jobright.ai/jobs/info/6a02308cc2ffb31f4536ac3d?utm_campaign=1048&utm_source=git)** | White Sands Test Facility, Las Cruces, NM, US | On Site | May 11 |
-| **[VHB](https://www.vhb.com/)** | **[Gulf Coast Civil Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a02305afa1aa73213d97b17?utm_campaign=1048&utm_source=git)** | Tampa, FL, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
