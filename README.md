@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NociQuant](https://nociquant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a042821f811a04369608898?utm_campaign=1048&utm_source=git)** | United States | Remote | May 13 |
+| **[MAHLE](https://www.mahle.com)** | **[Engineering Intern - Electronic Controls](https://jobright.ai/jobs/info/6a042516f811a043696087cd?utm_campaign=1048&utm_source=git)** | Russellville, AR | On Site | May 13 |
+| **[Norbert Health](https://www.norberthealth.com)** | **[Clinical Product Research Intern](https://jobright.ai/jobs/info/6a0424ecbc4184089f238cd0?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 13 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[AI Engineer Intern (2026)](https://jobright.ai/jobs/info/6a0424d07c753c287f6ed5b3?utm_campaign=1048&utm_source=git)** | Davidson, NC | On Site | May 13 |
+| **[CERATIZIT](http://www.ceratizit.com/)** | **[Summer Internship - Engineering](https://jobright.ai/jobs/info/6a0423e26c07461fe170a6ed?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, USA, US | On Site | May 13 |
+| **[Airtech International Inc.](http://airtechus.com)** | **[Materials Testing Internship](https://jobright.ai/jobs/info/6a041e43f811a0436960846b?utm_campaign=1048&utm_source=git)** | TN - Springfield, TN 37172 | On Site | May 12 |
 | **[Verkada](https://www.verkada.com)** | **[Product Design Mechanical Engineer (Fall Co-op)](https://jobright.ai/jobs/info/6a041cb86c07461fe170a40b?utm_campaign=1048&utm_source=git)** | San Mateo, CA | On Site | May 12 |
 | **[Hobart Filler Metals](http://www.hobartbrothers.com)** | **[Automation Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a041cb522395b6dc6d9ac80?utm_campaign=1048&utm_source=git)** | Piqua, OH | On Site | May 12 |
 | **[Therma](http://www.therma.com)** | **[Controls Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a041cb07c753c287f6ed0ef?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- Engineering (Environmental Health & Safety)](https://jobright.ai/jobs/info/6a03c6946c07461fe170755f?utm_campaign=1048&utm_source=git)** | Colorado Springs Area | On Site | May 12 |
 | **[IKO North America](https://www.iko.com)** | **[Reliability Engineer Intern](https://jobright.ai/jobs/info/6a03c6796c07461fe1707500?utm_campaign=1048&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Vulnerability Management Intern](https://jobright.ai/jobs/info/6a03c5aa7c753c287f6ea303?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | May 12 |
-| **[LG&E and KU Energy LLC](https://lge-ku.com)** | **[Fall 2026 Electrical Engineer Intern](https://jobright.ai/jobs/info/6a03c59e7c753c287f6ea2ac?utm_campaign=1048&utm_source=git)** | Lexington, KY | On Site | May 12 |
-| **[Machine Solutions Inc.](http://www.machinesolutions.com/)** | **[Controls Engineering Intern](https://jobright.ai/jobs/info/6a03c44e8ecfd93cd9c117b6?utm_campaign=1048&utm_source=git)** | Flagstaff, AZ | On Site | May 12 |
-| **[LiquidPiston](http://www.liquidpiston.com)** | **[Aerospace Internship](https://jobright.ai/jobs/info/6a03c2ca7c753c287f6e9fff?utm_campaign=1048&utm_source=git)** | Suffield, CT | On Site | May 12 |
-| ↳ | **[Design Engineer Internship](https://jobright.ai/jobs/info/6a03c2c622395b6dc6d97a83?utm_campaign=1048&utm_source=git)** | Suffield, CT | On Site | May 12 |
-| ↳ | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a03c2c622395b6dc6d97a84?utm_campaign=1048&utm_source=git)** | Suffield, CT | On Site | May 12 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Information Security Operations](https://jobright.ai/jobs/info/6a03be0322395b6dc6d978ce?utm_campaign=1048&utm_source=git)** | United States | Remote | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
