@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midwest Block & Brick](http://midwestblock.com)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a05c48e6c07461fe1718817?utm_campaign=1048&utm_source=git)** | ARMORTEC - WEST CHESTER, OH | On Site | May 14 |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[OREM Science Education and Internship Program: Engineering, Environmental, and Physical Sciences Fellow](https://jobright.ai/jobs/info/6a05d11df3d6cc51d638b722?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN | On Site | May 14 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Civil Engineering Intern, Highways](https://jobright.ai/jobs/info/6942782dbdcf884a5ade4e02?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | May 14 |
+| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Lean/Continuous Improvement Intern](https://jobright.ai/jobs/info/69cc61918130af1ac833832b?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 14 |
+| **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-OT Network Security](https://jobright.ai/jobs/info/69e964be3aa0c479643a9c21?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 14 |
+| **[ByteDance](http://bytedance.com)** | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05c822bc4184089f24778c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 14 |
+| ↳ | **[Student Researcher (Speech Foundation Model - Seed) – 2027 Start (PhD)](https://jobright.ai/jobs/info/69cca692891d7b11cfcb1c9a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 14 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a05c6fa6c07461fe1718924?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 14 |
+| **[Norsk Hydro](http://www.hydro.com)** | **[HSE Intern](https://jobright.ai/jobs/info/69e96b820a6e09555303bc57?utm_campaign=1048&utm_source=git)** | Cressona, PA | On Site | May 14 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69b062790b2db6275c043876?utm_campaign=1048&utm_source=git)** | Joplin, MO | On Site | May 14 |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Service Engineering Intern](https://jobright.ai/jobs/info/69cc608b8130af1ac83382ea?utm_campaign=1048&utm_source=git)** | Greater Indianapolis | On Site | May 14 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Life Sciences R&D Intern](https://jobright.ai/jobs/info/6a05c4307c753c287f6fb6a4?utm_campaign=1048&utm_source=git)** | Pennsylvania | Remote | May 14 |
 | ↳ | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/6a05c428320bff2205ea45f8?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | May 14 |
 | ↳ | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/6a05c417bc4184089f24767e?utm_campaign=1048&utm_source=git)** | Atlanta | On Site | May 14 |
@@ -134,13 +143,13 @@ For a complete list, click the following sortable link below:
 | **[E.L. Robinson Engineering](http://elrobinson.com)** | **[Engineering Student Intern - OH](https://jobright.ai/jobs/info/6a05820af3d6cc51d638962c?utm_campaign=1048&utm_source=git)** | Grandview Heights, Ohio - , US (Primary) | On Site | May 14 |
 | ↳ | **[Engineering Student Intern - WV](https://jobright.ai/jobs/info/6a05820af3d6cc51d638962d?utm_campaign=1048&utm_source=git)** | Charleston, West Virginia - , US (Primary) | On Site | May 14 |
 | **[Public Health - Dayton & Montgomery County](http://www.phdmc.org)** | **[EH INTERN](https://jobright.ai/jobs/info/6a0581c1f3d6cc51d6389619?utm_campaign=1048&utm_source=git)** | Dayton, OH 45422 US (Primary) | On Site | May 14 |
-| **[Butler, Fairman & Seufert, Inc.](http://bfsengr.com)** | **[CADD Internship](https://jobright.ai/jobs/info/6a058194a88ea73abf7f1880?utm_campaign=1048&utm_source=git)** | Lafayette - Lafayette, IN 47901 US | On Site | May 14 |
+| **[Butler, Fairman & Seufert, Inc.](http://bfsengr.com)** | **[CADD Internship](https://jobright.ai/jobs/info/6a058194a88ea73abf7f1881?utm_campaign=1048&utm_source=git)** | Merrillville - Merrillville, IN 46410 US | On Site | May 14 |
 | ↳ | **[CADD Internship](https://jobright.ai/jobs/info/6a058194a88ea73abf7f187f?utm_campaign=1048&utm_source=git)** | Indianapolis - Indianapolis, IN 46240 US | On Site | May 14 |
-| ↳ | **[CADD Internship](https://jobright.ai/jobs/info/6a058194a88ea73abf7f1881?utm_campaign=1048&utm_source=git)** | Merrillville - Merrillville, IN 46410 US | On Site | May 14 |
-| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245842?utm_campaign=1048&utm_source=git)** | Indianapolis - Indianapolis, IN 46240 US (Primary) | On Site | May 14 |
-| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245843?utm_campaign=1048&utm_source=git)** | Merrillville - Merrillville, IN 46410 US | On Site | May 14 |
-| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245841?utm_campaign=1048&utm_source=git)** | Evansville, IN 47715 US | On Site | May 14 |
+| ↳ | **[CADD Internship](https://jobright.ai/jobs/info/6a058194a88ea73abf7f1880?utm_campaign=1048&utm_source=git)** | Lafayette - Lafayette, IN 47901 US | On Site | May 14 |
 | ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245840?utm_campaign=1048&utm_source=git)** | Lafayette - Lafayette, IN 47901 US | On Site | May 14 |
+| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245843?utm_campaign=1048&utm_source=git)** | Merrillville - Merrillville, IN 46410 US | On Site | May 14 |
+| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245842?utm_campaign=1048&utm_source=git)** | Indianapolis - Indianapolis, IN 46240 US (Primary) | On Site | May 14 |
+| ↳ | **[Internship Program](https://jobright.ai/jobs/info/6a058193bc4184089f245841?utm_campaign=1048&utm_source=git)** | Evansville, IN 47715 US | On Site | May 14 |
 | **[TMC Technologies](http://www.tmctechnologies.com)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/6a0581757c753c287f6f996d?utm_campaign=1048&utm_source=git)** | Fairmont, WV 26554 US (Primary) | On Site | May 14 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[POOL: Student Research Assistant](https://jobright.ai/jobs/info/6a057ee17c753c287f6f9926?utm_campaign=1048&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
 | ↳ | **[Aerospace Engineering - SOE Undergraduate Student Teaching Fellow](https://jobright.ai/jobs/info/6a057e49f3d6cc51d63895c0?utm_campaign=1048&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0578b8bc4184089f245729?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 14 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Environmental Health and Safety - USA - Georgia - Remote - R26-04089](https://jobright.ai/jobs/info/6a057804fbf3d169d3c5f44a?utm_campaign=1048&utm_source=git)** | USA - Georgia - Remote - 1634 | Remote | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Safety and Security Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577887c753c287f6f9824?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| ↳ | **[Data & Analytics Engineer Co-op/ Internship (Fall 2026 and/or Winter 2027)](https://jobright.ai/jobs/info/6a057783f3d6cc51d63894df?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| ↳ | **[Data & Analytics Engineer Co-op/ Internship (Fall 2026 and/or Winter 2027)](https://jobright.ai/jobs/info/6a057783f3d6cc51d63894e0?utm_campaign=1048&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
-| **[MITER Brands](https://www.miterbrands.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a0573ad7c753c287f6f9691?utm_campaign=1048&utm_source=git)** | Phoenix, Arizona, United States of America | On Site | May 14 |
-| **[IQVIA Laboratories](https://labs.iqvia.com/)** | **[Molecular Biology Intern (In Office)](https://jobright.ai/jobs/info/6a0573a2f3d6cc51d6389325?utm_campaign=1048&utm_source=git)** | Santa Fe, NM | On Site | May 14 |
-| **[NVIDIA AI](http://nvda.ws/2nfcPK3)** | **[PhD Research Intern, Security and Privacy - Fall 2026](https://jobright.ai/jobs/info/6a05724cf3d6cc51d63891b6?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
-| ↳ | **[Systems Software Engineer Intern, Metropolis - Fall 2026](https://jobright.ai/jobs/info/6a05721abc4184089f2453cf?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
-| **[Raytheon](http://www.bbn.com)** | **[Internship – Fall 2026 -  Intern in Engine Dynamics](https://jobright.ai/jobs/info/6a056f707c753c287f6f93cf?utm_campaign=1048&utm_source=git)** | mississauga, Ontario, Canada | On Site | May 13 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[NCC/Fehr Solutions Summer Research Intern](https://jobright.ai/jobs/info/6a056e9d6c07461fe1716466?utm_campaign=1048&utm_source=git)** | Greater Chicago Area | On Site | May 13 |
-| **[GenPark](https://genpark.ai)** | **[Machine learning intern](https://jobright.ai/jobs/info/6a05695f6c07461fe1716105?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
