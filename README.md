@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - GIS Utilities](https://jobright.ai/jobs/info/6a06af70a88ea73abf7fd3c5?utm_campaign=1048&utm_source=git)** | Land O' Lakes, FL | On Site | May 14 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a06a7eabc4184089f250ee2?utm_campaign=1048&utm_source=git)** | Maple Grove, 55369 | On Site | May 14 |
+| **[Leons](https://www.leonsdigital.com)** | **[Developer (Level 1) Intern ON](https://jobright.ai/jobs/info/6a06a7ad7c753c287f704c5c?utm_campaign=1048&utm_source=git)** | CA-ON-Toronto | On Site | May 14 |
+| ↳ | **[Developer (Level 1) Intern ON](https://jobright.ai/jobs/info/6a06a7ac7c753c287f704c5b?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | On Site | May 14 |
+| **[The Children's Center of Wayne County (Detroit)](https://www.thechildrenscenter.com/)** | **[Quality Improvement Unpaid Intern](https://jobright.ai/jobs/info/6a06a6e2320bff2205eae1cb?utm_campaign=1048&utm_source=git)** | DETROIT, MI 48201-2015, USA | On Site | May 14 |
+| **[UST](https://www.ust.com)** | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/6a06a5807c753c287f704b0c?utm_campaign=1048&utm_source=git)** | Atlanta | On Site | May 14 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Operations - Core Team Processes Standardization (International Student)](https://jobright.ai/jobs/info/6a06a307320bff2205eae00b?utm_campaign=1048&utm_source=git)** | United States of America-Alabama Vance | On Site | May 14 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Analog/RF Design Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/6a06a1147c753c287f704982?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 14 |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a069ff7a88ea73abf7fcea0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 14 |
 | **[Environmental Science Associates](http://www.esassoc.com)** | **[Intern - Florida Environmental Internship (Fall 2026)](https://jobright.ai/jobs/info/69f1505becbc8c2f732053d8?utm_campaign=1048&utm_source=git)** | Tampa, Florida, United States | On Site | May 14 |
 | **[ELDAEON](https://eldaeon.com/)** | **[Mechatronics Engineering Intern](https://jobright.ai/jobs/info/6a069ea1bc4184089f250ab2?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[Golden Nugget Las Vegas](http://www.goldennugget.com)** | **[Intern](https://jobright.ai/jobs/info/6a069e58320bff2205eade07?utm_campaign=1048&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/6a065a387c753c287f702946?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | May 14 |
 | **[altafiber](https://www.altafiber.com)** | **[Cyber & Physical Security Intern](https://jobright.ai/jobs/info/6a030c5522395b6dc6d9093c?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a0679bd320bff2205eacdc2?utm_campaign=1048&utm_source=git)** | Arkadelphia, AR | On Site | May 14 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c44?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | May 14 |
-| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c43?utm_campaign=1048&utm_source=git)** | Irving, TX, Irving, TX, US | On Site | May 14 |
+| **[FDH Aero](https://fdhaero.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c43?utm_campaign=1048&utm_source=git)** | Irving, TX, Irving, TX, US | On Site | May 14 |
+| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c44?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | May 14 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[High School Student Intern](https://jobright.ai/jobs/info/6a0658977c753c287f7028d2?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, US | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern- Engineering](https://jobright.ai/jobs/info/6a06581ea88ea73abf7fafba?utm_campaign=1048&utm_source=git)** | Mineral Wells, TX | On Site | May 14 |
 | ↳ | **[Intern Quality](https://jobright.ai/jobs/info/6a06581da88ea73abf7fafb7?utm_campaign=1048&utm_source=git)** | Jacksonville, AL | On Site | May 14 |
-| ↳ | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a06580fa88ea73abf7faf8c?utm_campaign=1048&utm_source=git)** | Holly Springs, MS | On Site | May 14 |
-| **[Contech Engineered Solutions](http://www.conteches.com/)** | **[Intern, Civil/Environmental Engineering](https://jobright.ai/jobs/info/6a0657f9a88ea73abf7faf11?utm_campaign=1048&utm_source=git)** | West Chester, OH | On Site | May 14 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/6a06579a6c07461fe171fa4f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | May 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Manufacturing Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a065788f3d6cc51d6392b45?utm_campaign=1048&utm_source=git)** | New Hope, MN | On Site | May 14 |
-| **[Knowles Precision Devices](https://www.knowlescapacitors.com)** | **[Environmental Health & Safety (EHS) Intern](https://jobright.ai/jobs/info/6a0657886c07461fe171f9d7?utm_campaign=1048&utm_source=git)** | Santa Clarita, CA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
