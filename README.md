@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a06bb55bc4184089f2514fc?utm_campaign=1048&utm_source=git)** | United States | Remote | May 14 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Manufacturing Engineer](https://jobright.ai/jobs/info/6a06b5347c753c287f7052f9?utm_campaign=1048&utm_source=git)** | Garland, TX | On Site | May 14 |
+| **[PHIL, Inc.](https://www.phil.us)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/6a06b50ca88ea73abf7fd61c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 14 |
+| **[Enercon Services, Inc.](http://www.enercon.com)** | **[Intern- License Renewal Engineer](https://jobright.ai/jobs/info/6a06b427f3d6cc51d6395377?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | May 14 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Technical Development](https://jobright.ai/jobs/info/6a06b2106c07461fe1721ec0?utm_campaign=1048&utm_source=git)** | Norwood, MA | On Site | May 14 |
+| **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Pflaum - Engineering Intern - 1.0 FTE](https://jobright.ai/jobs/info/6a06b052320bff2205eae4e2?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - GIS Utilities](https://jobright.ai/jobs/info/6a06af70a88ea73abf7fd3c5?utm_campaign=1048&utm_source=git)** | Land O' Lakes, FL | On Site | May 14 |
 | **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a06a7eabc4184089f250ee2?utm_campaign=1048&utm_source=git)** | Maple Grove, 55369 | On Site | May 14 |
 | **[Leons](https://www.leonsdigital.com)** | **[Developer (Level 1) Intern ON](https://jobright.ai/jobs/info/6a06a7ad7c753c287f704c5c?utm_campaign=1048&utm_source=git)** | CA-ON-Toronto | On Site | May 14 |
@@ -75,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[US Fertility](https://www.usfertility.com/)** | **[Laboratory Assistant Intern (Per Diem)](https://jobright.ai/jobs/info/6a0699c9a88ea73abf7fcc35?utm_campaign=1048&utm_source=git)** | Margate, FL | On Site | May 14 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Applied Machine Learning Scientist Intern - PhD](https://jobright.ai/jobs/info/6a0699a7a88ea73abf7fcbf0?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 14 |
 | **[Leidos](https://www.leidos.com)** | **[Engineering Intern – Modeling and Simulation](https://jobright.ai/jobs/info/6a0699a6a88ea73abf7fcbee?utm_campaign=1048&utm_source=git)** | Crane, IN | On Site | May 14 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Nursing, Physical Therapy)](https://jobright.ai/jobs/info/6a06983cbc4184089f2508d4?utm_campaign=1048&utm_source=git)** | Newtown Square, Pennsylvania, 19073 | Hybrid | May 14 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern – Mechanical Design](https://jobright.ai/jobs/info/6a0692faf3d6cc51d639474b?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 14 |
 | ↳ | **[Maintenance Management Intern](https://jobright.ai/jobs/info/6a0692f9f3d6cc51d6394747?utm_campaign=1048&utm_source=git)** | Richland, WA | On Site | May 14 |
 | **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Intern, Transit and Rail Engineering](https://jobright.ai/jobs/info/6a0692eb7c753c287f7043ce?utm_campaign=1048&utm_source=git)** | Saskatchewan, Canada | Hybrid | May 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/6a065a387c753c287f702946?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | May 14 |
 | **[altafiber](https://www.altafiber.com)** | **[Cyber & Physical Security Intern](https://jobright.ai/jobs/info/6a030c5522395b6dc6d9093c?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a0679bd320bff2205eacdc2?utm_campaign=1048&utm_source=git)** | Arkadelphia, AR | On Site | May 14 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c43?utm_campaign=1048&utm_source=git)** | Irving, TX, Irving, TX, US | On Site | May 14 |
-| ↳ | **[Quality Intern](https://jobright.ai/jobs/info/6a0658eaf3d6cc51d6392c44?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | May 14 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[High School Student Intern](https://jobright.ai/jobs/info/6a0658977c753c287f7028d2?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, US | On Site | May 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern- Engineering](https://jobright.ai/jobs/info/6a06581ea88ea73abf7fafba?utm_campaign=1048&utm_source=git)** | Mineral Wells, TX | On Site | May 14 |
-| ↳ | **[Intern Quality](https://jobright.ai/jobs/info/6a06581da88ea73abf7fafb7?utm_campaign=1048&utm_source=git)** | Jacksonville, AL | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
