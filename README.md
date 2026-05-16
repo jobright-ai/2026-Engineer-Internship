@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a08d2323b54ed42d74d95a3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
+| **[SAP](https://www.sap.com)** | **[Cloud Operations Engineer Intern](https://jobright.ai/jobs/info/6a08d16f939a5f01db95ba36?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 16 |
+| **[Schaefer's Electrical Enclosures](https://www.electrical-enclosures.com/)** | **[CAD Technician Internship](https://jobright.ai/jobs/info/6a08cf01939a5f01db95b8c0?utm_campaign=1048&utm_source=git)** | Scott City, MO | On Site | May 16 |
+| **[Merjent](http://merjent.com)** | **[Stormwater Inspection Intern (Madison, WI)](https://jobright.ai/jobs/info/6a08cf00939a5f01db95b8bf?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 16 |
+| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Internship, ( 26-2032)](https://jobright.ai/jobs/info/6a08ce6ea203b1052e446015?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | May 16 |
+| **[Batory Foods](http://www.batoryfoods.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/6a08cd22939a5f01db95b878?utm_campaign=1048&utm_source=git)** | Elk Grove Village, IL | On Site | May 16 |
+| **[Monte Sano Research Corporation](http://msrc.com/)** | **[1203 - Engineering Intern](https://jobright.ai/jobs/info/6a08cd17939a5f01db95b85e?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 16 |
+| **[Element U.S. Space & Defense](http://www.elementdefense.com)** | **[Technician I - Internship](https://jobright.ai/jobs/info/6a08cce36186f4685988a442?utm_campaign=1048&utm_source=git)** | Fullerton, CA | On Site | May 16 |
+| **[Merjent](http://merjent.com)** | **[Stormwater Inspection Intern (La Crosse, WI)](https://jobright.ai/jobs/info/6a08cce16186f4685988a43d?utm_campaign=1048&utm_source=git)** | La Crosse, WI | On Site | May 16 |
+| **[Network Connex](https://www.networkconnex.com/)** | **[DAS Intern (Field, Proposal & RF Support)](https://jobright.ai/jobs/info/6a08cc688f3e371eb61819eb?utm_campaign=1048&utm_source=git)** | Mount Laurel, NJ | On Site | May 16 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Electrical Engineering](https://jobright.ai/jobs/info/69ec03ef58811370cb13e38d?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 16 |
+| **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 Co-op, Quality Engineering](https://jobright.ai/jobs/info/69b4afdc5697383741398bfd?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC | On Site | May 16 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Ultra-Trace Radiochemistry Post-Bachelor's Intern](https://jobright.ai/jobs/info/69ecc2f1dc35f7132c4b7405?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | May 16 |
 | **[AvePoint](http://www.avepoint.com)** | **[People Data Intern](https://jobright.ai/jobs/info/69d0462b0b098b7a67077ffd?utm_campaign=1048&utm_source=git)** | Jersey City, NJ | On Site | May 16 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - CSTS](https://jobright.ai/jobs/info/69f97fb9a3d34b4f76f61848?utm_campaign=1048&utm_source=git)** | Bethesda, MD | On Site | May 16 |
@@ -67,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Zillow](http://www.zillow.com)** | **[AI Applied Scientist - PhD Intern, Foundational IQ](https://jobright.ai/jobs/info/69d5f477891d7b11cfd07049?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Materials & Processes Engineering Intern (Orange, VA)](https://jobright.ai/jobs/info/69b32763ae2a534885ea880c?utm_campaign=1048&utm_source=git)** | Orange, VA | On Site | May 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/6943389494730b7398763df2?utm_campaign=1048&utm_source=git)** | Syracuse, NY | On Site | May 16 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a08bf0e3b54ed42d74d8e80?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 16 |
 | **[Preci Manufacturing Inc](http://www.preci.com/index.php)** | **[CNC Machinist Intern (Summer Internship)](https://jobright.ai/jobs/info/6a08bedba203b1052e445bb8?utm_campaign=1048&utm_source=git)** | Winooski, VT | On Site | May 16 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69ec118358811370cb13e7b5?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 16 |
 | **[Etched](https://www.etched.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/69b43fac06c1ba00c545753b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
@@ -92,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com)** | **[Product Development Engineer Intern](https://jobright.ai/jobs/info/69d5d596366bb95ba5549256?utm_campaign=1048&utm_source=git)** | Carthage, MO | On Site | May 16 |
 | **[Raytheon](http://www.bbn.com)** | **[SkillBridge Intern DoD: Information System Security Officer - Tucson, AZ](https://jobright.ai/jobs/info/69ecb1fd7820c036924fb4b7?utm_campaign=1048&utm_source=git)** | Tucson, AZ | On Site | May 16 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Applied Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed78946e5b153e5a60908?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | May 16 |
+| **[Jacobs](http://www.jacobs.com)** | **[Internship – Jacobs Mayo River Bridge Community Replacement Project](https://jobright.ai/jobs/info/697aa2dd9d60e431a16c394e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 16 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Decentralized Data Assimilation for Large Scale Systems](https://jobright.ai/jobs/info/6a0898368f3e371eb6180ec2?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | May 16 |
 | **[Blackpoint Cyber](https://www.blackpointcyber.com)** | **[MDR Analyst SkillBridge Intern (Day Shift M-F 8 AM - 4 PM ET)](https://jobright.ai/jobs/info/69ec17144b0fa35a7078091d?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Internship - Fall 2026 - Sustainable Propulsion Performance Analysis and Methods Development](https://jobright.ai/jobs/info/6a0896e46186f468598893a7?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 16 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a086ea88f3e371eb6180646?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[R&D Intern](https://jobright.ai/jobs/info/69ebc38216b2612c2a11e66e?utm_campaign=1048&utm_source=git)** | Norristown, PA | On Site | May 16 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Optical Systems Engineer Internship](https://jobright.ai/jobs/info/69cff8d20b098b7a670755b3?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | May 16 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Optimization, Privacy and Inference (PhD)](https://jobright.ai/jobs/info/69eba8410a6e0955530495d5?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 16 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineering Intern - Summer 2026 - CMTA](https://jobright.ai/jobs/info/691d3785bcdbf3560c9ee299?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | May 16 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/6a086c07939a5f01db959937?utm_campaign=1048&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Data Engineer Intern](https://jobright.ai/jobs/info/6a086c06939a5f01db959936?utm_campaign=1048&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/6a086b686186f4685988894f?utm_campaign=1048&utm_source=git)** | Lincoln, NE, US | On Site | May 16 |
-| ↳ | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/6a086b686186f4685988894e?utm_campaign=1048&utm_source=git)** | US-NE-Lincoln | On Site | May 16 |
-| ↳ | **[Intern, Prod Support- EHS - Environmental Health Safety](https://jobright.ai/jobs/info/6a086b636186f46859888947?utm_campaign=1048&utm_source=git)** | Scranton, PA, US | On Site | May 16 |
-| ↳ | **[Intern, Prod Support- EHS - Environmental Health Safety](https://jobright.ai/jobs/info/6a086b636186f46859888949?utm_campaign=1048&utm_source=git)** | US-PA-Wilkes-Barre | On Site | May 16 |
-| ↳ | **[Intern, Prod Support- EHS - Environmental Health Safety](https://jobright.ai/jobs/info/6a086b636186f46859888948?utm_campaign=1048&utm_source=git)** | US-PA-Scranton | On Site | May 16 |
-| ↳ | **[Intern, Prod Support- EHS - Environmental Health Safety](https://jobright.ai/jobs/info/6a086b626186f46859888946?utm_campaign=1048&utm_source=git)** | Wilkes-Barre, PA, US | On Site | May 16 |
-| ↳ | **[2026 Summer Intern (Structural Engineer)](https://jobright.ai/jobs/info/6a086b61403fc339507edfef?utm_campaign=1048&utm_source=git)** | Bothell, WA, US | On Site | May 16 |
-| ↳ | **[2026 Summer Intern (Structural Engineer)](https://jobright.ai/jobs/info/6a086b60403fc339507edfee?utm_campaign=1048&utm_source=git)** | US-WA-Bothell | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
