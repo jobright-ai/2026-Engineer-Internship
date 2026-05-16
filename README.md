@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Science History & Communications Intern](https://jobright.ai/jobs/info/6a08def16186f4685988aa30?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | May 16 |
+| **[Gamma Technologies](https://www.gtisoft.com)** | **[Intern  Mechanical Applications Engineer](https://jobright.ai/jobs/info/6a08decc403fc339507f00f6?utm_campaign=1048&utm_source=git)** | Westmont, IL | On Site | May 16 |
+| **[CyberProof](https://www.cyberproof.com/)** | **[GenAI / Agentic AI Intern – Enterprise Workflows](https://jobright.ai/jobs/info/6a08d8596186f4685988a8f4?utm_campaign=1048&utm_source=git)** | Aliso Viejo | On Site | May 16 |
+| ↳ | **[AI/ML Engineering Intern](https://jobright.ai/jobs/info/6a08d83d403fc339507effb2?utm_campaign=1048&utm_source=git)** | Atlanta | On Site | May 16 |
 | **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a08d2323b54ed42d74d95a3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[SAP](https://www.sap.com)** | **[Cloud Operations Engineer Intern](https://jobright.ai/jobs/info/6a08d16f939a5f01db95ba36?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 16 |
-| **[Schaefer's Electrical Enclosures](https://www.electrical-enclosures.com/)** | **[CAD Technician Internship](https://jobright.ai/jobs/info/6a08cf01939a5f01db95b8c0?utm_campaign=1048&utm_source=git)** | Scott City, MO | On Site | May 16 |
 | **[Merjent](http://merjent.com)** | **[Stormwater Inspection Intern (Madison, WI)](https://jobright.ai/jobs/info/6a08cf00939a5f01db95b8bf?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 16 |
-| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Internship, ( 26-2032)](https://jobright.ai/jobs/info/6a08ce6ea203b1052e446015?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | May 16 |
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/6a08cd22939a5f01db95b878?utm_campaign=1048&utm_source=git)** | Elk Grove Village, IL | On Site | May 16 |
 | **[Monte Sano Research Corporation](http://msrc.com/)** | **[1203 - Engineering Intern](https://jobright.ai/jobs/info/6a08cd17939a5f01db95b85e?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 16 |
 | **[Element U.S. Space & Defense](http://www.elementdefense.com)** | **[Technician I - Internship](https://jobright.ai/jobs/info/6a08cce36186f4685988a442?utm_campaign=1048&utm_source=git)** | Fullerton, CA | On Site | May 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astrion](https://astrion.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ebe37a0a6e09555304b2e5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 16 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff789292a33ef668ecfba3?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 16 |
 | **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a086ea88f3e371eb6180646?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
-| **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[R&D Intern](https://jobright.ai/jobs/info/69ebc38216b2612c2a11e66e?utm_campaign=1048&utm_source=git)** | Norristown, PA | On Site | May 16 |
-| **[Onto Innovation](http://www.ontoinnovation.com)** | **[Optical Systems Engineer Internship](https://jobright.ai/jobs/info/69cff8d20b098b7a670755b3?utm_campaign=1048&utm_source=git)** | Milpitas, CA | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
