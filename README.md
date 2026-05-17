@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0926753b54ed42d74dabc0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
+| **[Brazeway](http://brazeway.com)** | **[Intern - Process Engineer](https://jobright.ai/jobs/info/6a051eac7c753c287f6f6f17?utm_campaign=1048&utm_source=git)** | Hopkinsville, KY 42240, USA | On Site | May 16 |
 | **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0911ed3b54ed42d74da991?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[Englobe](http://englobecorp.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69e001bc14bf245fc7a6f4d9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 16 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://jobright.ai/jobs/info/69ecc2f958811370cb1405d2?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 16 |
 | **[Revvity](https://www.revvity.com/)** | **[Mechanical Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d09f53891d7b11cfcdd542?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 16 |
 | **[Graham](https://www.grahambuilds.com)** | **[Field Engineer Intern- Infrastructure](https://jobright.ai/jobs/info/6961d7a7a112b40266105f60?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | May 16 |
-| **[Arcadis](http://www.arcadis.com)** | **[Summer Intern- Gateway Project](https://jobright.ai/jobs/info/69cf1c79891d7b11cfcd0104?utm_campaign=1048&utm_source=git)** | Fair Lawn, NJ | On Site | May 16 |
 | **[Amazon](https://amazon.com)** | **[Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://jobright.ai/jobs/info/6960c72d7ebc25398eb6a200?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Civil/Structural Engineering (Power Substations) Intern - Summer 2026](https://jobright.ai/jobs/info/699a8292e0bddb6acac995b7?utm_campaign=1048&utm_source=git)** | Augusta, ME | On Site | May 16 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697c32200b88cc7d64233969?utm_campaign=1048&utm_source=git)** | Greensboro, NC | On Site | May 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[rand* construction corporation](http://randcc.com)** | **[Intern - Austin, Dallas, Houston](https://jobright.ai/jobs/info/6a01fc04238f143e8352f8d4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 16 |
 | **[Woolpert](http://www.woolpert.com)** | **[Aviation Design Intern - Expression of Interest](https://jobright.ai/jobs/info/69b36288a8ac8e70ff6794c4?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Hybrid | May 16 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Project Engineer - MEP](https://jobright.ai/jobs/info/69ebfdde16b2612c2a120568?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 16 |
+| **[Astrion](https://astrion.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ebe37a0a6e09555304b2e5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
