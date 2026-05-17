@@ -57,26 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Human-Centered AI Intern, CAD Design Reasoning Machine Learning](https://jobright.ai/jobs/info/69963d0281476f6176adf929?utm_campaign=1048&utm_source=git)** | Los Altos, CA | Hybrid | May 17 |
 | **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0995813b54ed42d74dcada?utm_campaign=1048&utm_source=git)** | United States | Remote | May 17 |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a0995518f3e371eb6185082?utm_campaign=1048&utm_source=git)** | United States | Remote | May 17 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Logistics Engineer Intern - Romulus, MI](https://jobright.ai/jobs/info/6a0994196186f4685988d3f6?utm_campaign=1048&utm_source=git)** | Romulus. Mi, US | On Site | May 17 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0985b38f3e371eb6184f3a?utm_campaign=1048&utm_source=git)** | US-MD-Washington DC | On Site | May 17 |
-| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0985b38f3e371eb6184f3b?utm_campaign=1048&utm_source=git)** | Washington DC | On Site | May 17 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0985b38f3e371eb6184f3b?utm_campaign=1048&utm_source=git)** | Washington DC | On Site | May 17 |
+| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0985b38f3e371eb6184f3a?utm_campaign=1048&utm_source=git)** | US-MD-Washington DC | On Site | May 17 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828f403fc339507f3073?utm_campaign=1048&utm_source=git)** | CMTA, 315 W. Broad Street, Richmond, Virginia, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828c403fc339507f3072?utm_campaign=1048&utm_source=git)** | CMTA, 220 Lexington Green Circle, Lexington, Kentucky, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828b403fc339507f3070?utm_campaign=1048&utm_source=git)** | CMTA, 2201 Timberloch Place, The Woodlands, Texas, United States of America | On Site | May 17 |
-| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828a403fc339507f306e?utm_campaign=1048&utm_source=git)** | CMTA, 6200 K Avenue, Plano, Texas, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828a403fc339507f306f?utm_campaign=1048&utm_source=git)** | CMTA, 9225 Priority Way West Drive, Indianapolis, Indiana, United States of America | On Site | May 17 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09828a403fc339507f306e?utm_campaign=1048&utm_source=git)** | CMTA, 6200 K Avenue, Plano, Texas, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098289403fc339507f306d?utm_campaign=1048&utm_source=git)** | CMTA, 5455 Rings Rd., Dublin, Ohio, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098289403fc339507f306c?utm_campaign=1048&utm_source=git)** | CMTA, 1100 Sycamore Street, Cincinnati, Ohio, United States of America | On Site | May 17 |
-| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f306b?utm_campaign=1048&utm_source=git)** | CMTA, 115 Memorial Drive, Paducah, Kentucky, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f3068?utm_campaign=1048&utm_source=git)** | Fort Pierce, FL, USA | On Site | May 17 |
-| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f3069?utm_campaign=1048&utm_source=git)** | Dallas, TX, USA | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f306a?utm_campaign=1048&utm_source=git)** | CMTA, 8801 J.M. Keynes Drive, Charlotte, North Carolina, United States of America | On Site | May 17 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f3069?utm_campaign=1048&utm_source=git)** | Dallas, TX, USA | On Site | May 17 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098288403fc339507f306b?utm_campaign=1048&utm_source=git)** | CMTA, 115 Memorial Drive, Paducah, Kentucky, United States of America | On Site | May 17 |
 | ↳ | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a098287403fc339507f3067?utm_campaign=1048&utm_source=git)** | Chattanooga, TN, USA | On Site | May 17 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Multi-modal sensor fusion for predictive maintenance](https://jobright.ai/jobs/info/6a0979513b54ed42d74dc598?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | May 17 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[RF Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a096afa3b54ed42d74dc3ff?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 17 |
 | **[ALPLA Group](https://www.alpla.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6a098b436186f4685988d397?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | May 17 |
+| ↳ | **[Sustainability Intern](https://jobright.ai/jobs/info/6a09a3418f3e371eb6185499?utm_campaign=1048&utm_source=git)** | McDonough, GA | On Site | May 17 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc360?utm_campaign=1048&utm_source=git)** | Fort Myers, FL, US | On Site | May 16 |
 | ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc35f?utm_campaign=1048&utm_source=git)** | US-FL-Fort Myers | On Site | May 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Development & Quality Control](https://jobright.ai/jobs/info/6a0954d13b54ed42d74dbe1a?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OPmobility](https://www.opmobility.com)** | **[SITE QUALITY INTERN](https://jobright.ai/jobs/info/69b32bdaae2a534885ea8e7d?utm_campaign=1048&utm_source=git)** | Greer, SC | On Site | May 16 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Harvest](https://jobright.ai/jobs/info/69cf229d366bb95ba5512dac?utm_campaign=1048&utm_source=git)** | Del Rey, CA | On Site | May 16 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Civil Engineering Intern (Night/Overnight Shift)](https://jobright.ai/jobs/info/69b49b413b74eb1e2c81f906?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 16 |
-| **[Etched](https://www.etched.com)** | **[Thermo-Mechanical, CFD Simulation Engineering Intern](https://jobright.ai/jobs/info/69ec178216b2612c2a120d07?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
