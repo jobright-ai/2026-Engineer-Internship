@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[A to Z Wineworks](https://www.atozwineworks.com/)** | **[Lab Intern](https://jobright.ai/jobs/info/6a0964b8a203b1052e449079?utm_campaign=1048&utm_source=git)** | REX HILL property, Oregon’s Willamette Valley | On Site | May 16 |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a095ef93b54ed42d74dc0b3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
+| **[Impulse Space](https://www.impulsespace.com)** | **[RF Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a096afa3b54ed42d74dc3ff?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 17 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a09670b3b54ed42d74dc37b?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 16 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc360?utm_campaign=1048&utm_source=git)** | Fort Myers, FL, US | On Site | May 16 |
+| ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc35f?utm_campaign=1048&utm_source=git)** | US-FL-Fort Myers | On Site | May 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Development & Quality Control](https://jobright.ai/jobs/info/6a0954d13b54ed42d74dbe1a?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | May 16 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Technician/Diesel Mechanic - Earthmoving/Construction Equipment](https://jobright.ai/jobs/info/6a094c52a203b1052e448a2c?utm_campaign=1048&utm_source=git)** | US-ME-Scarborough | On Site | May 16 |
 | **[SB Energy](https://sbenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a094b91a203b1052e448a14?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 16 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN (MECHANICAL ENGINEERING)](https://jobright.ai/jobs/info/6a0946883b54ed42d74db816?utm_campaign=1048&utm_source=git)** | Inglewood, CA | On Site | May 16 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/6a0941d5403fc339507f1c4f?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | May 16 |
 | **[Brazeway](http://brazeway.com)** | **[Intern - Process Engineer](https://jobright.ai/jobs/info/6a051eac7c753c287f6f6f17?utm_campaign=1048&utm_source=git)** | Hopkinsville, KY 42240, USA | On Site | May 16 |
-| **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0911ed3b54ed42d74da991?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[Englobe](http://englobecorp.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69e001bc14bf245fc7a6f4d9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 16 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Science History & Communications Intern](https://jobright.ai/jobs/info/6a08def16186f4685988aa30?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | May 16 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Paving Field Engineer Internship (NOVA) 2026](https://jobright.ai/jobs/info/697a762c8dbbf73badc79a31?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | May 16 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6969de2e639b452fb57fd890?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | May 16 |
 | **[Battelle](http://www.battelle.org)** | **[Reverse Engineer/Vulnerability Research Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a0498e46c07461fe170ee7c?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | May 16 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Revenue Science Intern](https://jobright.ai/jobs/info/6a088e24a203b1052e4450eb?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | May 16 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Preventative Maintenance, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63a9dc35f7132c4b6cc4?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 16 |
 | ↳ | **[IT Data Center Operations, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69ec63717820c036924faa38?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 16 |
 | **[OPmobility](https://www.opmobility.com)** | **[SITE QUALITY INTERN](https://jobright.ai/jobs/info/69b32bdaae2a534885ea8e7d?utm_campaign=1048&utm_source=git)** | Greer, SC | On Site | May 16 |
