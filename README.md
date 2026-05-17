@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Marvin Group](http://www.marvingroup.com)** | **[INTERN (MECHANICAL ENGINEERING)](https://jobright.ai/jobs/info/6a0946883b54ed42d74db816?utm_campaign=1048&utm_source=git)** | Inglewood, CA | On Site | May 16 |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a09422b3b54ed42d74db5f3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[R&D Intern, Catheter New Product Development](https://jobright.ai/jobs/info/6a0941d5403fc339507f1c4f?utm_campaign=1048&utm_source=git)** | Campbell, CA | On Site | May 16 |
 | **[Brazeway](http://brazeway.com)** | **[Intern - Process Engineer](https://jobright.ai/jobs/info/6a051eac7c753c287f6f6f17?utm_campaign=1048&utm_source=git)** | Hopkinsville, KY 42240, USA | On Site | May 16 |
 | **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0911ed3b54ed42d74da991?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Support Software Developer Co-op/Intern](https://jobright.ai/jobs/info/69ebe365dc35f7132c4b4337?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 16 |
 | **[Southern Industrial Constructors, Inc.](https://www.southernindustrial.com/)** | **[Construction Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69eba7397820c036924f5c01?utm_campaign=1048&utm_source=git)** | Columbia, SC | On Site | May 16 |
 | **[rand* construction corporation](http://randcc.com)** | **[Intern - Austin, Dallas, Houston](https://jobright.ai/jobs/info/6a01fc04238f143e8352f8d4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 16 |
-| **[Woolpert](http://www.woolpert.com)** | **[Aviation Design Intern - Expression of Interest](https://jobright.ai/jobs/info/69b36288a8ac8e70ff6794c4?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | Hybrid | May 16 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Project Engineer - MEP](https://jobright.ai/jobs/info/69ebfdde16b2612c2a120568?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 16 |
-| **[Astrion](https://astrion.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ebe37a0a6e09555304b2e5?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
