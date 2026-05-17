@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a097b3b3b54ed42d74dc6a0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 17 |
+| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Multi-modal sensor fusion for predictive maintenance](https://jobright.ai/jobs/info/6a0979513b54ed42d74dc598?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | May 17 |
+| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Internship, ( 26-2032)](https://jobright.ai/jobs/info/6a0977afa203b1052e449376?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | May 17 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[RF Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a096afa3b54ed42d74dc3ff?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 17 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a09670b3b54ed42d74dc37b?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 16 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc360?utm_campaign=1048&utm_source=git)** | Fort Myers, FL, US | On Site | May 16 |
-| ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc35f?utm_campaign=1048&utm_source=git)** | US-FL-Fort Myers | On Site | May 16 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc35f?utm_campaign=1048&utm_source=git)** | US-FL-Fort Myers | On Site | May 16 |
+| ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a0966463b54ed42d74dc360?utm_campaign=1048&utm_source=git)** | Fort Myers, FL, US | On Site | May 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Development & Quality Control](https://jobright.ai/jobs/info/6a0954d13b54ed42d74dbe1a?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | May 16 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Technician/Diesel Mechanic - Earthmoving/Construction Equipment](https://jobright.ai/jobs/info/6a094c52a203b1052e448a2c?utm_campaign=1048&utm_source=git)** | US-ME-Scarborough | On Site | May 16 |
 | **[SB Energy](https://sbenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a094b91a203b1052e448a14?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lightspeed](http://lsvp.com)** | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a087e716186f46859888f22?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | May 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Engineering Summer Intern](https://jobright.ai/jobs/info/69ebdda00a6e09555304adf2?utm_campaign=1048&utm_source=git)** | Warrensville Heights, OH | On Site | May 16 |
 | **[UPS](http://www.ups.com)** | **[2026 Industrial Engineering Fall Co-op Program](https://jobright.ai/jobs/info/69c78551b773006330b79bfb?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | May 16 |
-| **[IBM](http://www.ibm.com)** | **[Site Reliability Engineer Intern](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e6?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | May 16 |
-| ↳ | **[2026 Returning Intern - Hardware Development](https://jobright.ai/jobs/info/69eaa1bd58811370cb134835?utm_campaign=1048&utm_source=git)** | Poughkeepsie, AR | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
