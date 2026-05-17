@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a08f6a93b54ed42d74da4c2?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 16 |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0909933b54ed42d74da716?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
+| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Internship, ( 26-2032)](https://jobright.ai/jobs/info/6a09074ca203b1052e4470dd?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | May 16 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[Englobe](http://englobecorp.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69e001bc14bf245fc7a6f4d9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 16 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Science History & Communications Intern](https://jobright.ai/jobs/info/6a08def16186f4685988aa30?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | May 16 |
@@ -88,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/69b43fac06c1ba00c545753b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Zillow](http://www.zillow.com)** | **[AI Applied Scientist - PhD Intern, Foundational AQ & EQ](https://jobright.ai/jobs/info/69d5cb71e63cea7a8b664e83?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[Etched](https://www.etched.com)** | **[RTL Intern](https://jobright.ai/jobs/info/69b43fb6569738374138e27d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| **[Stanley-Laman Group, Ltd.](http://www.stanleylaman.com)** | **[Research Analyst Intern — AI Infrastructure & Frontier Tech](https://jobright.ai/jobs/info/6a08b58e6186f46859889ae7?utm_campaign=1048&utm_source=git)** | Berwyn, PA | On Site | May 16 |
-| **[Etched](https://www.etched.com)** | **[DV Intern](https://jobright.ai/jobs/info/69b43fd406c1ba00c54575da?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
+| ↳ | **[DV Intern](https://jobright.ai/jobs/info/69b43fd406c1ba00c54575da?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Center Technician INTERN](https://jobright.ai/jobs/info/6a061133f3d6cc51d638e659?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | May 16 |
 | ↳ | **[Research Intern - Applied Power Systems Analysis](https://jobright.ai/jobs/info/69ef111f0a6e0955530537cd?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | May 16 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a08ae16a203b1052e44582a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 16 |
