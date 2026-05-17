@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A to Z Wineworks](https://www.atozwineworks.com/)** | **[Lab Intern](https://jobright.ai/jobs/info/6a0964b8a203b1052e449079?utm_campaign=1048&utm_source=git)** | REX HILL property, Oregon’s Willamette Valley | On Site | May 16 |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a095ef93b54ed42d74dc0b3?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Development & Quality Control](https://jobright.ai/jobs/info/6a0954d13b54ed42d74dbe1a?utm_campaign=1048&utm_source=git)** | Boca Raton, FL | On Site | May 16 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Technician/Diesel Mechanic - Earthmoving/Construction Equipment](https://jobright.ai/jobs/info/6a094c52a203b1052e448a2c?utm_campaign=1048&utm_source=git)** | US-ME-Scarborough | On Site | May 16 |
 | **[SB Energy](https://sbenergy.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a094b91a203b1052e448a14?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 16 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Cyber Intelligence Analyst](https://jobright.ai/jobs/info/692042b93f782d2f1afc403e?utm_campaign=1048&utm_source=git)** | Columbia, MD | Hybrid | May 16 |
 | **[SCITON](http://www.sciton.com)** | **[Intern, AI and Finance Automation](https://jobright.ai/jobs/info/69cfe810cfdc6132f94366ba?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | Hybrid | May 16 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6944d7fa94730b73987811f2?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | May 16 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Data Science Intern / Co-op - 2026](https://jobright.ai/jobs/info/697c266c1423772304ec8661?utm_campaign=1048&utm_source=git)** | Westborough, MA | On Site | May 16 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Paving Field Engineer Internship (NOVA) 2026](https://jobright.ai/jobs/info/697a762c8dbbf73badc79a31?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | May 16 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6969de2e639b452fb57fd890?utm_campaign=1048&utm_source=git)** | Wilmington, NC | On Site | May 16 |
 | **[Battelle](http://www.battelle.org)** | **[Reverse Engineer/Vulnerability Research Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a0498e46c07461fe170ee7c?utm_campaign=1048&utm_source=git)** | Columbus, OH | On Site | May 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[2026 Industrial Engineering Fall Co-op Program](https://jobright.ai/jobs/info/69c78551b773006330b79bfb?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | May 16 |
 | **[IBM](http://www.ibm.com)** | **[Site Reliability Engineer Intern](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e6?utm_campaign=1048&utm_source=git)** | Houston, TX | Hybrid | May 16 |
 | ↳ | **[2026 Returning Intern - Hardware Development](https://jobright.ai/jobs/info/69eaa1bd58811370cb134835?utm_campaign=1048&utm_source=git)** | Poughkeepsie, AR | Hybrid | May 16 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Global Real Estate and Facilities](https://jobright.ai/jobs/info/69ebb7904b0fa35a7077ddcd?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 16 |
-| **[Alstom](https://www.alstom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0879048f3e371eb6180722?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 16 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Engineer Intern (4 Months)](https://jobright.ai/jobs/info/69f8133d81706a5bd216cce7?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
