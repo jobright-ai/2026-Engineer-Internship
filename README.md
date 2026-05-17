@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0926753b54ed42d74dabc0?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[Lippert](https://corporate.lippert.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0911ed3b54ed42d74da991?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 16 |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0909933b54ed42d74da716?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
 | **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[Englobe](http://englobecorp.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69e001bc14bf245fc7a6f4d9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 16 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Science History & Communications Intern](https://jobright.ai/jobs/info/6a08def16186f4685988aa30?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | May 16 |
