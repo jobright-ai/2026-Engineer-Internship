@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a08ee4e3b54ed42d74da2f6?utm_campaign=1048&utm_source=git)** | United States | Remote | May 16 |
-| **[FieldCore](https://www.fieldcore.com/)** | **[Field Engineer Internship, ( 26-2032)](https://jobright.ai/jobs/info/6a08ea8aa203b1052e446bce?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | May 16 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a08f6a93b54ed42d74da4c2?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 16 |
+| **[ProDriven Global Brands](http://www.prodrivenbrands.com)** | **[Engineerng Intern](https://jobright.ai/jobs/info/6a08f598403fc339507f0ad3?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | **[Englobe](http://englobecorp.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/69e001bc14bf245fc7a6f4d9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 16 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Science History & Communications Intern](https://jobright.ai/jobs/info/6a08def16186f4685988aa30?utm_campaign=1048&utm_source=git)** | Falmouth, MA | Hybrid | May 16 |
 | **[Gamma Technologies](https://www.gtisoft.com)** | **[Intern  Mechanical Applications Engineer](https://jobright.ai/jobs/info/6a08decc403fc339507f00f6?utm_campaign=1048&utm_source=git)** | Westmont, IL | On Site | May 16 |
