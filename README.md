@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0a94553b54ed42d74e0a8e?utm_campaign=1048&utm_source=git)** | United States | Remote | May 17 |
+| **[Trinseo](http://www.trinseo.com)** | **[PMMA Resins Engineer Intern](https://jobright.ai/jobs/info/6a0a9c6a403fc339507f7b6b?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | May 17 |
 | **[Stripe](https://stripe.com)** | **[PhD Machine Learning Engineer, Intern](https://jobright.ai/jobs/info/6a03776b22395b6dc6d94b87?utm_campaign=1048&utm_source=git)** | Seattle, WA | Hybrid | May 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a0a83c76186f468598913f0?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston | On Site | May 17 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Traffic Engineering Intern](https://jobright.ai/jobs/info/6a0a83636186f468598913e4?utm_campaign=1048&utm_source=git)** | Fairfax, VA, US | On Site | May 17 |
@@ -93,13 +93,13 @@ For a complete list, click the following sortable link below:
 | **[TruGen AI](https://trugen.ai)** | **[AI Website & Automation Builder (Internship)](https://jobright.ai/jobs/info/6a09f852939a5f01db960868?utm_campaign=1048&utm_source=git)** | United States | Remote | May 17 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/6a09f843a203b1052e44b57d?utm_campaign=1048&utm_source=git)** | Fort Pierce, FL | On Site | May 17 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Advanced Materials Research Student Assistant](https://jobright.ai/jobs/info/6a09f51e6186f4685988ef27?utm_campaign=1048&utm_source=git)** | Wichita, KS | On Site | May 17 |
-| **[NV5](http://www.nv5.com)** | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/6a09f4e56186f4685988eef9?utm_campaign=1048&utm_source=git)** | US-FL-Alachua | On Site | May 17 |
-| ↳ | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/6a09f4e56186f4685988eef8?utm_campaign=1048&utm_source=git)** | Alachua, FL, US | On Site | May 17 |
+| **[NV5](http://www.nv5.com)** | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/6a09f4e56186f4685988eef8?utm_campaign=1048&utm_source=git)** | Alachua, FL, US | On Site | May 17 |
+| ↳ | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/6a09f4e56186f4685988eef9?utm_campaign=1048&utm_source=git)** | US-FL-Alachua | On Site | May 17 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a09f480403fc339507f4af5?utm_campaign=1048&utm_source=git)** | Austin, TX, US | On Site | May 17 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a09f47f403fc339507f4af4?utm_campaign=1048&utm_source=git)** | US-TX-Austin | On Site | May 17 |
 | **[Kern Energy CA](https://www.kernenergy.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6a03adb922395b6dc6d97356?utm_campaign=1048&utm_source=git)** | Corporate Office - Bakersfield, CA 93307 | On Site | May 17 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a09efc9a203b1052e44b3a1?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 17 |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69e7434858811370cb11c2cc?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 17 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/69e7434858811370cb11c2cd?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 17 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[ELECTRICAL ENG. CO-OP - FALL 2026 (VALDOSTA MILL)](https://jobright.ai/jobs/info/691d47fe7481340785ed5e22?utm_campaign=1048&utm_source=git)** | Valdosta Area | On Site | May 17 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op](https://jobright.ai/jobs/info/6927cd39f0beb0723262e238?utm_campaign=1048&utm_source=git)** | Greenville, SC | On Site | May 17 |
 | **[OWN, Inc.](https://www.weareown.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/69e08f4cc5691b27c176de8a?utm_campaign=1048&utm_source=git)** | Springfield, MO | On Site | May 17 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[SiFive](https://www.sifive.com)** | **[Platform Technologies Language Design Intern](https://jobright.ai/jobs/info/6a09cad9a203b1052e44aa73?utm_campaign=1048&utm_source=git)** | Berkeley, California, United States, US | On Site | May 17 |
 | ↳ | **[Platform Technologies Language Design Intern](https://jobright.ai/jobs/info/6a09cad8a203b1052e44aa72?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States, US | On Site | May 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/68f08ccaa6b9004b5e32164e?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ | On Site | May 17 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a09bb283b54ed42d74dd504?utm_campaign=1048&utm_source=git)** | US-WV-Huntington | On Site | May 17 |
-| ↳ | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a09bb283b54ed42d74dd506?utm_campaign=1048&utm_source=git)** | Huntington, WV, US | On Site | May 17 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a09bb283b54ed42d74dd506?utm_campaign=1048&utm_source=git)** | Huntington, WV, US | On Site | May 17 |
+| ↳ | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a09bb283b54ed42d74dd504?utm_campaign=1048&utm_source=git)** | US-WV-Huntington | On Site | May 17 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Generative AI Implementation Intern](https://jobright.ai/jobs/info/69eba1e10a6e095553049219?utm_campaign=1048&utm_source=git)** | Greater Philadelphia | On Site | May 17 |
 | **[Xometry](https://www.xometry.com)** | **[Quality Inspection Intern](https://jobright.ai/jobs/info/6945b2a863141d188455408f?utm_campaign=1048&utm_source=git)** | Gaithersburg, MD | On Site | May 17 |
 | ↳ | **[Machine Learning Intern](https://jobright.ai/jobs/info/6944b7dfa7227b3ece66635e?utm_campaign=1048&utm_source=git)** | North Bethesda, MD | Hybrid | May 17 |
