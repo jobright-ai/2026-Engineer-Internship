@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Battery Simulation & Computational Scientist Internship](https://jobright.ai/jobs/info/6a070069152f493123c4c3e9?utm_campaign=1048&utm_source=git)** | Alameda | Hybrid | May 18 |
+| ↳ | **[Battery Simulation & Computational Scientist Internship](https://jobright.ai/jobs/info/6a070069152f493123c4c3ec?utm_campaign=1048&utm_source=git)** | Alameda, CA | Hybrid | May 18 |
 | **[Exyte](https://www.exyte.net/en#)** | **[Intern](https://jobright.ai/jobs/info/6a0bf817a235d749afa89969?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | May 18 |
 | **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Research Assistant Utah Algae Harvesting Shurtleff](https://jobright.ai/jobs/info/6a0bf7da22d0d34036c90d36?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | May 18 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Engineering Program Management Intern](https://jobright.ai/jobs/info/6a0bf41822d0d34036c90c02?utm_campaign=1048&utm_source=git)** | San Jose, California, US | On Site | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia](https://www.veolia.com/fr)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a0b97d30411d7417a1b2c53?utm_campaign=1048&utm_source=git)** | East St Louis, IL | On Site | May 18 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Student Intern 2026 - Electrical](https://jobright.ai/jobs/info/6a0b979e4d93203636872b99?utm_campaign=1048&utm_source=git)** | Muscatine, IA | On Site | May 18 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[FusionPKG Commercialization Process & Quality Intern](https://jobright.ai/jobs/info/6a0b958922d0d34036c8e202?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | May 18 |
-| **[VHB](https://www.vhb.com/)** | **[CREST Summer Internship](https://jobright.ai/jobs/info/6a0b9553963f7a67d95d178a?utm_campaign=1048&utm_source=git)** | Greater Boston | Hybrid | May 18 |
-| **[Tutor Perini Corporation](http://www.tutorperini.com/)** | **[Security Analyst Intern](https://jobright.ai/jobs/info/6a0b95354d9320363687294f?utm_campaign=1048&utm_source=git)** | Henderson, NV | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
