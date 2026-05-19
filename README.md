@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0be6f6a235d749afa89498?utm_campaign=1048&utm_source=git)** | United States | Remote | May 18 |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a0be57d4d93203636874e1e?utm_campaign=1048&utm_source=git)** | United States | Remote | May 18 |
+| **[Exyte](https://www.exyte.net/en#)** | **[Intern](https://jobright.ai/jobs/info/6a0bf817a235d749afa89969?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | May 18 |
+| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Research Assistant Utah Algae Harvesting Shurtleff](https://jobright.ai/jobs/info/6a0bf7da22d0d34036c90d36?utm_campaign=1048&utm_source=git)** | Orem, UT | On Site | May 18 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Engineering Program Management Intern](https://jobright.ai/jobs/info/6a0bf41822d0d34036c90c02?utm_campaign=1048&utm_source=git)** | San Jose, California, US | On Site | May 18 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0bee16963f7a67d95d4062?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 18 |
 | **[SonoThera](https://sonothera.com)** | **[Nucleic Acid Analytics Intern](https://jobright.ai/jobs/info/6a0be4a4963f7a67d95d3b24?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 18 |
 | **[Apollo Technology Group](https://apollowaterservices.com/)** | **[Chemistry Lab Intern](https://jobright.ai/jobs/info/6a0be450963f7a67d95d3a9b?utm_campaign=1048&utm_source=git)** | Westfield, IN | On Site | May 18 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Quantum Research Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a0be3140411d7417a1b4c53?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 18 |
@@ -94,7 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Intern, Cyber Security](https://jobright.ai/jobs/info/6a0bbdb0a235d749afa88434?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | May 18 |
 | **[Prysmian](https://www.prysmian.com)** | **[Value Stream Intern](https://jobright.ai/jobs/info/6a0bbd8222d0d34036c8f606?utm_campaign=1048&utm_source=git)** | Taunton, MA | On Site | May 18 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern- Premise Liability](https://jobright.ai/jobs/info/6a0bbd57538d03366dc8871c?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 18 |
+| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a0bec5e22d0d34036c90a26?utm_campaign=1048&utm_source=git)** | Providence, RI | On Site | May 18 |
 | **[Ochsner LSU Health](https://www.ochsnerlsuhs.org)** | **[Summer Lab Intern - Chemistry - Kings Hwy - PRN](https://jobright.ai/jobs/info/6a0bbd3e0411d7417a1b3d5e?utm_campaign=1048&utm_source=git)** | Shreveport, LA | On Site | May 18 |
+| **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a0bebfea235d749afa8961f?utm_campaign=1048&utm_source=git)** | Rochester, MN | On Site | May 18 |
 | **[ISEC, Inc.](http://www.isecinc.com)** | **[Intern](https://jobright.ai/jobs/info/6a0bba8e963f7a67d95d2ae3?utm_campaign=1048&utm_source=git)** | Dixon, CA 95620, USA | On Site | May 18 |
 | **[Exyte](https://www.exyte.net/en#)** | **[Intern](https://jobright.ai/jobs/info/6a0bb8350411d7417a1b3c24?utm_campaign=1048&utm_source=git)** | Portland, US-OR, United States | On Site | May 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0bb83422d0d34036c8f449?utm_campaign=1048&utm_source=git)** | Portland, US-OR, United States | On Site | May 18 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Stellant Systems, Inc.](https://stellantsystems.com/company)** | **[Engineering Summer Intern](https://jobright.ai/jobs/info/6a0bb541a235d749afa881e9?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 18 |
 | **[E Ink Corporation](http://www.eink.com)** | **[Intern - Material R&D Coating & Surface Science](https://jobright.ai/jobs/info/6a0bb4240411d7417a1b3af8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 18 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Marketing Engineering Intern, Robotics - Fall 2026](https://jobright.ai/jobs/info/6a0bb21e4d9320363687382a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
-| **[Toffler Associates](http://tofflerassociates.com)** | **[AI Systems and Automation Intern](https://jobright.ai/jobs/info/6a0bafa00411d7417a1b377f?utm_campaign=1048&utm_source=git)** | 4301 Wilson Boulevard, Arlington, VA, USA | On Site | May 18 |
+| **[Avidity Science - EMEA](https://www.triplered.com/)** | **[HSE Intern - Operations](https://jobright.ai/jobs/info/6a0bec19963f7a67d95d3eda?utm_campaign=1048&utm_source=git)** | Waterford, WI | On Site | May 18 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[OmniPOS Intern](https://jobright.ai/jobs/info/6a0badb20411d7417a1b3636?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 18 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Systems Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a0bad9b4d9320363687352c?utm_campaign=1048&utm_source=git)** | Melbourne, FL | On Site | May 18 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + AI Intern](https://jobright.ai/jobs/info/6a0bad79538d03366dc87f31?utm_campaign=1048&utm_source=git)** | San Antonio, TX | Hybrid | May 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[FusionPKG Commercialization Process & Quality Intern](https://jobright.ai/jobs/info/6a0b958922d0d34036c8e202?utm_campaign=1048&utm_source=git)** | Paramus, NJ | On Site | May 18 |
 | **[VHB](https://www.vhb.com/)** | **[CREST Summer Internship](https://jobright.ai/jobs/info/6a0b9553963f7a67d95d178a?utm_campaign=1048&utm_source=git)** | Greater Boston | Hybrid | May 18 |
 | **[Tutor Perini Corporation](http://www.tutorperini.com/)** | **[Security Analyst Intern](https://jobright.ai/jobs/info/6a0b95354d9320363687294f?utm_campaign=1048&utm_source=git)** | Henderson, NV | On Site | May 18 |
-| **[MCN Build](http://mcnbuild.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0b94d9a235d749afa870b9?utm_campaign=1048&utm_source=git)** | St Croix, IN | On Site | May 18 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Civil Engineering Interns / Co-ops - Fall/Winter 2026](https://jobright.ai/jobs/info/6a0b94170411d7417a1b2889?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | May 18 |
-| **[G3 Quality, Inc.](https://www.g3quality.com)** | **[G3 Quality Inc. Paid Internship _ Laboratory Technician Intern](https://jobright.ai/jobs/info/6a0b9347538d03366dc86f88?utm_campaign=1048&utm_source=git)** | Cerritos, CA | On Site | May 18 |
-| **[Avidity Science - Americas](https://www.avidityscience.com/)** | **[HSE Intern - Operations](https://jobright.ai/jobs/info/6a0b932b22d0d34036c8e070?utm_campaign=1048&utm_source=git)** | Waterford, WI | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
