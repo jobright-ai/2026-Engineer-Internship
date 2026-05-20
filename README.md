@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hireko.ai](https://hireko.ai)** | **[Gen Ai Engineer Intern](https://jobright.ai/jobs/info/6a0d3b00963f7a67d95df81f?utm_campaign=1048&utm_source=git)** | United States | Remote | May 19 |
+| **[BioSpace](http://www.biospace.com/)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a0d44f60411d7417a1c0885?utm_campaign=1048&utm_source=git)** | United States | Remote | May 19 |
+| **[Trinseo](http://www.trinseo.com)** | **[PMMA Resins Engineer Intern](https://jobright.ai/jobs/info/6a0a9c6a403fc339507f7b6b?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | May 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/ Intern Engineer, Data & Analytics](https://jobright.ai/jobs/info/6a0d417e4d9320363688009f?utm_campaign=1048&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 19 |
+| ↳ | **[Co-op/ Intern Engineer, Data & Analytics](https://jobright.ai/jobs/info/6a0d417d4d9320363688009e?utm_campaign=1048&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 19 |
+| **[Pharmaron](http://www.pharmaron.com)** | **[Intern, Bioassay](https://jobright.ai/jobs/info/6a0d3fb7a235d749afa946f0?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | May 19 |
+| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-Commerce Knowledge Graph - CV/Multimodal/NLP) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0d3c59a235d749afa94546?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | May 19 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a0d3a6f538d03366dc94f9d?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
-| **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a0d37fba235d749afa94396?utm_campaign=1048&utm_source=git)** | United States | Remote | May 19 |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a0d36c44d9320363687fca1?utm_campaign=1048&utm_source=git)** | United States | Remote | May 19 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Data Center AI Intern](https://jobright.ai/jobs/info/6a0d36a84d9320363687fc4f?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
-| **[Instacart](https://www.instacart.com)** | **[Machine Learning Engineer, PhD Intern](https://jobright.ai/jobs/info/6a0701bd078fec52738a59d0?utm_campaign=1048&utm_source=git)** | Remote - United States | Remote | May 19 |
-| ↳ | **[Machine Learning Engineer, PhD Intern](https://jobright.ai/jobs/info/69f21553f154d768fbaa51c1?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | May 19 |
+| ↳ | **[Data Center AI Intern](https://jobright.ai/jobs/info/6a0d36a84d9320363687fc4f?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
+| **[Instacart](https://www.instacart.com)** | **[Machine Learning Engineer, PhD Intern](https://jobright.ai/jobs/info/69f21553f154d768fbaa51c1?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | May 19 |
+| ↳ | **[Machine Learning Engineer, PhD Intern](https://jobright.ai/jobs/info/6a0701bd078fec52738a59d0?utm_campaign=1048&utm_source=git)** | Remote - United States | Remote | May 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineer – Intern (SAS)](https://jobright.ai/jobs/info/6a0d31470411d7417a1c005e?utm_campaign=1048&utm_source=git)** | Portland, OR | On Site | May 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Construction Management Intern - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/6a0d2c834d9320363687f99b?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 19 |
-| **[Cognizant](https://www.cognizant.com)** | **[Fusion Internship Program](https://jobright.ai/jobs/info/6a0d2c614d9320363687f951?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | May 19 |
+| **[Cognizant](https://www.cognizant.com)** | **[Fusion Internship Program](https://jobright.ai/jobs/info/6a0d2c614d9320363687f950?utm_campaign=1048&utm_source=git)** | Plano, TX | On Site | May 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Church History Database Paid Intern](https://jobright.ai/jobs/info/6a0d2c2d538d03366dc94b08?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | May 19 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern- Integrated Production Services Design](https://jobright.ai/jobs/info/6a0d2c13963f7a67d95df340?utm_campaign=1048&utm_source=git)** | Pasadena, CA | On Site | May 19 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Engineering Technician I - Electrical (Power Generation) Intern](https://jobright.ai/jobs/info/6a045967f3d6cc51d637df33?utm_campaign=1048&utm_source=git)** | Aliso Viejo, CA | On Site | May 19 |
@@ -99,33 +102,33 @@ For a complete list, click the following sortable link below:
 | **[AvePoint](http://www.avepoint.com)** | **[People Data Intern](https://jobright.ai/jobs/info/6a06fc709f57175bd581c367?utm_campaign=1048&utm_source=git)** | Jersey City, NJ, United States | On Site | May 19 |
 | ↳ | **[People Data Intern](https://jobright.ai/jobs/info/6a06fc729f57175bd581c380?utm_campaign=1048&utm_source=git)** | Jersey City NJ | On Site | May 19 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern - Neuronal Identities](https://jobright.ai/jobs/info/6a0d184c4d9320363687ecde?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[DV Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184c4d9320363687ecdd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[RTL Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184c4d9320363687ece8?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[RTL Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184c4d9320363687ece8?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[DV Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184c4d9320363687ecdd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Firmware Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d184c4d9320363687ecd6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[DFT Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d18404d9320363687eca9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Mechanical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a0d183822d0d34036c9b728?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 19 |
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d170622d0d34036c9b672?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[RTL Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d16a722d0d34036c9b654?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Supercomputing Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d163222d0d34036c9b611?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Supercomputing Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5fc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[DFT Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b601?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[Supercomputing Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5fc?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Mech / Thermal Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d163022d0d34036c9b5f9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Mechanical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a0d16204d9320363687ebda?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | ↳ | **[Thermal Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a0d161f4d9320363687ebd4?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Electrical Platform Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e37?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[ChipSim Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e34?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Thermo-Mech CFD Simulation Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e31?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[ChipSim Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e34?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Supercomputing Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e39?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[Electrical Platform Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e37?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[Thermo-Mech CFD Simulation Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e31?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Structural Engineering Internship](https://jobright.ai/jobs/info/6a0d15b6538d03366dc93df4?utm_campaign=1048&utm_source=git)** | Fallon, NV | On Site | May 19 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Structural Analysis Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15b6538d03366dc93df3?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | ↳ | **[R&D Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a0d15a8538d03366dc93dcb?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 19 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Intern](https://jobright.ai/jobs/info/6a0d15a6538d03366dc93db9?utm_campaign=1048&utm_source=git)** | Union City, CA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[ChipSim Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d159c963f7a67d95de54b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Mech / Thermal Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d159c963f7a67d95de542?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Mech / Thermal Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d159c963f7a67d95de542?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[ChipSim Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d159c963f7a67d95de54b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Electrical Platform Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d159a963f7a67d95de529?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[ChipSim Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d158ca235d749afa932f4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[DFT Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d158ba235d749afa932de?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Inference Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d158ba235d749afa932e7?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[DFT Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d158ba235d749afa932de?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Propulsion Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6a0d157a0411d7417a1bf1e8?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 19 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a0d15690411d7417a1bf197?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[Etched](https://www.etched.com)** | **[Thermo-Mech CFD Simulation Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d10f80411d7417a1bf126?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 19 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ENGINEERING INTERN](https://jobright.ai/jobs/info/6a0d0b09963f7a67d95de2da?utm_campaign=1048&utm_source=git)** | 2600 Skypark Dr, Torrance, CA 90505, USA | On Site | May 19 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Estimating Intern, SDI Services](https://jobright.ai/jobs/info/6a0d0a33a235d749afa93033?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[AI & Automation Intern – GCN Services Business Operations](https://jobright.ai/jobs/info/6a0d0a13538d03366dc93b90?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 19 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0d093c538d03366dc93aca?utm_campaign=1048&utm_source=git)** | Fort Belvoir, VA, US | On Site | May 19 |
-| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0d093c538d03366dc93acb?utm_campaign=1048&utm_source=git)** | US-VA-Fort Belvoir | On Site | May 19 |
+| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0d093c538d03366dc93acb?utm_campaign=1048&utm_source=git)** | US-VA-Fort Belvoir | On Site | May 19 |
+| ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0d093c538d03366dc93aca?utm_campaign=1048&utm_source=git)** | Fort Belvoir, VA, US | On Site | May 19 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0d083222d0d34036c9b206?utm_campaign=1048&utm_source=git)** | US-CA-Union City | On Site | May 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0d082622d0d34036c9b200?utm_campaign=1048&utm_source=git)** | Union City, CA, US | On Site | May 19 |
 | **[RTX](http://rtx.com/)** | **[2026 Collins Aerospace Future Ready Lab Intern – Digital Business Systems and Solutions](https://jobright.ai/jobs/info/6a0d07d90411d7417a1bedd6?utm_campaign=1048&utm_source=git)** | US-NC-REMOTE, US | Remote | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Collins Aerospace Future Ready Lab Intern – Digital Product Life Cycle & Advanced Tech](https://jobright.ai/jobs/info/6a0d07bd4d9320363687e7bc?utm_campaign=1048&utm_source=git)** | US-NC-REMOTE, US | Remote | May 19 |
 | ↳ | **[2026 Collins Aerospace Future Ready Lab Intern – Digital Business Systems and Solutions](https://jobright.ai/jobs/info/6a0d07bc0411d7417a1bedd1?utm_campaign=1048&utm_source=git)** | US-NC-REMOTE, US | Remote | May 19 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Materials Science Division Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6a0d0721a235d749afa92e6a?utm_campaign=1048&utm_source=git)** | Livermore, CA, USA | On Site | May 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern - TikTok Search Local Services team  - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0d04ff963f7a67d95de015?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 19 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a0d03cf538d03366dc93724?utm_campaign=1048&utm_source=git)** | Arkadelphia, AR | On Site | May 19 |
-| **[MITRE](http://www.mitre.org)** | **[Resilient Communications Intern](https://jobright.ai/jobs/info/6a0d02e00411d7417a1beb92?utm_campaign=1048&utm_source=git)** | Bedford, MA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
