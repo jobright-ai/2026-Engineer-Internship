@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Electrical Integration Intern - RF (Fall 2026)](https://jobright.ai/jobs/info/69f3d98e1f90bd6ae23d1ede?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 22 |
+| **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Engineer Internship](https://jobright.ai/jobs/info/69d833abb861c42857c4963b?utm_campaign=1048&utm_source=git)** | Budd Lake, NJ | On Site | May 22 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69bc694345e08b3dc1f913b7?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 22 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Manufacturing Engineer](https://jobright.ai/jobs/info/6a10606e619335383fb3215b?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | May 22 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69bb8a3a06c1ba00c54e08eb?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 22 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a0753e86186f4685987d40e?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | May 22 |
+| **[Precision Castparts](http://precast.com)** | **[Alloy Process Engineering Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a105b7783d7144289825911?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | May 22 |
+| ↳ | **[Controls Engineering Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a105b399f654b3359ceb086?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | May 22 |
 | **[Crown Holdings, Inc.](http://crowncork.com)** | **[Manufacturing/Engineering Intern](https://jobright.ai/jobs/info/6a1058f269bd827926aed90a?utm_campaign=1048&utm_source=git)** | FL - Tampa, US | On Site | May 22 |
 | **[Precision Castparts](http://precast.com)** | **[Engineering Intern (Co-Op)](https://jobright.ai/jobs/info/69f425cc6942c746fa696e3a?utm_campaign=1048&utm_source=git)** | Gardena, CA | On Site | May 22 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - OLP](https://jobright.ai/jobs/info/69f406bf1f90bd6ae23d3507?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Mfg - Quality Engineer](https://jobright.ai/jobs/info/6a0fb1c59f654b3359ce7c2b?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[84-Safety Management - Intern](https://jobright.ai/jobs/info/6a0fb0829f654b3359ce7b53?utm_campaign=1048&utm_source=git)** | Sanford, FL | On Site | May 21 |
 | ↳ | **[Intern - Safety Management](https://jobright.ai/jobs/info/6a0fafe372b52f7225f3fcd1?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | May 21 |
-| **[Draper](https://www.draper.com)** | **[Mechanical Engineering & System Packaging Intern](https://jobright.ai/jobs/info/6a0faf6b9f654b3359ce7b05?utm_campaign=1048&utm_source=git)** | Greater Boston | On Site | May 21 |
-| **[V2X Inc](https://gov2x.com)** | **[EHS Engineer Intern](https://jobright.ai/jobs/info/69fb3cfa18b94b2515be0b3c?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | May 21 |
-| **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Mfg - Quality Engineer](https://jobright.ai/jobs/info/6a0fae33619335383fb2e8bd?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
-| **[Recor Medical](http://recormedical.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a0fadec83d7144289822243?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Automation Specialist](https://jobright.ai/jobs/info/6a0fd23912f8b43cf3981db3?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Mission Operation Intern Fall 2026](https://jobright.ai/jobs/info/6a0fadb083d71442898221ed?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | May 21 |
-| **[The Baldwin Group](https://baldwin.com)** | **[Intern - Construction Practice](https://jobright.ai/jobs/info/6a0fad4a80bf0430c7635b25?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 21 |
-| **[LayerZero Power Systems](https://www.LayerZero.com/)** | **[Intern- Industrial Engineering](https://jobright.ai/jobs/info/6a0fabf272b52f7225f3fb39?utm_campaign=1048&utm_source=git)** | Streetsboro,OH,US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
