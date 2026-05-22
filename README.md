@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workato](http://www.workato.com)** | **[Intern, AI Engineering](https://jobright.ai/jobs/info/6a06ea91f400923a0090b4fd?utm_campaign=1048&utm_source=git)** | San Francisco, California | On Site | May 22 |
+| ↳ | **[Intern, AI Engineering](https://jobright.ai/jobs/info/6a06ea8ef400923a0090b4ee?utm_campaign=1048&utm_source=git)** | San Francisco, California, United States | On Site | May 22 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Weather Lab Manager](https://jobright.ai/jobs/info/6a10080372b52f7225f41532?utm_campaign=1048&utm_source=git)** | Topeka Metropolitan Area | On Site | May 22 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a10032a80bf0430c76373f7?utm_campaign=1048&utm_source=git)** | Hastings, NE | On Site | May 22 |
-| **[Therapz Inc](https://therapz.com/)** | **[AI Internship  – Building AI Agents for healthtech](https://jobright.ai/jobs/info/6a1003149f654b3359ce92e6?utm_campaign=1048&utm_source=git)** | United States | Remote | May 22 |
 | **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0ffead80bf0430c7637331?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 21 |
 | ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0ffe9883d71442898239ff?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 21 |
 | **[NVIDIA AI](http://nvda.ws/2nfcPK3)** | **[Quantum Error Correction Research Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c9?utm_campaign=1048&utm_source=git)** | California, United States | On Site | May 21 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Process Engineer Intern (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6a0f9f0580bf0430c76355a7?utm_campaign=1048&utm_source=git)** | Reading, PA | On Site | May 21 |
 | **[Rainmaker Technology Corporation](https://makerain.com)** | **[Electro-Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a0f9efb619335383fb2e243?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | May 21 |
 | **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a0f9ef6619335383fb2e23b?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 21 |
-| **[Dematic](http://www.dematic.com)** | **[AMR Systems Engineering Intern](https://jobright.ai/jobs/info/6a0f9ed29f654b3359ce7314?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | May 21 |
 | **[Videojet Technologies](http://www.videojet.com)** | **[AI Development Intern](https://jobright.ai/jobs/info/6a0f9ec672b52f7225f3f4ec?utm_campaign=1048&utm_source=git)** | Wood Dale, IL | Hybrid | May 21 |
 | **[Hawaiian Telcom](http://www.hawaiiantel.com)** | **[Outside/Inside Plant Engineering Intern](https://jobright.ai/jobs/info/6a0f9eb183d7144289821b91?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | May 21 |
 | **[Woodgrain](http://www.woodgrain.com/)** | **[General Production Summer Intern](https://jobright.ai/jobs/info/6a0f9ea980bf0430c763552e?utm_campaign=1048&utm_source=git)** | Towanda, PA | On Site | May 21 |
