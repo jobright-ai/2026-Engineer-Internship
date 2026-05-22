@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a0fd54380bf0430c7636953?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 21 |
+| **[Software Engineering Institute | Carnegie Mellon University](http://www.sei.cmu.edu)** | **[AI/ML Vulnerability Analysis Intern](https://jobright.ai/jobs/info/6a0fcbd372b52f7225f406d1?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | May 21 |
 | **[JPI](http://jpi.com)** | **[Milestone Validation Construction Intern](https://jobright.ai/jobs/info/6a0fc6d69f654b3359ce843d?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Mechanical Engineering Internship](https://jobright.ai/jobs/info/6a0fc690619335383fb2f292?utm_campaign=1048&utm_source=git)** | Roanoke, VA | On Site | May 21 |
 | **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0fc68080bf0430c7636531?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 21 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0fc66e83d7144289822c15?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 21 |
 | **[NEMERA](http://www.nemera.net/)** | **[Human Factors - Intern](https://jobright.ai/jobs/info/6a0fc62b9f654b3359ce839f?utm_campaign=1048&utm_source=git)** | 4660 N Ravenswood Ave, Chicago, Illinois, United States | On Site | May 21 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Strike Force Intern - UNPAID](https://jobright.ai/jobs/info/6a0fc5e8619335383fb2f20c?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Lakeville-10 Riverside Drive | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (USDS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0fc52a72b52f7225f40505?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 21 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Kitchell](https://www.kitchell.com/)** | **[Construction Management Internship Summer 2026](https://jobright.ai/jobs/info/6a0fc4499f654b3359ce8318?utm_campaign=1048&utm_source=git)** | San Mateo, CA | On Site | May 21 |
 | **[LegalZoom](http://www.legalzoom.com)** | **[AI Enablement Engineer - Intern (Summer Program - Mountain View or Los Angeles)](https://jobright.ai/jobs/info/6a0fc22f80bf0430c76363a1?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
 | ↳ | **[AI Enablement Engineer - Intern (Summer Program - Mountain View or Los Angeles)](https://jobright.ai/jobs/info/6a0fc19b12f8b43cf398174f?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 21 |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a0fbe4272b52f7225f40294?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
 | **[Daifuku](https://www.daifuku.com/)** | **[1st Shift Inventory Intern](https://jobright.ai/jobs/info/6a0fbd8f12f8b43cf398162d?utm_campaign=1048&utm_source=git)** | Hobart, IN | On Site | May 21 |
 | **[d-Matrix](https://www.d-matrix.ai)** | **[ASIC Functional Test Engineering Intern](https://jobright.ai/jobs/info/6a0fb9e472b52f7225f4007f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 21 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a0fb20983d71442898224f8?utm_campaign=1048&utm_source=git)** | Buena Vista, VA | On Site | May 21 |
@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Mfg - Quality Engineer](https://jobright.ai/jobs/info/6a0fae33619335383fb2e8bd?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
 | **[Recor Medical](http://recormedical.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a0fadec83d7144289822243?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a0fadeb83d7144289822241?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Automation Specialist](https://jobright.ai/jobs/info/6a0fd23912f8b43cf3981db3?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Mission Operation Intern Fall 2026](https://jobright.ai/jobs/info/6a0fadb083d71442898221ed?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | May 21 |
 | **[The Baldwin Group](https://baldwin.com)** | **[Intern - Construction Practice](https://jobright.ai/jobs/info/6a0fad4a80bf0430c7635b25?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[LayerZero Power Systems](https://www.LayerZero.com/)** | **[Intern- Industrial Engineering](https://jobright.ai/jobs/info/6a0fabf272b52f7225f3fb39?utm_campaign=1048&utm_source=git)** | Streetsboro,OH,US | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[d-Matrix](https://www.d-matrix.ai)** | **[ASIC Functional Test Engineering Intern](https://jobright.ai/jobs/info/6a0f84fe12f8b43cf397ff07?utm_campaign=1048&utm_source=git)** | Santa Clara | On Site | May 21 |
 | **[Bowman Consulting](https://bowman.com)** | **[Construction Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f84c472b52f7225f3eb31?utm_campaign=1048&utm_source=git)** | Lisle, IL | On Site | May 21 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Summer Quality Intern](https://jobright.ai/jobs/info/6a0f844680bf0430c7634be4?utm_campaign=1048&utm_source=git)** | Kendallville, IN | On Site | May 21 |
-| **[Verdantas](https://www.verdantas.com)** | **[Structural Engineer Intern](https://jobright.ai/jobs/info/6a0f843883d71442898211df?utm_campaign=1048&utm_source=git)** | Lake Oswego, OR | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
