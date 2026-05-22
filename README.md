@@ -57,16 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daifuku](https://www.daifuku.com/)** | **[1st Shift Inventory Intern](https://jobright.ai/jobs/info/6a0fbd8f12f8b43cf398162d?utm_campaign=1048&utm_source=git)** | Hobart, IN | On Site | May 21 |
+| **[d-Matrix](https://www.d-matrix.ai)** | **[ASIC Functional Test Engineering Intern](https://jobright.ai/jobs/info/6a0fb9e472b52f7225f4007f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 21 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a0fb20983d71442898224f8?utm_campaign=1048&utm_source=git)** | Buena Vista, VA | On Site | May 21 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/6a0fb1da83d71442898224da?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 21 |
+| **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Mfg - Quality Engineer](https://jobright.ai/jobs/info/6a0fb1c59f654b3359ce7c2b?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
+| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[84-Safety Management - Intern](https://jobright.ai/jobs/info/6a0fb0829f654b3359ce7b53?utm_campaign=1048&utm_source=git)** | Sanford, FL | On Site | May 21 |
+| ↳ | **[Intern - Safety Management](https://jobright.ai/jobs/info/6a0fafe372b52f7225f3fcd1?utm_campaign=1048&utm_source=git)** | Fort Myers, FL | On Site | May 21 |
 | **[Draper](https://www.draper.com)** | **[Mechanical Engineering & System Packaging Intern](https://jobright.ai/jobs/info/6a0faf6b9f654b3359ce7b05?utm_campaign=1048&utm_source=git)** | Greater Boston | On Site | May 21 |
 | **[V2X Inc](https://gov2x.com)** | **[EHS Engineer Intern](https://jobright.ai/jobs/info/69fb3cfa18b94b2515be0b3c?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | May 21 |
 | **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Mfg - Quality Engineer](https://jobright.ai/jobs/info/6a0fae33619335383fb2e8bd?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
-| **[Vibes Meet LLC](vibesmeet.com)** | **[Cybersecurity Intern (Penetration Testing) – Part-Time](https://jobright.ai/jobs/info/6a0fae1783d7144289822282?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 21 |
 | **[Recor Medical](http://recormedical.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a0fadec83d7144289822243?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a0fadeb83d7144289822241?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Mission Operation Intern Fall 2026](https://jobright.ai/jobs/info/6a0fadb083d71442898221ed?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | May 21 |
 | **[The Baldwin Group](https://baldwin.com)** | **[Intern - Construction Practice](https://jobright.ai/jobs/info/6a0fad4a80bf0430c7635b25?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[LayerZero Power Systems](https://www.LayerZero.com/)** | **[Intern- Industrial Engineering](https://jobright.ai/jobs/info/6a0fabf272b52f7225f3fb39?utm_campaign=1048&utm_source=git)** | Streetsboro,OH,US | On Site | May 21 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0faa6080bf0430c76359ba?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 21 |
 | **[Oracle](https://www.oracle.com/)** | **[AI Intern - US - Dallas, TX](https://jobright.ai/jobs/info/6a0fa99b619335383fb2e66a?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a0fa7cd619335383fb2e5c9?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 21 |
 | **[Vantive](https://www.vantive.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0fa76983d7144289821f0e?utm_campaign=1048&utm_source=git)** | Mountain Home, AR | On Site | May 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/6a0f80609f654b3359ce65f6?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | May 21 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[Summer 2026 Architectural-Engineering Intern](https://jobright.ai/jobs/info/6a0f804a83d7144289820f23?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Robotics](https://jobright.ai/jobs/info/6a0f804983d7144289820f19?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
-| **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern -Pittsburgh, PA](https://jobright.ai/jobs/info/6a0f804580bf0430c763482f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | May 21 |
-| ↳ | **[Traffic/Transportation Intern -Philadelphia, PA](https://jobright.ai/jobs/info/6a0f802a9f654b3359ce6584?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
-| **[Leidos](https://www.leidos.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a0f80269f654b3359ce657b?utm_campaign=1048&utm_source=git)** | Reston, VA | On Site | May 21 |
-| **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f801d12f8b43cf397fb7e?utm_campaign=1048&utm_source=git)** | Exton, PA | On Site | May 21 |
-| ↳ | **[Intern/Co-op, Technical](https://jobright.ai/jobs/info/6a0f801783d7144289820e95?utm_campaign=1048&utm_source=git)** | Chesterfield, MO | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
