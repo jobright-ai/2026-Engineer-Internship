@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com)** | **[Advanced Automation for Battery Production Internship](https://jobright.ai/jobs/info/6a0feb7412f8b43cf39824cd?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | May 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Inspection Readiness Project Intern](https://jobright.ai/jobs/info/6a0fedab619335383fb2fd4f?utm_campaign=1048&utm_source=git)** | Lexington, MA | Hybrid | May 21 |
+| ↳ | **[2026 Summer Internship Program: Quality Digital (Quality Systems & Validation) Intern](https://jobright.ai/jobs/info/6a0fed3772b52f7225f4100d?utm_campaign=1048&utm_source=git)** | Lexington, MA | Hybrid | May 21 |
+| **[Cambrex](http://www.cambrex.com)** | **[Analytical Chemistry Intern](https://jobright.ai/jobs/info/6a0fed1780bf0430c7636fa3?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | May 21 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Data & Operations Intern (Vision Zero)](https://jobright.ai/jobs/info/6a0fe8c780bf0430c7636f31?utm_campaign=1048&utm_source=git)** | 2100 Clarendon Blvd, Arlington, VA, 22201, US | Hybrid | May 21 |
-| **[Siemens](https://www.siemens.com)** | **[Advanced Automation for Battery Production Internship](https://jobright.ai/jobs/info/6a0fe5dd80bf0430c7636da9?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | May 21 |
 | **[McWane India Private Limited](https://www.mcwane.com/businesses/mcwane-india-private-limited/)** | **[Kennedy Valve-Production Process Intern](https://jobright.ai/jobs/info/6a0fe5d7619335383fb2fb21?utm_campaign=1048&utm_source=git)** | Elmira, NY | On Site | May 21 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[Business Systems & AI Intern - Senior Year Student](https://jobright.ai/jobs/info/6a0fe5d6619335383fb2fb1a?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | May 21 |
 | **[The Marvin Group](http://www.marvingroup.com)** | **[INTERN, QUALITY ENGINEERING](https://jobright.ai/jobs/info/6a0fe5d012f8b43cf3982366?utm_campaign=1048&utm_source=git)** | Inglewood, CA | On Site | May 21 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Technician](https://jobright.ai/jobs/info/6a0fe5cd80bf0430c7636d8f?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | May 21 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a0fe2de80bf0430c7636d1a?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 21 |
 | **[Northeast Metro 916 Intermediate School District](https://916schools.org)** | **[Data Team Development Intern](https://jobright.ai/jobs/info/6a0fdf3380bf0430c7636bb9?utm_campaign=1048&utm_source=git)** | Little Canada, MN | Hybrid | May 21 |
 | **[Genesee County Human Resources](https://www.geneseecountymi.gov/)** | **[CYBERSECURITY INTERN (IT)](https://jobright.ai/jobs/info/6a0fdf309f654b3359ce8b1b?utm_campaign=1048&utm_source=git)** | Flint,MI,US | On Site | May 21 |
 | **[Lambda](https://lambda.ai)** | **[Data Center Mechanical Engineering Intern - 2026](https://jobright.ai/jobs/info/6a0fd9d212f8b43cf398201f?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f8d5d12f8b43cf3980275?utm_campaign=1048&utm_source=git)** | Allentown, PA | On Site | May 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Science Intern - Summer 2026](https://jobright.ai/jobs/info/6a0f8d51619335383fb2dcaf?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 21 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f8cf512f8b43cf3980223?utm_campaign=1048&utm_source=git)** | US-CA-Ontario | On Site | May 21 |
+| **[University Health Network](https://www.uhn.ca/)** | **[Junior Developer (Intern), Analytics & Insights](https://jobright.ai/jobs/info/6a0f8c8f72b52f7225f3edf8?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
