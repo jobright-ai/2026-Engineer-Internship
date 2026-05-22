@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Aviation](http://txtav.com)** | **[Stage Été 2026 - Inspection Essais Non-Destructifs (END) / 2026 Summer Internship Non-Destructive Testing Inspector (NDT) (Mirabel, QC)](https://jobright.ai/jobs/info/6a10391383d7144289824ac8?utm_campaign=1048&utm_source=git)** | CA-Quebec-Mirabel | On Site | May 22 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1036fd83d7144289824a73?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 22 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1036ee9f654b3359cea2d9?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 22 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Fire Systems PM Intern](https://jobright.ai/jobs/info/6a1032139fdbf21f36cad155?utm_campaign=1048&utm_source=git)** | Fargo, ND | Hybrid | May 22 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/699fa32181476f6176b95bc6?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 22 |
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/690d013dd046ab6061cf166b?utm_campaign=1048&utm_source=git)** | Chadds Ford, PA | Hybrid | May 22 |
 | **[Meshcapade](https://meshcapade.com)** | **[PhD Internship - Remote](https://jobright.ai/jobs/info/6a102fd49f654b3359cea135?utm_campaign=1048&utm_source=git)** | United States | Remote | May 22 |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a102edd69bd827926aeca84?utm_campaign=1048&utm_source=git)** | United States | Remote | May 22 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/6a102ed89fdbf21f36cad04f?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 22 |
 | ↳ | **[AI Evaluation and Implementation Internship](https://jobright.ai/jobs/info/6a102e3c69bd827926aeca4b?utm_campaign=1048&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 22 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[HVAC Technician Intern](https://jobright.ai/jobs/info/6a102dfb9f654b3359cea015?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | May 22 |
 | **[Electrified Thermal Solutions](https://www.electrifiedthermal.com/)** | **[2026 R&D Manufacturing Co-Op](https://jobright.ai/jobs/info/6a102df29f654b3359cea010?utm_campaign=1048&utm_source=git)** | Medford, MA | On Site | May 22 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Automation Engineer Intern](https://jobright.ai/jobs/info/6a102ddf69bd827926aec9ea?utm_campaign=1048&utm_source=git)** | Turtle Lake, WI | On Site | May 22 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (PICO) Computational Photography Algorithms- 2026 Start (PhD)](https://jobright.ai/jobs/info/69df0a98433ac8430e0de540?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Instrument Solutions Intern](https://jobright.ai/jobs/info/6a0f95f29f654b3359ce71b8?utm_campaign=1048&utm_source=git)** | 51 Baseline Rd, Brighton, CO | On Site | May 21 |
 | **[Northeast Metro 916 Intermediate School District](https://916schools.org)** | **[Data Team Development Intern](https://jobright.ai/jobs/info/6a0f95cd72b52f7225f3f35a?utm_campaign=1048&utm_source=git)** | Little Canada, MN, US | On Site | May 21 |
 | **[Second Order Effects](https://soeffects.com)** | **[Mechanical Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f932a12f8b43cf3980687?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | May 21 |
-| **[Qdoba Restaurant Corporation](https://www.qdoba.com/)** | **[Intern AI Software Engineer](https://jobright.ai/jobs/info/6a0f91a883d7144289821878?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
-| ↳ | **[Cybersecurity Analyst, Intern](https://jobright.ai/jobs/info/6a0f913d72b52f7225f3f1b2?utm_campaign=1048&utm_source=git)** | United States | Remote | May 21 |
-| **[Eurofins](http://eurofins.com)** | **[Intern, Materials Characterization](https://jobright.ai/jobs/info/6a0f913712f8b43cf39805b4?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA, USA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
