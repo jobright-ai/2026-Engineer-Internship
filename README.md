@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a11340b9f654b3359cf056e?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 22 |
+| **[Fenwick & West](http://fenwick.com)** | **[Patent Intern](https://jobright.ai/jobs/info/6a1142ec9fdbf21f36cb35eb?utm_campaign=1048&utm_source=git)** | Seattle, US | Hybrid | May 22 |
+| ↳ | **[Patent Intern](https://jobright.ai/jobs/info/6a1142eb9fdbf21f36cb35ea?utm_campaign=1048&utm_source=git)** | Silicon Valley, US | Hybrid | May 22 |
+| ↳ | **[Patent Intern](https://jobright.ai/jobs/info/6a1142ea9fdbf21f36cb35e9?utm_campaign=1048&utm_source=git)** | Santa Monica, US | Hybrid | May 22 |
+| ↳ | **[Patent Intern](https://jobright.ai/jobs/info/6a1142e99fdbf21f36cb35e7?utm_campaign=1048&utm_source=git)** | San Francisco, US | Hybrid | May 22 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Threat Detection and Incident Response Intern (Summer 2026)](https://jobright.ai/jobs/info/6a11295369bd827926af2bc4?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[Recursion](https://www.recursion.com)** | **[ML Intern, Research](https://jobright.ai/jobs/info/6a11270612f8b43cf39898cb?utm_campaign=1048&utm_source=git)** | Montréal, Quebec | On Site | May 22 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mechanical Engineer Intern (Engineering Intern 3) - 28699](https://jobright.ai/jobs/info/6a1125e312f8b43cf39898ad?utm_campaign=1048&utm_source=git)** | VA - Alexandria - Barclay Dr | On Site | May 22 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Security Operations (Cybersecurity) internship](https://jobright.ai/jobs/info/6a10d5af9fdbf21f36cb1123?utm_campaign=1048&utm_source=git)** | Westbrook, ME, US | Hybrid | May 22 |
 | **[Symend](http://www.symend.com)** | **[Intern, AI & Agentic Automation Engineering (Summer 2026)](https://jobright.ai/jobs/info/6a10d5a39fdbf21f36cb1115?utm_campaign=1048&utm_source=git)** | Calgary, AB, Canada | On Site | May 22 |
 | **[DATAmundi](https://datamundi.ai)** | **[AI Researcher (PhD Internship)](https://jobright.ai/jobs/info/6a10f8ec83d71442898299b8?utm_campaign=1048&utm_source=git)** | United States | Remote | May 22 |
-| **[Instacart](https://www.instacart.com)** | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/6a10d43b9fdbf21f36cb102c?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | May 22 |
-| ↳ | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/6a10d43b9fdbf21f36cb102b?utm_campaign=1048&utm_source=git)** | San Francisco | Remote | May 22 |
+| **[Instacart](https://www.instacart.com)** | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/6a10d43b9fdbf21f36cb102b?utm_campaign=1048&utm_source=git)** | San Francisco | Remote | May 22 |
+| ↳ | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/6a10d43b9fdbf21f36cb102c?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | May 22 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a10d38712f8b43cf398782c?utm_campaign=1048&utm_source=git)** | New York, US | On Site | May 22 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[ASIC Digital Design Intern](https://jobright.ai/jobs/info/6a10d37783d7144289828a09?utm_campaign=1048&utm_source=git)** | San Jose | On Site | May 22 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a10d2e183d71442898289e3?utm_campaign=1048&utm_source=git)** | Newark, CA | Hybrid | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Air Combat Effectiveness Consulting Group (ACE Group), LLC](https://aircombateffectivenessconsultinggroup.com)** | **[Intern I - IT Apprentice (ANJG23032)](https://jobright.ai/jobs/info/6a10c41d12f8b43cf3987357?utm_campaign=1048&utm_source=git)** | Lexington Park,MD,US | On Site | May 22 |
 | **[US Fertility](https://www.usfertility.com/)** | **[Laboratory Assistant Intern (Per Diem)](https://jobright.ai/jobs/info/6a10f54483d7144289829782?utm_campaign=1048&utm_source=git)** | Margate, FL | On Site | May 22 |
 | **[MacLean Power Systems](http://www.macleanpower.com)** | **[Internship Year 2](https://jobright.ai/jobs/info/6a10c2e583d71442898283fa?utm_campaign=1048&utm_source=git)** | 7801 Park Place Rd, York, SC 29745, USA | On Site | May 22 |
-| **[Welser Profile](https://www.welser.com/)** | **[Quality Intern (Summer 2026)](https://jobright.ai/jobs/info/6a10c2b29fdbf21f36cb07ea?utm_campaign=1048&utm_source=git)** | Valley City, Ohio, United States | On Site | May 22 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Dat Science/AIML Engineering Summer Intern](https://jobright.ai/jobs/info/6a10c234619335383fb34880?utm_campaign=1048&utm_source=git)** | Fort Belvoir, VA, US | On Site | May 22 |
-| ↳ | **[Dat Science/AIML Engineering Summer Intern](https://jobright.ai/jobs/info/6a10c22e619335383fb3487d?utm_campaign=1048&utm_source=git)** | US-VA-Fort Belvoir | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
