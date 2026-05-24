@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a13094c69bd827926af7635?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 24 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1312269f654b3359cf5365?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 24 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 24 |
+| ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a1308519fdbf21f36cb819d?utm_campaign=1048&utm_source=git)** | Irvine | On Site | May 24 |
 | **[Oddin.gg](https://oddin.gg)** | **[Applied Science Intern - World Model](https://jobright.ai/jobs/info/6a1305da9f654b3359cf517c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
 | **[Pond & Company](https://www.pondco.com)** | **[Mechanical Intern - Mechanical](https://jobright.ai/jobs/info/69d9689bb67cec4f9b0a1e33?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | May 24 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e86ec058811370cb1267fb?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 24 |
-| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
-| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
+| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
 | ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
+| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Site Development, New Grad](https://jobright.ai/jobs/info/69682730f25a380066968089?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 24 |
 | ↳ | **[JACKSONVILLE, FL - Land/Site Development, Internship](https://jobright.ai/jobs/info/6a12ddf69fdbf21f36cb795b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 24 |
 | ↳ | **[TAMPA - Public Works, Internship](https://jobright.ai/jobs/info/6a12dc4512f8b43cf398da33?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 24 |
@@ -77,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a0be2c6a235d749afa89121?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 24 |
 | **[Neuralink](https://www.neuralink.com)** | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5c1939a5f01db952f5c?utm_campaign=1048&utm_source=git)** | Fremont campus | On Site | May 24 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5d2?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5cf?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f56?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | May 24 |
+| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5cf?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
+| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5d2?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Mechanical Engineering Intern (Senior)](https://jobright.ai/jobs/info/69d9084bb67cec4f9b09f955?utm_campaign=1048&utm_source=git)** | North Charleston, SC | On Site | May 24 |
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Spring 27](https://jobright.ai/jobs/info/69a0a12a81476f6176baf08b?utm_campaign=1048&utm_source=git)** | Oakland, CA | On Site | May 24 |
 | ↳ | **[Project Engineer Intern - Spring 27](https://jobright.ai/jobs/info/69e8507258811370cb122455?utm_campaign=1048&utm_source=git)** | Manassas, VA | On Site | May 24 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Controls Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c357ad94007a2195dfa405?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 23 |
 | **[Armstrong World Industries](https://www.armstrong.com)** | **[AS CAD Intern Job](https://jobright.ai/jobs/info/69f53c20a3d34b4f76f546b1?utm_campaign=1048&utm_source=git)** | Carson, CA | On Site | May 23 |
 | **[Blue Robotics](https://www.bluerobotics.com)** | **[Mechanical Engineering Internship (DORIS)](https://jobright.ai/jobs/info/6a0bca7a538d03366dc88bed?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 23 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7b?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 23 |
-| ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7a?utm_campaign=1048&utm_source=git)** | San Diego | On Site | May 23 |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7a?utm_campaign=1048&utm_source=git)** | San Diego | On Site | May 23 |
+| ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7b?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 23 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f54ce3db88714bcdfb3270?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Remote | May 23 |
 | ↳ | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f539ef12f2811ab5a63dff?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 23 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Flight Software Intern](https://jobright.ai/jobs/info/69f56f7143a25828a8d18949?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 23 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f5446781706a5bd2165c0a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 23 |
 | ↳ | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f543d4a3d34b4f76f548a1?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 23 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Machine Learning Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6a11d29f619335383fb38d44?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 23 |
-| **[Waabi](https://waabi.ai)** | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d28?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
-| ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d26?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | May 23 |
+| **[Waabi](https://waabi.ai)** | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d26?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | May 23 |
+| ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d28?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
 | ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d275619335383fb38d23?utm_campaign=1048&utm_source=git)** | Remote US | Remote | May 23 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a10819c619335383fb32f37?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 23 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/693025604c474121999e42ea?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 23 |
