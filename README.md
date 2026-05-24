@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a124d699f654b3359cf2d44?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 23 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a124d6983d714428982d90a?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Wastewater Operator-in-Training (Internship)](https://jobright.ai/jobs/info/6a1246c069bd827926af57c8?utm_campaign=1048&utm_source=git)** | 1515 Soscol Ferry Road, 94558, Napa, CA | On Site | May 23 |
 | **[AMT Engineering](http://amtengineering.com)** | **[Civil Engineering CAD Intern](https://jobright.ai/jobs/info/6a12436169bd827926af5778?utm_campaign=1048&utm_source=git)** | Christiansburg, Virginia | On Site | May 23 |
 | **[Avride](https://www.avride.ai)** | **[Machine Learning Engineer Internship](https://jobright.ai/jobs/info/6a1242dd69bd827926af5758?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -74,19 +73,20 @@ For a complete list, click the following sortable link below:
 | **[Artelia](http://www.arteliagroup.com/en/home)** | **[Stagiaire en structure du bâtiment](https://jobright.ai/jobs/info/69f51c4e0b36ff035475095d?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Controls Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c357ad94007a2195dfa405?utm_campaign=1048&utm_source=git)** | Green Bay, WI | On Site | May 23 |
 | **[Blue Robotics](https://www.bluerobotics.com)** | **[Mechanical Engineering Internship (DORIS)](https://jobright.ai/jobs/info/6a0bca7a538d03366dc88bed?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 23 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7b?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 23 |
-| ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7a?utm_campaign=1048&utm_source=git)** | San Diego | On Site | May 23 |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7a?utm_campaign=1048&utm_source=git)** | San Diego | On Site | May 23 |
+| ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6a11ebf669bd827926af4c7b?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 23 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f539ef12f2811ab5a63dff?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Remote | May 23 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development](https://jobright.ai/jobs/info/6a11d6cb619335383fb38dc7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 23 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f5446781706a5bd2165c0a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 23 |
 | **[Davidson Technologies](https://davidson-tech.com/)** | **[Software-Electrical Engineering Intern](https://jobright.ai/jobs/info/6a11d65383d714428982ca79?utm_campaign=1048&utm_source=git)** | Huntsville,AL,US | On Site | May 23 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Machine Learning Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6a11d29f619335383fb38d44?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 23 |
-| **[Waabi](https://waabi.ai)** | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d28?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
-| ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d26?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | May 23 |
+| **[Waabi](https://waabi.ai)** | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d26?utm_campaign=1048&utm_source=git)** | Toronto, ON | Hybrid | May 23 |
+| ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d279619335383fb38d28?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | May 23 |
 | ↳ | **[Research Internship/Co-op](https://jobright.ai/jobs/info/6a11d275619335383fb38d23?utm_campaign=1048&utm_source=git)** | Remote US | Remote | May 23 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a10819c619335383fb32f37?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 23 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/693025604c474121999e42ea?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| **[Dematic](http://www.dematic.com)** | **[Mobile Robots Intern - Mechatronics Vehicle Feature(s) R&D](https://jobright.ai/jobs/info/69d83bf2b67cec4f9b09b854?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | May 23 |
+| **[Dematic](http://www.dematic.com)** | **[RSD Intern - Test Engineering](https://jobright.ai/jobs/info/69d83bf5b67cec4f9b09b857?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | May 23 |
+| ↳ | **[Mobile Robots Intern - Mechatronics Vehicle Feature(s) R&D](https://jobright.ai/jobs/info/69d83bf2b67cec4f9b09b854?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI | On Site | May 23 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering](https://jobright.ai/jobs/info/69f53c01db88714bcdfb2f92?utm_campaign=1048&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 23 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Summer Intern - Business AI Research [Newport Beach, CA]](https://jobright.ai/jobs/info/6a0f108583d714428981c9ea?utm_campaign=1048&utm_source=git)** | Newport Beach, CA | On Site | May 23 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Robotics Systems Engineer Intern/Co-op, Robotics Deployment Engineering](https://jobright.ai/jobs/info/68cdea391ad6b16f0289ff23?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 23 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Applied Vision in Augmented Reality (PhD)](https://jobright.ai/jobs/info/69f027862b095843b0311918?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | May 23 |
 | **[AMT Engineering](http://amtengineering.com)** | **[Environmental and Water Resources Intern - 2026](https://jobright.ai/jobs/info/6a119aec619335383fb382db?utm_campaign=1048&utm_source=git)** | Rockville, Maryland | On Site | May 23 |
 | **[GenScript](http://www.genscript.com)** | **[Research & Development Intern](https://jobright.ai/jobs/info/69f500b581706a5bd21642fd?utm_campaign=1048&utm_source=git)** | Piscataway, NJ | On Site | May 23 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a1197b169bd827926af3e60?utm_campaign=1048&utm_source=git)** | Santa Clara | On Site | May 23 |
-| ↳ | **[Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a1197b169bd827926af3e61?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | May 23 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a1197b169bd827926af3e61?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | May 23 |
+| ↳ | **[Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a1197b169bd827926af3e60?utm_campaign=1048&utm_source=git)** | Santa Clara | On Site | May 23 |
 | ↳ | **[Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a1197b069bd827926af3e5f?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | May 23 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[SAFETY INTERN - MANUFACTURING](https://jobright.ai/jobs/info/699ff3d2ce78e77b4fe5f9ca?utm_campaign=1048&utm_source=git)** | Muskogee, OK | On Site | May 23 |
 | **[AME Group](https://amegroup.ca)** | **[Mechanical Co-op / Mechanical Intern](https://jobright.ai/jobs/info/6a1194f112f8b43cf398aafa?utm_campaign=1048&utm_source=git)** | Vancouver, BC, CA | On Site | May 23 |
@@ -133,15 +133,15 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Propulsion Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a11633b9f654b3359cf0c9b?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | May 23 |
 | **[Acceldata](http://acceldata.io)** | **[Field Engineering Co-Op](https://jobright.ai/jobs/info/6a116118619335383fb378a1?utm_campaign=1048&utm_source=git)** | Kitchener | On Site | May 23 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a114c3783d714428982b1bf?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | May 22 |
-| **[GenScript](http://www.genscript.com)** | **[Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/6a11452e619335383fb37493?utm_campaign=1048&utm_source=git)** | USA- Redmond, WA | On Site | May 22 |
-| ↳ | **[Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/6a11452e619335383fb37492?utm_campaign=1048&utm_source=git)** | Redmond, Washington, United States | On Site | May 22 |
+| **[GenScript](http://www.genscript.com)** | **[Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/6a11452e619335383fb37492?utm_campaign=1048&utm_source=git)** | Redmond, Washington, United States | On Site | May 22 |
+| ↳ | **[Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/6a11452e619335383fb37493?utm_campaign=1048&utm_source=git)** | USA- Redmond, WA | On Site | May 22 |
 | **[SB Energy](https://sbenergy.com)** | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/6a1143b39f654b3359cf07d4?utm_campaign=1048&utm_source=git)** | San Diego Office | Hybrid | May 22 |
 | ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/6a1143b39f654b3359cf07d3?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | May 22 |
 | ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/6a1143b39f654b3359cf07d5?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 22 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b212f8b43cf3989dfa?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | May 22 |
 | ↳ | **[Data Engineering & AI Enablement Intern 2026](https://jobright.ai/jobs/info/6a1143b29f654b3359cf07d2?utm_campaign=1048&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b212f8b43cf3989dfb?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 22 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b212f8b43cf3989df9?utm_campaign=1048&utm_source=git)** | San Diego Office | Hybrid | May 22 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b212f8b43cf3989dfb?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | May 22 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b212f8b43cf3989dfa?utm_campaign=1048&utm_source=git)** | San Diego, CA | Hybrid | May 22 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b112f8b43cf3989df8?utm_campaign=1048&utm_source=git)** | Redwood City, CA | Hybrid | May 22 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a1143b012f8b43cf3989df7?utm_campaign=1048&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
 | ↳ | **[Agentic AI Engineering Intern](https://jobright.ai/jobs/info/6a1143af83d714428982b017?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 22 |
