@@ -57,12 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a12b51469bd827926af68d1?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Production Quality Intern (Fall 2026)](https://jobright.ai/jobs/info/6a12b3d883d714428982eedd?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | May 24 |
 | **[Five9](http://www.five9.com)** | **[Software Developer AI Insights Intern](https://jobright.ai/jobs/info/6a12b32e83d714428982ee6e?utm_campaign=1048&utm_source=git)** | San Ramon, CA (Hybrid) | Hybrid | May 24 |
 | ↳ | **[Software Developer AI Insights Intern](https://jobright.ai/jobs/info/6a12b32b83d714428982ee6a?utm_campaign=1048&utm_source=git)** | US | Hybrid | May 24 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a12a20e83d714428982ec7f?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 24 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a12a20e9f654b3359cf43aa?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 24 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a12a20e9f654b3359cf43aa?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 24 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Calibration Technician (56630)](https://jobright.ai/jobs/info/6a129fec69bd827926af6594?utm_campaign=1048&utm_source=git)** | SACRAMENTO - SACRAMENTO, CA 95827 | On Site | May 23 |
 | **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Drafting Intern Hendrick](https://jobright.ai/jobs/info/6a129f6769bd827926af652f?utm_campaign=1048&utm_source=git)** | Hendrick Manufacturing - Carbondale, PA 18407 | On Site | May 23 |
 | **[Geospace Technologies](http://www.geospace.com/)** | **[Intern, Research & Development- Mechanical Eng](https://jobright.ai/jobs/info/6a129f4f69bd827926af6520?utm_campaign=1048&utm_source=git)** | Geospace Technologies - Houston, TX 77040 | On Site | May 23 |
@@ -90,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Avride](https://www.avride.ai)** | **[Machine Learning Engineer Internship](https://jobright.ai/jobs/info/6a1242dd69bd827926af5758?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 23 |
 | **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a12422a619335383fb39ad1?utm_campaign=1048&utm_source=git)** | United States | Remote | May 23 |
 | **[Whiterabbit.ai](https://whiterabbit.ai/)** | **[Research Scientist Intern (2026)](https://jobright.ai/jobs/info/6a12419d619335383fb39aa2?utm_campaign=1048&utm_source=git)** | United States | Remote | May 23 |
-| **[Ai2](http://allenai.org)** | **[Research Internship, Robotics](https://jobright.ai/jobs/info/6a124053619335383fb39a56?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| ↳ | **[Research Internship, Robotics](https://jobright.ai/jobs/info/6a124053619335383fb39a55?utm_campaign=1048&utm_source=git)** | Seattle | On Site | May 23 |
+| **[Ai2](http://allenai.org)** | **[Research Internship, Robotics](https://jobright.ai/jobs/info/6a124053619335383fb39a55?utm_campaign=1048&utm_source=git)** | Seattle | On Site | May 23 |
+| ↳ | **[Research Internship, Robotics](https://jobright.ai/jobs/info/6a124053619335383fb39a56?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 23 |
 | **[Hamilton Business Technologies](http://hamiltontel.com)** | **[Business Systems Tech Intern](https://jobright.ai/jobs/info/6a122fb583d714428982d4cc?utm_campaign=1048&utm_source=git)** | Grand Island, NE | On Site | May 23 |
 | **[SES AI](https://www.ses.ai/)** | **[[Japan] Computational Chemistry Intern (Materials Modeling/Molecular Simulation)](https://jobright.ai/jobs/info/6a1224999f654b3359cf27b5?utm_campaign=1048&utm_source=git)** | Woburn, MA | Remote | May 23 |
 | **[HyperHeat](https://www.hyperheat.de)** | **[Working Student/Intern Simulation Engineer (f/m/x)](https://jobright.ai/jobs/info/6a120a1f83d714428982cf4a?utm_campaign=1048&utm_source=git)** | United States | Hybrid | May 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a02bef822395b6dc6d8d838?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co-Op - Mixed Signal Modeling & Verification Engineer](https://jobright.ai/jobs/info/69f55feb12f2811ab5a6465d?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 23 |
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Spring 27](https://jobright.ai/jobs/info/69e84de94b0fa35a707622f7?utm_campaign=1048&utm_source=git)** | Commerce, CA | On Site | May 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Monetization Technology - Ads Core Global) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6968612b1703f05405aa138e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 23 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Spring 27](https://jobright.ai/jobs/info/69a09cbe5218a8167671cc1a?utm_campaign=1048&utm_source=git)** | Goodyear, AZ | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
