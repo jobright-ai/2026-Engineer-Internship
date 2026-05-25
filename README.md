@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchmark](http://www.bench.com)** | **[Intern Mechanical, Manufacturing, Automation Engineering](https://jobright.ai/jobs/info/6a1416e35fdf991ebf771245?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | May 25 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support - Abilene, TX (Operations)](https://jobright.ai/jobs/info/6a1411cb458a8512c525f75f?utm_campaign=1048&utm_source=git)** | Abilene District Headquarters 4250 NORTH CLACK Abilene 79601 | On Site | May 25 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a140f5235df33047ace14d5?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 25 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Manufacturing Automation Engineer](https://jobright.ai/jobs/info/6a140f1bc2dca06fac40429e?utm_campaign=1048&utm_source=git)** | Concord, CA | On Site | May 25 |
+| **[Pronto Networks, Inc](http://www.prontonetworks.com)** | **[AI Engineer Intern - GTM / Sales Automation](https://jobright.ai/jobs/info/6a140c805fdf991ebf7710da?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA | On Site | May 25 |
+| **[Axon](https://www.axon.com)** | **[Artificial Intelligence / Machine Learning Internship, Dedrone](https://jobright.ai/jobs/info/6a140c7c458a8512c525f69b?utm_campaign=1048&utm_source=git)** | Sterling, VA | On Site | May 25 |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026- Heavy Civil](https://jobright.ai/jobs/info/6a140b1e5fdf991ebf7710a5?utm_campaign=1048&utm_source=git)** | Greater Jacksonville, NC Area | On Site | May 25 |
+| **[Acadian Companies](https://acadian.com/)** | **[Programmer Intern (GIS)](https://jobright.ai/jobs/info/6a14075983d71442898334bb?utm_campaign=1048&utm_source=git)** | Louisiana | On Site | May 25 |
 | **[Formlabs](http://www.formlabs.com)** | **[SLA Print Optimization Intern (Fall 2026)](https://jobright.ai/jobs/info/6a14043a9fdbf21f36cbb853?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | May 25 |
 | **[Cortland](https://www.cortland.com/)** | **[Construction Intern - Arlington, VA](https://jobright.ai/jobs/info/6a14043a83d71442898333f5?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | May 25 |
 | **[Formlabs](http://www.formlabs.com)** | **[SLA Print Optimization Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1404379fdbf21f36cbb851?utm_campaign=1048&utm_source=git)** | Somerville, Massachusetts | On Site | May 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pond & Company](https://www.pondco.com)** | **[Mechanical Intern - Mechanical](https://jobright.ai/jobs/info/69d9689bb67cec4f9b0a1e33?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA | On Site | May 24 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 24 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e86ec058811370cb1267fb?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 24 |
-| **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process, Controls, and Automation)](https://jobright.ai/jobs/info/6a0ce4c1538d03366dc92531?utm_campaign=1048&utm_source=git)** | Vandergrift, PA | On Site | May 24 |
-| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
-| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
-| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a0eea4c12f8b43cf397a380?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 24 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Site Development, New Grad](https://jobright.ai/jobs/info/69682730f25a380066968089?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 24 |
-| ↳ | **[JACKSONVILLE, FL - Land/Site Development, Internship](https://jobright.ai/jobs/info/6a12ddf69fdbf21f36cb795b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 24 |
-| ↳ | **[TAMPA - Public Works, Internship](https://jobright.ai/jobs/info/6a12dc4512f8b43cf398da33?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
