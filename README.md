@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NativeAds.ai](https://www.nativeads.ai)** | **[AI/ML Research Engineer Intern – Advertising Optimization](https://jobright.ai/jobs/info/6a14a943bc9bff375af01c4f?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 25 |
 | **[Ciena](http://www.ciena.com)** | **[Hardware (PCBA) Design and Verification Intern](https://jobright.ai/jobs/info/6a14a198dc845f4be5bd2a05?utm_campaign=1048&utm_source=git)** | Ottawa, CA | On Site | May 25 |
 | **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a149bcbbc9bff375af01a6c?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern - Computer Engineering (AI): Intelligent Agent Development for Optimization (Fall 2026)](https://jobright.ai/jobs/info/6a149753738a270c8bfa823e?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 25 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a147e69738a270c8bfa7deb?utm_campaign=1048&utm_source=git)** | US-VA-Harrisonburg | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Electrical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a147dfabc9bff375af01503?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 25 |
 | ↳ | **[Systems Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a147def738a270c8bfa7dd4?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 25 |
+| ↳ | **[Supply Chain Intern Fall 2026](https://jobright.ai/jobs/info/6a14a727bc9bff375af01c28?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 25 |
 | **[FAMU National Alumni Association](http://famunaa.org)** | **[Intern, R&D Undergraduate Year Round - Future of Research for Secure Energy and Earth Systems (FORSEES), Onsite](https://jobright.ai/jobs/info/6a147cd8128680351d95dc19?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round  Molecular and Microbiology, Hybrid](https://jobright.ai/jobs/info/6a147cd3554b0e12c057f35e?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | Hybrid | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Manufacturing Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a147aff554b0e12c057f321?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FOREMAN SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317476fa28370be26bad4a?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | May 25 |
 | ↳ | **[ENGINEER INDUSTRIAL SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69316b5a3b6d6f265f4e84f2?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | May 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Per Diem](https://jobright.ai/jobs/info/6a142120c2dca06fac404513?utm_campaign=1048&utm_source=git)** | Beverly Hills, CA | On Site | May 25 |
-| **[Kodiak](http://www.kodiak.ai)** | **[Fall 2026 Intern, Perception](https://jobright.ai/jobs/info/6a141f9eb689d6757fc1c476?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 25 |
-| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69fa9fda18b94b2515bdba7b?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
