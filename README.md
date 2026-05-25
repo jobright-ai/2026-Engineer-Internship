@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a13eb0083d7144289832919?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a13f3759f654b3359cf7fb0?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 25 |
+| **[DENTALEZ](http://dentalez.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a13ebab9f654b3359cf7d17?utm_campaign=1048&utm_source=git)** | Lancaster,PA,US | On Site | May 24 |
 | **[Strategic Mission Critical](www.smc-eng.com)** | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a13e72f9fdbf21f36cbacc9?utm_campaign=1048&utm_source=git)** | Seattle | Hybrid | May 24 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Odessa Plant Summer Internship](https://jobright.ai/jobs/info/6a13d7ff83d7144289832611?utm_campaign=1048&utm_source=git)** | Odessa, Texas, US | On Site | May 24 |
 | **[Avolta Inc.](https://www.avoltacanada.com)** | **[Machine Learning Student Intern](https://jobright.ai/jobs/info/6a13d2d212f8b43cf3990926?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 24 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 24 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e86ec058811370cb1267fb?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 24 |
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process, Controls, and Automation)](https://jobright.ai/jobs/info/6a0ce4c1538d03366dc92531?utm_campaign=1048&utm_source=git)** | Vandergrift, PA | On Site | May 24 |
-| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
-| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
 | ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a0eea4c12f8b43cf397a380?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 24 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Site Development, New Grad](https://jobright.ai/jobs/info/69682730f25a380066968089?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/6a12d3879f654b3359cf4987?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69d9bfb0869c7e25d859d531?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a13bddb83d7144289831b2a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| ↳ | **[Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a02ff2ced6a637463f4b2b7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
