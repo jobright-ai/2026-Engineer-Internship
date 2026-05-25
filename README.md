@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Transmission Line Intern](https://jobright.ai/jobs/info/6a148d55bc9bff375af016d2?utm_campaign=1048&utm_source=git)** | Augusta, ME | On Site | May 25 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69eb8cc358811370cb139bcd?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Electrical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a148889128680351d95de0a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Engineering Internship](https://jobright.ai/jobs/info/6a1483b6bc9bff375af015e3?utm_campaign=1048&utm_source=git)** | Spring, Texas, United States of America | On Site | May 25 |
 | **[Ciena](http://www.ciena.com)** | **[Optical Platform Systems Intern (Fall 2026 - 4 months)](https://jobright.ai/jobs/info/6a148379554b0e12c057f49c?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineering Spring Co-op (January 2027) (R4475)](https://jobright.ai/jobs/info/6a143ce1bc9bff375af00abf?utm_campaign=1048&utm_source=git)** | Dallas, Texas | On Site | May 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Southern California '25-'26](https://jobright.ai/jobs/info/6a06a10aa88ea73abf7fcf31?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
 | **[Arup](http://www.arup.com)** | **[Electrical Engineering Intern (August - December 2026)](https://jobright.ai/jobs/info/69fab76d38179b6f1ae720bd?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 25 |
-| ↳ | **[Building Systems Engineering Intern (August - December 2026)](https://jobright.ai/jobs/info/69fab75a38179b6f1ae7208d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Electrical Engineering Intern (August - December 2026)](https://jobright.ai/jobs/info/69fab710d21cf86d1e3cc940?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
+| ↳ | **[Building Systems Engineering Intern (August - December 2026)](https://jobright.ai/jobs/info/69fab75a38179b6f1ae7208d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Mechanical Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a062862a88ea73abf7f83d0?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/69faaf32d21cf86d1e3cc6af?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | May 25 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[GenAI Engineering Intern  - SkillBridge (Remote)](https://jobright.ai/jobs/info/69bf618c7798f73e35e42628?utm_campaign=1048&utm_source=git)** | United States | Remote | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strategic Mission Critical](www.smc-eng.com)** | **[BMS Associate Internship](https://jobright.ai/jobs/info/6a1402f39fdbf21f36cbb7aa?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | On Site | May 25 |
 | ↳ | **[BMS Associate Internship](https://jobright.ai/jobs/info/6a1402f19fdbf21f36cbb7a9?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 25 |
 | **[Lovart AI](https://www.lovart.ai)** | **[AI PM Intern](https://jobright.ai/jobs/info/6a140273619335383fb3f5ae?utm_campaign=1048&utm_source=git)** | United States | Remote | May 25 |
-| **[Instacart](https://www.instacart.com)** | **[Machine Learning PhD Intern, Economics](https://jobright.ai/jobs/info/69e7e283f8fa2f3ec32aa1f5?utm_campaign=1048&utm_source=git)** | United States | Remote | May 25 |
-| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Seed Responsible AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a13fc5b12f8b43cf39917bb?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
