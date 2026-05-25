@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crisalix](http://www.crisalix.com)** | **[AI Automation & Prototyping Intern ( Location: -Barcelona-Spain/ Dubai-UAE /Lausanne- Switzerland)](https://jobright.ai/jobs/info/6a13cebc83d7144289832252?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Odessa Plant Summer Internship](https://jobright.ai/jobs/info/6a13d7ff83d7144289832611?utm_campaign=1048&utm_source=git)** | Odessa, Texas, US | On Site | May 24 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a13d73183d71442898325fd?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 24 |
+| **[Contech Engineered Solutions](http://www.conteches.com/)** | **[Intern, Civil/Environmental Engineering](https://jobright.ai/jobs/info/6a13d48e83d71442898324f4?utm_campaign=1048&utm_source=git)** | WEST CHESTER, OH OFFICE (CONQ) | On Site | May 24 |
+| **[Avolta Inc.](https://www.avoltacanada.com)** | **[Machine Learning Student Intern](https://jobright.ai/jobs/info/6a13d2d212f8b43cf3990926?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 24 |
+| **[DENTALEZ](http://dentalez.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a13cf829f654b3359cf76ab?utm_campaign=1048&utm_source=git)** | Lancaster,PA,US | On Site | May 24 |
 | **[Axon](https://www.axon.com)** | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/6a13ccb79fdbf21f36cba4ad?utm_campaign=1048&utm_source=git)** | Massachusetts-Boston Office | On Site | May 24 |
 | ↳ | **[Controllership AI & Automation Intern](https://jobright.ai/jobs/info/6a13ccb69fdbf21f36cba4aa?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a13cc5258ee291d8052d6a8?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
@@ -68,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[PBE Expert](https://pbe-expert.com/)** | **[Internship & Summer Jobs](https://jobright.ai/jobs/info/6a139ede9fdbf21f36cb9441?utm_campaign=1048&utm_source=git)** | Laval, Quebec, Canada | On Site | May 24 |
 | **[Figure](https://www.figure.ai)** | **[Electrical Engineering Intern [Fall 2026]](https://jobright.ai/jobs/info/6a13936c12f8b43cf398f3f3?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - ML Engineering](https://jobright.ai/jobs/info/6a13923e9fdbf21f36cb9244?utm_campaign=1048&utm_source=git)** | Seattle | Hybrid | May 24 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a13923183d7144289830ebe?utm_campaign=1048&utm_source=git)** | Oakland | On Site | May 24 |
-| ↳ | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a13923183d7144289830ebf?utm_campaign=1048&utm_source=git)** | Oakland, California, United States | On Site | May 24 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a13923183d7144289830ebf?utm_campaign=1048&utm_source=git)** | Oakland, California, United States | On Site | May 24 |
+| ↳ | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a13923183d7144289830ebe?utm_campaign=1048&utm_source=git)** | Oakland | On Site | May 24 |
 | **[Quality Engineering & Surveying, LLC](http://www.qesla.com/)** | **[AI Intern](https://jobright.ai/jobs/info/6a137b509fdbf21f36cb90a4?utm_campaign=1048&utm_source=git)** | Port Vincent,LA,US | On Site | May 24 |
 | **[CertiK](https://www.certik.com/)** | **[Blockchain Security Expert Intern - AI Track](https://jobright.ai/jobs/info/6a137a9f83d7144289830cee?utm_campaign=1048&utm_source=git)** | New York, New York | Remote | May 24 |
 | ↳ | **[Blockchain Security Expert Intern - AI Track](https://jobright.ai/jobs/info/6a137a9e83d7144289830ced?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
@@ -112,13 +116,14 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69300aa5fa28370be26aec33?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Failure Analysis & Validation Engineering](https://jobright.ai/jobs/info/69da722db67cec4f9b0a9732?utm_campaign=1048&utm_source=git)** | Southfield, MI | On Site | May 24 |
 | ↳ | **[Manufacturing Process Improvement Intern- Summer 2026](https://jobright.ai/jobs/info/69871e078ca8121a3a69ac84?utm_campaign=1048&utm_source=git)** | Plymouth, MI | On Site | May 24 |
+| **[Clune Construction Company](http://www.clunegc.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6a13de20619335383fb3e8ec?utm_campaign=1048&utm_source=git)** | Vienna, VA | On Site | May 24 |
 | **[Enlighten](https://www.eitccorp.com/)** | **[DevOps Engineer (Skillbridge Intern) - 28114](https://jobright.ai/jobs/info/6a13afe69fdbf21f36cb982b?utm_campaign=1048&utm_source=git)** | Augusta, GA | Hybrid | May 24 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Electrical Engineering](https://jobright.ai/jobs/info/69da5660b67cec4f9b0a90c4?utm_campaign=1048&utm_source=git)** | Leominster, MA | On Site | May 24 |
 | **[Leviton](https://www.leviton.com)** | **[Mechanical Engineering Intern (Summer)](https://jobright.ai/jobs/info/69bd9ef64828227293ffd8b2?utm_campaign=1048&utm_source=git)** | Melville, NY | On Site | May 24 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6930461c4c474121999e4a25?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | May 24 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Construction Intern](https://jobright.ai/jobs/info/6a13b3bf69bd827926af8f44?utm_campaign=1048&utm_source=git)** | Denver Metropolitan Area | On Site | May 24 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 24 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | May 24 |
+| ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a13085a9fdbf21f36cb81a9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | ↳ | **[Analog/Mixed-Signal Engineer - SerDes (PhD Intern 2026)](https://jobright.ai/jobs/info/6a1308519fdbf21f36cb819d?utm_campaign=1048&utm_source=git)** | Irvine | On Site | May 24 |
 | **[Oddin.gg](https://oddin.gg)** | **[Applied Science Intern - World Model](https://jobright.ai/jobs/info/6a1305da9f654b3359cf517c?utm_campaign=1048&utm_source=git)** | United States | Remote | May 24 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Environmental Health and Safety Intern](https://jobright.ai/jobs/info/69a257da0da45516f16b9b90?utm_campaign=1048&utm_source=git)** | Breinigsville, PA | On Site | May 24 |
@@ -136,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | May 24 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e86ec058811370cb1267fb?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | May 24 |
 | **[ATI](https://www.forging.com)** | **[Summer 2026 Internship (Process, Controls, and Automation)](https://jobright.ai/jobs/info/6a0ce4c1538d03366dc92531?utm_campaign=1048&utm_source=git)** | Vandergrift, PA | On Site | May 24 |
-| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
-| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
+| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd8?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | May 24 |
 | ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd6?utm_campaign=1048&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| ↳ | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a12ea6369bd827926af6dd7?utm_campaign=1048&utm_source=git)** | Austin - ATX1 | On Site | May 24 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a0eea4c12f8b43cf397a380?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | May 24 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Site Development, New Grad](https://jobright.ai/jobs/info/69682730f25a380066968089?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 24 |
 | ↳ | **[JACKSONVILLE, FL - Land/Site Development, Internship](https://jobright.ai/jobs/info/6a12ddf69fdbf21f36cb795b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | May 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a13be1412f8b43cf398ff8c?utm_campaign=1048&utm_source=git)** | Somerset, NJ | On Site | May 24 |
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Controls Engineer Intern](https://jobright.ai/jobs/info/6a12d3879f654b3359cf4987?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69d9bfb0869c7e25d859d531?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a13bddb83d7144289831b2a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| ↳ | **[Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a02ff2ced6a637463f4b2b7?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 24 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[SAFETY INTERN - MANUFACTURING (Muskogee, Oklahoma, United States, 74401)](https://jobright.ai/jobs/info/699fdc3253d97f23ee656169?utm_campaign=1048&utm_source=git)** | Muskogee, OK | On Site | May 24 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0f170ff71e82d604b432f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a0be2c6a235d749afa89121?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
