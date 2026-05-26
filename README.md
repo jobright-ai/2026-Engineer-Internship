@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drinking Water Program (Lakeville) Intern - UNPAID](https://jobright.ai/jobs/info/6a150f3cbc9bff375af02d7e?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Lakeville-20 Riverside Drive | On Site | May 25 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a150c76bc9bff375af02d14?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 25 |
+| **[Contech Engineered Solutions](http://www.conteches.com/)** | **[Intern, Civil/Environmental Engineering](https://jobright.ai/jobs/info/6a150a2fbc9bff375af02c86?utm_campaign=1048&utm_source=git)** | WEST CHESTER, OH OFFICE (CONQ) | On Site | May 25 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - Prescient Frontier Research (GSAB)](https://jobright.ai/jobs/info/6a14ff4bc48b503aeffc0553?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 25 |
 | **[Didact AI](https://didactai-us.com/)** | **[AI Services Development Intern](https://jobright.ai/jobs/info/6a14fbbd738a270c8bfa9296?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | May 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aircraft Maintenance and Reliability Data Analysis (Fall 2026)](https://jobright.ai/jobs/info/6a14f94dc48b503aeffc04e0?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 25 |
 | **[Filter Fox](www.filterfox.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/6a14f869738a270c8bfa9245?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | May 25 |
-| **[Santhica](https://www.linkedin.com/company/108296941)** | **[Summer Intern, AI + ABDM Security Engineering](https://jobright.ai/jobs/info/6a14f44bc48b503aeffc03f8?utm_campaign=1048&utm_source=git)** | Greater Boston | Remote | May 25 |
 | **[United Engines](unitedengines.com)** | **[Manufacturing Supply Chain Intern](https://jobright.ai/jobs/info/6a14f0eb554b0e12c0580639?utm_campaign=1048&utm_source=git)** | US-OK-Oklahoma City | On Site | May 25 |
 | ↳ | **[Manufacturing Supply Chain Intern](https://jobright.ai/jobs/info/6a14f0e6554b0e12c0580638?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 25 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a14e3b9128680351d95ed61?utm_campaign=1048&utm_source=git)** | Ottawa | On Site | May 25 |
@@ -69,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Until](https://www.untillabs.com)** | **[Biology/Biochemistry Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a14e393554b0e12c05803d7?utm_campaign=1048&utm_source=git)** | Bay Area | On Site | May 25 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)New](https://jobright.ai/jobs/info/6a14d678738a270c8bfa8d40?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[CO OP STUDENT INTERN](https://jobright.ai/jobs/info/6a14d4ecc48b503aeffbff93?utm_campaign=1048&utm_source=git)** | East York, Ontario, Canada | On Site | May 25 |
-| **[Ciena](http://www.ciena.com)** | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
-| ↳ | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a062839bc4184089f24c138?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
+| **[Ciena](http://www.ciena.com)** | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a062839bc4184089f24c138?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
 | ↳ | **[Electro-Optic Test Automation Engineer Intern (September 2026, 12 months)](https://jobright.ai/jobs/info/6a076cd1a203b1052e43a7d5?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
+| ↳ | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | ↳ | **[FPGA Development Intern (Fall 2026 - 4-8 months)](https://jobright.ai/jobs/info/6a14d3a2554b0e12c05801b3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Software Developer Intern (AI Services) 4 months – Fall 2026](https://jobright.ai/jobs/info/6a14cb69bc9bff375af022f1?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 25 |
 | **[ASM](https://www.asm.com)** | **[Process Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a14c9edbc9bff375af02295?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6a146468128680351d95d8a2?utm_campaign=1048&utm_source=git)** | Torrance, CA | On Site | May 25 |
 | **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[Transportation Construction Engineering & Inspection (CE&I) Intern](https://jobright.ai/jobs/info/69e1a841fd1c0456f3faf3dd?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 25 |
 | **[Almac Group](https://www.almacgroup.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a065e186c07461fe171fdd4?utm_campaign=1048&utm_source=git)** | Audubon, PA | On Site | May 25 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Modelling & AI Machine Learning Intern](https://jobright.ai/jobs/info/6931fdee4c474121999f5508?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 25 |
-| **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern (Sunbelt Controls)](https://jobright.ai/jobs/info/696c82965fc86241853ba5ab?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
