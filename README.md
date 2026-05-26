@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/698940850f6f7e7a2ce447e2?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 26 |
-| **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6a159df9128680351d962b72?utm_campaign=1048&utm_source=git)** | US | On Site | May 26 |
-| ↳ | **[Engineer Intern](https://jobright.ai/jobs/info/6a159df9128680351d962b71?utm_campaign=1048&utm_source=git)** | US - Portsmouth, NH (TDY) | On Site | May 26 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Electrical Engineering](https://jobright.ai/jobs/info/6a15a6b70073182bd92ab3d2?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | May 26 |
+| **[RoviSys](http://rovisys.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/69c20e3bc9ad035e829aab00?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 26 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696ad044db26b618950e1fe9?utm_campaign=1048&utm_source=git)** | Canonsburg, PA | On Site | May 26 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69fae71f86d5cd46527d0dca?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | May 26 |
+| **[Louisiana Department Of Transportation and Development](http://wwwsp.dotd.la.gov/Pages/default.aspx)** | **[Engineer Intern Applicant](https://jobright.ai/jobs/info/6a15a431a429fd279da90809?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | May 26 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT ENGINEER CEMENT](https://jobright.ai/jobs/info/6a15a2300073182bd92ab316?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | May 26 |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/6989402b8da7a61204642134?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | May 26 |
+| ↳ | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/698941248ca8121a3a6b8e97?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 26 |
+| ↳ | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/698940850f6f7e7a2ce447e2?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | May 26 |
+| **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6a159df9128680351d962b71?utm_campaign=1048&utm_source=git)** | US - Portsmouth, NH (TDY) | On Site | May 26 |
+| ↳ | **[Engineer Intern](https://jobright.ai/jobs/info/6a159df9128680351d962b72?utm_campaign=1048&utm_source=git)** | US | On Site | May 26 |
 | **[RoviSys](http://rovisys.com)** | **[Co-op - Fall 2026](https://jobright.ai/jobs/info/69bfe84a2c312363dcd29cf9?utm_campaign=1048&utm_source=git)** | Aurora, OH | On Site | May 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Highway Intern](https://jobright.ai/jobs/info/6a0f05e372b52f7225f3a7d1?utm_campaign=1048&utm_source=git)** | United States-California-Riverside | On Site | May 26 |
 | **[ChampionX](https://www.championx.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6a12aa169f654b3359cf44e0?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | May 26 |
@@ -67,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Research Intern](https://jobright.ai/jobs/info/6a159b9d0073182bd92ab18f?utm_campaign=1048&utm_source=git)** | District of Columbia-Washington | On Site | May 26 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Mission Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69fae40786d5cd46527d0925?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Ocean Marine Intern - Summer 2026](https://jobright.ai/jobs/info/6a1599e6dc845f4be5bd7206?utm_campaign=1048&utm_source=git)** | East Brunswick, NJ (USA), US | Hybrid | May 26 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a15990ba429fd279da9050d?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 26 |
 | **[Nokia](http://www.nokia.com)** | **[Incubation Developer Coop/Intern](https://jobright.ai/jobs/info/6a159857128680351d962a10?utm_campaign=1048&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 26 |
 | **[RoviSys](http://rovisys.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/6a0a00108f3e371eb6186b46?utm_campaign=1048&utm_source=git)** | Holly Springs, NC | On Site | May 26 |
 | **[ChampionX](https://www.championx.com)** | **[Supply Chain Engineer Intern](https://jobright.ai/jobs/info/69ebf60358811370cb13dd74?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | May 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part Time Summer Laboratory Intern (Materials Science)](https://jobright.ai/jobs/info/6a155d50738a270c8bfaab9c?utm_campaign=1048&utm_source=git)** | Cinnaminson, NJ 08077 | On Site | May 26 |
 | ↳ | **[Part Time Summer Laboratory Intern (Asbestos/PCM)](https://jobright.ai/jobs/info/6a155d4cdc845f4be5bd52d5?utm_campaign=1048&utm_source=git)** | Carle Place, NY 11514 | On Site | May 26 |
 | **[CityBus](https://gocitybus.com/)** | **[Dr. Jon D. Fricker Memorial Transit Internship](https://jobright.ai/jobs/info/6a155d3f738a270c8bfaab83?utm_campaign=1048&utm_source=git)** | GLPTC CityBus - Lafayette, IN 47904 | On Site | May 26 |
-| **[EMSL Analytical, Inc.](http://www.emsl.com)** | **[Part Time Summer Laboratory Intern (Login)](https://jobright.ai/jobs/info/6a155d18554b0e12c058206e?utm_campaign=1048&utm_source=git)** | Carle Place, NY 11514 | On Site | May 26 |
-| ↳ | **[Part Time Summer Laboratory Intern (Asbestos)](https://jobright.ai/jobs/info/6a155d18554b0e12c058206d?utm_campaign=1048&utm_source=git)** | Cinnaminson, NJ 08077 | On Site | May 26 |
-| **[Hermeus](http://www.hermeus.com)** | **[GNC Engineering Intern (Controls) - Fall 2026](https://jobright.ai/jobs/info/6a155825dc845f4be5bd4ee6?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 26 |
-| **[Continental](https://www.continental.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0f72959f654b3359ce5de2?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | May 26 |
-| **[MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)](https://mbzuai.ac.ae)** | **[AI Research Internship](https://jobright.ai/jobs/info/6a1555031935fa61b3c67177?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 26 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15546e438198796a26b173?utm_campaign=1048&utm_source=git)** | Fort Collins | Remote | May 26 |
-| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15546b438198796a26b172?utm_campaign=1048&utm_source=git)** | Boston | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
