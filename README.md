@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1544a71935fa61b3c66fc4?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 25 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1544a7dc845f4be5bd4b6a?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 25 |
+| **[Continental](https://www.continental.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0f72959f654b3359ce5de2?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | May 26 |
+| **[MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)](https://mbzuai.ac.ae)** | **[AI Research Internship](https://jobright.ai/jobs/info/6a1555031935fa61b3c67177?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | May 26 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15546e438198796a26b173?utm_campaign=1048&utm_source=git)** | Fort Collins | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15546b438198796a26b172?utm_campaign=1048&utm_source=git)** | Boston | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15545f438198796a26b171?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15545f438198796a26b170?utm_campaign=1048&utm_source=git)** | Fort Collins, Colorado, United States | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15545e438198796a26b16d?utm_campaign=1048&utm_source=git)** | Santa Clara | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15545e438198796a26b16f?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | Remote | May 26 |
+| ↳ | **[Data Movement Architecture Intern](https://jobright.ai/jobs/info/6a15545e438198796a26b16e?utm_campaign=1048&utm_source=git)** | Austin | Remote | May 26 |
 | **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern- Premise Liability](https://jobright.ai/jobs/info/6a154075128680351d960241?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 25 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | May 25 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a153387738a270c8bfaa0cf?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 25 |
@@ -66,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c7c128680351d95f6c5?utm_campaign=1048&utm_source=git)** | San Francisco | Hybrid | May 25 |
 | **[Phlux Technologies](https://www.phlux.io)** | **[Computer Vision Intern/Co-op](https://jobright.ai/jobs/info/6a151c7cbc9bff375af02f47?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | May 25 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c71128680351d95f6b1?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | Hybrid | May 25 |
-| ↳ | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c6f128680351d95f6b0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, US | Hybrid | May 25 |
 | ↳ | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c6f128680351d95f6af?utm_campaign=1048&utm_source=git)** | New York, NY, US | Hybrid | May 25 |
+| ↳ | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c6f128680351d95f6b0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, US | Hybrid | May 25 |
 | ↳ | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c6d128680351d95f6aa?utm_campaign=1048&utm_source=git)** | Seattle, WA, US | Hybrid | May 25 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Mechanical Engineer - Post Grad Intern](https://jobright.ai/jobs/info/6a151c61738a270c8bfa980d?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | May 25 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Drinking Water Program (Lakeville) Intern - UNPAID](https://jobright.ai/jobs/info/6a150f3cbc9bff375af02d7e?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Lakeville-20 Riverside Drive | On Site | May 25 |
@@ -81,11 +88,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a14e3b3128680351d95ed5f?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | May 25 |
 | **[Until](https://www.untillabs.com)** | **[Biology/Biochemistry Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a14e393554b0e12c05803d7?utm_campaign=1048&utm_source=git)** | Bay Area | On Site | May 25 |
 | **[Ciena](http://www.ciena.com)** | **[Network Engineer Intern (12 Months - Fall 2026)](https://jobright.ai/jobs/info/6a06289ba88ea73abf7f84bb?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
+| ↳ | **[Hardware (PCBA) Design and Verification Intern](https://jobright.ai/jobs/info/6a154c78128680351d9604c7?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)New](https://jobright.ai/jobs/info/6a14d678738a270c8bfa8d40?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[CO OP STUDENT INTERN](https://jobright.ai/jobs/info/6a14d4ecc48b503aeffbff93?utm_campaign=1048&utm_source=git)** | East York, Ontario, Canada | On Site | May 25 |
-| **[Ciena](http://www.ciena.com)** | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
+| **[Ciena](http://www.ciena.com)** | **[Electro-Optic Test Automation Engineer Intern (September 2026, 12 months)](https://jobright.ai/jobs/info/6a076cd1a203b1052e43a7d5?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | ↳ | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a062839bc4184089f24c138?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
-| ↳ | **[Electro-Optic Test Automation Engineer Intern (September 2026, 12 months)](https://jobright.ai/jobs/info/6a076cd1a203b1052e43a7d5?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
+| ↳ | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | ↳ | **[FPGA Development Intern (Fall 2026 - 4-8 months)](https://jobright.ai/jobs/info/6a14d3a2554b0e12c05801b3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Software Developer Intern (AI Services) 4 months – Fall 2026](https://jobright.ai/jobs/info/6a14cb69bc9bff375af022f1?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 25 |
 | **[ASM](https://www.asm.com)** | **[Process Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a14c9edbc9bff375af02295?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | May 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferrero](https://www.ferrero.com)** | **[Quality Internship](https://jobright.ai/jobs/info/69a084e15218a8167671a5cf?utm_campaign=1048&utm_source=git)** | North Canton, OH | On Site | May 25 |
 | **[Hermeus](http://www.hermeus.com)** | **[Operations and Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a14771fdc845f4be5bd2286?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Developer Experience (DevX) Engineer Intern 8 months – Fall 2026](https://jobright.ai/jobs/info/6a14769b128680351d95db3f?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 25 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Reliability Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1475ca128680351d95db29?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | May 25 |
-| **[CelLink Corporation](https://cellinktechnologies.com)** | **[Engineering Intern – Materials & Process Modeling (Summer 2026)](https://jobright.ai/jobs/info/6a147571c48b503aeffbefa9?utm_campaign=1048&utm_source=git)** | CelLink Georgetown, Texas | On Site | May 25 |
-| **[Craftwater](http://craftwater.com)** | **[Civil Design Intern](https://jobright.ai/jobs/info/6a147441738a270c8bfa7c2c?utm_campaign=1048&utm_source=git)** | Pasadena | Hybrid | May 25 |
-| **[WuXi AppTec](https://www.wuxiapptec.com)** | **[Quality Assurance Document Control Intern](https://jobright.ai/jobs/info/6a147392554b0e12c057f20f?utm_campaign=1048&utm_source=git)** | Middletown, DE | On Site | May 25 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, DevOps Engineer (September 2026)](https://jobright.ai/jobs/info/6a146ff1dc845f4be5bd2176?utm_campaign=1048&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 25 |
-| ↳ | **[Co-op or Intern, Cyber Cloud Security (September 2026)](https://jobright.ai/jobs/info/6a146e33c48b503aeffbeeab?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
-| ↳ | **[Co-op or Intern, DevOps Engineer (September 2026)](https://jobright.ai/jobs/info/6a146be6c48b503aeffbee83?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Mixed-Signal Design](https://jobright.ai/jobs/info/69faa8f886d5cd46527cf4e2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
