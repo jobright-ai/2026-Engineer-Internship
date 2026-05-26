@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a152888554b0e12c05813db?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 25 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a152888bc9bff375af0363a?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 25 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Crypto Researcher (Intern)](https://jobright.ai/jobs/info/6a151cf8738a270c8bfa9890?utm_campaign=1048&utm_source=git)** | Chicago | On Site | May 25 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://jobright.ai/jobs/info/6a151c7c128680351d95f6c5?utm_campaign=1048&utm_source=git)** | San Francisco | Hybrid | May 25 |
 | **[Phlux Technologies](https://www.phlux.io)** | **[Computer Vision Intern/Co-op](https://jobright.ai/jobs/info/6a151c7cbc9bff375af02f47?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69301347ef4b48533d14a4bf?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | May 25 |
 | **[ABB](https://global.abb/group/en)** | **[Aspire Internship - Electrical Engineering](https://jobright.ai/jobs/info/69faa6dedd1a797969e70611?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | May 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, DevOps Engineer (September 2026)](https://jobright.ai/jobs/info/6a146813738a270c8bfa7a41?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
-| **[Motional](https://motional.com)** | **[2026 Summer Intern – MS/PhD – Infrastructure](https://jobright.ai/jobs/info/69f6ef6d0b36ff0354756b50?utm_campaign=1048&utm_source=git)** | Boston, MA | Hybrid | May 25 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Electrical Engineering - Fall 2026](https://jobright.ai/jobs/info/6a146789dc845f4be5bd203b?utm_campaign=1048&utm_source=git)** | Cedar Park, TX | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
