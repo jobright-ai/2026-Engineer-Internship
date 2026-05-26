@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2026 Fall Intern - Prescient Frontier Research (GSAB)](https://jobright.ai/jobs/info/6a14ff4bc48b503aeffc0553?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | May 25 |
+| **[Didact AI](https://didactai-us.com/)** | **[AI Services Development Intern](https://jobright.ai/jobs/info/6a14fbbd738a270c8bfa9296?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | May 25 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aircraft Maintenance and Reliability Data Analysis (Fall 2026)](https://jobright.ai/jobs/info/6a14f94dc48b503aeffc04e0?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 25 |
+| **[Filter Fox](www.filterfox.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/6a14f869738a270c8bfa9245?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | May 25 |
 | **[Santhica](https://www.linkedin.com/company/108296941)** | **[Summer Intern, AI + ABDM Security Engineering](https://jobright.ai/jobs/info/6a14f44bc48b503aeffc03f8?utm_campaign=1048&utm_source=git)** | Greater Boston | Remote | May 25 |
 | **[United Engines](unitedengines.com)** | **[Manufacturing Supply Chain Intern](https://jobright.ai/jobs/info/6a14f0eb554b0e12c0580639?utm_campaign=1048&utm_source=git)** | US-OK-Oklahoma City | On Site | May 25 |
 | ↳ | **[Manufacturing Supply Chain Intern](https://jobright.ai/jobs/info/6a14f0e6554b0e12c0580638?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, US | On Site | May 25 |
@@ -65,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Until](https://www.untillabs.com)** | **[Biology/Biochemistry Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a14e393554b0e12c05803d7?utm_campaign=1048&utm_source=git)** | Bay Area | On Site | May 25 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)New](https://jobright.ai/jobs/info/6a14d678738a270c8bfa8d40?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[CO OP STUDENT INTERN](https://jobright.ai/jobs/info/6a14d4ecc48b503aeffbff93?utm_campaign=1048&utm_source=git)** | East York, Ontario, Canada | On Site | May 25 |
-| **[Ciena](http://www.ciena.com)** | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a062839bc4184089f24c138?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
-| ↳ | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
+| **[Ciena](http://www.ciena.com)** | **[6500 Automated Test Team Intern](https://jobright.ai/jobs/info/6a06282c6c07461fe171ceed?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
+| ↳ | **[Hardware (PCBA) Design and Verification Intern (Fall 2026)](https://jobright.ai/jobs/info/6a062839bc4184089f24c138?utm_campaign=1048&utm_source=git)** | Greater Ottawa Metropolitan Area | On Site | May 25 |
 | ↳ | **[Electro-Optic Test Automation Engineer Intern (September 2026, 12 months)](https://jobright.ai/jobs/info/6a076cd1a203b1052e43a7d5?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | ↳ | **[FPGA Development Intern (Fall 2026 - 4-8 months)](https://jobright.ai/jobs/info/6a14d3a2554b0e12c05801b3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Software Developer Intern (AI Services) 4 months – Fall 2026](https://jobright.ai/jobs/info/6a14cb69bc9bff375af022f1?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 25 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Engineering Internship](https://jobright.ai/jobs/info/6a14c99e554b0e12c0580064?utm_campaign=1048&utm_source=git)** | Spring, TX | Hybrid | May 25 |
 | **[Peak Energy](https://www.peakenergy.com)** | **[Test Engineer Intern, ESS (Fall 2026)](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580008?utm_campaign=1048&utm_source=git)** | Burlingame, California | On Site | May 25 |
 | **[Varda Space Industries](http://varda.com)** | **[Vehicle Integration & Test Internship - Fall 2026](https://jobright.ai/jobs/info/6a14c747554b0e12c057ffc6?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | May 25 |
-| **[Filter Fox](www.filterfox.com)** | **[Hardware Engineering Intern](https://jobright.ai/jobs/info/6a14c6d0128680351d95e8e0?utm_campaign=1048&utm_source=git)** | Louisville, KY | Hybrid | May 25 |
 | **[NativeAds.ai](https://www.nativeads.ai)** | **[AI/ML Research Engineer Intern – Advertising Optimization](https://jobright.ai/jobs/info/6a14c6c6bc9bff375af021ae?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | May 25 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - Prescient Frontier Research (GSAB)](https://jobright.ai/jobs/info/6a14c640dc845f4be5bd30c0?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States of America | On Site | May 25 |
 | ↳ | **[2026 Fall Intern - Prescient Frontier Research (GSAB)](https://jobright.ai/jobs/info/6a14c63fdc845f4be5bd30bf?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | May 25 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Transmission Line Intern](https://jobright.ai/jobs/info/6a148d55bc9bff375af016d2?utm_campaign=1048&utm_source=git)** | Augusta, ME | On Site | May 25 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/69eb8cc358811370cb139bcd?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Electrical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a148889128680351d95de0a?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SAP Research Operations Specialist Intern](https://jobright.ai/jobs/info/6a090ba3403fc339507f0e57?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | May 25 |
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Engineering Internship](https://jobright.ai/jobs/info/6a1483b6bc9bff375af015e3?utm_campaign=1048&utm_source=git)** | Spring, Texas, United States of America | On Site | May 25 |
 | **[Ciena](http://www.ciena.com)** | **[Optical Platform Systems Intern (Fall 2026 - 4 months)](https://jobright.ai/jobs/info/6a148379554b0e12c057f49c?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Test Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a148303c48b503aeffbf1d7?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | May 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Almac Group](https://www.almacgroup.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a065e186c07461fe171fdd4?utm_campaign=1048&utm_source=git)** | Audubon, PA | On Site | May 25 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Modelling & AI Machine Learning Intern](https://jobright.ai/jobs/info/6931fdee4c474121999f5508?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 25 |
 | **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern (Sunbelt Controls)](https://jobright.ai/jobs/info/696c82965fc86241853ba5ab?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | May 25 |
-| **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/69fabc4c38179b6f1ae72130?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | May 25 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Materials Field Engineer Internship (Chesapeake) 2026](https://jobright.ai/jobs/info/68f7fda8ec6dbe7073fcfc9b?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | May 25 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696adc1a5fc86241853a0a65?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | May 25 |
-| ↳ | **[Intern/Co-op – Midstream Natural Gas and NGL Services Mechanical/Chemical/Petroleum/Civil/Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/696ab86b5fc862418539c8f9?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
