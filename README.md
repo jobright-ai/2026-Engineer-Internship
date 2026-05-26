@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1544a71935fa61b3c66fc4?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 25 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a1544a7dc845f4be5bd4b6a?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 25 |
+| **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern- Premise Liability](https://jobright.ai/jobs/info/6a154075128680351d960241?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | May 25 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning Applications & Benchmarking Intern](https://jobright.ai/jobs/info/69b1f001548f140066e80d3b?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | May 25 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a153387738a270c8bfaa0cf?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 25 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Crypto Researcher (Intern)](https://jobright.ai/jobs/info/6a151cf8738a270c8bfa9890?utm_campaign=1048&utm_source=git)** | Chicago | On Site | May 25 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/69865bf90f6f7e7a2ce141d1?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | May 25 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Structural Designer - 1-4 Years](https://jobright.ai/jobs/info/69f798a7a3d34b4f76f5ba37?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | May 25 |
 | **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a1478b3dc845f4be5bd22b9?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 25 |
-| **[DENTALEZ](http://dentalez.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a14783adc845f4be5bd22b2?utm_campaign=1048&utm_source=git)** | Lancaster,PA,US | On Site | May 25 |
 | **[Ferrero](https://www.ferrero.com)** | **[Quality Internship](https://jobright.ai/jobs/info/69a084e15218a8167671a5cf?utm_campaign=1048&utm_source=git)** | North Canton, OH | On Site | May 25 |
 | **[Hermeus](http://www.hermeus.com)** | **[Operations and Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a14771fdc845f4be5bd2286?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Developer Experience (DevX) Engineer Intern 8 months – Fall 2026](https://jobright.ai/jobs/info/6a14769b128680351d95db3f?utm_campaign=1048&utm_source=git)** | Canada | Remote | May 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Cyber Cloud Security (September 2026)](https://jobright.ai/jobs/info/6a146e33c48b503aeffbeeab?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 25 |
 | ↳ | **[Co-op or Intern, DevOps Engineer (September 2026)](https://jobright.ai/jobs/info/6a146be6c48b503aeffbee83?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Analog Mixed-Signal Design](https://jobright.ai/jobs/info/69faa8f886d5cd46527cf4e2?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 25 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69301347ef4b48533d14a4bf?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | May 25 |
-| **[ABB](https://global.abb/group/en)** | **[Aspire Internship - Electrical Engineering](https://jobright.ai/jobs/info/69faa6dedd1a797969e70611?utm_campaign=1048&utm_source=git)** | Location, WV | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
