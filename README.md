@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship- Manufacturing Engineering (CNC)](https://jobright.ai/jobs/info/6a163547dc845f4be5bdd48e?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | May 26 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[Simulation Tech Intern](https://jobright.ai/jobs/info/6a16313adc845f4be5bdd387?utm_campaign=1048&utm_source=git)** | Jacksonville, NC | On Site | May 26 |
 | **[GEI Consultants, Inc.](http://www.geiconsultants.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a1630f3128680351d968970?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA | On Site | May 26 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Engineer Intern (Post Grad)](https://jobright.ai/jobs/info/6a1629cb554b0e12c0589ded?utm_campaign=1048&utm_source=git)** | Fresno, California, US | On Site | May 26 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[EPU Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a1629a0128680351d968741?utm_campaign=1048&utm_source=git)** | San Carlos, CA, US | On Site | May 26 |
 | ↳ | **[EPU Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a16299f128680351d96873f?utm_campaign=1048&utm_source=git)** | US-CA-San Carlos | On Site | May 26 |
 | **[Medpace](http://www.medpace.com)** | **[Fall 2026 Full-Time Intern - Feasibility & Proposals](https://jobright.ai/jobs/info/6a1628ff128680351d9686fe?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | May 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a161a190073182bd92affd6?utm_campaign=1048&utm_source=git)** | Wyoming | On Site | May 26 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a161a180073182bd92affd4?utm_campaign=1048&utm_source=git)** | Cedar Rapids, Iowa, United States | On Site | May 26 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a161a170073182bd92affd2?utm_campaign=1048&utm_source=git)** | Texas | On Site | May 26 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a161a150073182bd92affd0?utm_campaign=1048&utm_source=git)** | Cheyenne, WY | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
