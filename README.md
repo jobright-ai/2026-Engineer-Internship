@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a17600e1430333075cd0937?utm_campaign=1048&utm_source=git)** | Fenton, MO | On Site | May 27 |
+| **[Guarantee Electrical Company](http://geco.com)** | **[Electrical Prefabrication Intern](https://jobright.ai/jobs/info/6a176897f45c6530ce9ac411?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | May 27 |
+| **[Revionics, an Aptos Company](http://www.revionics.com)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a1768765b0a497d5210bef7?utm_campaign=1048&utm_source=git)** | Dallas County, TX | On Site | May 27 |
+| **[Impulse Space](https://www.impulsespace.com)** | **[RF Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a176645f45c6530ce9ac37d?utm_campaign=1048&utm_source=git)** | Redondo Beach | On Site | May 27 |
+| **[Women in Cleantech and Sustainability](http://www.womencleantechsustainability.org/)** | **[ENERGY STORAGE ENGINEERING, PROJECT MANAGEMENT, LEGAL & COMMERCIAL ROLES — SUNGROW (REMOTE, US)](https://jobright.ai/jobs/info/6a1765f381fe455c705a874e?utm_campaign=1048&utm_source=git)** | United States | Remote | May 27 |
+| **[Flexco](https://flexco.com)** | **[Engineering Services Intern](https://jobright.ai/jobs/info/6a1764d05b0a497d5210bd8d?utm_campaign=1048&utm_source=git)** | Downers Grove, IL, USA | On Site | May 27 |
+| **[HEICO](http://www.heico.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a1763abb091c7417c4fe1c3?utm_campaign=1048&utm_source=git)** | Miami, FL | On Site | May 27 |
 | **[Hoar Construction](http://www.hoar.com)** | **[Construction Internship Fall 2026](https://jobright.ai/jobs/info/6a175fdd9005d858e94f94cd?utm_campaign=1048&utm_source=git)** | Chattanooga, TN | On Site | May 27 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Environmental Permitting & Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/6a175f38b091c7417c4fe01f?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | May 27 |
 | **[CVP (Customer Value Partners)](http://cvpcorp.com)** | **[Fifer University: Summer AI Internship](https://jobright.ai/jobs/info/6a175ec05b0a497d5210ba89?utm_campaign=1048&utm_source=git)** | US-DC | Hybrid | May 27 |
@@ -69,10 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Eltec Instruments](https://www.eltecinstruments.com)** | **[Electrical Engineer/Intern](https://jobright.ai/jobs/info/6a175cfa9005d858e94f92e1?utm_campaign=1048&utm_source=git)** | Daytona Beach, FL | On Site | May 27 |
 | **[Element Materials Technology](https://www.element.com)** | **[Internship (Test Engineer)](https://jobright.ai/jobs/info/6a175cc25b0a497d5210b942?utm_campaign=1048&utm_source=git)** | US-MN-Minneapolis | On Site | May 27 |
 | **[Forum Energy Technologies](http://www.f-e-t.com/)** | **[Intern](https://jobright.ai/jobs/info/6a175c59f45c6530ce9abf45?utm_campaign=1048&utm_source=git)** | Stafford, Texas, United States | On Site | May 27 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a175c13d6a04f21602e61fb?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 27 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a175c11f45c6530ce9abf0f?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 27 |
 | **[Alpha Intelligence Capital](http://aicapital.ai/)** | **[AI/ML Technical Analyst - SF Investment Team](https://jobright.ai/jobs/info/6a175b979005d858e94f921c?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | May 27 |
-| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a175bb29005d858e94f922b?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | May 27 |
 | **[Halton Region](https://www.halton.ca)** | **[Intern - Cybersecurity](https://jobright.ai/jobs/info/6a175b6b5b0a497d5210b890?utm_campaign=1048&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 27 |
 | **[Optum](https://www.optum.com/)** | **[AI/ML Research Intern - PHD Level - Remote](https://jobright.ai/jobs/info/6a175afbf45c6530ce9abeae?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN | Remote | May 27 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a175aabd6a04f21602e616a?utm_campaign=1048&utm_source=git)** | New York | On Site | May 27 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[AI Research Intern](https://jobright.ai/jobs/info/6a17432bb091c7417c4fcada?utm_campaign=1048&utm_source=git)** | California, United States | On Site | May 27 |
 | ↳ | **[AI Research Intern](https://jobright.ai/jobs/info/6a1742d65b0a497d5210a56a?utm_campaign=1048&utm_source=git)** | United States | Remote | May 27 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Operations Excellence](https://jobright.ai/jobs/info/6a1742d0b091c7417c4fcac0?utm_campaign=1048&utm_source=git)** | Torrance, CA, US | On Site | May 27 |
-| **[Crown Holdings, Inc.](http://crowncork.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6a175e511430333075cd0842?utm_campaign=1048&utm_source=git)** | Tinley Park, IL | On Site | May 27 |
 | **[Vivex Biologics](https://vivex.com)** | **[Engineering Intern - Validation Engineering](https://jobright.ai/jobs/info/6a1741ea1430333075ccf350?utm_campaign=1048&utm_source=git)** | Miami,FL,US | On Site | May 27 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6a13b51912f8b43cf398fc89?utm_campaign=1048&utm_source=git)** | Manor, TX | Hybrid | May 27 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Drafter Intern](https://jobright.ai/jobs/info/6a1741805b0a497d5210a4ad?utm_campaign=1048&utm_source=git)** | Indiana - West Lafayette, US | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/6a068f66f3d6cc51d6394586?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | May 27 |
 | ↳ | **[Research Intern on Generative and Protective AI for Content Creation](https://jobright.ai/jobs/info/6a068f6b7c753c287f70425a?utm_campaign=1048&utm_source=git)** | New York, United States | Remote | May 27 |
 | ↳ | **[Research Intern- AI Ethics](https://jobright.ai/jobs/info/6a0986c63b54ed42d74dc9b7?utm_campaign=1048&utm_source=git)** | California, United States | Remote | May 27 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Tech Ops Engineer Intern - Fall 2026, AWS Data Center Commissioning](https://jobright.ai/jobs/info/6a173c23f45c6530ce9aa7cb?utm_campaign=1048&utm_source=git)** | Umatilla, OR | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
