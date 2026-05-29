@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Idaho Forest Group](https://idfg.com/)** | **[AI Implementation Specialist Intern (Coeur d'Alene)](https://jobright.ai/jobs/info/6a18931717492d3a389b7a0f?utm_campaign=1048&utm_source=git)** | Coeur d'Alene, Idaho, United States | On Site | May 28 |
 | **[Thorson • Baker + Associates (TBA)](http://thorsonbaker.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6a1893116243320e8d165e52?utm_campaign=1048&utm_source=git)** | Cincinnati,OH,US | On Site | May 28 |
 | ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a18930aabc8f63abac7a152?utm_campaign=1048&utm_source=git)** | Richfield,OH,US | On Site | May 28 |
-| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/6a189307abc8f63abac7a14e?utm_campaign=1048&utm_source=git)** | Richfield,OH,US | On Site | May 28 |
 | ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a18930717492d3a389b7a04?utm_campaign=1048&utm_source=git)** | Dublin,OH,US | On Site | May 28 |
+| ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/6a189307abc8f63abac7a14e?utm_campaign=1048&utm_source=git)** | Richfield,OH,US | On Site | May 28 |
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/6a189304abc8f63abac7a14c?utm_campaign=1048&utm_source=git)** | Dublin,OH,US | On Site | May 28 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Engineering Intern - Laboratory](https://jobright.ai/jobs/info/6a18926cabc8f63abac7a101?utm_campaign=1048&utm_source=git)** | O'Fallon, MO | On Site | May 28 |
 | **[Signant Health](https://www.signanthealth.com/)** | **[Information Security Intern - Technology R&D](https://jobright.ai/jobs/info/6a1891feabc8f63abac7a0c2?utm_campaign=1048&utm_source=git)** | United States (remote) | Remote | May 28 |
@@ -137,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Intern/ Co-Op](https://jobright.ai/jobs/info/6a18750554a441713ae84c1a?utm_campaign=1048&utm_source=git)** | Madison, WI | On Site | May 28 |
 | **[Mach7 Technologies](http://www.mach7t.com)** | **[AI Enablement Intern \- Waterloo, ON](https://jobright.ai/jobs/info/6a1874c717492d3a389b65e8?utm_campaign=1048&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Transit Railcar Technology Specialist Intern](https://jobright.ai/jobs/info/6a187463c2a87d6cd3df1509?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 28 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Asian Securities](https://jobright.ai/jobs/info/6a187448dbc80963f93441f1?utm_campaign=1048&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Fall Intern: Asian Security and Technology](https://jobright.ai/jobs/info/6a18744854a441713ae84b6d?utm_campaign=1048&utm_source=git)** | US-DC-Washington | On Site | May 28 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Asian Security and Technology](https://jobright.ai/jobs/info/6a18744854a441713ae84b6d?utm_campaign=1048&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Asian Security and Technology](https://jobright.ai/jobs/info/6a18744854a441713ae84b6e?utm_campaign=1048&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| ↳ | **[Fall Intern: Asian Securities](https://jobright.ai/jobs/info/6a187448dbc80963f93441f1?utm_campaign=1048&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Fall Intern: Asian Securities](https://jobright.ai/jobs/info/6a187448dbc80963f93441f0?utm_campaign=1048&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern - Transportation](https://jobright.ai/jobs/info/6a1873e317492d3a389b6503?utm_campaign=1048&utm_source=git)** | Raleigh, NC, US | On Site | May 28 |
 | **[Mach7 Technologies](http://www.mach7t.com)** | **[AI Enablement Intern - Burlington, VT](https://jobright.ai/jobs/info/6a0b45790411d7417a1aee64?utm_campaign=1048&utm_source=git)** | Burlington, VT | Hybrid | May 28 |
