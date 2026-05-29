@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Cyber Security Internship - Information Services Department](https://jobright.ai/jobs/info/6a19d3ee9111f771d1a08903?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | May 29 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a10978a9fdbf21f36caf99c?utm_campaign=1048&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 29 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6a10978a9fdbf21f36caf99b?utm_campaign=1048&utm_source=git)** | Tok, Alaska, USA | On Site | May 29 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6a19a4db547e292ae1393828?utm_campaign=1048&utm_source=git)** | Huntsville, AR, US | On Site | May 29 |
+| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Student Co-op or Intern](https://jobright.ai/jobs/info/6a19d26f2b206f3955eb0bbc?utm_campaign=1048&utm_source=git)** | Kingman, AZ | On Site | May 29 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Construction Internship Program](https://jobright.ai/jobs/info/6a0e218e47fea1610bca76a5?utm_campaign=1048&utm_source=git)** | 3735 Green Rd, Beachwood, OH, 44122, US | On Site | May 29 |
+| **[Altera](https://www.altera.com)** | **[FPGA Machine Learning Engineering - Graduate Intern](https://jobright.ai/jobs/info/6a19cd97e24ef36525827959?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 29 |
+| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Quality Control Internship](https://jobright.ai/jobs/info/69bb36973b74eb1e2c89a202?utm_campaign=1048&utm_source=git)** | Truesdale, Missouri, United States | On Site | May 29 |
+| ↳ | **[Quality Control Internship](https://jobright.ai/jobs/info/6a052f847c753c287f6f740d?utm_campaign=1048&utm_source=git)** | Truesdale, MO, US | On Site | May 29 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Welding & Materials Internship](https://jobright.ai/jobs/info/6a19cafde24ef365258278cd?utm_campaign=1048&utm_source=git)** | Pooler, GA, US, 31322 | On Site | May 29 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Engineering Intern / Co-Op](https://jobright.ai/jobs/info/6a19ca60c2a87d6cd3dfb85b?utm_campaign=1048&utm_source=git)** | Chester, US | On Site | May 29 |
 | ↳ | **[Operations Engineering Intern / Co-Op](https://jobright.ai/jobs/info/6a19ca60c2a87d6cd3dfb85a?utm_campaign=1048&utm_source=git)** | Cedarhurst, US | On Site | May 29 |
@@ -74,8 +83,6 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/6a19ac202b206f3955eaf82d?utm_campaign=1048&utm_source=git)** | US-VA-Reston | On Site | May 29 |
 | ↳ | **[TekSynap Internship - I.T.](https://jobright.ai/jobs/info/6a19ac1d2b206f3955eaf82b?utm_campaign=1048&utm_source=git)** | Reston, VA, US | On Site | May 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Critical Threats Project – Africa](https://jobright.ai/jobs/info/6a19c60d9111f771d1a084b4?utm_campaign=1048&utm_source=git)** | US-DC-Washington | On Site | May 29 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a19c607e24ef365258276a8?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | May 29 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a19c6066b135014dbc8617e?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | May 29 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26)  Metallurgy Internship](https://jobright.ai/jobs/info/6a19c5fcc2a87d6cd3dfb61b?utm_campaign=1048&utm_source=git)** | Nunavut-Rankin Inlet | On Site | May 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Critical Threats Project – Africa](https://jobright.ai/jobs/info/6a19c5f29111f771d1a084a9?utm_campaign=1048&utm_source=git)** | Washington, DC, US | On Site | May 29 |
 | **[Howard Energy Partners](http://www.howardenergypartners.com/)** | **[Summer EHS Intern](https://jobright.ai/jobs/info/69c5a9f5aa9a29199e808802?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, United States | On Site | May 29 |
@@ -115,9 +122,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6411daf1431824c8edce?utm_campaign=1048&utm_source=git)** | Robinson, IL | On Site | May 29 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ea11edcdf8d94b293a4e11?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/69d72783e63cea7a8b66e67e?utm_campaign=1048&utm_source=git)** | Texas City, TX | On Site | May 29 |
-| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab66b8758f2e4ac3fff681?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | May 29 |
-| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/6970067b82817106e97723ff?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | May 29 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/69700c1782817106e9772861?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | May 29 |
+| ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/6970067b82817106e97723ff?utm_campaign=1048&utm_source=git)** | Garyville, LA | On Site | May 29 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/68ab66b8758f2e4ac3fff681?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | May 29 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6fd8d627244576e3fa38?utm_campaign=1048&utm_source=git)** | Mandan, ND | On Site | May 29 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://jobright.ai/jobs/info/6a01c8c4df52f1450d844f09?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Amazon](https://amazon.com)** | **[2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting](https://jobright.ai/jobs/info/69e22928cda04a63293a0081?utm_campaign=1048&utm_source=git)** | Corvallis, OR | On Site | May 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Fall 2026 (Detroit)](https://jobright.ai/jobs/info/6a19a5572b206f3955eaf57f?utm_campaign=1048&utm_source=git)** | Detroit, MI, US | On Site | May 29 |
 | ↳ | **[Intern - Spring 2027 (Detroit)](https://jobright.ai/jobs/info/6a19a5569111f771d1a072f0?utm_campaign=1048&utm_source=git)** | Detroit, MI, US | On Site | May 29 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Laboratory Technician Intern](https://jobright.ai/jobs/info/6a19a509c2a87d6cd3dfa3ae?utm_campaign=1048&utm_source=git)** | Aberdeen, Maryland, United States | On Site | May 29 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Process Engineer Intern](https://jobright.ai/jobs/info/6a19a4db547e292ae1393828?utm_campaign=1048&utm_source=git)** | Huntsville, AR, US | On Site | May 29 |
-| **[Redwire](https://redwirespace.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6a18abe46243320e8d166fbe?utm_campaign=1048&utm_source=git)** | Huntsville, AL, United States | On Site | May 29 |
-| **[Hermeus](http://www.hermeus.com)** | **[Propulsion Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/69a8c66e7ac93962b70894ab?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
-| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, AI Alignment](https://jobright.ai/jobs/info/69e63aeb9b6eb37e26f7eda7?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | May 29 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[GTM & AI Innovation Intern](https://jobright.ai/jobs/info/6a07053e24dcb03739f1e824?utm_campaign=1048&utm_source=git)** | United States (Remote) | Remote | May 29 |
-| **[Hermeus](http://www.hermeus.com)** | **[Avionics Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69fcb4a4432a3c4da8dfe701?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | May 29 |
-| ↳ | **[Operations and Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69a8dec32580d3183f010345?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
