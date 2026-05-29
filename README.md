@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cruze](https://cruzemaps.com/)** | **[AI Automation Intern](https://jobright.ai/jobs/info/6a1921aeabc8f63abac7ece2?utm_campaign=1048&utm_source=git)** | United States | Remote | May 28 |
+| **[Hawksbill](https://hawksbill.ai/)** | **[PhD Research Intern, Agentic AI Security & Vulnerability Discovery](https://jobright.ai/jobs/info/6a1935b8c2a87d6cd3df7f98?utm_campaign=1048&utm_source=git)** | Honolulu, HI | On Site | May 28 |
+| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Field Engineer](https://jobright.ai/jobs/info/6a1934ccabc8f63abac7f6c6?utm_campaign=1048&utm_source=git)** | Sugar Land, TX | On Site | May 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[Summer Intern- Maintenance data support](https://jobright.ai/jobs/info/6a19190854a441713ae8a92a?utm_campaign=1048&utm_source=git)** | Pittston, PA | On Site | May 28 |
 | **[Redwire](https://redwirespace.com)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6a191865abc8f63abac7ea50?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | May 28 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year-Round - Photonic & Phononic Microsystems, Onsite](https://jobright.ai/jobs/info/6a191725abc8f63abac7e95a?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 28 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Operations Engineering Intern](https://jobright.ai/jobs/info/6a18fb4fc2a87d6cd3df6707?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Equipment Engineering associate - BackGrind / CEB](https://jobright.ai/jobs/info/6a18f91454a441713ae89ad5?utm_campaign=1048&utm_source=git)** | Sherman, TX | On Site | May 28 |
 | **[Cresta](https://www.cresta.com)** | **[Conversational Design Intern](https://jobright.ai/jobs/info/6a18f82f54a441713ae899c8?utm_campaign=1048&utm_source=git)** | Toronto Canada | On Site | May 28 |
-| **[InnoPhase IoT](https://innophaseiot.com)** | **[SoC Test Intern](https://jobright.ai/jobs/info/6a18f785c2a87d6cd3df63ce?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 28 |
-| ↳ | **[SoC Test Intern](https://jobright.ai/jobs/info/6a18f785c2a87d6cd3df63cd?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 28 |
+| **[InnoPhase IoT](https://innophaseiot.com)** | **[SoC Test Intern](https://jobright.ai/jobs/info/6a18f785c2a87d6cd3df63cd?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 28 |
+| ↳ | **[SoC Test Intern](https://jobright.ai/jobs/info/6a18f785c2a87d6cd3df63ce?utm_campaign=1048&utm_source=git)** | San Diego, California, United States | On Site | May 28 |
 | **[Lambda](https://lambda.ai)** | **[Data Center Electrical Modeling Intern - 2026](https://jobright.ai/jobs/info/6a18f6fe17492d3a389bb2e0?utm_campaign=1048&utm_source=git)** | San Jose, CA | Hybrid | May 28 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Electrical Engineering Internship](https://jobright.ai/jobs/info/6a18f6cf17492d3a389bb276?utm_campaign=1048&utm_source=git)** | Sinton, TX | On Site | May 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a18f6266243320e8d1694ac?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | May 28 |
@@ -94,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7eac2a87d6cd3df5b66?utm_campaign=1048&utm_source=git)** | US-MN-Rochester | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7eac2a87d6cd3df5b65?utm_campaign=1048&utm_source=git)** | US-FL-Boca Raton | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e9c2a87d6cd3df5b64?utm_campaign=1048&utm_source=git)** | US-WI-Milwaukee | On Site | May 28 |
-| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b63?utm_campaign=1048&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5f?utm_campaign=1048&utm_source=git)** | Columbus, OH, US | On Site | May 28 |
-| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b61?utm_campaign=1048&utm_source=git)** | US-RI-Providence | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b62?utm_campaign=1048&utm_source=git)** | Rochester, MN, US | On Site | May 28 |
 | ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b5e?utm_campaign=1048&utm_source=git)** | US-OH-Columbus | On Site | May 28 |
+| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b61?utm_campaign=1048&utm_source=git)** | US-RI-Providence | On Site | May 28 |
+| ↳ | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a18e7e8c2a87d6cd3df5b63?utm_campaign=1048&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | **[ISEC, Inc.](http://www.isecinc.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a18e76e54a441713ae88fff?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | May 28 |
 | **[Denali Advanced Integration](https://www.denaliai.com/en-us/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a18e66babc8f63abac7d1f6?utm_campaign=1048&utm_source=git)** | Fort Wayne, IN | On Site | May 28 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[Summer Intern- Maintenance data support](https://jobright.ai/jobs/info/6a18e4e1abc8f63abac7d16a?utm_campaign=1048&utm_source=git)** | Pittston,PA,US | On Site | May 28 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[ISEC, Inc.](http://www.isecinc.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a18cf86abc8f63abac7c66e?utm_campaign=1048&utm_source=git)** | San Diego, CA, USA | On Site | May 28 |
 | **[AAK](http://www.aak.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/6a18cf5b17492d3a389b9ec2?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | May 28 |
 | **[Fuel Cycle](https://www.fuelcycle.com/)** | **[AI Engineering & Operations Intern](https://jobright.ai/jobs/info/6a18cf196243320e8d1681db?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Technology Solutions Analyst](https://jobright.ai/jobs/info/6a18cd41c2a87d6cd3df4e1a?utm_campaign=1048&utm_source=git)** | South Jordan, UT, US | Hybrid | May 28 |
-| ↳ | **[Temporary Intern - Technology Solutions Analyst](https://jobright.ai/jobs/info/6a18cd41c2a87d6cd3df4e19?utm_campaign=1048&utm_source=git)** | US-Remote | Remote | May 28 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Technology Solutions Analyst](https://jobright.ai/jobs/info/6a18cd41c2a87d6cd3df4e19?utm_campaign=1048&utm_source=git)** | US-Remote | Remote | May 28 |
+| ↳ | **[Temporary Intern - Technology Solutions Analyst](https://jobright.ai/jobs/info/6a18cd41c2a87d6cd3df4e1a?utm_campaign=1048&utm_source=git)** | South Jordan, UT, US | Hybrid | May 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[MOD Intern](https://jobright.ai/jobs/info/6a18cd1017492d3a389b9e47?utm_campaign=1048&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[MOD Intern](https://jobright.ai/jobs/info/6a18cd0d17492d3a389b9e46?utm_campaign=1048&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a18cca5c2a87d6cd3df4df1?utm_campaign=1048&utm_source=git)** | US-NC-Raleigh-Durham | On Site | May 28 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Wabtec Corporation](https://www.wabteccorp.com)** | **[Transducer Manufacturing Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a18c89fdbc80963f9347711?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | May 28 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Occupational Safety Programs Intern](https://jobright.ai/jobs/info/6a18c89817492d3a389b9bbc?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | May 28 |
 | **[SYSTRA](https://www.systra.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a190e4e6243320e8d169f27?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
-| **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Software Engineer Intern - Machine Learning Workflow](https://jobright.ai/jobs/info/6a18c7a76243320e8d167eb7?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | May 28 |
-| ↳ | **[Software Engineer Intern - Machine Learning Workflow](https://jobright.ai/jobs/info/6a18c7a76243320e8d167eb8?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 28 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[AI/ML Engineering Internship - 17595](https://jobright.ai/jobs/info/6a18c6eddbc80963f9347674?utm_campaign=1048&utm_source=git)** | Sunnyvale, California | On Site | May 28 |
+| **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Software Engineer Intern - Machine Learning Workflow](https://jobright.ai/jobs/info/6a18c7a76243320e8d167eb8?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | May 28 |
+| ↳ | **[Software Engineer Intern - Machine Learning Workflow](https://jobright.ai/jobs/info/6a18c7a76243320e8d167eb7?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
