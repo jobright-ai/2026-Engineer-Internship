@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Data Engineering Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1b3bd8e24ef3652582f72a?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | May 30 |
 | **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a1b3392547e292ae139c92f?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | May 30 |
 | **[Salt AI](https://www.salt.ai)** | **[Financial Services AI Automations Intern](https://jobright.ai/jobs/info/6a1b3236c2a87d6cd3e035cc?utm_campaign=1048&utm_source=git)** | Remote in Los Angeles, CA | Remote | May 30 |
 | **[MatrixSpace](https://matrixspace.com)** | **[Radar and Product Field Test Intern (Summer 2026)](https://jobright.ai/jobs/info/6a181ee26243320e8d16106c?utm_campaign=1048&utm_source=git)** | Hoffman Estates, IL | On Site | May 30 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - LLM Research Intern : Physics-AI-Powered Analysis of Atomistic Systems](https://jobright.ai/jobs/info/6a0ddcc8c152ac782448054f?utm_campaign=1048&utm_source=git)** | Gresham, OR | On Site | May 30 |
 | **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Intern, Electrical Engineering - Fall 2026](https://jobright.ai/jobs/info/6a11113f69bd827926af235a?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | On Site | May 30 |
 | ↳ | **[Intern, Electrical Engineering - Fall 2026](https://jobright.ai/jobs/info/6a1b306f2b206f3955eb865a?utm_campaign=1048&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 30 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate Summer Intern – Modeling and Analysis of Distributed Hybrid Energy Systems](https://jobright.ai/jobs/info/69fe1fdb7714cd50b90fe44e?utm_campaign=1048&utm_source=git)** | Remote Site, US | Hybrid | May 30 |
-| ↳ | **[Graduate Summer Intern – Modeling and Analysis of Distributed Hybrid Energy Systems](https://jobright.ai/jobs/info/69fe202a4b9bbf21744ae7bd?utm_campaign=1048&utm_source=git)** | Boulder, CO, US | Hybrid | May 30 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate Summer Intern – Modeling and Analysis of Distributed Hybrid Energy Systems](https://jobright.ai/jobs/info/69fe202a4b9bbf21744ae7bd?utm_campaign=1048&utm_source=git)** | Boulder, CO, US | Hybrid | May 30 |
+| ↳ | **[Graduate Summer Intern – Modeling and Analysis of Distributed Hybrid Energy Systems](https://jobright.ai/jobs/info/69fe1fdb7714cd50b90fe44e?utm_campaign=1048&utm_source=git)** | Remote Site, US | Hybrid | May 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Intern](https://jobright.ai/jobs/info/69fe02754b9bbf21744adcbb?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN | On Site | May 30 |
 | **[ORBIS Corporation](http://www.orbiscorporation.com)** | **[Engineering Student Intern](https://jobright.ai/jobs/info/6a1b2890547e292ae139c582?utm_campaign=1048&utm_source=git)** | Urbana, OH | On Site | May 30 |
 | **[POLITICO](http://www.politico.com)** | **[Newsroom Engineering Intern, Fall 2026 (HQ)](https://jobright.ai/jobs/info/6a1b2858e24ef3652582f1ab?utm_campaign=1048&utm_source=git)** | Arlington, VA | Hybrid | May 30 |
@@ -79,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[EDF power solutions North America](http://www.edf-re.com)** | **[DSP Construction & Engineering Intern [On-Site]](https://jobright.ai/jobs/info/6a1b1e0a6b135014dbc8da83?utm_campaign=1048&utm_source=git)** | Columbia, MD | On Site | May 30 |
 | **[Axway](http://www.axway.com)** | **[DevOps & Automation Internship](https://jobright.ai/jobs/info/6a1b1bfcc2a87d6cd3e02f39?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
 | ↳ | **[DevOps & Automation Internship](https://jobright.ai/jobs/info/6a1b1bfac2a87d6cd3e02f38?utm_campaign=1048&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/6a13219f619335383fb3c470?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 30 |
-| ↳ | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/6a0702171f7fa33581c99eb7?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 30 |
-| ↳ | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/69fe46b252e2b44f558b02bc?utm_campaign=1048&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | May 30 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/6a0702171f7fa33581c99eb7?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 30 |
+| ↳ | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/6a13219f619335383fb3c470?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | May 30 |
+| ↳ | **[2026 Fall Intern, ML/NLP Research](https://jobright.ai/jobs/info/6a13219e619335383fb3c46f?utm_campaign=1048&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | May 30 |
 | **[Matrix PDM Engineering](http://www.matrixpdm.com/)** | **[Drafting Intern - Tank design](https://jobright.ai/jobs/info/69e16e776c20aa1149541285?utm_campaign=1048&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | May 30 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Undergraduate Year Round - Future of Research for Secure Energy and Earth Systems (FORSE](https://jobright.ai/jobs/info/6a1b186e9111f771d1a0fef0?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | May 30 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Environment Internship](https://jobright.ai/jobs/info/69f6d4bc0b36ff0354756968?utm_campaign=1048&utm_source=git)** | Baker Lake, Nunavut, Canada | On Site | May 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Refining Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/69700cd882817106e97728f9?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | May 30 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, AI Alignment](https://jobright.ai/jobs/info/69e6495a7820c036924cf32c?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | May 30 |
 | **[Geotab](http://www.geotab.com/)** | **[Change Control Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a15e208dc845f4be5bd9a88?utm_campaign=1048&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 30 |
-| ↳ | **[Change Control Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a15e20fdc845f4be5bd9a93?utm_campaign=1048&utm_source=git)** | Oakville | Hybrid | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
