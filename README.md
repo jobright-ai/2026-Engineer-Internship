@@ -8,6 +8,8 @@
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1048&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
+For students in Canada, [Hanzilla Jobs](https://jobs.hanzilla.co/engineering/) is a free daily-updated companion board for Canadian engineering internships, co-ops, new-grad, junior, and entry-level roles across civil, mechanical, electrical, software, environmental, chemical, and related engineering fields.
+
 ---
 
 <div align="center">
