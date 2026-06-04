@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a084eeb3b54ed42d74d6491?utm_campaign=1048&utm_source=git)** | US-PA-York | On Site | Jun 03 |
+| ↳ | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a19aaf42b206f3955eaf772?utm_campaign=1048&utm_source=git)** | Gettysburg, PA, US | On Site | Jun 03 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a20ce3fca8f0b365d7a3855?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | Jun 03 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a20ce3a902d19201c7b4b25?utm_campaign=1048&utm_source=git)** | Brainerd, 56425 | On Site | Jun 03 |
+| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a20cde23a5f0145f4c17074?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | Jun 03 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Safety Supervisor Internship $19.50/HR](https://jobright.ai/jobs/info/6a20cc08ca8f0b365d7a37ad?utm_campaign=1048&utm_source=git)** | Gurnee, IL | On Site | Jun 03 |
+| **[Innovative Ag Services](https://www.innovativeag.com)** | **[Energy Intern](https://jobright.ai/jobs/info/6a20cba44bdf8a5a96bd31c7?utm_campaign=1048&utm_source=git)** | Hubbard, IA | On Site | Jun 03 |
+| **[Harvard Maintenance](https://www.harvardmaint.com/)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/6a205ec34bdf8a5a96bd039c?utm_campaign=1048&utm_source=git)** | US-FL-Miami | On Site | Jun 03 |
+| ↳ | **[AI Engineering Intern](https://jobright.ai/jobs/info/6a205ec34bdf8a5a96bd0399?utm_campaign=1048&utm_source=git)** | Miami, FL, US | On Site | Jun 03 |
+| **[EOI Space](https://www.eoi.space)** | **[Mechanical Systems Intern](https://jobright.ai/jobs/info/6a20c623902d19201c7b47e4?utm_campaign=1048&utm_source=git)** | Lafayette, CO | On Site | Jun 03 |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Student Intern, Eng & IT](https://jobright.ai/jobs/info/6a20c5d4902d19201c7b47bf?utm_campaign=1048&utm_source=git)** | Las Vegas, NV, United States | On Site | Jun 03 |
+| **[Fluxergy](http://www.fluxergy.com)** | **[Sensor Development & Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a20c4844bdf8a5a96bd2f4f?utm_campaign=1048&utm_source=git)** | Irvine, California | On Site | Jun 03 |
 | **[Axiomatic_AI](https://www.axiomatic-ai.com/)** | **[Internship - Research  (Uncertainty Quantification, Robust Design & Surrogate Modeling)](https://jobright.ai/jobs/info/6a20c465338c01230511b5e8?utm_campaign=1048&utm_source=git)** | Boston | Hybrid | Jun 03 |
 | ↳ | **[Internship - Research  (Uncertainty Quantification, Robust Design & Surrogate Modeling)](https://jobright.ai/jobs/info/6a20c463338c01230511b5e3?utm_campaign=1048&utm_source=git)** | Toronto | Hybrid | Jun 03 |
 | **[Formlabs](http://www.formlabs.com)** | **[Mechanical Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a20c346902d19201c7b463b?utm_campaign=1048&utm_source=git)** | Somerville, Massachusetts | On Site | Jun 03 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tenstorrent](http://tenstorrent.com)** | **[Mechanical Engineer, Intern](https://jobright.ai/jobs/info/6a1910d617492d3a389bbd18?utm_campaign=1048&utm_source=git)** | Toronto | On Site | Jun 03 |
 | ↳ | **[Mechanical Engineer, Intern](https://jobright.ai/jobs/info/6a1910d817492d3a389bbd19?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | **[First Solar](http://www.firstsolar.com)** | **[Manufacturing Engineer Material Handling Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2088b93a5f0145f4c15189?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | Jun 03 |
-| **[Contoro Robotics](https://www.contoro.com)** | **[Robotics Engineer Intern [NPI]](https://jobright.ai/jobs/info/6a2087c4c00e701fe8369f05?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jun 03 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geotechnical Engineering Intern – Spring or Summer 2026](https://jobright.ai/jobs/info/6a0cd1be0411d7417a1bce64?utm_campaign=1048&utm_source=git)** | US-TN-Johnson City | On Site | Jun 03 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Site Development, New Grad](https://jobright.ai/jobs/info/6a2086464bdf8a5a96bd135d?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 03 |
-| **[Good Carbon Co.](http://www.goodcarbonco.com)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/6a04bfb4bc4184089f23e4ca?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jun 03 |
-| **[Astrion](https://astrion.us)** | **[Engineering Directorate Support Intern](https://jobright.ai/jobs/info/6a2085d2338c012305119a50?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jun 03 |
-| **[Canam](https://www.groupecanam.com)** | **[Intern – Field Services Coordinator](https://jobright.ai/jobs/info/6a205f29c00e701fe8368f12?utm_campaign=1048&utm_source=git)** | Kingston, ON, Canada | On Site | Jun 03 |
-| ↳ | **[Intern – Field Services Coordinator](https://jobright.ai/jobs/info/6a205f2fc00e701fe8368f13?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | On Site | Jun 03 |
-| ↳ | **[Intern – Field Services Coordinator](https://jobright.ai/jobs/info/6a205f2d902d19201c7b1cc5?utm_campaign=1048&utm_source=git)** | Greater Sudbury, ON, Canada | On Site | Jun 03 |
-| **[BBA Consultants](https://www.bba.ca/)** | **[Electrical Engineering Intern - Digital Power Systems - Fall 2026](https://jobright.ai/jobs/info/6a040090f811a043696070d3?utm_campaign=1048&utm_source=git)** | Mont-St-Hilaire, Quebec, Canada | On Site | Jun 03 |
-| **[CTL Engineering, Inc.](http://ctleng.com)** | **[Internship – Geotechnical Engineering/Geology _ Summer 2026](https://jobright.ai/jobs/info/6a2082f9338c012305119986?utm_campaign=1048&utm_source=git)** | New Albany, OH, US | On Site | Jun 03 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, Machine Learning](https://jobright.ai/jobs/info/6a20451c3a5f0145f4c135a9?utm_campaign=1048&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 03 |
-| ↳ | **[Co-op/Intern Developer, Machine Learning](https://jobright.ai/jobs/info/6a20451b3a5f0145f4c135a8?utm_campaign=1048&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
