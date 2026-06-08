@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bauhaus Earth](https://www.bauhauserde.org/)** | **[Mandatory Internship (Pflichtpraktikum) - Talent Pool (m/f/d)](https://jobright.ai/jobs/info/6a267a4114de9460dc849d9a?utm_campaign=1048&utm_source=git)** | Remote DE | Remote | Jun 08 |
+| **[CECP](https://cecp.co)** | **[CECP AI Solutions Intern - 2026](https://jobright.ai/jobs/info/6a26780a326da737b2aa108f?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[UTILITY SERVICES FIELD INTERN](https://jobright.ai/jobs/info/6a266f9dd1868a224c919e32?utm_campaign=1048&utm_source=git)** | Surprise, AZ | On Site | Jun 08 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Data Engineering Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1888f36243320e8d165939?utm_campaign=1048&utm_source=git)** | Lincoln, NE | On Site | Jun 08 |
 | **[Airbus](https://us.airbus.com)** | **[Metrology Test internship (d/f/m)](https://jobright.ai/jobs/info/6a266da0d46c0f799608a0e0?utm_campaign=1048&utm_source=git)** | Hamburg Area, DE | On Site | Jun 08 |
@@ -121,8 +123,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (Multimodal Interaction and World Model - Seed) – 2027 Start (PhD)](https://jobright.ai/jobs/info/69d03f3e54f00230c6d1093c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69cf321a366bb95ba5513a75?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Developer Intern](https://jobright.ai/jobs/info/69eb4b204b0fa35a7077a2b1?utm_campaign=1048&utm_source=git)** | La Crosse, Wisconsin, United States of America | On Site | Jun 07 |
-| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[CAD Design Intern](https://jobright.ai/jobs/info/6a25256f6624e500cad0edbb?utm_campaign=1048&utm_source=git)** | Wilsonville, Oregon, United States | On Site | Jun 07 |
-| ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/6a25256f6624e500cad0edba?utm_campaign=1048&utm_source=git)** | Portland | On Site | Jun 07 |
+| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[CAD Design Intern](https://jobright.ai/jobs/info/6a25256f6624e500cad0edba?utm_campaign=1048&utm_source=git)** | Portland | On Site | Jun 07 |
+| ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/6a25256f6624e500cad0edbb?utm_campaign=1048&utm_source=git)** | Wilsonville, Oregon, United States | On Site | Jun 07 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Science Intern - Summer 2026](https://jobright.ai/jobs/info/6a0831706186f468598864c7?utm_campaign=1048&utm_source=git)** | Tempe, AZ | On Site | Jun 06 |
 | **[Southview Design](https://southviewdesign.com/)** | **[Horticulture Internship](https://jobright.ai/jobs/info/6a250ae8757ade085b6b13e9?utm_campaign=1048&utm_source=git)** | Saint Paul, MN | On Site | Jun 06 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a1d66edc2a87d6cd3e0b6b9?utm_campaign=1048&utm_source=git)** | Lodi, CA | On Site | Jun 06 |
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a264f92dedf78312c7b1b0f?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Jun 06 |
@@ -141,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com)** | **[Machine Learning Intern - Bachelor's Degree](https://jobright.ai/jobs/info/6a079a618f3e371eb6178e66?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 06 |
 | **[Valence](https://www.getvalence.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a2473fddedf78312c7ae9a3?utm_campaign=1048&utm_source=git)** | Lynwood, CA | On Site | Jun 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Experimental Mechanical Design (Fall 2026)](https://jobright.ai/jobs/info/6a0825b73b54ed42d74d493b?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 06 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bb1f91136d179eeef35e0?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 06 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bb1c00b88cc7d64227c6e?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 06 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 06 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bbabf1423772304ebe601?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 06 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 06 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 06 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 06 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc0741136d179eeef44b7?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 06 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 06 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763c?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 06 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[Audio Visual Summer Intern](https://jobright.ai/jobs/info/6a246c6cd46c0f7996086f0c?utm_campaign=1048&utm_source=git)** | Stamford, CT | On Site | Jun 06 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Ultra-Trace Radiochemistry Post-Bachelor's Intern](https://jobright.ai/jobs/info/69ecc2f1dc35f7132c4b7405?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Jun 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Science Intern - Summer 2026](https://jobright.ai/jobs/info/6a07f6e2939a5f01db95516c?utm_campaign=1048&utm_source=git)** | 1230 West Washington Street, Tempe, AZ, 85288, US | On Site | Jun 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e54bdf8a5a96bd435e?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 06 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e34bdf8a5a96bd435b?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 06 |
 | **[Etched](https://www.etched.com)** | **[RTL Intern](https://jobright.ai/jobs/info/69b43fb6569738374138e27d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
-| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Software - Machine Learning Intern](https://jobright.ai/jobs/info/6a07a4f4939a5f01db9529a9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
-| ↳ | **[US 2026 Hardware - Digital Intern](https://jobright.ai/jobs/info/6a07a27b403fc339507e6d20?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a08ae16a203b1052e44582a?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
