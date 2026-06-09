@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a27d5d2fd37e62bb47a5c3c?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | Jun 09 |
+| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a27d5b42d6c332ee52e2af4?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | Jun 09 |
+| **[Raytheon](http://www.bbn.com)** | **[Internship - Fall 2026 - Structural Analyst](https://jobright.ai/jobs/info/6a27d43b883c0d3be653ea8c?utm_campaign=1048&utm_source=git)** | mississauga, Ontario, Canada | On Site | Jun 09 |
 | **[MITER Brands](https://www.miterbrands.com/)** | **[Intern-2](https://jobright.ai/jobs/info/6a27cabe1dbd8437bebc7c77?utm_campaign=1048&utm_source=git)** | Sacramento, CA, US | On Site | Jun 09 |
+| **[TikTok](https://www.tiktok.com)** | **[AI software Engineer Project Intern (Transaction Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a27d28b2d6c332ee52e2a6c?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 09 |
+| **[Raytheon](http://www.bbn.com)** | **[Internship - Fall 2026 - Altitude Test Facility (Ottawa)](https://jobright.ai/jobs/info/6a27d2272d6c332ee52e2a5d?utm_campaign=1048&utm_source=git)** | ottawa, Ontario, Canada | On Site | Jun 09 |
+| **[Intel](http://www.intel.com)** | **[System Simulation Engineering CO-OP Intern](https://jobright.ai/jobs/info/6a27d033fd37e62bb47a5b41?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jun 09 |
 | **[Chromalox](http://www.chromalox.com)** | **[Intern - Manufacturing Engineering](https://jobright.ai/jobs/info/6a27ca4a883c0d3be653e898?utm_campaign=1048&utm_source=git)** | Ogden, UT | On Site | Jun 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a27c9557061b51a3a5f23cf?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jun 09 |
 | **[Downhole Chemical Solutions](https://www.stimchems.com)** | **[MECH & CHEM Engineering Design Intern](https://jobright.ai/jobs/info/6a270ee0ca77fd3096d25173?utm_campaign=1048&utm_source=git)** | Lafayette,LA,US | On Site | Jun 09 |
@@ -85,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb6ca77fd3096d265cc?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jun 08 |
 | ↳ | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb7ca77fd3096d265cd?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | Jun 08 |
 | **[Second Nature Brands](https://secondnaturebrandsus.com/)** | **[Process Engineer - Internship](https://jobright.ai/jobs/info/6a2762aa7d827633afffa668?utm_campaign=1048&utm_source=git)** | Tukwila, WA, US | On Site | Jun 08 |
-| **[ITT Inc.](http://www.itt.com)** | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e780bf0430c762ed30?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
-| ↳ | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/6a1dbbaae24ef365258397b9?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
+| **[ITT Inc.](http://www.itt.com)** | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/6a1dbbaae24ef365258397b9?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
 | ↳ | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e580bf0430c762ed2e?utm_campaign=1048&utm_source=git)** | Valencia, CA, US | On Site | Jun 08 |
+| ↳ | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e780bf0430c762ed30?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
 | ↳ | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/6a1dbba9e24ef365258397b7?utm_campaign=1048&utm_source=git)** | Valencia, CA, US | On Site | Jun 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Operations Asset Management](https://jobright.ai/jobs/info/6a276e2212f0202342264767?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Desktop Risk & Vulnerability Remediation)](https://jobright.ai/jobs/info/6a26f8342056260dd6e8451a?utm_campaign=1048&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Jun 08 |
@@ -112,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Construction Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2753dc30042e75390886d3?utm_campaign=1048&utm_source=git)** | Fort Worth, TX | On Site | Jun 08 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/6a2750d22056260dd6e868fb?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Jun 08 |
 | **[Zipline](https://www.zipline.com/)** | **[Applications Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a27502512f0202342263f67?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jun 08 |
-| **[Agiliti](https://www.agilitihealth.com/)** | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/6a14daf7dc845f4be5bd341b?utm_campaign=1048&utm_source=git)** | Ft. Lauderdale - District site, US | On Site | Jun 08 |
-| ↳ | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/69d69345706f771673bab7dc?utm_campaign=1048&utm_source=git)** | Ft. Lauderdale - District site | On Site | Jun 08 |
+| **[Agiliti](https://www.agilitihealth.com/)** | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/69d69345706f771673bab7dc?utm_campaign=1048&utm_source=git)** | Ft. Lauderdale - District site | On Site | Jun 08 |
+| ↳ | **[Biomedical Technician Intern](https://jobright.ai/jobs/info/6a14daf7dc845f4be5bd341b?utm_campaign=1048&utm_source=git)** | Ft. Lauderdale - District site, US | On Site | Jun 08 |
 | **[Zipline](https://www.zipline.com/)** | **[Computational Physics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a274b0212f0202342263e57?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jun 08 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer – RL Post-Training for LLMs](https://jobright.ai/jobs/info/6a274ad77d827633afff9fb5?utm_campaign=1048&utm_source=git)** | Vancouver, 6051 Silver Drive, CA | On Site | Jun 08 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 Engineer Co-Op / Internship](https://jobright.ai/jobs/info/6a274ac84ec8d737d6dff183?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jun 08 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6a2770784ec8d737d6dffbb5?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 08 |
 | **[Norton Healthcare](https://nortonhealthcare.com)** | **[Postgraduate Intern PRN, Norton Research Institute, As Needed](https://jobright.ai/jobs/info/6a2738257d827633afff97a9?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jun 08 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Research Intern](https://jobright.ai/jobs/info/6a26d7b72056260dd6e8364f?utm_campaign=1048&utm_source=git)** | District of Columbia-Washington | On Site | Jun 08 |
-| **[Anyware Robotics](https://anyware-robotics.com/)** | **[Mechatronics Intern - Hardware & Supply Chain](https://jobright.ai/jobs/info/6a0e3d3ec152ac782448501e?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Jun 08 |
+| **[Anyware Robotics](https://anyware-robotics.com/)** | **[Mechatronics Intern - Hardware & Supply Chain](https://jobright.ai/jobs/info/6a1e365c6b135014dbc9b373?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Jun 08 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Small Tools Intern](https://jobright.ai/jobs/info/6a27370612f0202342263689?utm_campaign=1048&utm_source=git)** | Bakersfield, CA | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Engineering Quality (4 months)](https://jobright.ai/jobs/info/6a276dd57d827633afffa9c8?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Centre of Excellence (COE) Lab (4 months)](https://jobright.ai/jobs/info/6a276dd54ec8d737d6dffb36?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[IT/OT Intern](https://jobright.ai/jobs/info/6a2734f34ec8d737d6dfe9b4?utm_campaign=1048&utm_source=git)** | Sauget, IL | On Site | Jun 08 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6a2733932056260dd6e85f24?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 08 |
-| ↳ | **[Structural Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6a27335b12f0202342263599?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jun 08 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Aerospace Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/6a27329212f020234226355d?utm_campaign=1048&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 08 |
-| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a27325c12f020234226353a?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Jun 08 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Systems Analyst (8 Months)](https://jobright.ai/jobs/info/6a2731ee7d827633afff95bb?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
