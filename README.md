@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a27b9c7fd37e62bb47a581d?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | Jun 08 |
-| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a27b9a42d6c332ee52e2735?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | Jun 08 |
-| **[A to Z Wineworks](https://www.atozwineworks.com/)** | **[Lab Intern](https://jobright.ai/jobs/info/6a27b771add4b5278cb5fe5e?utm_campaign=1048&utm_source=git)** | REX HILL property in Oregon’s Willamette Valley | On Site | Jun 08 |
+| **[MITER Brands](https://www.miterbrands.com/)** | **[Intern-2](https://jobright.ai/jobs/info/6a27cabe1dbd8437bebc7c77?utm_campaign=1048&utm_source=git)** | Sacramento, CA, US | On Site | Jun 09 |
+| **[Chromalox](http://www.chromalox.com)** | **[Intern - Manufacturing Engineering](https://jobright.ai/jobs/info/6a27ca4a883c0d3be653e898?utm_campaign=1048&utm_source=git)** | Ogden, UT | On Site | Jun 09 |
+| **[Neuralink](https://www.neuralink.com)** | **[Digital IC Design Engineer Intern](https://jobright.ai/jobs/info/6a27c9557061b51a3a5f23cf?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jun 09 |
+| **[Downhole Chemical Solutions](https://www.stimchems.com)** | **[MECH & CHEM Engineering Design Intern](https://jobright.ai/jobs/info/6a270ee0ca77fd3096d25173?utm_campaign=1048&utm_source=git)** | Lafayette,LA,US | On Site | Jun 09 |
+| **[InVita Healthcare Technologies](https://www.invitahealth.com)** | **[AI Summer Intern](https://jobright.ai/jobs/info/6a27c2317061b51a3a5f2327?utm_campaign=1048&utm_source=git)** | Baltimore, MD | On Site | Jun 09 |
+| **[Atlas Roofing Corporation](https://www.atlasroofing.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a1de0a5e24ef3652583a8a1?utm_campaign=1048&utm_source=git)** | 13695 Mount Anderson Street, Reno, NV89506 | On Site | Jun 09 |
 | **[LMI](http://www.lmi.org)** | **[Mechanical Engineering Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6a27b5267061b51a3a5f214a?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 08 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Engineer Intern - City](https://jobright.ai/jobs/info/6a27b3bf883c0d3be653e587?utm_campaign=1048&utm_source=git)** | Oklahoma  City, OK, United States | On Site | Jun 08 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Industrial Engineering - Fall 2026](https://jobright.ai/jobs/info/6a27b19e883c0d3be653e557?utm_campaign=1048&utm_source=git)** | Briggs, TX | On Site | Jun 08 |
@@ -79,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Hirani Engineering and Land Surveying, D.P.C.](https://www.hiranigroup.com/)** | **[LAND SURVEYING INTERN](https://jobright.ai/jobs/info/6a2775c0120e597c974f953c?utm_campaign=1048&utm_source=git)** | Hirani Corporate Office - Hicksville, NY 11801 US (Primary) | On Site | Jun 08 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - ML Engineering](https://jobright.ai/jobs/info/6a2035674bdf8a5a96bcf0fd?utm_campaign=1048&utm_source=git)** | Seattle | Hybrid | Jun 08 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a27749b120e597c974f94f8?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 08 |
-| **[Genentech](http://gene.com)** | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb7ca77fd3096d265cd?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | Jun 08 |
-| ↳ | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb6ca77fd3096d265cc?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jun 08 |
+| **[Genentech](http://gene.com)** | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb6ca77fd3096d265cc?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jun 08 |
+| ↳ | **[2026 Fall Intern - Manufacturing Sciences and Technology](https://jobright.ai/jobs/info/6a273fb7ca77fd3096d265cd?utm_campaign=1048&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | Jun 08 |
 | **[Second Nature Brands](https://secondnaturebrandsus.com/)** | **[Process Engineer - Internship](https://jobright.ai/jobs/info/6a2762aa7d827633afffa668?utm_campaign=1048&utm_source=git)** | Tukwila, WA, US | On Site | Jun 08 |
-| **[ITT Inc.](http://www.itt.com)** | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/69167abe6f36db06ef056f54?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
-| ↳ | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e780bf0430c762ed30?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
+| **[ITT Inc.](http://www.itt.com)** | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e780bf0430c762ed30?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
+| ↳ | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/6a1dbbaae24ef365258397b9?utm_campaign=1048&utm_source=git)** | US-CA-Valencia | On Site | Jun 08 |
 | ↳ | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a0ec7e580bf0430c762ed2e?utm_campaign=1048&utm_source=git)** | Valencia, CA, US | On Site | Jun 08 |
 | ↳ | **[Manufacturing & Test Engineer Intern](https://jobright.ai/jobs/info/6a1dbba9e24ef365258397b7?utm_campaign=1048&utm_source=git)** | Valencia, CA, US | On Site | Jun 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Operations Asset Management](https://jobright.ai/jobs/info/6a276e2212f0202342264767?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Aerospace Systems Engineering Intern - Graduate](https://jobright.ai/jobs/info/6a27329212f020234226355d?utm_campaign=1048&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 08 |
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a27325c12f020234226353a?utm_campaign=1048&utm_source=git)** | Dayton, OH | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Systems Analyst (8 Months)](https://jobright.ai/jobs/info/6a2731ee7d827633afff95bb?utm_campaign=1048&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| **[Bosch](http://www.bosch.com)** | **[Engineering Technician Intern](https://jobright.ai/jobs/info/6a27319b4ec8d737d6dfe895?utm_campaign=1048&utm_source=git)** | 15000 N Haggerty Rd, Plymouth, MI 48170, USA | On Site | Jun 08 |
-| **[BiOrigin Specialty Products](https://www.bioriginsp.com)** | **[Engineering Intern (Mechanical/Paper)](https://jobright.ai/jobs/info/6a27314012f02023422634d4?utm_campaign=1048&utm_source=git)** | Gouverneur, NY, US | On Site | Jun 08 |
-| **[VMC Group](https://www.thevmcgroup.com/)** | **[Engineering Drafting Intern](https://jobright.ai/jobs/info/6a26f4c74ec8d737d6dfce48?utm_campaign=1048&utm_source=git)** | Bloomingdale,NJ,US | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
