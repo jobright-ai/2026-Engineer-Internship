@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Industries](https://smithindustriestx.com/)** | **[Engineering Co-Op / Internship Program](https://jobright.ai/jobs/info/6a2a9a26d3ec8317fe14447a?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Jun 11 |
+| **[CEC](https://cecfg.com)** | **[Electrical VDC Intern (33383)](https://jobright.ai/jobs/info/6a221dacc00e701fe8372efb?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Jun 11 |
+| **[Tektronix](http://www.tek.com)** | **[ASIC Design Intern](https://jobright.ai/jobs/info/6a0e000680bf0430c76284fe?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Jun 11 |
+| **[Visteon Corporation](http://www.visteon.com)** | **[AI Enabled In-Cabin Cockpit Intern](https://jobright.ai/jobs/info/6a2a58a8d3ec8317fe1434c9?utm_campaign=1048&utm_source=git)** | Van Buren, MI | On Site | Jun 11 |
+| **[Oracle](https://www.oracle.com/)** | **[NAA EPM Solution Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5ccb80bf0430c762c50f?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Jun 11 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Shipboard HF Radio Subject Matter Expert (Active Duty Service Members)](https://jobright.ai/jobs/info/6a2a919d2cde2824469c2450?utm_campaign=1048&utm_source=git)** | Portsmouth, VA | On Site | Jun 11 |
 | **[UES](https://www.teamues.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6a0e1c55c152ac7824483673?utm_campaign=1048&utm_source=git)** | Knoxville, TN | On Site | Jun 11 |
-| **[Oracle](https://www.oracle.com/)** | **[NAA EPM Solution Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5ccb80bf0430c762c50f?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Jun 11 |
-| ↳ | **[OCI Network Development Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7c152ac78244862ad?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Jun 11 |
-| ↳ | **[OCI Network Development Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cb580bf0430c762c4fe?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Network Development Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7c152ac78244862ad?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Jun 11 |
 | ↳ | **[OCI Network Development Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cbcc152ac78244862a8?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
+| ↳ | **[OCI Network Development Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cb580bf0430c762c4fe?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
 | **[Medpace](http://www.medpace.com)** | **[AI Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69f2f72534c4af7a79ab8069?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jun 11 |
 | ↳ | **[Data Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a0df37fc152ac782448182c?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jun 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern – TikTok Recommendation(NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/69f1867becbc8c2f7320645b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
@@ -101,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Safety Department Student Internship](https://jobright.ai/jobs/info/6a266ee14239a43538883dd9?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jun 10 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Electrical Engineering Student Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a2a42720c4972328e7e8006?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, US, 23606 | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Transit Railcar Technology Specialist Intern](https://jobright.ai/jobs/info/6a29c8a4c07d4b6ae1c42d3a?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jun 10 |
-| **[Heaviside Industries](www.theheaviside.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2a3c8e495d985b994282e4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
+| **[Heaviside Industries](https://www.theheaviside.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2a3c8e495d985b994282e4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | **[Trossen Robotics](http://www.trossenrobotics.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2a3aa7d3ec8317fe142d88?utm_campaign=1048&utm_source=git)** | Downers Grove, IL | On Site | Jun 10 |
 | **[Lumelight](https://lumelight.com)** | **[Lumelight Summer Intern (Business & Technology)](https://jobright.ai/jobs/info/6a2a330c2cde2824469c0d14?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Social Work Intern - Summer 2026 (Puerto Rico)](https://jobright.ai/jobs/info/6a2a32e4d3ec8317fe142b01?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jun 10 |
@@ -129,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Engineering (ME &amp; Design) Intern](https://jobright.ai/jobs/info/6a29c955495d985b99425db1?utm_campaign=1048&utm_source=git)** | CAN MILTON ONTARIO PCD | Hybrid | Jun 10 |
 | **[MAHLE](https://www.mahle.com)** | **[Engineering Intern - Full Year Job Details / MAHLE](https://jobright.ai/jobs/info/6a2a1c701de59e0682a82ae7?utm_campaign=1048&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | Jun 10 |
 | **[Memorial Park Conservancy](https://www.memorialparkconservancy.org)** | **[Conservation Intern](https://jobright.ai/jobs/info/6a297d8c1de59e0682a7f79d?utm_campaign=1048&utm_source=git)** | Houston,TX,US | On Site | Jun 10 |
-| **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/6a2a191d1de59e0682a829a9?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Jun 10 |
+| **[Duke University](http://ceint.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/6a2a191d1de59e0682a829a9?utm_campaign=1048&utm_source=git)** | Durham, NC | On Site | Jun 10 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Engineering High-Potential Launch Program  (3-Month Internship to Full-Time Program)](https://jobright.ai/jobs/info/6a2115f5902d19201c7b611a?utm_campaign=1048&utm_source=git)** | Mountain View, California, United States | On Site | Jun 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern EHS](https://jobright.ai/jobs/info/6a2a14fd495d985b99426d01?utm_campaign=1048&utm_source=git)** | Ogden, UT | On Site | Jun 10 |
 | **[Stantec](http://www.stantec.com)** | **[Architecture Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/6a2a14bf495d985b99426cf9?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PBK](https://pbk.com/)** | **[Collegiate MEP Intern](https://jobright.ai/jobs/info/6a29f6522cde2824469bf73a?utm_campaign=1048&utm_source=git)** | Folsom, CA | On Site | Jun 10 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[TECO Fall 2026 Internship - Substation Engineering - Protection and Control / Relay Settings](https://jobright.ai/jobs/info/6a264c9e14de9460dc849860?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jun 10 |
 | **[Penn State University](http://psu.edu)** | **[Undergraduate  Summer Research Intern](https://jobright.ai/jobs/info/6a29c4a42cde2824469be5e0?utm_campaign=1048&utm_source=git)** | College of Medicine, US | On Site | Jun 10 |
-| **[Schneider Electric](https://www.se.com)** | **[Hardware Power Electronics Engineer Intern](https://jobright.ai/jobs/info/6a29ef821de59e0682a82600?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Jun 10 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Intern](https://jobright.ai/jobs/info/6a2a2cd00c4972328e7e757f?utm_campaign=1048&utm_source=git)** | Glen Allen, VA, US | On Site | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc60c4972328e7e4ac1?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc50c4972328e7e4abd?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
