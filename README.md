@@ -57,19 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PBK](https://pbk.com/)** | **[Collegiate MEP Intern](https://jobright.ai/jobs/info/6a29f6522cde2824469bf73a?utm_campaign=1048&utm_source=git)** | Folsom, CA | On Site | Jun 10 |
+| **[Altera](https://www.altera.com)** | **[IP Design Intern](https://jobright.ai/jobs/info/6a29c264c07d4b6ae1c42992?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Hardware Power Electronics Engineer Intern](https://jobright.ai/jobs/info/6a29ef821de59e0682a82600?utm_campaign=1048&utm_source=git)** | Andover, MA | On Site | Jun 10 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Materials & Processes Internship - Graduate](https://jobright.ai/jobs/info/6a299dbcc07d4b6ae1c41b9b?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Test Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a29ab6c0c4972328e7e5076?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Test Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a29ab6d0c4972328e7e5077?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| **[West Star Aviation Inc.](http://www.weststaraviation.com/)** | **[Aerospace Engineering Intern - 1369](https://jobright.ai/jobs/info/6a29ec642cde2824469bf5fe?utm_campaign=1048&utm_source=git)** | Solon, OH | On Site | Jun 10 |
-| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a29ec43c07d4b6ae1c43953?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | Jun 10 |
-| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a29ec210c4972328e7e67d7?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc7495d985b99424b82?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Test Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a29ab6c0c4972328e7e5076?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc7495d985b99424b82?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc8495d985b99424b85?utm_campaign=1048&utm_source=git)** | Van Horn, TX, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc5495d985b99424b81?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc7495d985b99424b83?utm_campaign=1048&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc8495d985b99424b85?utm_campaign=1048&utm_source=git)** | Van Horn, TX, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc50c4972328e7e4abd?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc60c4972328e7e4ac1?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc50c4972328e7e4abd?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| **[West Star Aviation Inc.](http://www.weststaraviation.com/)** | **[Aerospace Engineering Intern - 1369](https://jobright.ai/jobs/info/6a29ec642cde2824469bf5fe?utm_campaign=1048&utm_source=git)** | Solon, OH | On Site | Jun 10 |
 | **[FieldAI](https://www.fieldai.com)** | **[Field Application Engineer -Intern](https://jobright.ai/jobs/info/6a29e4e61de59e0682a82432?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 10 |
 | **[TERRACON CONSULTANTS](https://www.linkedin.com/company/9659431)** | **[Unpaid Intern Access](https://jobright.ai/jobs/info/6a29e32cc07d4b6ae1c437fc?utm_campaign=1048&utm_source=git)** | 9123 Chesapeake Dr, San Diego, CA, 92123, US | On Site | Jun 10 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Transport Packaging (Fall  2026)](https://jobright.ai/jobs/info/6a29e105d3ec8317fe141188?utm_campaign=1048&utm_source=git)** | Dublin, VA | On Site | Jun 10 |
@@ -115,14 +115,14 @@ For a complete list, click the following sortable link below:
 | **[Crane Company](http://www.craneco.com/)** | **[Multidisciplinary Intern/Co-op](https://jobright.ai/jobs/info/6a29c8abc07d4b6ae1c42d99?utm_campaign=1048&utm_source=git)** | Billerica, MA | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Transit Railcar Technology Specialist Intern](https://jobright.ai/jobs/info/6a29c8a4c07d4b6ae1c42d3a?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jun 10 |
 | **[Héroux-Devtek](http://www.herouxdevtek.com/)** | **[Quality Assurance Intern - Summer 2026](https://jobright.ai/jobs/info/6a29c7b81de59e0682a817d7?utm_campaign=1048&utm_source=git)** | Longueuil, Quebec, Canada | Hybrid | Jun 10 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7962cde2824469be80d?utm_campaign=1048&utm_source=git)** | Fulton, Maryland, US | Hybrid | Jun 10 |
-| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7962cde2824469be80e?utm_campaign=1048&utm_source=git)** | San Francisco, California, US | Hybrid | Jun 10 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7962cde2824469be80e?utm_campaign=1048&utm_source=git)** | San Francisco, California, US | Hybrid | Jun 10 |
+| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7962cde2824469be80d?utm_campaign=1048&utm_source=git)** | Fulton, Maryland, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7952cde2824469be80b?utm_campaign=1048&utm_source=git)** | Dallas, Texas, US | Hybrid | Jun 10 |
-| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be807?utm_campaign=1048&utm_source=git)** | Portland, Oregon, US | Hybrid | Jun 10 |
-| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be804?utm_campaign=1048&utm_source=git)** | Richardson, Texas, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be808?utm_campaign=1048&utm_source=git)** | Austin, Texas, US | Hybrid | Jun 10 |
-| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be809?utm_campaign=1048&utm_source=git)** | New York, New York, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be806?utm_campaign=1048&utm_source=git)** | Seattle, Washington, US | Hybrid | Jun 10 |
+| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be804?utm_campaign=1048&utm_source=git)** | Richardson, Texas, US | Hybrid | Jun 10 |
+| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be807?utm_campaign=1048&utm_source=git)** | Portland, Oregon, US | Hybrid | Jun 10 |
+| ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7942cde2824469be809?utm_campaign=1048&utm_source=git)** | New York, New York, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7932cde2824469be802?utm_campaign=1048&utm_source=git)** | San Jose, California, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7932cde2824469be803?utm_campaign=1048&utm_source=git)** | Hillsboro, Oregon, US | Hybrid | Jun 10 |
 | ↳ | **[Software Engineer Data/AI/Intelligent Systems I (Intern) - United States](https://jobright.ai/jobs/info/6a29c7922cde2824469be7ff?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, US | Hybrid | Jun 10 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Sartorius](http://sartorius.com)** | **[Bioreactor Application & Testing Intern - Marlborough, MA](https://jobright.ai/jobs/info/6a29c4381de59e0682a815b5?utm_campaign=1048&utm_source=git)** | Marlborough, MA, United States of America | On Site | Jun 10 |
 | **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6a29c302d3ec8317fe140348?utm_campaign=1048&utm_source=git)** | Raleigh, NC | On Site | Jun 10 |
 | **[Centific](https://www.centific.com)** | **[Vision/Physical AI Intern-1](https://jobright.ai/jobs/info/6a29c2690c4972328e7e5840?utm_campaign=1048&utm_source=git)** | Remote Work( USA), US | Remote | Jun 10 |
-| **[Altera](https://www.altera.com)** | **[IP Design Intern](https://jobright.ai/jobs/info/6a29c264c07d4b6ae1c42992?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[Instacart](https://www.instacart.com)** | **[Machine Learning Engineer, PhD Intern (Fall)](https://jobright.ai/jobs/info/6a29c1fed3ec8317fe14031a?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Project Engineering](https://jobright.ai/jobs/info/6a29b6e7d3ec8317fe140021?utm_campaign=1048&utm_source=git)** | Buffalo, NY, US | On Site | Jun 10 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a18be9454a441713ae87bbf?utm_campaign=1048&utm_source=git)** | Grand Forks, ND - Grand Forks, ND 58201 US (Primary) | On Site | Jun 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Subsystem Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a29b3f1d3ec8317fe13febf?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | ↳ | **[Mechanical Engineering Intern  - Fall 2026](https://jobright.ai/jobs/info/6a29b39f2cde2824469be0c3?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | ↳ | **[Propulsion Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69b819c356973837413d490b?utm_campaign=1048&utm_source=git)** | Jacksonville, FL | On Site | Jun 10 |
+| ↳ | **[Operations and Test Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a28fadb2d6c332ee52e9288?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
