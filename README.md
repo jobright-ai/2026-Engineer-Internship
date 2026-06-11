@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Helm AI](www.visithelm.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/6a2a69d09bf7365df08990ba?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jun 11 |
+| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern](https://jobright.ai/jobs/info/6a212303ca8f0b365d7a515e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
+| **[Sandman Structural Engineers](https://www.sandmanse.com/)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a2a78f0c07d4b6ae1c46034?utm_campaign=1048&utm_source=git)** | Moorhead, 56560 | On Site | Jun 11 |
+| **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a2a78d30c4972328e7e8e07?utm_campaign=1048&utm_source=git)** | Rochester, NY, 14604 | On Site | Jun 11 |
+| **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern Technical (MSP)](https://jobright.ai/jobs/info/6a2a3b12495d985b994282a4?utm_campaign=1048&utm_source=git)** | Houston, TX | Remote | Jun 11 |
+| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Fall 2026 - Systems and Organizations Controls (SOC)](https://jobright.ai/jobs/info/6a2a6ca42cde2824469c1be9?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jun 11 |
+| ↳ | **[Cybersecurity Internship Fall 2026 - Systems and Organizations Controls (SOC)](https://jobright.ai/jobs/info/6a2a6ca02cde2824469c1bd8?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 11 |
 | **[ProFarm](https://profarmgroup.com)** | **[Intern, Quality Control](https://jobright.ai/jobs/info/6a29c8cac07d4b6ae1c42da8?utm_campaign=1048&utm_source=git)** | Davis, CA | On Site | Jun 11 |
 | **[Cambro Manufacturing](https://www.cambro.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a2a616d2cde2824469c1836?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA, US | On Site | Jun 11 |
 | **[Raytheon](http://www.bbn.com)** | **[   Manufacturing Engineering Intern – Cooling Hole Production](https://jobright.ai/jobs/info/6a2a59f00c4972328e7e86eb?utm_campaign=1048&utm_source=git)** | asheville, North Carolina, United States of America | On Site | Jun 10 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Trossen Robotics](http://www.trossenrobotics.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2a3aa7d3ec8317fe142d88?utm_campaign=1048&utm_source=git)** | Downers Grove, IL | On Site | Jun 10 |
 | **[Lumelight](https://lumelight.com)** | **[Lumelight Summer Intern (Business & Technology)](https://jobright.ai/jobs/info/6a2a330c2cde2824469c0d14?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Social Work Intern - Summer 2026 (Puerto Rico)](https://jobright.ai/jobs/info/6a2a32e4d3ec8317fe142b01?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jun 10 |
-| **[Lumelight](https://lumelight.com)** | **[Lumelight Summer Intern (Business & Technology)](https://jobright.ai/jobs/info/6a2a32a82cde2824469c0d00?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Legrand](https://www.legrandgroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a31b90c4972328e7e7bb3?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jun 10 |
 | **[ZF Group](https://www.zf.com/)** | **[Digitization Intern](https://jobright.ai/jobs/info/6a2a31b50c4972328e7e7b8c?utm_campaign=1048&utm_source=git)** | Marysville, MI, US | On Site | Jun 10 |
 | **[State of Florida](http://www.myflorida.com)** | **[CYBERSECURITY INTERNSHIP Job Details / State of Florida](https://jobright.ai/jobs/info/6a2a30632cde2824469c0c25?utm_campaign=1048&utm_source=git)** | TALLAHASSEE, FL, US, 32399 | On Site | Jun 10 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Elsevier](http://www.elsevier.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a2bb32cde2824469c0924?utm_campaign=1048&utm_source=git)** | Bethesda, MD | Hybrid | Jun 10 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[MEP Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a2a2bb02cde2824469c08c7?utm_campaign=1048&utm_source=git)** | Birmingham, Alabama,United States,Birmingham | On Site | Jun 10 |
 | ↳ | **[MEP Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a2a2baf2cde2824469c088c?utm_campaign=1048&utm_source=git)** | Atlanta, Georgia,United States,Atlanta | On Site | Jun 10 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jun 10 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jun 10 |
+| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jun 10 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jun 10 |
 | ↳ | **[Transportation Engineering Internship - 2026 Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a249e495d985b994273a0?utm_campaign=1048&utm_source=git)** | Portland, OR, US | Hybrid | Jun 10 |
 | ↳ | **[Rail & Transit Engineering Internship - 2026 Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a249c495d985b9942739f?utm_campaign=1048&utm_source=git)** | Seattle, WA, US | Hybrid | Jun 10 |
 | ↳ | **[Rail Systems Internship - 2026 Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24140c4972328e7e70e6?utm_campaign=1048&utm_source=git)** | Seattle, WA, US | Hybrid | Jun 10 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc5495d985b99424b81?utm_campaign=1048&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc7495d985b99424b82?utm_campaign=1048&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Graduate](https://jobright.ai/jobs/info/6a299dc8495d985b99424b85?utm_campaign=1048&utm_source=git)** | Van Horn, TX, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Aerospace Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2a261de59e0682a83237?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2cbf0c4972328e7e74d3?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Aerospace Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2a261de59e0682a83237?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2a1b1de59e0682a831e9?utm_campaign=1048&utm_source=git)** | Huntsville, AL | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a28c5c07d4b6ae1c445e8?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Avionics Software Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2cc40c4972328e7e7501?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Materials & Processes Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2b7b495d985b994277d5?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Materials & Processes Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a302d2cde2824469c0a8a?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Manufacturing Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2a241de59e0682a83229?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Electrical Systems Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a1e1c2cde2824469bfd3d?utm_campaign=1048&utm_source=git)** | Merritt Island, FL | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Test Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2a191de59e0682a831c2?utm_campaign=1048&utm_source=git)** | Van Horn, TX | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a28c5c07d4b6ae1c445f6?utm_campaign=1048&utm_source=git)** | Denver, CO | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Test Engineering Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a2ccc0c4972328e7e753b?utm_campaign=1048&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
