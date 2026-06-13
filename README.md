@@ -57,27 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a203?utm_campaign=1048&utm_source=git)** | El Paso, Texas, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a207?utm_campaign=1048&utm_source=git)** | Kenai, Alaska, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7612fc0644749054a20f?utm_campaign=1048&utm_source=git)** | Detroit, Michigan, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20e?utm_campaign=1048&utm_source=git)** | Robinson, Illinois, US | On Site | Jun 13 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/6966c98f5ad3a93f823226d3?utm_campaign=1048&utm_source=git)** | La Palma, CA | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a20a?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a205?utm_campaign=1048&utm_source=git)** | Wilmington, California, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20c?utm_campaign=1048&utm_source=git)** | Garyville, Louisiana, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7610fc0644749054a20b?utm_campaign=1048&utm_source=git)** | Texas City, Texas, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a208?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania, US | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a201?utm_campaign=1048&utm_source=git)** | Martinez, California, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a202?utm_campaign=1048&utm_source=git)** | Catlettsburg, Kentucky, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20e?utm_campaign=1048&utm_source=git)** | Robinson, Illinois, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a206?utm_campaign=1048&utm_source=git)** | Owensboro, Kentucky, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7619fc0644749054a211?utm_campaign=1048&utm_source=git)** | Dickinson, North Dakota, US | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1ff?utm_campaign=1048&utm_source=git)** | Canton, Ohio, US | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a204?utm_campaign=1048&utm_source=git)** | Mandan, North Dakota, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a206?utm_campaign=1048&utm_source=git)** | Owensboro, Kentucky, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a202?utm_campaign=1048&utm_source=git)** | Catlettsburg, Kentucky, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7619fc0644749054a211?utm_campaign=1048&utm_source=git)** | Dickinson, North Dakota, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a207?utm_campaign=1048&utm_source=git)** | Kenai, Alaska, US | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a209?utm_campaign=1048&utm_source=git)** | Anacortes, Washington, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1fe?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a208?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, US | On Site | Jun 13 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a200?utm_campaign=1048&utm_source=git)** | St Paul Park, Minnesota, US | On Site | Jun 13 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7610fc0644749054a20b?utm_campaign=1048&utm_source=git)** | Texas City, Texas, US | On Site | Jun 13 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Junior Technical Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/69d97bb75356a60f40fda04a?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 13 |
-| ↳ | **[Junior Technical Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/6a28a9f8fd37e62bb47aa7e1?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7612fc0644749054a20f?utm_campaign=1048&utm_source=git)** | Detroit, Michigan, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a205?utm_campaign=1048&utm_source=git)** | Wilmington, California, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20c?utm_campaign=1048&utm_source=git)** | Garyville, Louisiana, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1fe?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, US | On Site | Jun 13 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a203?utm_campaign=1048&utm_source=git)** | El Paso, Texas, US | On Site | Jun 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - Northern CA Sacramento '25-'26](https://jobright.ai/jobs/info/6a0ea73f12f8b43cf3978df3?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Jun 13 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Junior Technical Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/6a28a9f8fd37e62bb47aa7e1?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 13 |
+| ↳ | **[Junior Technical Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/69d97bb75356a60f40fda04a?utm_campaign=1048&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 13 |
 | **[Precision Castparts](https://www.pccfasteners.com/ )** | **[Engineering Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a1106c769bd827926af1e91?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Jun 13 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Intern - Product Engineering](https://jobright.ai/jobs/info/6a2d54bcc260bb1b8ae18a1f?utm_campaign=1048&utm_source=git)** | Lynnwood, WA | On Site | Jun 13 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Internship, Structural Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a28fe13883c0d3be65453a3?utm_campaign=1048&utm_source=git)** | Waltham, MA | On Site | Jun 13 |
@@ -94,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[UGI Utilities, Inc.](https://www.ugi.com/)** | **[Intern - Electric Distribution](https://jobright.ai/jobs/info/6a10f1c012f8b43cf3988263?utm_campaign=1048&utm_source=git)** | Wilkes-Barre, PA | On Site | Jun 13 |
 | **[Precision Castparts](https://www.pccfasteners.com/ )** | **[Alloy Process Engineering Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a105b7783d7144289825911?utm_campaign=1048&utm_source=git)** | Mentor, OH | On Site | Jun 13 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern - Scenario Simulation](https://jobright.ai/jobs/info/6a10f1de9fdbf21f36cb1a04?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Electrical Engineering](https://jobright.ai/jobs/info/6a10bac39f654b3359ced9a9?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | Jun 13 |
-| ↳ | **[Student Intern, Electrical Engineering](https://jobright.ai/jobs/info/6a10bac869bd827926af0226?utm_campaign=1048&utm_source=git)** | Richardson, TX, US | On Site | Jun 13 |
-| **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern - Scenario Generation](https://jobright.ai/jobs/info/6a1b0dcb547e292ae139bf19?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Electrical Engineering](https://jobright.ai/jobs/info/6a10bac869bd827926af0226?utm_campaign=1048&utm_source=git)** | Richardson, TX, US | On Site | Jun 13 |
+| ↳ | **[Student Intern, Electrical Engineering](https://jobright.ai/jobs/info/6a10bac39f654b3359ced9a9?utm_campaign=1048&utm_source=git)** | San Jose, CA, US | On Site | Jun 13 |
+| **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern - Scenario Generation](https://jobright.ai/jobs/info/6a10819b9fdbf21f36caef07?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
 | ↳ | **[Research Engineer Intern - Control](https://jobright.ai/jobs/info/6a10819012f8b43cf398586b?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Tennessee](https://jobright.ai/jobs/info/69eed7e2dc35f7132c4bb66e?utm_campaign=1048&utm_source=git)** | Springdale, AR | On Site | Jun 13 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/6a2d46ec7cd40a338fae8901?utm_campaign=1048&utm_source=git)** | Bainbridge, GA | On Site | Jun 13 |
@@ -106,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10819812f8b43cf398586f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
 | **[DOWL](http://dowl.com)** | **[Civil Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68bf421e5c5d5f14f46d57fe?utm_campaign=1048&utm_source=git)** | Fairbanks, AK | On Site | Jun 13 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[ROUND ROCK - Transportation, Internship](https://jobright.ai/jobs/info/6a2d3a797cd40a338fae8874?utm_campaign=1048&utm_source=git)** | Round Rock, TX | On Site | Jun 13 |
-| **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a10819c619335383fb32f37?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
-| ↳ | **[Machine Learning Engineer Intern- Scenario Simulation](https://jobright.ai/jobs/info/6a1081949fdbf21f36caeefd?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
+| **[PlusAI](http://plus.ai)** | **[Machine Learning Engineer Intern- Scenario Simulation](https://jobright.ai/jobs/info/6a1081949fdbf21f36caeefd?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
+| ↳ | **[Machine Learning Engineer Intern](https://jobright.ai/jobs/info/6a10819c619335383fb32f37?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 13 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[ASIC Digital Design Intern](https://jobright.ai/jobs/info/6a10d37783d7144289828a09?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 13 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/6a2d35d4a1d15e3c552fde81?utm_campaign=1048&utm_source=git)** | Savannah, GA | On Site | Jun 13 |
 | ↳ | **[Laboratory Intern](https://jobright.ai/jobs/info/6a2d35ced3ec94183f4bf188?utm_campaign=1048&utm_source=git)** | Lodi, CA | On Site | Jun 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DOWL](http://dowl.com)** | **[Engineering Internship](https://jobright.ai/jobs/info/6a2ca735fc0644749054adb2?utm_campaign=1048&utm_source=git)** | Bellevue, Washington, United States | On Site | Jun 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Controls Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2c9f66fc0644749054ab2c?utm_campaign=1048&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 12 |
 | ↳ | **[Aerodynamics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2c9f63fc0644749054ab2a?utm_campaign=1048&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 12 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Quality](https://jobright.ai/jobs/info/6a2c9c4dfc0644749054aa82?utm_campaign=1048&utm_source=git)** | Milwaukee, WI | On Site | Jun 12 |
-| **[Northeast Energy & Commerce Association](http://necanews.org)** | **[Research Associate Intern for Fall 2026](https://jobright.ai/jobs/info/6a2c9983d3ec94183f4bdbd7?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
