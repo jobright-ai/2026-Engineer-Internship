@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Women in Cleantech and Sustainability](http://www.womencleantechsustainability.org/)** | **[ENERGY STORAGE ENGINEERING, PROJECT MANAGEMENT, LEGAL & COMMERCIAL ROLES — SUNGROW (REMOTE, US)](https://jobright.ai/jobs/info/6a2f2136d3ec94183f4c1944?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Murata](http://www.murata.com/)** | **[Intern, Product Engineering - Summer 2026 Job Details / Murata America](https://jobright.ai/jobs/info/6a2f13257cd40a338faeafeb?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jun 14 |
 | ↳ | **[Intern, Software Engineer, AI/ML - Summer 2026 Job Details / Murata America](https://jobright.ai/jobs/info/6a2f13247cd40a338faeafea?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jun 14 |
 | ↳ | **[Intern, RFIC Design - Summer 2026 Job Details / Murata America](https://jobright.ai/jobs/info/6a2f1320a1d15e3c55300568?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jun 14 |
@@ -66,17 +67,17 @@ For a complete list, click the following sortable link below:
 | **[XPENG](https://www.xiaopeng.com)** | **[AI Agent Data Pipeline Intern](https://jobright.ai/jobs/info/6a2eec7ca1d15e3c5530027d?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 14 |
 | **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f543d4a3d34b4f76f548a1?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jun 14 |
 | **[CPH](http://cphcorp.com)** | **[Civil or Environmental Student Intern](https://jobright.ai/jobs/info/69fd4263938a651755f9a488?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 14 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6a2a706ad3ec8317fe143b66?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
-| ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jun 14 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jun 14 |
+| ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6a2a706ad3ec8317fe143b66?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
 | **[Batchelor & Kimball, Inc.](https://www.bkimechanical.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/69bdcd75393a1008f7437284?utm_campaign=1048&utm_source=git)** | Conyers, Georgia, United States | On Site | Jun 14 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6930461c4c474121999e4a25?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jun 14 |
 | ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6a292406883c0d3be65460cd?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jun 14 |
-| **[Mobile Communications America](http://callmc.com)** | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f4cc4512f2811ab5a60ee5?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | Jun 14 |
+| **[Mobile Communications America](http://callmc.com)** | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f4cc4743a25828a8d14aee?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | Jun 14 |
 | **[Magna International](http://www.magna.com/)** | **[Materials Intern - Summer 2026](https://jobright.ai/jobs/info/696a60e5350cf4380311485d?utm_campaign=1048&utm_source=git)** | Holland, Michigan, US | On Site | Jun 14 |
 | ↳ | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/696a5e4bdb26b618950d8192?utm_campaign=1048&utm_source=git)** | Holland, Michigan, US | On Site | Jun 14 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Cybersecurity Intern (Transitioning Military)](https://jobright.ai/jobs/info/6a1cd7b99111f771d1a16726?utm_campaign=1048&utm_source=git)** | Middletown, RI | On Site | Jun 14 |
 | **[CRB](https://www.crbgroup.com/)** | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/69d97699869c7e25d859b056?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 14 |
-| ↳ | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/69d988025356a60f40fda206?utm_campaign=1048&utm_source=git)** | Irvine, CA, USA | On Site | Jun 14 |
+| ↳ | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/6a217a96338c01230511e475?utm_campaign=1048&utm_source=git)** | Irvine, CA, USA | On Site | Jun 14 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e7cd53e0cd471b2f12d6a0?utm_campaign=1048&utm_source=git)** | Huntsville, Alabama, United States | On Site | Jun 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Engineer Intern/Co-op](https://jobright.ai/jobs/info/6a2eb4c7d3ec94183f4c11dc?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 14 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development](https://jobright.ai/jobs/info/6a2eb2e47cd40a338faea94d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enerfab](http://enerfab.com)** | **[Construction Management Internship - Spring 2027](https://jobright.ai/jobs/info/699fbb31d643757b0e454150?utm_campaign=1048&utm_source=git)** | Cincinnati Metro | On Site | Jun 13 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Radio Frequency & Data Link Engineer (SkillBridge Intern) - 27825](https://jobright.ai/jobs/info/69bca767e6a0d9792584ab5a?utm_campaign=1048&utm_source=git)** | Hurlburt Field, FL | On Site | Jun 13 |
 | **[SNAP Life Sciences](https://snaplifesciences.com/)** | **[AI Internship Opportunity at SNAP LifeSciences (UnPaid)](https://jobright.ai/jobs/info/6a2da0f1a1d15e3c552fe7b5?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 13 |
-| **[Enerfab](http://enerfab.com)** | **[Construction Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a10e91169bd827926af0fd8?utm_campaign=1048&utm_source=git)** | Cincinnati Metro | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
