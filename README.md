@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Work4Flow](www.work4flow.com)** | **[ServiceNow Developer Intern - (Remote)](https://jobright.ai/jobs/info/6a2f46f4c260bb1b8ae1b18f?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Yank Technologies, Inc.](http://www.yanktechnologies.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a2f32a9d3ec94183f4c1a79?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jun 14 |
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2f304a7cd40a338faeb179?utm_campaign=1048&utm_source=git)** | AEI - Chadds Ford - [7CFD] - Chadds Ford, PA 19317 | Hybrid | Jun 14 |
 | **[Platform9](https://platform9.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a2f292bf1751b183c81d01a?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 14 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/696a5e4bdb26b618950d8192?utm_campaign=1048&utm_source=git)** | Holland, Michigan, US | On Site | Jun 14 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Cybersecurity Intern (Transitioning Military)](https://jobright.ai/jobs/info/6a1cd7b99111f771d1a16726?utm_campaign=1048&utm_source=git)** | Middletown, RI | On Site | Jun 14 |
 | **[CRB](https://www.crbgroup.com/)** | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/69d97699869c7e25d859b056?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 14 |
-| ↳ | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/69d988025356a60f40fda206?utm_campaign=1048&utm_source=git)** | Irvine, CA, USA | On Site | Jun 14 |
+| ↳ | **[Plumbing Engineer Internship](https://jobright.ai/jobs/info/69e3c5c22664c278c1dd55f2?utm_campaign=1048&utm_source=git)** | Irvine, CA, USA | On Site | Jun 14 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e7cd53e0cd471b2f12d6a0?utm_campaign=1048&utm_source=git)** | Huntsville, Alabama, United States | On Site | Jun 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Engineer Intern/Co-op](https://jobright.ai/jobs/info/6a2eb4c7d3ec94183f4c11dc?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 14 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Internship in Device Development](https://jobright.ai/jobs/info/6a2eb2e47cd40a338faea94d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 14 |
@@ -99,12 +100,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a2e95c1fc0644749054dd02?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Jun 14 |
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a2e95bf7cd40a338faea711?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/6a2e95befc0644749054dcff?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Jun 14 |
-| ↳ | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/6a2e95bbf1751b183c81c6d9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a2e95bbfc0644749054dcfe?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Jun 14 |
+| ↳ | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/6a2e95bbf1751b183c81c6d9?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a2e95baf1751b183c81c6d7?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Jun 14 |
 | ↳ | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/6a2e95b7f1751b183c81c6d5?utm_campaign=1048&utm_source=git)** | Metairie, LA | On Site | Jun 14 |
-| ↳ | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/6a2e95b4fc0644749054dcfa?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[I&E Engineering Intern](https://jobright.ai/jobs/info/6a2e95b4c260bb1b8ae1a608?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jun 14 |
+| ↳ | **[Instrument Engineering Intern](https://jobright.ai/jobs/info/6a2e95b4fc0644749054dcfa?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2e946cfc0644749054dcf1?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 14 |
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a2e9469d3ec94183f4c0f66?utm_campaign=1048&utm_source=git)** | Midland, TX | On Site | Jun 14 |
 | ↳ | **[I&E Design Intern](https://jobright.ai/jobs/info/6a2e9444c260bb1b8ae1a5fe?utm_campaign=1048&utm_source=git)** | Tulsa, OK | On Site | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Systems Inc.](http://compass-sys-inc.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/6a2db050fc0644749054c9ac?utm_campaign=1048&utm_source=git)** | Johnstown, PA | On Site | Jun 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Fusion Internship Program – AIA Canada](https://jobright.ai/jobs/info/6a27924d2d6c332ee52e1e64?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Project Coordination and Tool Development, Engineering Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a111bbc9f654b3359ceffdd?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 13 |
-| **[Odyssey](https://www.odysseyconsult.com/)** | **[Security Specialist - SkillBridge Intern](https://jobright.ai/jobs/info/694b094e3019f50a4fe60f81?utm_campaign=1048&utm_source=git)** | Beavercreek, OH | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
