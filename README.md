@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matic Robots](https://maticrobots.com)** | **[Robotics Customer Operations Intern](https://jobright.ai/jobs/info/6a3101f7eace377055eb822d?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jun 16 |
+| **[Molekule](http://molekule.com)** | **[Product Development and Engineering Testing Intern](https://jobright.ai/jobs/info/6a31016a524fd5657fe12a9e?utm_campaign=1048&utm_source=git)** | Lakeland, FL | On Site | Jun 16 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Engineer Intern](https://jobright.ai/jobs/info/6a30ff39093df201d07b3234?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Jun 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a30f4f7afabbe533fb8cd47?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jun 16 |
 | **[BMC Helix](https://www.helixops.ai)** | **[Applied Research PhD Intern](https://jobright.ai/jobs/info/6a30f357524fd5657fe1299d?utm_campaign=1048&utm_source=git)** | NA, United States | Hybrid | Jun 15 |
 | **[ByteDance](http://bytedance.com)** | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30f037093df201d07b3121?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 15 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Peak Energy](https://www.peakenergy.com)** | **[Supplier Industrialization Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3083a789f8f147d3735f7c?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Jun 15 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e243732c05812e2e1c?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e143732c05812e2e1b?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jun 15 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e1a?utm_campaign=1048&utm_source=git)** | Dade City, FL, US | On Site | Jun 15 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e18?utm_campaign=1048&utm_source=git)** | Kissimmee, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e16?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e17?utm_campaign=1048&utm_source=git)** | Tampa, FL, US | On Site | Jun 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astrion](https://astrion.us)** | **[Engineering Directorate Support Intern](https://jobright.ai/jobs/info/6a305a12afabbe533fb8a8ef?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jun 15 |
 | **[Rippling](https://www.rippling.com)** | **[Machine Learning Software Engineer Intern - Winter 2027](https://jobright.ai/jobs/info/6a2d4deea1d15e3c552fe065?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 15 |
 | **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/6a249db36624e500cad0e18d?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Jun 15 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1fc257c5277c00c6488481?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Residential Energy Device Software Engineer, Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a2cb3ffa1d15e3c552fcf2f?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 15 |
-| ↳ | **[Internship, Product Support Engineer, Service Engineering (Summer 2026)](https://jobright.ai/jobs/info/6a1a06bd9111f771d1a09dd0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
