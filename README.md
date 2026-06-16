@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FOREMAN SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317476fa28370be26bad4a?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Jun 16 |
+| ↳ | **[CONSTRUCTION SUPERVISOR SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69dcc1709f97a42dc9c32a4c?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Jun 16 |
+| ↳ | **[SAFETY TECH SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69c106ad2c312363dcd3b97f?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Jun 16 |
+| ↳ | **[ENGINEER INDUSTRIAL SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69316b5a3b6d6f265f4e84f2?utm_campaign=1048&utm_source=git)** | Newport News, VA | On Site | Jun 16 |
+| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Security GRC Analyst Intern](https://jobright.ai/jobs/info/6a302cbdeace377055eb4d31?utm_campaign=1048&utm_source=git)** | United States, US | On Site | Jun 16 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Planning Intern](https://jobright.ai/jobs/info/6a310d02eace377055eb84d1?utm_campaign=1048&utm_source=git)** | United States-Florida-Orlando | On Site | Jun 16 |
+| **[ALLETE](http://allete.com)** | **[Internship - IT Collaboration System Administrator](https://jobright.ai/jobs/info/6a310bae43732c05812e4510?utm_campaign=1048&utm_source=git)** | Duluth, MN | On Site | Jun 16 |
 | **[Matic Robots](https://maticrobots.com)** | **[Robotics Customer Operations Intern](https://jobright.ai/jobs/info/6a3101f7eace377055eb822d?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jun 16 |
 | **[Molekule](http://molekule.com)** | **[Product Development and Engineering Testing Intern](https://jobright.ai/jobs/info/6a31016a524fd5657fe12a9e?utm_campaign=1048&utm_source=git)** | Lakeland, FL | On Site | Jun 16 |
 | **[GenPark](https://genpark.ai)** | **[Data Science Engineer Intern](https://jobright.ai/jobs/info/6a30ff39093df201d07b3234?utm_campaign=1048&utm_source=git)** | Austin, TX | Hybrid | Jun 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a30f4f7afabbe533fb8cd47?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jun 16 |
 | **[BMC Helix](https://www.helixops.ai)** | **[Applied Research PhD Intern](https://jobright.ai/jobs/info/6a30f357524fd5657fe1299d?utm_campaign=1048&utm_source=git)** | NA, United States | Hybrid | Jun 15 |
 | **[ByteDance](http://bytedance.com)** | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30f037093df201d07b3121?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 15 |
+| **[Matic Robots](https://maticrobots.com)** | **[Robotics Customer Operations Intern](https://jobright.ai/jobs/info/6a310485524fd5657fe12b0c?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jun 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Capture Application Engineer, Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a30e73deace377055eb7f82?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 15 |
 | **[Ottimate](https://ottimate.com)** | **[MBA Internship - AI Strategy & Operations](https://jobright.ai/jobs/info/6a30e2aeafabbe533fb8cb37?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Avive Solutions Inc.](https://www.avive.life)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a0cdf12a235d749afa91466?utm_campaign=1048&utm_source=git)** | Brisbane, CA | Hybrid | Jun 15 |
@@ -88,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Office Engineer Intern - TICP (Summer 2026)](https://jobright.ai/jobs/info/6a309fe0eace377055eb7354?utm_campaign=1048&utm_source=git)** | Forsyth, GA, US | On Site | Jun 15 |
 | **[Oxmaint AI : EAM/CMMS](https://www.oxmaint.com/)** | **[AI Vision & Robotics Intern (Onsite)](https://jobright.ai/jobs/info/6a309d0e093df201d07b239a?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Cassandra Team](https://jobright.ai/jobs/info/6a305a1c43732c05812e1df0?utm_campaign=1048&utm_source=git)** | Beverly Hills, CA, USA | On Site | Jun 15 |
+| **[Lunar Energy](https://www.lunarenergy.com)** | **[NPI Program Management Intern](https://jobright.ai/jobs/info/6a0ef6d880bf0430c76300bd?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water / Environmental Engineering Professionals and Interns - AWWA Conference Attendees](https://jobright.ai/jobs/info/6a3096a3afabbe533fb8bceb?utm_campaign=1048&utm_source=git)** | Dallas, TX | Hybrid | Jun 15 |
 | ↳ | **[Water / Environmental Engineering Professionals and Interns - AWWA Conference Attendees](https://jobright.ai/jobs/info/6a30969c524fd5657fe119b8?utm_campaign=1048&utm_source=git)** | Irvine, CA | Hybrid | Jun 15 |
 | ↳ | **[Water / Environmental Engineering Professionals and Interns - AWWA Conference Attendees](https://jobright.ai/jobs/info/6a30969989f8f147d373637a?utm_campaign=1048&utm_source=git)** | Silver Spring, MD | Hybrid | Jun 15 |
@@ -114,11 +123,11 @@ For a complete list, click the following sortable link below:
 | **[Peak Energy](https://www.peakenergy.com)** | **[Supplier Industrialization Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3083a789f8f147d3735f7c?utm_campaign=1048&utm_source=git)** | Burlingame, CA | On Site | Jun 15 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e243732c05812e2e1c?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e143732c05812e2e1b?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jun 15 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e1a?utm_campaign=1048&utm_source=git)** | Dade City, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 15 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e18?utm_campaign=1048&utm_source=git)** | Kissimmee, FL, US | On Site | Jun 15 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e1a?utm_campaign=1048&utm_source=git)** | Dade City, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e16?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 15 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e17?utm_campaign=1048&utm_source=git)** | Tampa, FL, US | On Site | Jun 15 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e18?utm_campaign=1048&utm_source=git)** | Kissimmee, FL, US | On Site | Jun 15 |
 | **[ECI](http://www.eci.com)** | **[ECI Technical; Intern / Co-Op](https://jobright.ai/jobs/info/6a308231524fd5657fe11591?utm_campaign=1048&utm_source=git)** | New York, New York, United States | On Site | Jun 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Water / Environmental Engineering Professionals and Interns - AWWA Conference Attendees](https://jobright.ai/jobs/info/6a3081fceace377055eb6cf0?utm_campaign=1048&utm_source=git)** | Tampa, FL | Hybrid | Jun 15 |
 | ↳ | **[Water / Environmental Engineering Professionals and Interns - AWWA Conference Attendees](https://jobright.ai/jobs/info/6a308196afabbe533fb8b882?utm_campaign=1048&utm_source=git)** | Orlando, FL | Hybrid | Jun 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Groundwater Recharge)](https://jobright.ai/jobs/info/6a3060faeace377055eb601b?utm_campaign=1048&utm_source=git)** | 6075 Kimball Ave., Chino CA  91708, CA | On Site | Jun 15 |
 | **[First Solar](http://www.firstsolar.com)** | **[Manufacturing Engineer Material Handling Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1f39f9dce5db1256d13719?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | On Site | Jun 15 |
 | **[CIBC](https://www.cibc.com)** | **[Information Security Analyst – Identity Access Management Co-op](https://jobright.ai/jobs/info/6a303da889f8f147d37344e4?utm_campaign=1048&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 15 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Field Service Engineer III) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a305db7afabbe533fb8aad6?utm_campaign=1048&utm_source=git)** | Hurlburt Field, FL, US | On Site | Jun 15 |
-| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Health and Safety Intern](https://jobright.ai/jobs/info/6a1f63ffb61b2c65b37b266d?utm_campaign=1048&utm_source=git)** | US-RI-N. Kingstown | On Site | Jun 15 |
-| ↳ | **[Health and Safety Intern](https://jobright.ai/jobs/info/6a1f63ffb61b2c65b37b266c?utm_campaign=1048&utm_source=git)** | N. Kingstown, RI, US | On Site | Jun 15 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Lean &amp; Quality Intern](https://jobright.ai/jobs/info/6a3045b2eace377055eb56d6?utm_campaign=1048&utm_source=git)** | Milton, Ontario, Canada | Hybrid | Jun 15 |
-| **[Phamily](https://phamily.com/)** | **[June 2026 Machine Learning Intern (R&D)](https://jobright.ai/jobs/info/6a305c1889f8f147d3734fc3?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 15 |
-| **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (Groundwater Recharge)](https://jobright.ai/jobs/info/6a305a55524fd5657fe105b9?utm_campaign=1048&utm_source=git)** | Chino, CA | On Site | Jun 15 |
-| **[Astrion](https://astrion.us)** | **[Engineering Directorate Support Intern](https://jobright.ai/jobs/info/6a305a12afabbe533fb8a8ef?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jun 15 |
-| **[Rippling](https://www.rippling.com)** | **[Machine Learning Software Engineer Intern - Winter 2027](https://jobright.ai/jobs/info/6a2d4deea1d15e3c552fe065?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 15 |
-| **[RoviSys Building Technologies](http://www.rovisysbt.com)** | **[Systems Engineer Co-op - Fall 2026](https://jobright.ai/jobs/info/6a249db36624e500cad0e18d?utm_campaign=1048&utm_source=git)** | Peachtree City, GA | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
