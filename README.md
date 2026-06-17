@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a31cbd60ff23769fdb20884?utm_campaign=1048&utm_source=git)** | 15231 Laguna Canyon Road, Irvine, CA, 92618, US | On Site | Jun 16 |
+| **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6a31c6955958816970016d72?utm_campaign=1048&utm_source=git)** | Brampton, Canada | On Site | Jun 16 |
 | **[ProFarm](https://profarmgroup.com)** | **[Intern, Chemistry](https://jobright.ai/jobs/info/6a32068035e80310003aa796?utm_campaign=1048&utm_source=git)** | Davis, CA | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Cyber & Technology Innovation Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a3206422ee3ac1b4bef22ce?utm_campaign=1048&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[NetApp](http://netapp.com)** | **[Hardware Engineer Intern Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6a28c128fd37e62bb47aaf0f?utm_campaign=1048&utm_source=git)** | Wichita, KS, US, 67208 | On Site | Jun 16 |
 | ↳ | **[Hardware Engineer Intern](https://jobright.ai/jobs/info/6a2a239c2cde2824469c014c?utm_campaign=1048&utm_source=git)** | Wichita, KS, USA Office | On Site | Jun 16 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Asset Management (EAM) Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a3204652ee3ac1b4bef226e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[AprilAire](https://www.aprilaire.com)** | **[EHS Intern](https://jobright.ai/jobs/info/6a3201f52ee3ac1b4bef2202?utm_campaign=1048&utm_source=git)** | Poynette, WI, US | On Site | Jun 16 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Structural Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a31cbd60ff23769fdb20884?utm_campaign=1048&utm_source=git)** | 15231 Laguna Canyon Road, Irvine, CA, 92618, US | On Site | Jun 16 |
 | **[Intel](http://www.intel.com)** | **[Silicon Architecture Graduate Intern](https://jobright.ai/jobs/info/6a31c13c0ff23769fdb202b9?utm_campaign=1048&utm_source=git)** | US, Texas, Austin, US | On Site | Jun 16 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Handling Intern Fall 2026](https://jobright.ai/jobs/info/6a31faa6e7b7d514a3bd6898?utm_campaign=1048&utm_source=git)** | Columbus, MS | On Site | Jun 16 |
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[Construction Intern](https://jobright.ai/jobs/info/6a31f3aac477a5075f4900fe?utm_campaign=1048&utm_source=git)** | Greer, SC | On Site | Jun 16 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[James Avery Artisan Jewelry](http://www.jamesavery.com/careers)** | **[Engineering Intern - Kerrville, TX (CAD Fixture Development & Validation in Mfg)](https://jobright.ai/jobs/info/6a31ccc4595881697001701d?utm_campaign=1048&utm_source=git)** | Kerrville, Texas, United States | On Site | Jun 16 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Procurement and Supply Chain](https://jobright.ai/jobs/info/6a04ba847c753c287f6f283b?utm_campaign=1048&utm_source=git)** | Novi, MI | On Site | Jun 16 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Fire Detection Inspector - Intern](https://jobright.ai/jobs/info/6a31783835e80310003a72b7?utm_campaign=1048&utm_source=git)** | Pennsauken, New Jersey, United States of America | On Site | Jun 16 |
-| **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6a31c6955958816970016d72?utm_campaign=1048&utm_source=git)** | Brampton, Canada | On Site | Jun 16 |
 | **[Mutually Human](http://www.mutuallyhuman.com)** | **[Data Engineering Intern](https://jobright.ai/jobs/info/6a31c59f5958816970016d43?utm_campaign=1048&utm_source=git)** | Grand Rapids Metro | On Site | Jun 16 |
 | **[ABB](https://global.abb/group/en)** | **[AI & Data Scientist AI Intern - Fall 2026](https://jobright.ai/jobs/info/6a31c50c5958816970016d18?utm_campaign=1048&utm_source=git)** | USA, NC, Cary, US | Hybrid | Jun 16 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Fall 2026 Cyber Security Internship](https://jobright.ai/jobs/info/6a31c4a15958816970016d05?utm_campaign=1048&utm_source=git)** | Egg Harbor Township, NJ, US | On Site | Jun 16 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern, Co-Op - 17508](https://jobright.ai/jobs/info/6a31c37c0ff23769fdb20346?utm_campaign=1048&utm_source=git)** | Apex, North Carolina | Hybrid | Jun 16 |
 | **[Westfall Technik, LLC](https://westfalltechnik.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/6a31b45735e80310003a8cef?utm_campaign=1048&utm_source=git)** | Riverside, CA | Hybrid | Jun 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Instrumentation & Control System Intern Summer 2026](https://jobright.ai/jobs/info/6a31801f2ee3ac1b4beef43c?utm_campaign=1048&utm_source=git)** | New Stanton, US | Hybrid | Jun 16 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Instrumentation & Control System Intern Summer 2026](https://jobright.ai/jobs/info/6a32133e5958816970018190?utm_campaign=1048&utm_source=git)** | New Stanton, PA | Hybrid | Jun 16 |
 | **[Kurita Group](https://www.kurita-water.com/)** | **[Summer Intern GWE Mechanical Engineer](https://jobright.ai/jobs/info/6a31bda6e7b7d514a3bd564f?utm_campaign=1048&utm_source=git)** | Minneapolis, MN, US | On Site | Jun 16 |
 | **[Hoar Construction](http://www.hoar.com)** | **[BIM/VDC Spring 2027 Internship](https://jobright.ai/jobs/info/6a3176cbe7b7d514a3bd3839?utm_campaign=1048&utm_source=git)** | Brentwood, Tennessee | On Site | Jun 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/6a31bab82ee3ac1b4bef0dbe?utm_campaign=1048&utm_source=git)** | Orlando,Florida,United States | On Site | Jun 16 |
@@ -118,15 +119,15 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://ceint.duke.edu)** | **[Non Duke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9eb2ee3ac1b4bef0d6d?utm_campaign=1048&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
 | **[Hoffman Building Technologies](http://hbtech.biz)** | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d42ee3ac1b4bef0d5d?utm_campaign=1048&utm_source=git)** | Atlanta, GA, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d32ee3ac1b4bef0d5c?utm_campaign=1048&utm_source=git)** | Chesapeake, VA, US | On Site | Jun 16 |
-| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d22ee3ac1b4bef0d5a?utm_campaign=1048&utm_source=git)** | Raleigh, NC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d22ee3ac1b4bef0d59?utm_campaign=1048&utm_source=git)** | Knoxville, TN, US | On Site | Jun 16 |
+| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d22ee3ac1b4bef0d5a?utm_campaign=1048&utm_source=git)** | Raleigh, NC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d22ee3ac1b4bef0d5b?utm_campaign=1048&utm_source=git)** | Columbia, SC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9d12ee3ac1b4bef0d58?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jun 16 |
-| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9ce2ee3ac1b4bef0d53?utm_campaign=1048&utm_source=git)** | Charlotte, NC, US | On Site | Jun 16 |
-| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9ce2ee3ac1b4bef0d52?utm_campaign=1048&utm_source=git)** | Greenville, SC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9ce2ee3ac1b4bef0d51?utm_campaign=1048&utm_source=git)** | Wilmington, NC, US | On Site | Jun 16 |
-| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cd2ee3ac1b4bef0d4b?utm_campaign=1048&utm_source=git)** | Charleston, SC, US | On Site | Jun 16 |
+| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9ce2ee3ac1b4bef0d52?utm_campaign=1048&utm_source=git)** | Greenville, SC, US | On Site | Jun 16 |
+| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9ce2ee3ac1b4bef0d53?utm_campaign=1048&utm_source=git)** | Charlotte, NC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cd2ee3ac1b4bef0d4f?utm_campaign=1048&utm_source=git)** | Roanoke, VA, US | On Site | Jun 16 |
+| ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cd2ee3ac1b4bef0d4b?utm_campaign=1048&utm_source=git)** | Charleston, SC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cc2ee3ac1b4bef0d44?utm_campaign=1048&utm_source=git)** | Greensboro, NC, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cc2ee3ac1b4bef0d48?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA, US | On Site | Jun 16 |
 | ↳ | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a31b9cc2ee3ac1b4bef0d49?utm_campaign=1048&utm_source=git)** | Suwanne, GA, US | On Site | Jun 16 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://rtx.com/)** | **[Internship-Fall-2026_Manufacturing_Engineering](https://jobright.ai/jobs/info/6a31b7792ee3ac1b4bef0c25?utm_campaign=1048&utm_source=git)** | Longueuil, QC, Canada | Hybrid | Jun 16 |
 | **[Messer Americas](https://www.messer-us.com/)** | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6cd2ee3ac1b4bef0bbc?utm_campaign=1048&utm_source=git)** | Vancouver, Washington, United States | On Site | Jun 16 |
 | ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c72ee3ac1b4bef0bb7?utm_campaign=1048&utm_source=git)** | City of Industry, California, United States | On Site | Jun 16 |
-| ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c52ee3ac1b4bef0bb5?utm_campaign=1048&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jun 16 |
 | ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c52ee3ac1b4bef0bb4?utm_campaign=1048&utm_source=git)** | Houston, Texas, United States | On Site | Jun 16 |
+| ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c52ee3ac1b4bef0bb5?utm_campaign=1048&utm_source=git)** | Cleveland, Ohio, United States | On Site | Jun 16 |
 | ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c42ee3ac1b4bef0bb2?utm_campaign=1048&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 16 |
 | ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c32ee3ac1b4bef0bb0?utm_campaign=1048&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Jun 16 |
 | ↳ | **[Intern, Health, Safety, Environment, & Quality (HSEQ) – Summer 2026](https://jobright.ai/jobs/info/6a31b6c32ee3ac1b4bef0bb1?utm_campaign=1048&utm_source=git)** | Pennsylvania, United States | On Site | Jun 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Site Reliability Engineer Intern](https://jobright.ai/jobs/info/695d8f31f5f3c43f38e27031?utm_campaign=1048&utm_source=git)** | Redwood City, CA, United States | On Site | Jun 16 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69bc694345e08b3dc1f913b7?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jun 16 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Applied AI Student Summer Internship](https://jobright.ai/jobs/info/6a203c80338c012305117bdc?utm_campaign=1048&utm_source=git)** | Central Management Office Dallas | On Site | Jun 16 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a20d67a338c01230511bb7f?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
