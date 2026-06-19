@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[HSEQ Intern](https://jobright.ai/jobs/info/6a3547977f3fdd180d4ccd64?utm_campaign=1048&utm_source=git)** | Lafayette, LA, US | On Site | Jun 19 |
+| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e519d60e431a16becd0?utm_campaign=1048&utm_source=git)** | Pooler, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a79549d60e431a16bf961?utm_campaign=1048&utm_source=git)** | Columbus, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a7b1c8dbbf73badc7a03d?utm_campaign=1048&utm_source=git)** | Calhoun, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e1ef6fc293b0a2c3e8c?utm_campaign=1048&utm_source=git)** | Washington, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a7da08dbbf73badc7a36d?utm_campaign=1048&utm_source=git)** | Austell, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6cbf8dbbf73badc79071?utm_campaign=1048&utm_source=git)** | Statesboro, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a62438dbbf73badc78505?utm_campaign=1048&utm_source=git)** | Waycross, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6ff18dbbf73badc7941d?utm_campaign=1048&utm_source=git)** | Dacula, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6421f6fc293b0a2c33a4?utm_campaign=1048&utm_source=git)** | Valdosta, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a64888dbbf73badc7872b?utm_campaign=1048&utm_source=git)** | Augusta, Georgia, United States | On Site | Jun 19 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a740d9d60e431a16bf26d?utm_campaign=1048&utm_source=git)** | McDonough, Georgia, United States | On Site | Jun 19 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/68ab6f7a758f2e4ac3fff70a?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Jun 19 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/6970135f3ed06875134b1245?utm_campaign=1048&utm_source=git)** | Martinez, CA | On Site | Jun 19 |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a189eb0c2a87d6cd3df301d?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Jun 19 |
+| **[City of New York](http://www1.nyc.gov)** | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/6a354234ce501060b5cf387f?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a189ead17492d3a389b7f14?utm_campaign=1048&utm_source=git)** | Lubbock, TX | On Site | Jun 19 |
 | ↳ | **[Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a189bfd17492d3a389b7e80?utm_campaign=1048&utm_source=git)** | Tanner, AL | On Site | Jun 19 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Maintenance Cadence Leader](https://jobright.ai/jobs/info/6a18bfdadbc80963f9347338?utm_campaign=1048&utm_source=git)** | Wilmington NC USA, US | On Site | Jun 19 |
@@ -71,17 +87,6 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Forensic Engineering Intern](https://jobright.ai/jobs/info/6a35367af6b55d12c791ef50?utm_campaign=1048&utm_source=git)** | 280 Broadway, 4th Floor, N.Y. | Hybrid | Jun 19 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[Manufacturing Engineer Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6a31818a5958816970015051?utm_campaign=1048&utm_source=git)** | Ft. Wayne, IN, US | On Site | Jun 19 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/6a35366dce501060b5cf36ba?utm_campaign=1048&utm_source=git)** | 280 Broadway, 4th Floor, N.Y. | Hybrid | Jun 19 |
-| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6421f6fc293b0a2c33a4?utm_campaign=1048&utm_source=git)** | Valdosta, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a7da08dbbf73badc7a36d?utm_campaign=1048&utm_source=git)** | Austell, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e519d60e431a16becd0?utm_campaign=1048&utm_source=git)** | Pooler, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6ff18dbbf73badc7941d?utm_campaign=1048&utm_source=git)** | Dacula, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a62438dbbf73badc78505?utm_campaign=1048&utm_source=git)** | Waycross, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6cbf8dbbf73badc79071?utm_campaign=1048&utm_source=git)** | Statesboro, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a79549d60e431a16bf961?utm_campaign=1048&utm_source=git)** | Columbus, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a740d9d60e431a16bf26d?utm_campaign=1048&utm_source=git)** | McDonough, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a64888dbbf73badc7872b?utm_campaign=1048&utm_source=git)** | Augusta, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e1ef6fc293b0a2c3e8c?utm_campaign=1048&utm_source=git)** | Washington, Georgia, United States | On Site | Jun 19 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a7b1c8dbbf73badc7a03d?utm_campaign=1048&utm_source=git)** | Calhoun, Georgia, United States | On Site | Jun 19 |
 | **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://jobright.ai/jobs/info/69fb3ae938179b6f1ae76c60?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geotechnical Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a18b49ac2a87d6cd3df3fb5?utm_campaign=1048&utm_source=git)** | El Paso, TX | On Site | Jun 19 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Fall 2026)](https://jobright.ai/jobs/info/68ab6f6bd627244576e3fa06?utm_campaign=1048&utm_source=git)** | Detroit, MI | On Site | Jun 19 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Traffic Engineering Intern](https://jobright.ai/jobs/info/6a2a28b3d3ec8317fe142531?utm_campaign=1048&utm_source=git)** | United States-California-Irvine | On Site | Jun 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year-Round - Photonic & Phononic Microsystems, Onsite](https://jobright.ai/jobs/info/6a191725abc8f63abac7e95a?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jun 19 |
 | **[Generac](https://www.generac.com)** | **[Intern Engineering Program Manager](https://jobright.ai/jobs/info/6a3427dd7f3fdd180d4c90ce?utm_campaign=1048&utm_source=git)** | Reno, NV - USA, US | On Site | Jun 19 |
-| ↳ | **[Intern Mechanical Engineer](https://jobright.ai/jobs/info/6a343c1629c90c607e4de273?utm_campaign=1048&utm_source=git)** | Waukesha, WI - USA, US | On Site | Jun 19 |
 | ↳ | **[Intern Mechanical Engineer](https://jobright.ai/jobs/info/6a343c1729c90c607e4de276?utm_campaign=1048&utm_source=git)** | Pewaukee, WI - USA, US | On Site | Jun 19 |
+| ↳ | **[Intern Mechanical Engineer](https://jobright.ai/jobs/info/6a343c1629c90c607e4de273?utm_campaign=1048&utm_source=git)** | Waukesha, WI - USA, US | On Site | Jun 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - CINT Integration Laboratory, Onsite](https://jobright.ai/jobs/info/6a186e7b17492d3a389b627a?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jun 19 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[AI Operations & Automation Intern](https://jobright.ai/jobs/info/6a184e58dbc80963f9341d20?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Jun 19 |
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Intern, Engineering Indir](https://jobright.ai/jobs/info/69a75eac2672cb0acb4bd224?utm_campaign=1048&utm_source=git)** | East Hartford, CT | On Site | Jun 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MITER Brands](https://www.miterbrands.com/)** | **[Intern-3](https://jobright.ai/jobs/info/6a332795910b7349107142c3?utm_campaign=1048&utm_source=git)** | Sacramento, CA, US | On Site | Jun 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a346d6a7f3fdd180d4ca801?utm_campaign=1048&utm_source=git)** | Sacramento, CA, US | On Site | Jun 18 |
 | **[CardVault by Tom Brady](https://thecardvault.com/)** | **[CardVault by Tom Brady - Design & Fabrication Intern/Co-op](https://jobright.ai/jobs/info/6a34ace4f6b55d12c791db1c?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 18 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Los Angeles Based Graduate Intern - Building Energy Modeling and Analysis](https://jobright.ai/jobs/info/6a34a79f1232144fb1560df7?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
-| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Fall 2026 - Threat](https://jobright.ai/jobs/info/6a34a3e629c90c607e4e0057?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 18 |
-| ↳ | **[Cybersecurity Internship Fall 2026 - Threat](https://jobright.ai/jobs/info/6a34a3e529c90c607e4e0056?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jun 18 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Detailer Internship](https://jobright.ai/jobs/info/6a34472ece501060b5cf05f4?utm_campaign=1048&utm_source=git)** | Butler, IN, US | On Site | Jun 18 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a34a137649fdf16292f6ae7?utm_campaign=1048&utm_source=git)** | Kearney, NE | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
