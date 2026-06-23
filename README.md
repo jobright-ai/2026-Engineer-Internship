@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Technical Intern- Software and Data Solutions](https://jobright.ai/jobs/info/6a39d1eb1232144fb156d62f?utm_campaign=1048&utm_source=git)** | Richland,Washington,United States | Hybrid | Jun 22 |
 | **[4K Labs](https://4klabs.ai/)** | **[GTM Intern](https://jobright.ai/jobs/info/6a39f9d1f6b55d12c792ac57?utm_campaign=1048&utm_source=git)** | Time, IL | On Site | Jun 22 |
 | ↳ | **[Product Engineering Intern](https://jobright.ai/jobs/info/6a39f90e1232144fb156dd81?utm_campaign=1048&utm_source=git)** | Time, IL | On Site | Jun 22 |
 | **[CME Associates, Inc.](https://www.cmeassociates.com)** | **[Civil Engineering Technician Fall Internship](https://jobright.ai/jobs/info/6a39efff649fdf162930359e?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Jun 22 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Computer Vision Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a39d24c6484fb75f2b33c5f?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jun 22 |
 | **[Notable](http://notablehealth.com/)** | **[Security Engineer Intern](https://jobright.ai/jobs/info/6a39b1ff1232144fb156ce20?utm_campaign=1048&utm_source=git)** | San Mateo, CA | Hybrid | Jun 22 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Health, Safety, & Environment (Facilities) - Fall 2026](https://jobright.ai/jobs/info/6a39d1ee649fdf1629302fc5?utm_campaign=1048&utm_source=git)** | Briggs, TX | On Site | Jun 22 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Technical Intern- Software and Data Solutions](https://jobright.ai/jobs/info/6a39d1eb1232144fb156d62f?utm_campaign=1048&utm_source=git)** | Richland,Washington,United States | Hybrid | Jun 22 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Data Engineering  - Corp](https://jobright.ai/jobs/info/6a39d16306a4fd4b1fabc2c0?utm_campaign=1048&utm_source=git)** | St Louis, MO | On Site | Jun 22 |
 | **[Aircapture](https://www.aircapture.com)** | **[Applied AI Research & Engineering Intern](https://jobright.ai/jobs/info/6a39ce9506a4fd4b1fabc1d6?utm_campaign=1048&utm_source=git)** | Berkeley, CA | On Site | Jun 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Applied Science: Microsoft AI Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6a39ce52f6b55d12c792a3dc?utm_campaign=1048&utm_source=git)** | United States, Washington, Redmond | On Site | Jun 22 |
@@ -118,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Thin Film Material Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3142050ff23769fdb1cec9?utm_campaign=1048&utm_source=git)** | Perrysburg, OH | Hybrid | Jun 22 |
 | **[Alto Ingredients, Inc.](https://www.altoingredients.com/)** | **[EHS & Quality Intern](https://jobright.ai/jobs/info/6a399ebd649fdf162930200e?utm_campaign=1048&utm_source=git)** | Pekin, IL, US | On Site | Jun 22 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[MN AI Hub Data Engineering Intern](https://jobright.ai/jobs/info/6a399e716484fb75f2b32c75?utm_campaign=1048&utm_source=git)** | St. Paul, MN, US | On Site | Jun 22 |
+| **[Simon Roofing](http://www.simonroofing.com)** | **[IT Network and Systems Intern](https://jobright.ai/jobs/info/6a315c0c59588169700143b4?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Jun 22 |
 | **[Enerfab](http://enerfab.com)** | **[Construction Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a399bb0f6b55d12c792923b?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jun 22 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jun 22 |
 | **[Quanvers](https://quanvers.com/)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6a399a12649fdf1629301e11?utm_campaign=1048&utm_source=git)** | Middlesex County, NJ | Hybrid | Jun 22 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Enerfab](http://enerfab.com)** | **[Construction Management Internship - Fall 2027](https://jobright.ai/jobs/info/6a3991d0214ae004c7a1f555?utm_campaign=1048&utm_source=git)** | Cincinnati, OH | On Site | Jun 22 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026 - Carolinas](https://jobright.ai/jobs/info/6a39918e6484fb75f2b326de?utm_campaign=1048&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
 | **[Innovation Works](http://www.innovationworks.org)** | **[Scale Prototyping Shop Intern - Innovation Works, Inc.](https://jobright.ai/jobs/info/6a39912e214ae004c7a1f525?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jun 22 |
-| **[Simon Roofing](http://www.simonroofing.com)** | **[IT Network and Systems Intern](https://jobright.ai/jobs/info/6a315c0c59588169700143b4?utm_campaign=1048&utm_source=git)** | Akron, OH | On Site | Jun 22 |
 | **[The Cary Company](https://www.thecarycompany.com/)** | **[AI / Automation Intern](https://jobright.ai/jobs/info/6a15e380a429fd279da93215?utm_campaign=1048&utm_source=git)** | Addison, IL | On Site | Jun 22 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern RL & Post-Training Systems, Turbo (Fall 2026)](https://jobright.ai/jobs/info/6a3990d5649fdf16293019bb?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 22 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Test Engineering Intern](https://jobright.ai/jobs/info/6a1e3f163e538a28c204efea?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 22 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Electrical Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a398f7c1232144fb156bfa8?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Forestry](https://jobright.ai/jobs/info/6a398da36484fb75f2b325a6?utm_campaign=1048&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship: Forestry](https://jobright.ai/jobs/info/6a398d9ef6b55d12c7928bf0?utm_campaign=1048&utm_source=git)** | 625 4th Avenue South, Minneapolis, MN 55415 | Hybrid | Jun 22 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 22 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e17?utm_campaign=1048&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
-| ↳ | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a18cca5c2a87d6cd3df4df1?utm_campaign=1048&utm_source=git)** | US-NC-Raleigh-Durham | On Site | Jun 22 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e16?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Jun 22 |
-| ↳ | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a08e2de939a5f01db95c303?utm_campaign=1048&utm_source=git)** | Dunn, NC, US | On Site | Jun 22 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a18cca5c2a87d6cd3df4df1?utm_campaign=1048&utm_source=git)** | US-NC-Raleigh-Durham | On Site | Jun 22 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb55da08264614c906d9?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | On Site | Jun 22 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e243732c05812e2e1c?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, US | On Site | Jun 22 |
+| ↳ | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a08e4463b54ed42d74d9ed7?utm_campaign=1048&utm_source=git)** | US-NC-Raleigh-Durham | On Site | Jun 22 |
+| ↳ | **[Field Engineer Intern-Raleigh Projects](https://jobright.ai/jobs/info/6a18cca2c2a87d6cd3df4dee?utm_campaign=1048&utm_source=git)** | Raleigh-Durham, NC, US | On Site | Jun 22 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e2258f3e371eb61822ca?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | On Site | Jun 22 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jun 22 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
