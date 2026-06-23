@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6a3a5ab806a4fd4b1fabd3db?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 23 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Generative AI Developer (available now)](https://jobright.ai/jobs/info/6a304c90093df201d07b0a63?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Lead Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a4dc506a4fd4b1fabd2e0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 23 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Geotechnical Services](https://jobright.ai/jobs/info/6a3a4d9a6484fb75f2b34bbf?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Jun 23 |
-| **[GHD](http://www.ghd.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69e337203770bd5361cdb74e?utm_campaign=1048&utm_source=git)** | Hampton Oaks Business Park, 5904 Hampton Oaks Parkway,Suite F, Tampa, FL, 33610, US | Hybrid | Jun 23 |
+| **[GHD](http://www.ghd.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69e336cbfcfcbd43860a5e80?utm_campaign=1048&utm_source=git)** | Hampton Oaks Business Park, 5904 Hampton Oaks Parkway,Suite F, Tampa, FL, 33610, US | Hybrid | Jun 23 |
 | **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern (Network Switch) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a47a006a4fd4b1fabd1eb?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
 | ↳ | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a477a06a4fd4b1fabd1e9?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
 | ↳ | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3a47616484fb75f2b34ae2?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Test Engineering Intern](https://jobright.ai/jobs/info/6a1e3f163e538a28c204efea?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 22 |
 | **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a39906e214ae004c7a1f4df?utm_campaign=1048&utm_source=git)** | USA GA - Covington BMD, US | On Site | Jun 22 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Engineering (Production Test) Intern](https://jobright.ai/jobs/info/6a356da6f6b55d12c791fc00?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 22 |
-| **[Munich Airport NJ LLC](http://www.munich-airport.com/nj)** | **[Facilities Maintenance Engineering Intern](https://jobright.ai/jobs/info/6a3947936484fb75f2b30735?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Jun 22 |
-| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Electrical Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a398f7c1232144fb156bfa8?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
