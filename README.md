@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Seed Responsible AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a3a62ecdd879c60912aee79?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
+| **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - AI Lab](https://jobright.ai/jobs/info/6a3a611606a4fd4b1fabd4dd?utm_campaign=1048&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6a3a5ab806a4fd4b1fabd3db?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 23 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Generative AI Developer (available now)](https://jobright.ai/jobs/info/6a304c90093df201d07b0a63?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Lead Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a4dc506a4fd4b1fabd2e0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 23 |
 | **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[2026 Internship - Geotechnical Services](https://jobright.ai/jobs/info/6a3a4d9a6484fb75f2b34bbf?utm_campaign=1048&utm_source=git)** | Cleveland, OH | On Site | Jun 23 |
-| **[GHD](http://www.ghd.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69e336cbfcfcbd43860a5e80?utm_campaign=1048&utm_source=git)** | Hampton Oaks Business Park, 5904 Hampton Oaks Parkway,Suite F, Tampa, FL, 33610, US | Hybrid | Jun 23 |
+| **[GHD](http://www.ghd.com)** | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69e337203770bd5361cdb74e?utm_campaign=1048&utm_source=git)** | Hampton Oaks Business Park, 5904 Hampton Oaks Parkway,Suite F, Tampa, FL, 33610, US | Hybrid | Jun 23 |
 | **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern (Network Switch) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a47a006a4fd4b1fabd1eb?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
 | ↳ | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3a477a06a4fd4b1fabd1e9?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
 | ↳ | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3a47616484fb75f2b34ae2?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Cary Company](https://www.thecarycompany.com/)** | **[AI / Automation Intern](https://jobright.ai/jobs/info/6a15e380a429fd279da93215?utm_campaign=1048&utm_source=git)** | Addison, IL | On Site | Jun 22 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern RL & Post-Training Systems, Turbo (Fall 2026)](https://jobright.ai/jobs/info/6a3990d5649fdf16293019bb?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 22 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Test Engineering Intern](https://jobright.ai/jobs/info/6a1e3f163e538a28c204efea?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 22 |
-| **[BD](https://www.bd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a39906e214ae004c7a1f4df?utm_campaign=1048&utm_source=git)** | USA GA - Covington BMD, US | On Site | Jun 22 |
-| **[Rantec Power Systems Inc.](https://rantec.com)** | **[Electrical Engineering (Production Test) Intern](https://jobright.ai/jobs/info/6a356da6f6b55d12c791fc00?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
