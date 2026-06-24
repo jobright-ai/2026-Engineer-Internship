@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3b7c4a06a4fd4b1fac15db?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
+| **[InterSources Inc](https://www.intersourcesinc.com)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/6a3b763c1232144fb1572ac8?utm_campaign=1048&utm_source=git)** | Fremont, CA | Remote | Jun 23 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Environment & Development Intern – Sustainability, Solid Waste, Wastewater, and Regional Codes](https://jobright.ai/jobs/info/6a3b7485649fdf16293082c6?utm_campaign=1048&utm_source=git)** | Arlington, TX, US | On Site | Jun 23 |
+| **[Ciena](http://www.ciena.com)** | **[Hardware (PCBA) Design and Verification Intern](https://jobright.ai/jobs/info/6a14a198dc845f4be5bd2a05?utm_campaign=1048&utm_source=git)** | Ottawa, CA | On Site | Jun 23 |
 | **[Trossen Robotics](http://www.trossenrobotics.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a3b649adbedbf5680c73a02?utm_campaign=1048&utm_source=git)** | Downers Grove, IL | On Site | Jun 23 |
 | **[One-Cycle Control, Inc.](http://onecyclecontrol.com)** | **[ME Intern](https://jobright.ai/jobs/info/6a3b5ec61232144fb1572856?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 23 |
 | **[Chemelex](https://www.chemelex.com)** | **[Engineering Intern, R&D](https://jobright.ai/jobs/info/6a3b5e5fdd879c60912b2ba6?utm_campaign=1048&utm_source=git)** | Redwood City, CA, USA | On Site | Jun 23 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Intern Engineering Designer, Land Development](https://jobright.ai/jobs/info/6a3b0e59dd879c60912b1cda?utm_campaign=1048&utm_source=git)** | CA | ON | Whitby - 209 Dundas Street East, CA | On Site | Jun 23 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[AI and Automation Intern](https://jobright.ai/jobs/info/6a29c9bf0c4972328e7e5c99?utm_campaign=1048&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 23 |
 | **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern (Network Switch) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3b43f006a4fd4b1fac0cec?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 23 |
-| **[County of Sonoma](https://sonomacounty.ca.gov/)** | **[Transit Intern](https://jobright.ai/jobs/info/6a3b3db1dbedbf5680c7328e?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA | On Site | Jun 23 |
 | **[Chemelex](https://www.chemelex.com)** | **[Engineering Intern, R&D](https://jobright.ai/jobs/info/6a3b3cb5dd879c60912b2513?utm_campaign=1048&utm_source=git)** | Redwood City, CA | On Site | Jun 23 |
 | **[ndimensions labs](https://ndimensions.xyz)** | **[Hardware & Electronics Intern, Robotics](https://jobright.ai/jobs/info/6a3b58c5dbedbf5680c73751?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 23 |
 | ↳ | **[AI Intern, Robotics](https://jobright.ai/jobs/info/6a3b3c39dbedbf5680c7324b?utm_campaign=1048&utm_source=git)** | Boston, MA | On Site | Jun 23 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a3b25b5dd879c60912b2215?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 23 |
 | **[ASML](https://www.asml.com)** | **[Co-Op - Optical Engineer (Internship)](https://jobright.ai/jobs/info/6a3ae25f797099171917c27c?utm_campaign=1048&utm_source=git)** | Wilton, CT, USA | On Site | Jun 23 |
 | **[NeoSigma](https://www.neosigma.ai)** | **[Member of Technical Staff - Intern](https://jobright.ai/jobs/info/6a3b24501232144fb1571c6a?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Power Drive Summer Intern](https://jobright.ai/jobs/info/6a3acc511232144fb157020c?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI, US | On Site | Jun 23 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Preconstruction Highschool Internship](https://jobright.ai/jobs/info/6a3b05421232144fb1571482?utm_campaign=1048&utm_source=git)** | Austin, US | On Site | Jun 23 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Power Drive Summer Intern](https://jobright.ai/jobs/info/6a3acc511232144fb157020c?utm_campaign=1048&utm_source=git)** | Auburn Hills, MI, US | On Site | Jun 23 |
 | **[GRVTY](https://www.grvty.com)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/6a3b3dbc06a4fd4b1fac0bf8?utm_campaign=1048&utm_source=git)** | Ventura, CA | On Site | Jun 23 |
 | **[CycloKinetics](www.cyclokinetics.com)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a3b1fe4dd879c60912b206f?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah | On Site | Jun 23 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Research Engineer - AI Agent Systems](https://jobright.ai/jobs/info/6a3b1f98797099171917d4c3?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 23 |
@@ -103,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Electronics Design Engineer, Spring 2027](https://jobright.ai/jobs/info/6a3b0355dbedbf5680c725b8?utm_campaign=1048&utm_source=git)** | Scotts Valley | On Site | Jun 23 |
 | ↳ | **[Intern, Electronics Design Engineer, Autumn 2026](https://jobright.ai/jobs/info/6a3b034e1232144fb15713c6?utm_campaign=1048&utm_source=git)** | Scotts Valley | On Site | Jun 23 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[Lab Technician Intern](https://jobright.ai/jobs/info/6a3ae84a797099171917c4a0?utm_campaign=1048&utm_source=git)** | 1127 Dearborn Dr, Columbus, OH, 43085, US | On Site | Jun 23 |
-| **[Toyoda Gosei Americas](http://www.toyodagosei.com/)** | **[Intern Technical](https://jobright.ai/jobs/info/6a3af21a797099171917c897?utm_campaign=1048&utm_source=git)** | HOPKINSVILLE, KY 42240, USA | On Site | Jun 23 |
+| **[Toyoda Gosei Americas](http://www.toyodagosei.com/)** | **[Intern Technical](https://jobright.ai/jobs/info/6a3af215dd879c60912b147a?utm_campaign=1048&utm_source=git)** | HOPKINSVILLE, KY 42240, USA | On Site | Jun 23 |
 | **[doTERRA International LLC](https://www.doterra.com/US/en/about/careers)** | **[Clinical Research Intern I](https://jobright.ai/jobs/info/6a3aec11dbedbf5680c71d11?utm_campaign=1048&utm_source=git)** | Pleasant Grove, UT, US | On Site | Jun 23 |
 | **[RTX](http://rtx.com/)** | **[System Administrator Internship - Fall 2026](https://jobright.ai/jobs/info/6a3aaed6797099171917b073?utm_campaign=1048&utm_source=git)** | US-MA-CAMBRIDGE-BBN06 ~ 10 & 50 Moulton St ~ MOULTON B6, US | On Site | Jun 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - PTQ Quality Processes](https://jobright.ai/jobs/info/6a3af6471232144fb157101e?utm_campaign=1048&utm_source=git)** | South San Francisco, US | On Site | Jun 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Sales Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a1eb9cbdce5db1256d0fb85?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 23 |
 | **[ONICON Incorporated](http://www.onicon.com/)** | **[Intern](https://jobright.ai/jobs/info/6a1e05f2c2a87d6cd3e0f89e?utm_campaign=1048&utm_source=git)** | Largo, FL | On Site | Jun 23 |
 | **[Amcor](https://www.amcor.com/businesses/afap/)** | **[EHS Year Round Intern - Injection Molding](https://jobright.ai/jobs/info/6a3ab154797099171917b183?utm_campaign=1048&utm_source=git)** | RPSNA Evansville (EVV) IN, US | On Site | Jun 23 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Highway Bridge Designer Intern](https://jobright.ai/jobs/info/6a3ac4cc649fdf162930594f?utm_campaign=1048&utm_source=git)** | Lincoln, NE, US | On Site | Jun 23 |
-| **[Genentech](http://gene.com)** | **[2026 Fall Intern - Frontier Research, Prescient Design (AI for Drug Discovery)](https://jobright.ai/jobs/info/6a1e5cc8c5277c00c647f4eb?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States of America | On Site | Jun 23 |
-| **[BEUMER Group](https://www.beumergroup.com)** | **[Mechanical Engineer Intern/Co-Op](https://jobright.ai/jobs/info/6a1dbedd3e538a28c204b99f?utm_campaign=1048&utm_source=git)** | Calgary, AB, Canada | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
