@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western State Bank](http://www.westernbanks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a3d40ec882f121f56a369b8?utm_campaign=1048&utm_source=git)** | West Fargo, ND | On Site | Jun 25 |
+| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Integrated Security Specialist Intern](https://jobright.ai/jobs/info/6a3d3f484d047136e0932a96?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Jun 25 |
+| **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Project Engineering Intern](https://jobright.ai/jobs/info/6a3d3b51882f121f56a3682c?utm_campaign=1048&utm_source=git)** | Spokane, WA | On Site | Jun 25 |
 | **[Marvin](http://www.marvin.com/)** | **[Tool & Die Maker Intern](https://jobright.ai/jobs/info/6a3131bf2ee3ac1b4beed19a?utm_campaign=1048&utm_source=git)** | Fargo,North Dakota,United States | On Site | Jun 25 |
 | **[Catalent](https://www.catalent.com)** | **[Laboratory Intern](https://jobright.ai/jobs/info/6a202c3cca8f0b365d79f53a?utm_campaign=1048&utm_source=git)** | Greenville, NC, US | On Site | Jun 25 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Production Control Intern](https://jobright.ai/jobs/info/6a3d368578237a036d5e0330?utm_campaign=1048&utm_source=git)** | Los Osos, CA | On Site | Jun 25 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[ASIC Design Intern](https://jobright.ai/jobs/info/6a3c53f34d047136e0930776?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 25 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Propulsion Test Engineering Intern (Mojave - Fall 2026)](https://jobright.ai/jobs/info/6a3d0b9e122f340d29cef23a?utm_campaign=1048&utm_source=git)** | Mojave, CA | On Site | Jun 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern,  R&D Undergraduate Year-Round - Repository Performance, Onsite](https://jobright.ai/jobs/info/6a2b090f0ad4053b108ca5b3?utm_campaign=1048&utm_source=git)** | Albuquerque, NM | On Site | Jun 25 |
-| **[ByteDance](http://bytedance.com)** | **[Student Researcher (Speech Foundation Model - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a3ca058982bb239f81302b9?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3d04fe4d047136e093200a?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 25 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a03c578bc4184089f23593f?utm_campaign=1048&utm_source=git)** | Bay Area Office | Hybrid | Jun 25 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Construction](https://jobright.ai/jobs/info/6a208f14c00e701fe836a3eb?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SonyAI](https://ai.sony/)** | **[Research Intern – Multimodal Foundation Model for Vision](https://jobright.ai/jobs/info/6a3c4357122f340d29ced55e?utm_campaign=1048&utm_source=git)** | New York, NY | Remote | Jun 24 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Civil Engineering, CPA, Fall/ Winter 2026 (Multiple PN's)](https://jobright.ai/jobs/info/6a3c4349982bb239f812f1a6?utm_campaign=1048&utm_source=git)** | United States of America-OHIO-Allen County | On Site | Jun 24 |
 | ↳ | **[College Intern - Civil Engineering, CPA, Fall/ Winter 2026 (Multiple PN's)](https://jobright.ai/jobs/info/6a3c4347982bb239f812f1a5?utm_campaign=1048&utm_source=git)** | District 1 HQ1885 North McCullough Street | On Site | Jun 24 |
-| **[Bunge](http://www.bunge.com)** | **[EHS Intern](https://jobright.ai/jobs/info/6a3c4303122f340d29ced549?utm_campaign=1048&utm_source=git)** | Oakville, ON, CA, L6L 5N3 | On Site | Jun 24 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a3c4180982bb239f812f0df?utm_campaign=1048&utm_source=git)** | Sterling Heights, Michigan | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
