@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QUANTUM GLOBAL TECHNOLOGIES, LLC](http://www.quantumclean.com)** | **[Intern (Mechanical Engineer)](https://jobright.ai/jobs/info/6a3dc2248bfad862bc99e6c6?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
+| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a3dc1f9d261407de9801c90?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 25 |
+| **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Design Intern](https://jobright.ai/jobs/info/6a3d8bcd122f340d29cf12e0?utm_campaign=1048&utm_source=git)** | Overland Park, Kansas, United States | Remote | Jun 25 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Dragonfly Intern](https://jobright.ai/jobs/info/6a3db847122f340d29cf1dc7?utm_campaign=1048&utm_source=git)** | Greenbelt, MD, US | On Site | Jun 25 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Computing Undergraduate Student Intern - Fall 2026](https://jobright.ai/jobs/info/6a3db323882f121f56a38acc?utm_campaign=1048&utm_source=git)** | Livermore, CA, USA | Hybrid | Jun 25 |
 | **[Nanophase Technologies](http://www.nanophase.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a3db20ed261407de9801abf?utm_campaign=1048&utm_source=git)** | Bolingbrook, IL | On Site | Jun 25 |
@@ -100,10 +103,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern IT Enterprise Application](https://jobright.ai/jobs/info/6a3d8fe9d261407de98010e5?utm_campaign=1048&utm_source=git)** | MANHATTAN | On Site | Jun 25 |
 | **[AIRO](https://theairogroup.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a3d8efb122f340d29cf1396?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | ↳ | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a3d8efad261407de98010a9?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
-| **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Design Intern](https://jobright.ai/jobs/info/6a3d8bcd122f340d29cf12e0?utm_campaign=1048&utm_source=git)** | Overland Park, Kansas, United States | Remote | Jun 25 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[QUALITY INTERN - HIGH SCHOOL OR COLLEGE AGE](https://jobright.ai/jobs/info/6a3d8b6a122f340d29cf12b5?utm_campaign=1048&utm_source=git)** | Canton, GA | On Site | Jun 25 |
 | **[Morrison-Maierle](http://m-m.net)** | **[Civil Engineer Internship](https://jobright.ai/jobs/info/6a3d89b878237a036d5e1cd7?utm_campaign=1048&utm_source=git)** | Gillette, WY | On Site | Jun 25 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern IT Enterprise Application](https://jobright.ai/jobs/info/6a3d88e0d261407de9800e42?utm_campaign=1048&utm_source=git)** | 55 Water St, New York, NY | On Site | Jun 25 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jun 25 |
 | **[Photon Kinetics](http://www.pkinetics.com)** | **[Materials and Operations Summer Internship](https://jobright.ai/jobs/info/6a3d849e78237a036d5e1b97?utm_campaign=1048&utm_source=git)** | Beaverton, OR | On Site | Jun 25 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Infrastructure Operations & Automation-Dallas, TX](https://jobright.ai/jobs/info/6a3d83e8882f121f56a37d53?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | Hybrid | Jun 25 |
@@ -144,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[Teleflex](http://www.teleflex.com)** | **[Engineering Intern, Research & Development](https://jobright.ai/jobs/info/6a3d62904d047136e0933426?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Jun 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Security and Privacy - Fall 2026](https://jobright.ai/jobs/info/6a051aa522395b6dc6da4001?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 25 |
 | **[Penn State University](http://psu.edu)** | **[Integrated Security Specialist Intern](https://jobright.ai/jobs/info/6a3d7cc18bfad862bc99d5ed?utm_campaign=1048&utm_source=git)** | University Park, PA | On Site | Jun 25 |
-| **[DRMP](http://drmp.com)** | **[Environmental Scientist Intern](https://jobright.ai/jobs/info/6a219de14bdf8a5a96bd6a7f?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jun 25 |
+| **[DRMP](http://drmp.com)** | **[Environmental Scientist Intern](https://jobright.ai/jobs/info/6a362ba11232144fb15655ad?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jun 25 |
 | **[CLARK Material Handling Company](https://www.clarkmhc.com/)** | **[Intern Purchasing](https://jobright.ai/jobs/info/6a3d5e3f8bfad862bc99cc13?utm_campaign=1048&utm_source=git)** | Lexington, KY, USA | On Site | Jun 25 |
-| **[CONSOR Engineers](https://www.consoreng.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/6a185c2fdbc80963f9342e73?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA, US | Hybrid | Jun 25 |
-| ↳ | **[Transportation Intern](https://jobright.ai/jobs/info/6a185c31dbc80963f9342e77?utm_campaign=1048&utm_source=git)** | US-CA-Walnut Creek | Hybrid | Jun 25 |
+| **[CONSOR Engineers](https://www.consoreng.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/6a185c31dbc80963f9342e77?utm_campaign=1048&utm_source=git)** | US-CA-Walnut Creek | Hybrid | Jun 25 |
+| ↳ | **[Transportation Intern](https://jobright.ai/jobs/info/6a185c2fdbc80963f9342e73?utm_campaign=1048&utm_source=git)** | Walnut Creek, CA, US | Hybrid | Jun 25 |
 | **[Aehr Test Systems](http://www.aehr.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a3d5de64d047136e0933331?utm_campaign=1048&utm_source=git)** | Fremont, CA | On Site | Jun 25 |
 | **[Paramify](https://www.paramify.com)** | **[Cyber Security Solution Engineer (Intern)](https://jobright.ai/jobs/info/6a29c681d3ec8317fe140544?utm_campaign=1048&utm_source=git)** | Lehi, UT | On Site | Jun 25 |
 | **[Cohere](https://cohere.com)** | **[Machine Learning Intern/Co-op  (Fall, 2026)](https://jobright.ai/jobs/info/6a051a9b7c753c287f6f6c4c?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jun 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6a20973f4bdf8a5a96bd1cd0?utm_campaign=1048&utm_source=git)** | Hanover Park, IL 60133, USA | On Site | Jun 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, RFIC Design - Summer 2026](https://jobright.ai/jobs/info/6a3d516d122f340d29cefe9d?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jun 25 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Power Electronics Engineering Intern](https://jobright.ai/jobs/info/6a3d4ea3d261407de97ffabc?utm_campaign=1048&utm_source=git)** | Menomonee Falls, WI | On Site | Jun 25 |
-| **[Rich Products Corporation](https://rich.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a3d45bb882f121f56a36a70?utm_campaign=1048&utm_source=git)** | Buffalo, NY | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
