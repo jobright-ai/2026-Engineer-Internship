@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Faraday Future](https://www.ff.com)** | **[Robotics Intern (Part Time)](https://jobright.ai/jobs/info/6a3e32d6122f340d29cf2cdc?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Jun 26 |
 | **[Billion Automotive](http://billionauto.com)** | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205c122f340d29cf2b30?utm_campaign=1048&utm_source=git)** | Sioux City | Hybrid | Jun 25 |
-| ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2e?utm_campaign=1048&utm_source=git)** | Worthington | Hybrid | Jun 25 |
 | ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2d?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | Hybrid | Jun 25 |
+| ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2e?utm_campaign=1048&utm_source=git)** | Worthington | Hybrid | Jun 25 |
 | **[NV5](http://www.nv5.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a3dd8258bfad862bc99ea58?utm_campaign=1048&utm_source=git)** | Irvine, CA, US | On Site | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Engineering Associate (Internship)](https://jobright.ai/jobs/info/6a3e1cb94d047136e09359c8?utm_campaign=1048&utm_source=git)** | 222 Pine Avenue, Albany, Georgia 31701, GA | On Site | Jun 25 |
 | **[Hermeus](http://www.hermeus.com)** | **[Test & Operations Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a3e18d9882f121f56a397b0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
