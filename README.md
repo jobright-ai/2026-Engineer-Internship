@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Reliability Test Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3ddec18bfad862bc99eb2c?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jun 25 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Transit Intern](https://jobright.ai/jobs/info/6a3ddbfb122f340d29cf232f?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA | On Site | Jun 25 |
 | **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[R&D Summer Intern](https://jobright.ai/jobs/info/6a3ddafd78237a036d5e2e7c?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA | On Site | Jun 25 |
 | **[Stantec](http://www.stantec.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a3ddab878237a036d5e2e76?utm_campaign=1048&utm_source=git)** | Okemos, MI | On Site | Jun 25 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[DART Aerospace](https://www.dartaerospace.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a3d9bc7882f121f56a384fe?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 25 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Part-time](https://jobright.ai/jobs/info/6a3d9b77882f121f56a384f5?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jun 25 |
 | **[Arcfield](http://www.arcfield.com)** | **[Systems Engineering Internship](https://jobright.ai/jobs/info/6a3d8dcb78237a036d5e1e7a?utm_campaign=1048&utm_source=git)** | Middletown,Rhode Island,United States | On Site | Jun 25 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Intern - R&D Software Engineering (AI & Test Automation)](https://jobright.ai/jobs/info/6a35dde029c90c607e4e37f8?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Jun 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Safety, Health and Environment Intern - Summer 2026](https://jobright.ai/jobs/info/6a3d972f122f340d29cf16b0?utm_campaign=1048&utm_source=git)** | Lexington,Kentucky,United States | On Site | Jun 25 |
 | **[University of South Florida](http://health.usf.edu/medicine/)** | **[IAE Electrical Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/6a3d96a78bfad862bc99ddf8?utm_campaign=1048&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 25 |
 | **[Spartan Controls](https://www.spartancontrols.com)** | **[Co-op/Intern Student - CADD Specialist Job Details / Spartan Controls Ltd.](https://jobright.ai/jobs/info/6a3d9691882f121f56a383f6?utm_campaign=1048&utm_source=git)** | Calgary, AB, CA | On Site | Jun 25 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[AI Operations & Automation Intern](https://jobright.ai/jobs/info/6a3d6e4678237a036d5e13ea?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Jun 25 |
 | **[Ultra Clean Technology](https://www.uct.com)** | **[Intern (NPI Engineering)](https://jobright.ai/jobs/info/6a3d6db8d261407de9800584?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[R&D Intern - Wireless Systems Engineer - 2026](https://jobright.ai/jobs/info/6a189e5254a441713ae8661d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86ca9111f771d1a1549b?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jun 25 |
-| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jun 25 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jun 25 |
+| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86ca9111f771d1a1549b?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jun 25 |
 | **[National Defense Industrial Association - (NDIA)](http://www.ndia.org)** | **[Intern, WID](https://jobright.ai/jobs/info/6a3d5b16d261407de97fff7b?utm_campaign=1048&utm_source=git)** | Arlington, VA 22201 | On Site | Jun 25 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer Intern) –Data Center Modeler for Power System Study](https://jobright.ai/jobs/info/6a2f26dfc260bb1b8ae1b006?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Civil/Structural Intern (4-8 month co-op) - Western Canada Region - Fall 2026](https://jobright.ai/jobs/info/6a2aee962cde2824469c3fe7?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jun 25 |
 | **[Cadence](https://www.cadence.com)** | **[Product Engineering Internship, Simulation and Verification (Fall 2026)](https://jobright.ai/jobs/info/6a3d670ed261407de980033a?utm_campaign=1048&utm_source=git)** | Burlington, MA, US | On Site | Jun 25 |
-| **[Teleflex](http://www.teleflex.com)** | **[Engineering Intern, Research & Development](https://jobright.ai/jobs/info/6a3d62904d047136e0933426?utm_campaign=1048&utm_source=git)** | Pleasanton, CA | On Site | Jun 25 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Security and Privacy - Fall 2026](https://jobright.ai/jobs/info/6a051aa522395b6dc6da4001?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
