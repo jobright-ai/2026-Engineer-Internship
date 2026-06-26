@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lambda](https://lambda.ai)** | **[Security Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6a05fd816c07461fe171b0ba?utm_campaign=1048&utm_source=git)** | San Francisco Office (Fremont St) | Hybrid | Jun 26 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Traffic](https://jobright.ai/jobs/info/6a3e6c4f78237a036d5e3f27?utm_campaign=1048&utm_source=git)** | Tippecanoe County, IN | On Site | Jun 26 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[FPGA Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3e6ba678237a036d5e3eff?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jun 26 |
 | ↳ | **[Harness Design Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2179807c30cc2cc51690fe?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jun 26 |
@@ -76,15 +77,15 @@ For a complete list, click the following sortable link below:
 | **[Peak Energy](https://www.peakenergy.com)** | **[Test Engineer Intern, ESS (Fall 2026)](https://jobright.ai/jobs/info/6a3e4e4978237a036d5e3b87?utm_campaign=1048&utm_source=git)** | Burlingame, California | On Site | Jun 26 |
 | **[GHD](http://www.ghd.com)** | **[Indigenous Engineer Intern/co-op](https://jobright.ai/jobs/info/69f0cd82ecbc8c2f73201ebb?utm_campaign=1048&utm_source=git)** | 120 Western Parkway, Bedford, Nova Scotia, B4B 0V2, CA | Hybrid | Jun 26 |
 | **[Finning](http://www.finning.com)** | **[Reliability Engineering Intern (Mining Equipment)](https://jobright.ai/jobs/info/6a053e967c753c287f6f7ef3?utm_campaign=1048&utm_source=git)** | Fort McMurray, AB, CA | On Site | Jun 26 |
-| **[TTM Technologies](https://www.ttm.com/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69e77a18f8fa2f3ec32a7cfb?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI | On Site | Jun 26 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69e779f0e0cd471b2f12bba6?utm_campaign=1048&utm_source=git)** | Chippewa Falls, WI | On Site | Jun 26 |
 | **[Generac](https://www.generac.com)** | **[Intern- Test Engineering and Validation](https://jobright.ai/jobs/info/6a3e4432122f340d29cf2e8f?utm_campaign=1048&utm_source=git)** | Waukesha, WI | On Site | Jun 26 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Electricity + Natural Gas Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a2203c2c00e701fe837283a?utm_campaign=1048&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Spaceflight Engineering Intern](https://jobright.ai/jobs/info/6a3a98c006a4fd4b1fabdea3?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 26 |
-| ↳ | **[Human Spaceflight Engineer Intern](https://jobright.ai/jobs/info/6a21ded44bdf8a5a96bd8d3c?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 26 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Human Spaceflight Engineer Intern](https://jobright.ai/jobs/info/6a21ded44bdf8a5a96bd8d3c?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 26 |
+| ↳ | **[Human Spaceflight Engineering Intern](https://jobright.ai/jobs/info/6a3a98c006a4fd4b1fabdea3?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 26 |
 | **[Faraday Future](https://www.ff.com)** | **[Robotics Intern (Part Time)](https://jobright.ai/jobs/info/6a3e32d6122f340d29cf2cdc?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Jun 26 |
 | **[Billion Automotive](http://billionauto.com)** | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205c122f340d29cf2b30?utm_campaign=1048&utm_source=git)** | Sioux City | Hybrid | Jun 25 |
-| ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2e?utm_campaign=1048&utm_source=git)** | Worthington | Hybrid | Jun 25 |
 | ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2d?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD | Hybrid | Jun 25 |
+| ↳ | **[Construction Intern - Field & Office (Sioux Falls, SD)](https://jobright.ai/jobs/info/6a3e205a122f340d29cf2b2e?utm_campaign=1048&utm_source=git)** | Worthington | Hybrid | Jun 25 |
 | **[NV5](http://www.nv5.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/6a3dd8258bfad862bc99ea58?utm_campaign=1048&utm_source=git)** | Irvine, CA, US | On Site | Jun 25 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Engineering Associate (Internship)](https://jobright.ai/jobs/info/6a3e1cb94d047136e09359c8?utm_campaign=1048&utm_source=git)** | 222 Pine Avenue, Albany, Georgia 31701, GA | On Site | Jun 25 |
 | **[Hermeus](http://www.hermeus.com)** | **[Test & Operations Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a3e18d9882f121f56a397b0?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AIRO](https://theairogroup.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a3d8efb122f340d29cf1396?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | ↳ | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a3d8efad261407de98010a9?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[QUALITY INTERN - HIGH SCHOOL OR COLLEGE AGE](https://jobright.ai/jobs/info/6a3d8b6a122f340d29cf12b5?utm_campaign=1048&utm_source=git)** | Canton, GA | On Site | Jun 25 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
