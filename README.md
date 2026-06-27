@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3f3865882f121f56a3cc71?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 26 |
 | **[CTGT](https://www.ctgt.ai/)** | **[Research Intern: Interpretability & Reliability (Summer 2027)](https://jobright.ai/jobs/info/6a3f357c122f340d29cf5fcf?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jun 26 |
 | **[SB Energy](https://sbenergy.com)** | **[Electrical Engineering/Power System Intern](https://jobright.ai/jobs/info/6a3f2f2c882f121f56a3caeb?utm_campaign=1048&utm_source=git)** | Denver, CO | Hybrid | Jun 26 |
 | **[Xaira Therapeutics](https://xaira.com)** | **[Lab Automation - Vision AI Engineer Intern](https://jobright.ai/jobs/info/6a3f2ef84d047136e0938ec7?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 26 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Residential Energy Device Software Engineer, Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a2cb3ffa1d15e3c552fcf2f?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 26 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Intern - R&D Software Engineering (AI & Test Automation)](https://jobright.ai/jobs/info/6a35dde029c90c607e4e37f8?utm_campaign=1048&utm_source=git)** | Wilmington, DE | On Site | Jun 26 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69301347ef4b48533d14a4bf?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | Jun 26 |
-| ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6a28d421fd37e62bb47ab62b?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jun 26 |
 | ↳ | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69bb8a3a06c1ba00c54e08eb?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 26 |
+| ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6a28d421fd37e62bb47ab62b?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jun 26 |
 | **[Boeing](https://www.boeing.com)** | **[Drexel Internship Fall Co-op 2026 - Engineering](https://jobright.ai/jobs/info/6a3eeea4882f121f56a3c07e?utm_campaign=1048&utm_source=git)** | Ridley Park, PA, US | On Site | Jun 26 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Systems Engineer Intern - Fall Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6a3eedd74d047136e09384f6?utm_campaign=1048&utm_source=git)** | Columbia, MD, United States | Remote | Jun 26 |
 | **[Bosch](http://www.bosch.com)** | **[Hardware Prototyping Intern – Data Center Rack](https://jobright.ai/jobs/info/6a3eec14d261407de9805239?utm_campaign=1048&utm_source=git)** | 384 Santa Trinita Ave, Sunnyvale, CA 94085, USA | On Site | Jun 26 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[HVJ Associates®](https://www.hvj.com)** | **[GEO/Pave Intern](https://jobright.ai/jobs/info/6a3ebf5e78237a036d5e5264?utm_campaign=1048&utm_source=git)** | Austin 78744 - Austin, TX 78744 US (Primary) | On Site | Jun 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Water Intern](https://jobright.ai/jobs/info/69872ac30f6f7e7a2ce26a55?utm_campaign=1048&utm_source=git)** | United States-Texas-Houston | On Site | Jun 26 |
 | ↳ | **[Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6a3ea86dce7cce40b3421283?utm_campaign=1048&utm_source=git)** | United States-California-Irvine | On Site | Jun 26 |
-| **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6a19c671e24ef365258276d2?utm_campaign=1048&utm_source=git)** | US-TX-Warren | On Site | Jun 26 |
-| ↳ | **[Intern, Engineering](https://jobright.ai/jobs/info/6a19c658e24ef365258276ca?utm_campaign=1048&utm_source=git)** | Warren, TX, US | On Site | Jun 26 |
+| **[Pulice](http://www.pulice.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6a19c658e24ef365258276ca?utm_campaign=1048&utm_source=git)** | Warren, TX, US | On Site | Jun 26 |
+| ↳ | **[Intern, Engineering](https://jobright.ai/jobs/info/6a19c671e24ef365258276d2?utm_campaign=1048&utm_source=git)** | US-TX-Warren | On Site | Jun 26 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a3ec33e122f340d29cf486e?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 26 |
 | ↳ | **[Student Researcher (LLM - Seed) - 2027 Start (BS/MS)](https://jobright.ai/jobs/info/6a3ec33b122f340d29cf486c?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | ↳ | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)](https://jobright.ai/jobs/info/6a3ec336882f121f56a3b449?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GKN Aerospace](https://www.gknaerospace.com/)** | **[ME Intern](https://jobright.ai/jobs/info/6a3ead434d047136e09372bf?utm_campaign=1048&utm_source=git)** | El Cajon, CA | On Site | Jun 26 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a3eac3f122f340d29cf41c4?utm_campaign=1048&utm_source=git)** | Middlebury, Town of, Connecticut, United States | On Site | Jun 26 |
 | **[Cohere](https://cohere.com)** | **[Machine Learning Intern/Co-op  (Fall, 2026)](https://jobright.ai/jobs/info/6a2a2edd0c4972328e7e7700?utm_campaign=1048&utm_source=git)** | San Francisco, CA | Hybrid | Jun 26 |
-| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer - AI Agent for Data](https://jobright.ai/jobs/info/6a3eab5dce7cce40b3421367?utm_campaign=1048&utm_source=git)** | Markham, Ontario, Canada | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
