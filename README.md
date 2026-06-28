@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Neuralink](https://www.neuralink.com)** | **[Manufacturing Intern, Surgery & Robot Hardware](https://jobright.ai/jobs/info/6a4048bc1afc66714d3c9d60?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 27 |
 | **[Second Order Effects](https://soeffects.com)** | **[Mechanical Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4048873bfa967791ec014e?utm_campaign=1048&utm_source=git)** | El Segundo, California, United States | On Site | Jun 27 |
-| **[AMETEK](http://www.ametek.com)** | **[Intern, Mechanical Designer](https://jobright.ai/jobs/info/6a4048049dd7f954cafe7e76?utm_campaign=1048&utm_source=git)** | Laval, Quebec, CA, H7V 0A3 | On Site | Jun 27 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Project Management Intern Engineering at LaFrance Corp](https://jobright.ai/jobs/info/6a404586b526a24fc3130b0e?utm_campaign=1048&utm_source=git)** | Porter County, IN | Hybrid | Jun 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Manufacturing Engineering - Industrialization (Fall 2026)](https://jobright.ai/jobs/info/6a40357016b14939532831eb?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 27 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Safety Internship](https://jobright.ai/jobs/info/6a4024f49dd7f954cafe7c8e?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jun 27 |
@@ -79,12 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[AI Intern  - Dallas, TX](https://jobright.ai/jobs/info/6a40139a16b1493953282ffc?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/6a08eac6939a5f01db95c422?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
 | ↳ | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/69d4eae2891d7b11cfcfe6dc?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763c?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bbabf1423772304ebe601?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc0741136d179eeef44b7?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bb1f91136d179eeef35e0?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post Undergraduate/Graduate (Year-Round) Intern – Molecular Biology](https://jobright.ai/jobs/info/6a3a7bd4797099171917a38b?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 27 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Security for AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a401258d528ac2915f9643a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Plant Intern](https://jobright.ai/jobs/info/6a1d0a196b135014dbc94b94?utm_campaign=1048&utm_source=git)** | Burnside, KY - USA, US | On Site | Jun 27 |
@@ -103,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3ffd431afc66714d3c989d?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 27 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Data Engineer Internship](https://jobright.ai/jobs/info/6a396f966484fb75f2b3183c?utm_campaign=1048&utm_source=git)** | Portland, OR, US | Hybrid | Jun 27 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Customer Quality Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a3ff9d81afc66714d3c9865?utm_campaign=1048&utm_source=git)** | Morrisville, North Carolina | On Site | Jun 27 |
-| **[Neuralink](https://www.neuralink.com)** | **[Electrical Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a3ff43f3bfa967791ebfb85?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jun 27 |
-| ↳ | **[Electrical Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a3ff43f3bfa967791ebfb84?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 27 |
+| **[Neuralink](https://www.neuralink.com)** | **[Electrical Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a3ff43f3bfa967791ebfb84?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 27 |
+| ↳ | **[Electrical Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a3ff43f3bfa967791ebfb85?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jun 27 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a04caf7f3d6cc51d6382d93?utm_campaign=1048&utm_source=git)** | Greensburg, IN, US | On Site | Jun 27 |
 | **[StandardAero](http://www.standardaero.com)** | **[EH&S Intern](https://jobright.ai/jobs/info/6a383143a0f3e56e86d6da23?utm_campaign=1048&utm_source=git)** | 17250 Chanute Road, Houston, TX, 77032, US | On Site | Jun 27 |
 | **[Arcadis](http://www.arcadis.com)** | **[Green Infrastructure Intern](https://jobright.ai/jobs/info/69416b5ebdcf884a5add2f69?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 27 |
@@ -132,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/6a0025cba0eddc08c239b5cb?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 27 |
 | **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I I&C - Internship](https://jobright.ai/jobs/info/69d9f0b8738f2f099e8a6876?utm_campaign=1048&utm_source=git)** | 2810 Coliseum Centre Dr, Charlotte, NC, 28217, US | On Site | Jun 27 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - On Wing Support Test Technician](https://jobright.ai/jobs/info/69ce2a4e54f00230c6cfc3f9?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jun 27 |
-| **[GenScript](http://www.genscript.com)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a07456d939a5f01db94dbf6?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
-| ↳ | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a1f39d809442629a68588f3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
+| **[GenScript](http://www.genscript.com)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a1f39d809442629a68588f3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
+| ↳ | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a07456d939a5f01db94dbf6?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineering Intern - Summer 2026 - CMTA](https://jobright.ai/jobs/info/6a3cbe498bfad862bc99b2f5?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jun 27 |
 | **[County of Sonoma](https://sonomacounty.ca.gov)** | **[Transit Intern](https://jobright.ai/jobs/info/6a3fcf86d528ac2915f95c2d?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA | On Site | Jun 27 |
 | **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I Mechanical - Internship](https://jobright.ai/jobs/info/699964e981476f6176b215f7?utm_campaign=1048&utm_source=git)** | 14 Lords Hill Road, Stonington, CT, 06378, US | On Site | Jun 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Slate Auto](https://slate.auto)** | **[EV Thermal Systems Engineer Intern](https://jobright.ai/jobs/info/69e902eee0cd471b2f139e13?utm_campaign=1048&utm_source=git)** | Troy, Michigan, US | On Site | Jun 27 |
 | **[ASM](https://www.asm.com)** | **[Manufacturing Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e29e0cd471b2f13e51b?utm_campaign=1048&utm_source=git)** | Greater Phoenix Area | On Site | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Technology Engineering Intern](https://jobright.ai/jobs/info/6a060b5cbc4184089f24a3bf?utm_campaign=1048&utm_source=git)** | Frisco, TX | On Site | Jun 27 |
+| **[Air Products](https://www.airproducts.com/)** | **[Power Engineering Intern](https://jobright.ai/jobs/info/6941ff41bdcf884a5addb8fa?utm_campaign=1048&utm_source=git)** | Edmonton, Canada | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
