@@ -84,12 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[AI Intern  - Dallas, TX](https://jobright.ai/jobs/info/6a40139a16b1493953282ffc?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/69d4eaec706f771673b9f9d5?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
 | ↳ | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/6a08eac6939a5f01db95c422?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bbabf1423772304ebe601?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763c?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc0741136d179eeef44b7?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post Undergraduate/Graduate (Year-Round) Intern – Molecular Biology](https://jobright.ai/jobs/info/6a3a7bd4797099171917a38b?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 27 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Mechanical Test Engineering Undergraduate Intern/Co-op (R19858)](https://jobright.ai/jobs/info/6a314154e7b7d514a3bd25c1?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Jun 27 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Security for AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a401258d528ac2915f9643a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
@@ -140,16 +140,16 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/6a0025cba0eddc08c239b5cb?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 27 |
 | **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I I&C - Internship](https://jobright.ai/jobs/info/69d9f0b8738f2f099e8a6876?utm_campaign=1048&utm_source=git)** | 2810 Coliseum Centre Dr, Charlotte, NC, 28217, US | On Site | Jun 27 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - On Wing Support Test Technician](https://jobright.ai/jobs/info/69ce2a4e54f00230c6cfc3f9?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jun 27 |
-| **[GenScript](http://www.genscript.com)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a07456d939a5f01db94dbf6?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
-| ↳ | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a1f39d809442629a68588f3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
+| **[GenScript](http://www.genscript.com)** | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a1f39d809442629a68588f3?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
+| ↳ | **[AI Researcher Intern](https://jobright.ai/jobs/info/6a07456d939a5f01db94dbf6?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
 | **[CMTA, Inc.](https://www.cmta.com)** | **[Electrical Engineering Intern - Summer 2026 - CMTA](https://jobright.ai/jobs/info/6a3cbe498bfad862bc99b2f5?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jun 27 |
 | **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I Mechanical - Internship](https://jobright.ai/jobs/info/6a086ba3403fc339507ee00a?utm_campaign=1048&utm_source=git)** | 14 Lords Hill Rd, Stonington, CT, 06378, US | On Site | Jun 27 |
 | ↳ | **[Nuclear Engineer I Mechanical - Internship](https://jobright.ai/jobs/info/699964e981476f6176b215f7?utm_campaign=1048&utm_source=git)** | 14 Lords Hill Road, Stonington, CT, 06378, US | On Site | Jun 27 |
 | ↳ | **[Nuclear Engineer I Electrical - Internship](https://jobright.ai/jobs/info/69998310e0bddb6acac8cb71?utm_campaign=1048&utm_source=git)** | 14 Lords Hill Road, Stonington, CT, 06378, US | On Site | Jun 27 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Maintenance Technician](https://jobright.ai/jobs/info/69cd1d82cfdc6132f9415d54?utm_campaign=1048&utm_source=git)** | Pittsburgh | On Site | Jun 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Fluid Systems Division](https://jobright.ai/jobs/info/6a0652457c753c287f702366?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 27 |
-| ↳ | **[Intern Quality](https://jobright.ai/jobs/info/6a0d74a4d516b5204a376e4d?utm_campaign=1048&utm_source=git)** | JACKSONVILLE, AL, United States | On Site | Jun 27 |
 | ↳ | **[Intern Quality](https://jobright.ai/jobs/info/6a0d74b422d0d34036c9e1a9?utm_campaign=1048&utm_source=git)** | HUNTSVILLE, AL, United States | On Site | Jun 27 |
+| ↳ | **[Intern Quality](https://jobright.ai/jobs/info/6a0d74a4d516b5204a376e4d?utm_campaign=1048&utm_source=git)** | JACKSONVILLE, AL, United States | On Site | Jun 27 |
 | ↳ | **[Quality Engineering Intern](https://jobright.ai/jobs/info/6a2e3276f1751b183c81c1c2?utm_campaign=1048&utm_source=git)** | USA Simi Valley, CA - Voyager | On Site | Jun 27 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Cloud Operations Intern](https://jobright.ai/jobs/info/6a0ef80172b52f7225f3a299?utm_campaign=1048&utm_source=git)** | Kennesaw, GA | On Site | Jun 27 |
 | **[Magna International](http://www.magna.com/)** | **[Student Intern - Engineering-1](https://jobright.ai/jobs/info/6a05d896f3d6cc51d638bc5e?utm_campaign=1048&utm_source=git)** | Highland Park, Michigan, US | On Site | Jun 27 |
