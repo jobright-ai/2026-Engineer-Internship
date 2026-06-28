@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Obsolete Site](https://www.goarmy.com/careers-and-jobs/army-civilian-careers.html)** | **[Security and Intelligence System Manager Intern.](https://jobright.ai/jobs/info/6a4101311afc66714d3ca799?utm_campaign=1048&utm_source=git)** | West Point, NY | On Site | Jun 28 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[CMT Laboratory Intern](https://jobright.ai/jobs/info/6a40fc13b526a24fc31314e5?utm_campaign=1048&utm_source=git)** | Macon, GA | On Site | Jun 28 |
+| **[Physical Intelligence](https://www.pi.website)** | **[Hardware Systems Intern](https://jobright.ai/jobs/info/69ebc3dd7820c036924f6cdc?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jun 28 |
+| **[ITT Inc.](http://www.itt.com)** | **[Manufacturing & Test Engineering Intern](https://jobright.ai/jobs/info/6a40fa011afc66714d3ca750?utm_campaign=1048&utm_source=git)** | Valencia, CA, US | On Site | Jun 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2bae26c07d4b6ae1c4b278?utm_campaign=1048&utm_source=git)** | United States-Massachusetts-Boston | On Site | Jun 28 |
-| **[Air Products](https://www.airproducts.com/)** | **[Power Engineering Intern](https://jobright.ai/jobs/info/6941ff41bdcf884a5addb8fa?utm_campaign=1048&utm_source=git)** | Edmonton, Canada | On Site | Jun 28 |
-| ↳ | **[Power Engineering Intern](https://jobright.ai/jobs/info/6942066314ee092a6900230d?utm_campaign=1048&utm_source=git)** | Fort Saskatchewan, Canada | On Site | Jun 28 |
+| **[Air Products](https://www.airproducts.com/)** | **[Power Engineering Intern](https://jobright.ai/jobs/info/6942066314ee092a6900230d?utm_campaign=1048&utm_source=git)** | Fort Saskatchewan, Canada | On Site | Jun 28 |
+| ↳ | **[Power Engineering Intern](https://jobright.ai/jobs/info/6941ff41bdcf884a5addb8fa?utm_campaign=1048&utm_source=git)** | Edmonton, Canada | On Site | Jun 28 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Transportation Engineering Intern](https://jobright.ai/jobs/info/6a40e97f16b1493953283bbc?utm_campaign=1048&utm_source=git)** | Rancho Cordova, CA, US | On Site | Jun 28 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Supply Chain Engineering Co-op Intern](https://jobright.ai/jobs/info/6a2b9d283f691a293d0b8cf1?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Jun 28 |
 | **[Safal Partners](https://safalpartners.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a40df703bfa967791ec0985?utm_campaign=1048&utm_source=git)** | United States - Remote | Remote | Jun 28 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a40de6916b1493953283b4e?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
-| ↳ | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a40de561afc66714d3ca634?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
 | ↳ | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a40de561afc66714d3ca633?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
+| ↳ | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a40de561afc66714d3ca634?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
 | ↳ | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a40de3f1afc66714d3ca62e?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
 | **[Solid State Ceramics, Inc.](http://www.solidstateceramics.com/)** | **[Post Grad Electrical Engineering Internship Near Williamsport, PA](https://jobright.ai/jobs/info/6a40baff9dd7f954cafe8526?utm_campaign=1048&utm_source=git)** | Williamsport, PA | On Site | Jun 27 |
 | **[Mazzella](https://www.mazzellacompanies.com)** | **[Internship, Skilled Trades (LIFT Program)](https://jobright.ai/jobs/info/6a408d861afc66714d3ca1d9?utm_campaign=1048&utm_source=git)** | Cleveland, OH 44142, USA | On Site | Jun 27 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[IT Intern (Network Security)](https://jobright.ai/jobs/info/6a0641557c753c287f70126c?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jun 27 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/69d5c35e366bb95ba5548340?utm_campaign=1048&utm_source=git)** | Chicago, IL | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate (Year-Round) Intern - Analytical Chemistry](https://jobright.ai/jobs/info/6a0648ff320bff2205eaac6f?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jun 27 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86ca9111f771d1a1549b?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jun 27 |
-| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jun 27 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jun 27 |
+| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86ca9111f771d1a1549b?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate (Year-Round) Intern - Analytical Chemistry](https://jobright.ai/jobs/info/6a0a83218f3e371eb6189118?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 27 |
 | **[SWBC](https://www.swbc.com)** | **[IT Intern (Network Security)](https://jobright.ai/jobs/info/69fd090a938a651755f987ef?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | Jun 27 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[INTERN/CO-OP PROCESS - Spring 2027](https://jobright.ai/jobs/info/69e91fbb7820c036924e5260?utm_campaign=1048&utm_source=git)** | Manistee, MI | On Site | Jun 27 |
@@ -95,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[Fall 2026 Engineering Internship Co-Op](https://jobright.ai/jobs/info/695f269da112b402660df175?utm_campaign=1048&utm_source=git)** | DeRidder, LA 70634, USA | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems](https://jobright.ai/jobs/info/6a22e6f2757ade085b6ad586?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 27 |
 | **[Oracle](https://www.oracle.com/)** | **[AI Intern  - Dallas, TX](https://jobright.ai/jobs/info/6a40139a16b1493953282ffc?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
-| **[Marvell Technology](https://www.marvell.com)** | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/69d4eaec706f771673b9f9d5?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
-| ↳ | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/6a08eac6939a5f01db95c422?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bb1c00b88cc7d64227c6e?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
-| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 27 |
+| **[Marvell Technology](https://www.marvell.com)** | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/6a08eac6939a5f01db95c422?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
+| ↳ | **[Silicon Photonics Intern - PhD](https://jobright.ai/jobs/info/69d4eae2891d7b11cfcfe6dc?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b62abc8f63abac7763a?utm_campaign=1048&utm_source=git)** | US-TX-Fort Worth | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bbabf1423772304ebe601?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b67abc8f63abac77693?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b64abc8f63abac77667?utm_campaign=1048&utm_source=git)** | US-TX-Houston | On Site | Jun 27 |
+| ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a185b63abc8f63abac7765d?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, US | On Site | Jun 27 |
 | ↳ | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/697bc0741136d179eeef44b7?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post Undergraduate/Graduate (Year-Round) Intern – Molecular Biology](https://jobright.ai/jobs/info/6a3a7bd4797099171917a38b?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jun 27 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Mechanical Test Engineering Undergraduate Intern/Co-op (R19858)](https://jobright.ai/jobs/info/6a314154e7b7d514a3bd25c1?utm_campaign=1048&utm_source=git)** | Wilmington, MA | On Site | Jun 27 |
@@ -110,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Technology and Product Concepts](https://jobright.ai/jobs/info/6a0e642809ecfd704b3e8a85?utm_campaign=1048&utm_source=git)** | El Segundo, CA | On Site | Jun 27 |
 | **[Zipline](https://www.zipline.com/)** | **[Maps Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4010eab526a24fc3130810?utm_campaign=1048&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 27 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/6a4010619dd7f954cafe7b0f?utm_campaign=1048&utm_source=git)** | Albany, GA | On Site | Jun 27 |
-| **[Marvell Technology](https://www.marvell.com)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a096a3c939a5f01db95e43c?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
-| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a0d6d33538d03366dc966c3?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | Jun 27 |
+| **[Marvell Technology](https://www.marvell.com)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a0d6d33538d03366dc966c3?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | Jun 27 |
+| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a096a3c939a5f01db95e43c?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jun 27 |
 | **[Photon](https://www.photon.in)** | **[AI Intern  - Dallas, TX](https://jobright.ai/jobs/info/6a400e401afc66714d3c99aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Marvell Technology](https://www.marvell.com)** | **[System Engineer - Optical DSP Intern - PhD](https://jobright.ai/jobs/info/6a0699ef320bff2205eadc2e?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jun 27 |
 | **[POM Wonderful](http://www.pomwonderful.com)** | **[Wonderful Scholar Summer Internship, Food Science & Food Safety](https://jobright.ai/jobs/info/69cf20ebcdb525785fb9ed4a?utm_campaign=1048&utm_source=git)** | Del Rey, CA | On Site | Jun 27 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Industrial Engineering - Fall 2026](https://jobright.ai/jobs/info/6a27b19e883c0d3be653e557?utm_campaign=1048&utm_source=git)** | Briggs, TX | On Site | Jun 27 |
 | **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/69cc23f7cdb525785fb79b3d?utm_campaign=1048&utm_source=git)** | 2839 Paces Ferry Road, Suite 1000, Atlanta, GA, 30339, US | On Site | Jun 27 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Engineer Intern, Manufacturing](https://jobright.ai/jobs/info/6a3fe246d528ac2915f95e83?utm_campaign=1048&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 27 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a3fe2151afc66714d3c9426?utm_campaign=1048&utm_source=git)** | York, Pennsylvania | On Site | Jun 27 |
-| ↳ | **[Technical Intern 2](https://jobright.ai/jobs/info/6a3fe2151afc66714d3c9425?utm_campaign=1048&utm_source=git)** | Sterling Heights, Michigan | On Site | Jun 27 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a3fe2151afc66714d3c9425?utm_campaign=1048&utm_source=git)** | Sterling Heights, Michigan | On Site | Jun 27 |
+| ↳ | **[Technical Intern 2](https://jobright.ai/jobs/info/6a3fe2151afc66714d3c9426?utm_campaign=1048&utm_source=git)** | York, Pennsylvania | On Site | Jun 27 |
 | **[Zipline](https://www.getzipline.com)** | **[Maps Intern (Fall 2026)](https://jobright.ai/jobs/info/6a40a741d528ac2915f96d66?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 27 |
 | **[BAE Systems](http://www.baesystems.com)** | **[PTECH Intern, Summer 2026](https://jobright.ai/jobs/info/6a3fdfd41afc66714d3c936d?utm_campaign=1048&utm_source=git)** | Endicott New York | On Site | Jun 27 |
-| ↳ | **[Quality Intern 2026](https://jobright.ai/jobs/info/6a3fdfab1afc66714d3c933d?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Jun 27 |
 | ↳ | **[Quality Intern 2026](https://jobright.ai/jobs/info/6a3fdfab1afc66714d3c933e?utm_campaign=1048&utm_source=git)** | Sterling Heights, MI | On Site | Jun 27 |
+| ↳ | **[Quality Intern 2026](https://jobright.ai/jobs/info/6a3fdfab1afc66714d3c933d?utm_campaign=1048&utm_source=git)** | York, PA | On Site | Jun 27 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/6a3fdf9f16b149395328296a?utm_campaign=1048&utm_source=git)** | Gary, Indiana, United States | On Site | Jun 27 |
 | ↳ | **[Student Intern - Plant Processes](https://jobright.ai/jobs/info/6a3fdf9d16b1493953282969?utm_campaign=1048&utm_source=git)** | Portage, Indiana, United States | On Site | Jun 27 |
-| ↳ | **[IT Cloud Intern](https://jobright.ai/jobs/info/6a3fdf843bfa967791ebf7c5?utm_campaign=1048&utm_source=git)** | Osceola | On Site | Jun 27 |
-| ↳ | **[Surface Engineer Summer Intern](https://jobright.ai/jobs/info/6a3fdf8316b149395328295e?utm_campaign=1048&utm_source=git)** | Osceola | On Site | Jun 27 |
-| **[LSB Industries, Inc.](http://lsbindustries.com)** | **[Process Engineering Co-op/Intern (59697)](https://jobright.ai/jobs/info/6a28b4921dbd8437bebccd50?utm_campaign=1048&utm_source=git)** | LSB Corporate Office OKC OK - Oklahoma City, OK 73116 | On Site | Jun 27 |
-| **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/6a0025cba0eddc08c239b5cb?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
