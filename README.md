@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a433bdf4461bf091787b6af?utm_campaign=1048&utm_source=git)** | Tamuning, GUAM | On Site | Jun 29 |
+| **[DRMP](http://drmp.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a433761501d340b4a82e9b5?utm_campaign=1048&utm_source=git)** | Panama City, FL | On Site | Jun 29 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Social Work Intern - Summer 2026 (Puerto Rico)](https://jobright.ai/jobs/info/6a4333ade09ecb495964356b?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jun 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Welfare and Self-Reliance Paid Intern](https://jobright.ai/jobs/info/6a4333a4e09ecb4959643555?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support - Abilene, TX (Maintenance)](https://jobright.ai/jobs/info/6a433315cbf92c7bcd36eea1?utm_campaign=1048&utm_source=git)** | 4250 NORTH CLACK, Abilene 79601 | On Site | Jun 29 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a432f39cbf92c7bcd36e523?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 29 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern Database Coordinator](https://jobright.ai/jobs/info/6a432f32e09ecb495964291c?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432f19501d340b4a82dc51?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 29 |
-| ↳ | **[Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a432ee4b0f2553559ece573?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | Jun 29 |
 | **[hep solar North America](http://hep-petra.com)** | **[Solar Operations Internship](https://jobright.ai/jobs/info/6a432ecfb0f2553559ece505?utm_campaign=1048&utm_source=git)** | Huntersville, NC | Hybrid | Jun 29 |
 | **[Foundation Robotics](https://learnrobotics.io)** | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a432ecd4461bf091787a41b?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Vaxart, Inc.](http://vaxart.com)** | **[Biosample Summer Intern](https://jobright.ai/jobs/info/6a432e9de09ecb4959642682?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jun 29 |
@@ -89,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6a43222d78fcb767e275588a?utm_campaign=1048&utm_source=git)** | Lakeview, MI | On Site | Jun 29 |
 | **[Intel](http://www.intel.com)** | **[Facilities Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6a431e84620da04f9b578eaa?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
 | ↳ | **[Facilities Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6a431e8178fcb767e2755842?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Jun 29 |
-| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4310d4a5e15b106837b1b1?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 29 |
-| ↳ | **[Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432ea94461bf091787a3ab?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
+| **[ByteDance](http://bytedance.com)** | **[Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432ea94461bf091787a3ab?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a430fe86c326942b4e85136?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 29 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a37d9d229c90c607e4e6efd?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Jun 29 |
 | **[MAHLE](https://www.mahle.com)** | **[Production Assembly Intern (HVAC Area)](https://jobright.ai/jobs/info/6a31ed52c477a5075f48fe99?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jun 29 |
