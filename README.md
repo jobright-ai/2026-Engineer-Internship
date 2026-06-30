@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4310d4a5e15b106837b1b1?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 29 |
+| **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a430fe86c326942b4e85136?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 29 |
+| **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a37d9d229c90c607e4e6efd?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Jun 29 |
 | **[MAHLE](https://www.mahle.com)** | **[Production Assembly Intern (HVAC Area)](https://jobright.ai/jobs/info/6a31ed52c477a5075f48fe99?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jun 29 |
 | **[Coreshell](https://www.coreshell.com)** | **[R&D Summer Intern](https://jobright.ai/jobs/info/6a4309d9a5e15b106837b097?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Jun 29 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (MS/BS)](https://jobright.ai/jobs/info/6a4309cf6a9c2774b3fa82b0?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manufacturing Engineer Intern - Grassland Location](https://jobright.ai/jobs/info/6a42db816c326942b4e84752?utm_campaign=1048&utm_source=git)** | Louisville, KY | On Site | Jun 29 |
 | **[the LEGO Group](http://www.lego.com)** | **[QEHS Intern](https://jobright.ai/jobs/info/6a42db326c326942b4e84732?utm_campaign=1048&utm_source=git)** | Colonial Heights, VA | On Site | Jun 29 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Research IT Operations Intern - Fall 2026 - ELSYS](https://jobright.ai/jobs/info/6a42db306faf7560609684e3?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
-| **[Mill Creek Residential](http://www.MillCreekPlaces.com)** | **[Construction Intern -  Allston Construction (Job Site)](https://jobright.ai/jobs/info/6a42bec41cc9cc2b12fecb19?utm_campaign=1048&utm_source=git)** | Allston, Boston, MA, USA | On Site | Jun 29 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[Electro-Magnetic intern](https://jobright.ai/jobs/info/6a42dab86a9c2774b3fa79d4?utm_campaign=1048&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Jun 29 |
 | **[PCL Construction](http://www.pcl.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a42daadff87fd527f985d28?utm_campaign=1048&utm_source=git)** | San Diego, California | On Site | Jun 29 |
 | **[Addison HVAC](https://addison-hvac.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6a42d9deff87fd527f985d02?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jun 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Astrodynamics Engineering Internship (Path to Full Time Hire)](https://jobright.ai/jobs/info/6a42971ea5e15b106837969f?utm_campaign=1048&utm_source=git)** | El Segundo, California | On Site | Jun 29 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[AI Compiler Software Intern (PEY)](https://jobright.ai/jobs/info/6a42970c1cc9cc2b12fec0c3?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 29 |
 | **[Blackpoint Cyber](https://www.blackpointcyber.com)** | **[MDR Analyst SkillBridge Intern (Day Shift M-F 8 AM - 4 PM ET)](https://jobright.ai/jobs/info/69ec17144b0fa35a7078091d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 29 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Systems Administrator I (Active Duty Service Member)](https://jobright.ai/jobs/info/6a428bb86c326942b4e833a3?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO, US | On Site | Jun 29 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Digital Systems Intern - Fall 2026 - SEAL](https://jobright.ai/jobs/info/6a4284696a9c2774b3fa6467?utm_campaign=1048&utm_source=git)** | Smyrna, GA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
