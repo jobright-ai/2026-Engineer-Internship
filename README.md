@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6a43222d78fcb767e275588a?utm_campaign=1048&utm_source=git)** | Lakeview, MI | On Site | Jun 29 |
+| **[Intel](http://www.intel.com)** | **[Facilities Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6a431e84620da04f9b578eaa?utm_campaign=1048&utm_source=git)** | Phoenix, AZ | On Site | Jun 29 |
+| ↳ | **[Facilities Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6a431e8178fcb767e2755842?utm_campaign=1048&utm_source=git)** | Hillsboro, OR | On Site | Jun 29 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4310d4a5e15b106837b1b1?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 29 |
 | **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a430fe86c326942b4e85136?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 29 |
 | **[iCatalyst, Inc.](http://www.icatalystinc.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a37d9d229c90c607e4e6efd?utm_campaign=1048&utm_source=git)** | McLean, VA | Hybrid | Jun 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Structures/Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a4299fa6c326942b4e83674?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jun 29 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Continuous Improvement (Fall 2026)](https://jobright.ai/jobs/info/6a4299146c326942b4e8361e?utm_campaign=1048&utm_source=git)** | Macungie, PA | On Site | Jun 29 |
 | **[COWI](http://www.projektbyran.se/)** | **[Civil/Structural Engineering Intern](https://jobright.ai/jobs/info/6a4297216a9c2774b3fa6827?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
-| **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Astrodynamics Engineering Internship (Path to Full Time Hire)](https://jobright.ai/jobs/info/6a42971ea5e15b106837969f?utm_campaign=1048&utm_source=git)** | El Segundo, California | On Site | Jun 29 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[AI Compiler Software Intern (PEY)](https://jobright.ai/jobs/info/6a42970c1cc9cc2b12fec0c3?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 29 |
-| **[Blackpoint Cyber](https://www.blackpointcyber.com)** | **[MDR Analyst SkillBridge Intern (Day Shift M-F 8 AM - 4 PM ET)](https://jobright.ai/jobs/info/69ec17144b0fa35a7078091d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
