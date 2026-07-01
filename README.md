@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Systems Integration Engineer Low Voltage Power Management, Vehicle Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a44718c65e80d3c99f2ca25?utm_campaign=1048&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
 | **[Atlantic County Utilities Authority](https://www.acua.com)** | **[Wildlife Tech Intern](https://jobright.ai/jobs/info/6a3441927f3fdd180d4c9910?utm_campaign=1048&utm_source=git)** | Egg Harbor, NJ 08234, USA | On Site | Jun 30 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a3969ad6484fb75f2b31693?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 30 |
 | **[James River Insurance Company](http://www.jamesriverins.com/)** | **[Intern - Claims Automation](https://jobright.ai/jobs/info/6a4460230153061b8b3e03a9?utm_campaign=1048&utm_source=git)** | Richmond, VA | Remote | Jun 30 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[CQV Engineering Intern](https://jobright.ai/jobs/info/6a444873ef17a815538a3aa3?utm_campaign=1048&utm_source=git)** | Wilson, NC | On Site | Jun 30 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Physical Design Intern](https://jobright.ai/jobs/info/6a44213ab156014e414bb7fb?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jun 30 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Detailer Internship](https://jobright.ai/jobs/info/6a34472ece501060b5cf05f4?utm_campaign=1048&utm_source=git)** | Butler, IN, US | On Site | Jun 30 |
-| **[Mujin US](https://mujin-corp.com/)** | **[Intern - Product Development (Spring 2027)](https://jobright.ai/jobs/info/6a4445c2ef17a815538a3a0d?utm_campaign=1048&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
-| ↳ | **[Intern - Integration Engineering - Mechanical (Spring 2027)](https://jobright.ai/jobs/info/6a4445c2b156014e414bc1ae?utm_campaign=1048&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
+| **[Mujin US](https://mujin-corp.com/)** | **[Intern - Integration Engineering - Mechanical (Spring 2027)](https://jobright.ai/jobs/info/6a4445c2b156014e414bc1ae?utm_campaign=1048&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
+| ↳ | **[Intern - Product Development (Spring 2027)](https://jobright.ai/jobs/info/6a4445c2ef17a815538a3a0d?utm_campaign=1048&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
 | **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Research & Development, Uncrewed Systems](https://jobright.ai/jobs/info/6a4444ed57ffc22029406eac?utm_campaign=1048&utm_source=git)** | Sanford, North Carolina, United States | On Site | Jun 30 |
 | **[Bronco Wine Co.](http://broncowinejobs.com)** | **[Quality Assurance Lab Intern](https://jobright.ai/jobs/info/6a4444310153061b8b3dfef0?utm_campaign=1048&utm_source=git)** | Ceres, CA, US | On Site | Jun 30 |
 | ↳ | **[Quality Assurance Lab Intern](https://jobright.ai/jobs/info/6a4443fd105260150b7217e4?utm_campaign=1048&utm_source=git)** | Ceres, CA | On Site | Jun 30 |
@@ -111,14 +112,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall '26 Intern - Mechanical Engineering](https://jobright.ai/jobs/info/6a44224a65e80d3c99f2ba25?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jun 30 |
 | **[ABB](https://global.abb/group/en)** | **[Integrated Motor Drive SW Intern - Fall 2026](https://jobright.ai/jobs/info/6a442224ef17a815538a3006?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States of America | On Site | Jun 30 |
 | **[Hoar Construction](http://www.hoar.com)** | **[Construction Internship Summer 2026](https://jobright.ai/jobs/info/6a3176c15958816970014b77?utm_campaign=1048&utm_source=git)** | Birmingham, Alabama | On Site | Jun 30 |
-| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a3c1418882f121f56a333a5?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, USA | On Site | Jun 30 |
-| ↳ | **[Intern - Engineering](https://jobright.ai/jobs/info/6a433344b0f2553559ecf156?utm_campaign=1048&utm_source=git)** | 220 Daniel Webster Hwy, Merrimack, NH 03054, USA | On Site | Jun 30 |
+| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Intern - Engineering](https://jobright.ai/jobs/info/6a433344b0f2553559ecf156?utm_campaign=1048&utm_source=git)** | 220 Daniel Webster Hwy, Merrimack, NH 03054, USA | On Site | Jun 30 |
+| ↳ | **[Intern - Engineering](https://jobright.ai/jobs/info/6a3c1418882f121f56a333a5?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, USA | On Site | Jun 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4414ec57ffc22029406332?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jun 30 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)](https://jobright.ai/jobs/info/6a441dfe105260150b720d81?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jun 30 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Bridge Engineering](https://jobright.ai/jobs/info/6a441cb2105260150b720d66?utm_campaign=1048&utm_source=git)** | Marlton, NJ, US | On Site | Jun 30 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Liquid Crystal on Silicon Research Co-op/Intern](https://jobright.ai/jobs/info/69fd01f76b788e7e7a5c44ee?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | Jun 30 |
 | ↳ | **[Optical Engineer Co-op/Intern Student](https://jobright.ai/jobs/info/69f462bb81706a5bd2160291?utm_campaign=1048&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | Jun 30 |
-| **[XPENG](https://www.xiaopeng.com)** | **[AI Intern – VLA Deployment](https://jobright.ai/jobs/info/6a18d75117492d3a389ba06f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 30 |
+| **[XPENG](https://www.xiaopeng.com)** | **[AI Intern – VLA Deployment](https://jobright.ai/jobs/info/69f97269a3d34b4f76f61805?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jun 30 |
 | **[Alstom](https://www.alstom.com/)** | **[Electrical Engineering Intern Job Details / Alstom](https://jobright.ai/jobs/info/6a43f49a0153061b8b3dec07?utm_campaign=1048&utm_source=git)** | Saint-Bruno, QC, CA | On Site | Jun 30 |
 | **[RMR Group](http://www.rmrgroup.com/)** | **[Intern, Energy & Sustainability](https://jobright.ai/jobs/info/6a3957fe06a4fd4b1fab96e5?utm_campaign=1048&utm_source=git)** | Newton, MA, US | On Site | Jun 30 |
 | **[Alstom](https://www.alstom.com/)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a35970d7f3fdd180d4ce2fe?utm_campaign=1048&utm_source=git)** | West Mifflin, PA | On Site | Jun 30 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Commissioning Intern - Fall 2026](https://jobright.ai/jobs/info/6a441239b156014e414bb59d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/6a44102b0153061b8b3df22f?utm_campaign=1048&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jun 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Developer Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a44101def17a815538a2cb2?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 30 |
+| **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4472370153061b8b3e060d?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jun 30 |
 | **[CPL](http://www.cplteam.com)** | **[Intern](https://jobright.ai/jobs/info/6a43edce0153061b8b3de9e1?utm_campaign=1048&utm_source=git)** | Fairport, NY, US | On Site | Jun 30 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AML-Algorithm) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a440e1765e80d3c99f2b61a?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 30 |
 | ↳ | **[Research Scientist Intern (Security for AI) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a440e0465e80d3c99f2b618?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ENGINEER INTERN 1 - ENGINEER 5](https://jobright.ai/jobs/info/6a43fd480153061b8b3ded94?utm_campaign=1048&utm_source=git)** | Statewide, LA | On Site | Jun 30 |
 | **[Packaging Corporation of America](https://packagingcorp.com)** | **[INTERN/CO-OP - Fairfield](https://jobright.ai/jobs/info/6a282aa12d6c332ee52e40c8?utm_campaign=1048&utm_source=git)** | Fairfield, OH | On Site | Jun 30 |
 | **[RS&H](http://www.rsandh.com/)** | **[Civil Engineering Intern (Water Resources) - Fall 2026](https://jobright.ai/jobs/info/6a0bad6b22d0d34036c8ee0e?utm_campaign=1048&utm_source=git)** | Tampa, FL | On Site | Jun 30 |
-| **[Rogers Group Inc.](https://rogersgroupincint.com/)** | **[Intern](https://jobright.ai/jobs/info/6a43f916ef17a815538a2791?utm_campaign=1048&utm_source=git)** | 421 Great Circle Road, Nashville, TN, 37228, US | On Site | Jun 30 |
-| **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Process Automation Intern, Marine Operations](https://jobright.ai/jobs/info/6a22fe66d46c0f79960843dc?utm_campaign=1048&utm_source=git)** | South Jordan, UT | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
