@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volaris Group](http://www.volarisgroup.com)** | **[Data Security Intern](https://jobright.ai/jobs/info/6a46192d0dd56c76cc2f5d81?utm_campaign=1048&utm_source=git)** | United States - Wayne, PA, US | On Site | Jul 02 |
+| **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[MeDHigh Lab Research Intern](https://jobright.ai/jobs/info/6a4618d1076271587529f989?utm_campaign=1048&utm_source=git)** | Worcester, US | On Site | Jul 02 |
+| **[MaxLinear](http://www.maxlinear.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a457e880dd56c76cc2f3a03?utm_campaign=1048&utm_source=git)** | Carlsbad, CA, US | On Site | Jul 02 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operation Technology Technical Intern](https://jobright.ai/jobs/info/6a461729c2d11a6a4666b768?utm_campaign=1048&utm_source=git)** | Golden, CO, 80401, US | On Site | Jul 02 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460829076271587529f4f3?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 01 |
 | ↳ | **[Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4603d03dbab558e29a35bd?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
 | ↳ | **[Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4603bc4f64ba41dcb4f86f?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[DiDi](https://www.didiglobal.com)** | **[Motion Planning Engineer (PhD, Intern)](https://jobright.ai/jobs/info/6a458f710dd56c76cc2f3c8f?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 01 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Machinist Intern - 1st Shift](https://jobright.ai/jobs/info/6a4597913dbab558e29a1bf1?utm_campaign=1048&utm_source=git)** | Duluth, MN | On Site | Jul 01 |
 | **[LiquidPiston](http://www.liquidpiston.com)** | **[Simulation Internship - Fall 2026](https://jobright.ai/jobs/info/6a2d66b1d3ec94183f4bf5cc?utm_campaign=1048&utm_source=git)** | Suffield, CT | On Site | Jul 01 |
-| **[MaxLinear](http://www.maxlinear.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a457e880dd56c76cc2f3a03?utm_campaign=1048&utm_source=git)** | Carlsbad, CA, US | On Site | Jul 01 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Engineering](https://jobright.ai/jobs/info/6a4591e93dbab558e29a1ac8?utm_campaign=1048&utm_source=git)** | Wichita, KS, US | On Site | Jul 01 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[PCB Layout Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a458fb0c2d11a6a4666992f?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jul 01 |
 | **[Hoar Construction](http://www.hoar.com)** | **[Intern/Co-Op Fall 2026 / HPM](https://jobright.ai/jobs/info/6a33002ff6b55d12c7917369?utm_campaign=1048&utm_source=git)** | Birmingham, Alabama | On Site | Jul 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, BT Cybersecurity Operations-Dallas, TX](https://jobright.ai/jobs/info/6a4555960dd56c76cc2f30ce?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jul 01 |
 | **[Process Technology](https://www.processtechnology.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a450fb7497c084dcfb5a3eb?utm_campaign=1048&utm_source=git)** | Mayfield, OH 44143, USA | On Site | Jul 01 |
 | **[Woodstream Corporation](https://woodstreampartnerportal.com)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/6a45417d3dbab558e29a09d7?utm_campaign=1048&utm_source=git)** | Lancaster, PA, US | On Site | Jul 01 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[General Cybersecurity Intern - CIPHER- Fall 2026](https://jobright.ai/jobs/info/6a42a2b36a9c2774b3fa6be3?utm_campaign=1048&utm_source=git)** | Atlanta, Georgia | On Site | Jul 01 |
-| ↳ | **[SSED Mechanical Engineering Intern - Fall 2026 - SEAL](https://jobright.ai/jobs/info/6a429b326c326942b4e8369f?utm_campaign=1048&utm_source=git)** | Smyrna, Georgia | On Site | Jul 01 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 Process Control Engineer Co-op/Internship - Big Island, VA](https://jobright.ai/jobs/info/6a2e2d36d3ec94183f4c0974?utm_campaign=1048&utm_source=git)** | Big Island, VA | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
