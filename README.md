@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Environmental Test Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a47352f0dd56c76cc2fc45e?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jul 02 |
+| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Fall 2026 - Threat](https://jobright.ai/jobs/info/6a34a3e629c90c607e4e0057?utm_campaign=1048&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Mission Operation Intern Fall 2026](https://jobright.ai/jobs/info/6a2212d0902d19201c7bbdc8?utm_campaign=1048&utm_source=git)** | Littleton, CO | On Site | Jul 02 |
 | **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, NMR Analysis Automation](https://jobright.ai/jobs/info/6a46a87c3dbab558e29a8160?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 02 |
 | **[Coreshell](https://www.coreshell.com)** | **[R&D Summer Intern](https://jobright.ai/jobs/info/6a4309d9a5e15b106837b097?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Jul 02 |
 | **[Servicon](https://servicon.com/)** | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a472065c2d11a6a466718df?utm_campaign=1048&utm_source=git)** | Culver City, CA, US | Hybrid | Jul 02 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Supercomputing Intern](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e39?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[GenCTX](https://www.genctx.com/)** | **[Paid Internship — Cell Biology](https://jobright.ai/jobs/info/6a46a8488204a812e98c95c4?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Jul 02 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI/LLM Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a46a7b23dbab558e29a80f4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
-| ↳ | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46a7a84f64ba41dcb5443b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | ↳ | **[Network Software Development Engineer Intern (Network Switch) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a46a7a84f64ba41dcb5443a?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
+| ↳ | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46a7a84f64ba41dcb5443b?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Powerhouse Summer Research Intern](https://jobright.ai/jobs/info/6a46a37c4f64ba41dcb54388?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, US | On Site | Jul 02 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Electrical Engineering Internship - 2026 Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a46982d0dd56c76cc2fa217?utm_campaign=1048&utm_source=git)** | The Woodlands, TX, US | Hybrid | Jul 02 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[R&D Sustainability Intern - Nestlé Health Science](https://jobright.ai/jobs/info/6a46a1af3dbab558e29a7ff3?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ | On Site | Jul 02 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Teleflex](http://www.teleflex.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6a46950b4f64ba41dcb53f40?utm_campaign=1048&utm_source=git)** | Olive Branch, MS | On Site | Jul 02 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Electrical Engineering Internship - 12+ Months](https://jobright.ai/jobs/info/6a32cb2ef6b55d12c7915a8d?utm_campaign=1048&utm_source=git)** | Nunavut-Baker Lake | On Site | Jul 02 |
 | **[Mayzon](https://www.mayzon.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/6a469055c2d11a6a4666f856?utm_campaign=1048&utm_source=git)** | New Castle, DE | On Site | Jul 02 |
-| **[Gogo](https://business.gogoair.com/)** | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a0?utm_campaign=1048&utm_source=git)** | Broomfield, CO United States | On Site | Jul 02 |
+| **[Gogo](https://business.gogoair.com/)** | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a1?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
+| ↳ | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a0?utm_campaign=1048&utm_source=git)** | Broomfield, CO United States | On Site | Jul 02 |
 | ↳ | **[Gogo Intern: Cybersecurity Technician](https://jobright.ai/jobs/info/6a1f2d54c5277c00c648407d?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
 | ↳ | **[Gogo Intern: Cybersecurity Technician](https://jobright.ai/jobs/info/6a1f2d54c5277c00c648407e?utm_campaign=1048&utm_source=git)** | Broomfield, CO United States | On Site | Jul 02 |
-| ↳ | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a1?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
 | **[Roush](https://www.roush.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a468cdc0dd56c76cc2f9d44?utm_campaign=1048&utm_source=git)** | Livonia, MI | On Site | Jul 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Transportation Operations Analysis & Development, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a3c39d1d261407de97fcedd?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jul 02 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Construction Estimating Internship](https://jobright.ai/jobs/info/6a468c67c2d11a6a4666f6f9?utm_campaign=1048&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jul 02 |
 | ↳ | **[Summer 2027 Construction Management Internship](https://jobright.ai/jobs/info/6a468c63c2d11a6a4666f6f6?utm_campaign=1048&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jul 02 |
 | ↳ | **[Summer 2027 Construction Management Internship](https://jobright.ai/jobs/info/6a468c62c2d11a6a4666f6f4?utm_campaign=1048&utm_source=git)** | St. Louis, Missouri, United States | On Site | Jul 02 |
-| ↳ | **[Summer 2027 Construction Management Internship](https://jobright.ai/jobs/info/6a468c5e3dbab558e29a7881?utm_campaign=1048&utm_source=git)** | New Braunfels, Texas, United States | On Site | Jul 02 |
-| ↳ | **[Summer 2027 Traveling Construction Management Internship](https://jobright.ai/jobs/info/6a468c5c8204a812e98c8d35?utm_campaign=1048&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 02 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Fall Internship - Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/6a3da54b122f340d29cf196b?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
