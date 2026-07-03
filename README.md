@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OWN, Inc.](https://www.weareown.com)** | **[Civil/Geotechnical Engineering Intern](https://jobright.ai/jobs/info/6a38d86229c90c607e4e8414?utm_campaign=1048&utm_source=git)** | Columbia, MO, 66210, US | On Site | Jul 03 |
+| **[Conduent](https://www.conduent.com/)** | **[Summer Intern – CXM Transformation, AI & GTM Support](https://jobright.ai/jobs/info/6a365fab29c90c607e4e4afa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
+| **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Quality Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69f80037582f810f9c8cc78f?utm_campaign=1048&utm_source=git)** | Manassas, Virginia, United States | On Site | Jul 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Applied Science: PhD Microsoft AI Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6a2bfc90a1d15e3c552f9912?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 03 |
 | **[Tenex](tenex.co)** | **[AI Talent Development Intern](https://jobright.ai/jobs/info/6a47ed093dbab558e29abb1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
@@ -89,37 +92,37 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Industrial Mechanical Technician 2026 Internship](https://jobright.ai/jobs/info/69d52124cfdc6132f945fd85?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Jul 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a30f4f7afabbe533fb8cd47?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jul 03 |
 | **[WiCi AI](https://wici.ai/)** | **[Developer Community Manager](https://jobright.ai/jobs/info/6a47b4764f64ba41dcb574aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
-| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a0f53bf80bf0430c7632a68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[DoW Skillbridge Internship - Maintenance Technician I](https://jobright.ai/jobs/info/69d8239bf4ea471a51fe3e9a?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a3dc1f9d261407de9801c90?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
-| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff0c4a0a6a7e7d81eed6?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff074a0a6a7e7d81eec1?utm_campaign=1048&utm_source=git)** | Fremont - Kaiser | On Site | Jul 03 |
+| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff0c4a0a6a7e7d81eed6?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
+| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5c1939a5f01db952f5c?utm_campaign=1048&utm_source=git)** | Fremont campus | On Site | Jul 03 |
+| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5bf939a5f01db952f59?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f58?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5cf?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f56?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5bf939a5f01db952f59?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5c1939a5f01db952f5c?utm_campaign=1048&utm_source=git)** | Fremont campus | On Site | Jul 03 |
 | ↳ | **[Manufacturing Intern, Surgery & Robot Hardware](https://jobright.ai/jobs/info/6a0f4caa83d714428981e6ea?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a20c2324bdf8a5a96bd2d92?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a20c2324bdf8a5a96bd2d91?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0700a2078fec52738a5309?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0704db9f57175bd581f312?utm_campaign=1048&utm_source=git)** | Austin | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a20c2324bdf8a5a96bd2d91?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0700a4078fec52738a5316?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0700a2078fec52738a5309?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
 | ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a0721d54a0a6a7e7d8242d4?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
 | ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a064b96320bff2205eab17d?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a18da2dc2a87d6cd3df536c?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Systems Engineer Intern](https://jobright.ai/jobs/info/69d6bfc4e63cea7a8b66bad8?utm_campaign=1048&utm_source=git)** | Bloomington-MN | On Site | Jul 03 |
 | **[HII](https://hii.com)** | **[PRODUCTION PLNG AND SCHEDULER SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b18c5d7b097d2df384b1?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[ENGINEER INDUSTRIAL SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b188f9cbb100d1ab0cbc?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
-| ↳ | **[MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1855d7b097d2df384af?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[INDUSTRIAL HYGIENIST SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1854f64ba41dcb5745a?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
+| ↳ | **[MECHANICAL ENGINEER SKILLBRIDGE INTERN (PLANT OPERATIONS Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1855d7b097d2df384af?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[NUMERICAL CONTROL PROGRAMMER SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1844f64ba41dcb57459?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[STRUCTURAL/CIVIL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b183c2d11a6a46672dea?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[HEALTH AND SAFETY SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b182c2d11a6a46672de8?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
-| ↳ | **[SAFETY TECH SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1805d7b097d2df384a9?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[MACHINIST SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1804f64ba41dcb57454?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
+| ↳ | **[SAFETY TECH SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b1805d7b097d2df384a9?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[DECK ELECTRICIAN SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b17f5d7b097d2df384a8?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[ENGINEERING TECH SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b17e5d7b097d2df384a7?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | ↳ | **[PRODUCTION PLANNER SKILLBRIDGE INTERN Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b17ef9cbb100d1ab0cb3?utm_campaign=1048&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Optical Platform Systems Intern (Fall 2026 - 4 months)](https://jobright.ai/jobs/info/6a148379554b0e12c057f49c?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 03 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[PhD Research Intern - Volumetric Representation (Fall 2026)](https://jobright.ai/jobs/info/6a2b4e919bf7365df089d478?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA | On Site | Jul 03 |
 | **[M4 Control Systems](https://m4controls.com/)** | **[Automation & Controls Intern](https://jobright.ai/jobs/info/6a47dc085d7b097d2df388b2?utm_campaign=1048&utm_source=git)** | Sha-Get Acres, IN | On Site | Jul 03 |
-| **[Zscaler](https://www.zscaler.com)** | **[Insider Risk Analyst - SkillBridge Intern](https://jobright.ai/jobs/info/69d54d68e63cea7a8b660215?utm_campaign=1048&utm_source=git)** | Remote - USA | Remote | Jul 03 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[PhD Research Intern  - Volumetric Representation (Fall 2026, Atlanta)](https://jobright.ai/jobs/info/6a2b4e92c07d4b6ae1c4a3be?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
-| **[CEC](https://cecfg.com)** | **[Electrical VDC Intern (33383)](https://jobright.ai/jobs/info/6a221dacc00e701fe8372efb?utm_campaign=1048&utm_source=git)** | Irving, TX | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
