@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, NMR Analysis Automation](https://jobright.ai/jobs/info/6a46a87c3dbab558e29a8160?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 02 |
+| **[Coreshell](https://www.coreshell.com)** | **[R&D Summer Intern](https://jobright.ai/jobs/info/6a4309d9a5e15b106837b097?utm_campaign=1048&utm_source=git)** | San Leandro, CA | On Site | Jul 02 |
+| **[Servicon](https://servicon.com/)** | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a472065c2d11a6a466718df?utm_campaign=1048&utm_source=git)** | Culver City, CA, US | Hybrid | Jul 02 |
+| **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6a31c6955958816970016d72?utm_campaign=1048&utm_source=git)** | Brampton, Canada | On Site | Jul 02 |
+| **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Systems Engineer Summer 2027 Intern](https://jobright.ai/jobs/info/6a45cd173dbab558e29a22dc?utm_campaign=1048&utm_source=git)** | San Francisco, CA, US | On Site | Jul 02 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern - Systems Administrator I (Active Duty Service Member)](https://jobright.ai/jobs/info/6a428bb86c326942b4e833a3?utm_campaign=1048&utm_source=git)** | US-CO-Colorado Springs | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Advanced Visualization Engineering Intern](https://jobright.ai/jobs/info/6a46a1920dd56c76cc2fa3ff?utm_campaign=1048&utm_source=git)** | Vine Street Office Building, US | On Site | Jul 02 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Hardware Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a395e86214ae004c7a1e0f9?utm_campaign=1048&utm_source=git)** | New York, NY, US | On Site | Jul 02 |
@@ -85,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Gila County](http://www.gilacountyaz.gov)** | **[SAP iXp Intern - SAP Research Operations Specialist Intern](https://jobright.ai/jobs/info/6a46cb560dd56c76cc2faebc?utm_campaign=1048&utm_source=git)** | Tempe, Arizona, USA | On Site | Jul 02 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[Quality Assurance Fellow](https://jobright.ai/jobs/info/6a467a4cc2d11a6a4666f2eb?utm_campaign=1048&utm_source=git)** | Godley, TX 76044 | Remote | Jul 02 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, GIS](https://jobright.ai/jobs/info/6a15ba810073182bd92ac242?utm_campaign=1048&utm_source=git)** | La Crosse, Wisconsin, US | On Site | Jul 02 |
-| **[Ricola](http://www.ricola.com/en-ch)** | **[Quality Assurance/Administration Intern](https://jobright.ai/jobs/info/6a46cab98204a812e98c9eeb?utm_campaign=1048&utm_source=git)** | Parsippany, NJ | On Site | Jul 02 |
 | **[City of Edmond](https://www.edmondok.gov)** | **[Project Engineer or Engineer Intern](https://jobright.ai/jobs/info/6a46ff160dd56c76cc2fbb56?utm_campaign=1048&utm_source=git)** | Edmond, OK | On Site | Jul 02 |
 | **[Astrion](https://astrion.us)** | **[Engineering Directorate Support Intern](https://jobright.ai/jobs/info/6a3550c57f3fdd180d4ccfc0?utm_campaign=1048&utm_source=git)** | Mountain View,California,United States | On Site | Jul 02 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Manufacturing Engineering Co-op / Intern](https://jobright.ai/jobs/info/6a46c4258204a812e98c9ceb?utm_campaign=1048&utm_source=git)** | Boston, MA, USA | On Site | Jul 02 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[FURY IW/CRY Mission Tech (SkillBridge Intern) - 12513 Job Details / HII's Mission Technologies division](https://jobright.ai/jobs/info/6a28c1bb7061b51a3a5f7b48?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA, Virginia, United States | On Site | Jul 02 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[Machine Learning Intern (Singapore)](https://jobright.ai/jobs/info/6a35a552f6b55d12c7920e7d?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - AI Engineer](https://jobright.ai/jobs/info/6a46a9ef8204a812e98c9690?utm_campaign=1048&utm_source=git)** | Lincoln, NE, US | On Site | Jul 02 |
-| **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, NMR Analysis Automation](https://jobright.ai/jobs/info/6a46a87c3dbab558e29a8160?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 02 |
 | **[Etched](https://www.etched.com)** | **[Supercomputing Intern](https://jobright.ai/jobs/info/6a0d15c6538d03366dc93e39?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[GenCTX](https://www.genctx.com/)** | **[Paid Internship — Cell Biology](https://jobright.ai/jobs/info/6a46a8488204a812e98c95c4?utm_campaign=1048&utm_source=git)** | Somerville, MA | On Site | Jul 02 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI/LLM Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a46a7b23dbab558e29a80f4?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Mayzon](https://www.mayzon.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/6a469055c2d11a6a4666f856?utm_campaign=1048&utm_source=git)** | New Castle, DE | On Site | Jul 02 |
 | **[Gogo](https://business.gogoair.com/)** | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a0?utm_campaign=1048&utm_source=git)** | Broomfield, CO United States | On Site | Jul 02 |
 | ↳ | **[Gogo Intern: Cybersecurity Technician](https://jobright.ai/jobs/info/6a1f2d54c5277c00c648407d?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
-| ↳ | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a1?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
 | ↳ | **[Gogo Intern: Cybersecurity Technician](https://jobright.ai/jobs/info/6a1f2d54c5277c00c648407e?utm_campaign=1048&utm_source=git)** | Broomfield, CO United States | On Site | Jul 02 |
+| ↳ | **[Gogo Intern: Cybersecurity Infrastructure Technician](https://jobright.ai/jobs/info/6a1f2d5c80491567811676a1?utm_campaign=1048&utm_source=git)** | US | Remote | Jul 02 |
 | **[Roush](https://www.roush.com)** | **[Mechanical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a468cdc0dd56c76cc2f9d44?utm_campaign=1048&utm_source=git)** | Livonia, MI | On Site | Jul 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Transportation Operations Analysis & Development, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a3c39d1d261407de97fcedd?utm_campaign=1048&utm_source=git)** | Brooklyn, NY | On Site | Jul 02 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Construction Estimating Internship](https://jobright.ai/jobs/info/6a468c67c2d11a6a4666f6f9?utm_campaign=1048&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jul 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Construction Management Internship](https://jobright.ai/jobs/info/6a468c5e3dbab558e29a7881?utm_campaign=1048&utm_source=git)** | New Braunfels, Texas, United States | On Site | Jul 02 |
 | ↳ | **[Summer 2027 Traveling Construction Management Internship](https://jobright.ai/jobs/info/6a468c5c8204a812e98c8d35?utm_campaign=1048&utm_source=git)** | Canton, Ohio, United States | On Site | Jul 02 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Fall Internship - Supplier Quality Engineering Intern](https://jobright.ai/jobs/info/6a3da54b122f340d29cf196b?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 02 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Drexel Site Engineering Co-op (Fall/Winter 2026) - Limerick](https://jobright.ai/jobs/info/69efadc4fbe0994a40eb7a32?utm_campaign=1048&utm_source=git)** | Pottstown, PA | On Site | Jul 02 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69ba96d45697383741404da7?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 02 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a4689fc8204a812e98c8c6a?utm_campaign=1048&utm_source=git)** | US-WA-Seattle | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
