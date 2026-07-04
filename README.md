@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geo-Technology Associates, Inc. (GTA)](http://gtaeng.com)** | **[Geotechnical Engineering Technician Internship](https://jobright.ai/jobs/info/6a2c35a27cd40a338fae531a?utm_campaign=1048&utm_source=git)** | Georgetown, DE | On Site | Jul 04 |
+| **[Teleflex](http://www.teleflex.com)** | **[Industrial Engineer Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a48c823971cd25b06f94a57?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, US | On Site | Jul 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4414ec57ffc22029406332?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jul 03 |
 | **[Brad Hall Companies](https://bradhallfuel.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a48acbe971cd25b06f948f5?utm_campaign=1048&utm_source=git)** | HFIM HQ - Idaho Falls, ID 83404 | On Site | Jul 03 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Technical Intern (Product Development Co-op)](https://jobright.ai/jobs/info/68f2cbd79a63986de756c647?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 03 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Process Technology](https://www.processtechnology.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a450fb7497c084dcfb5a3eb?utm_campaign=1048&utm_source=git)** | Mayfield, OH 44143, USA | On Site | Jul 03 |
 | **[Modjeski and Masters](http://modjeski.com)** | **[Civil Engineer Internship - Bridge Design  (54276)](https://jobright.ai/jobs/info/6a4330e74461bf091787ac14?utm_campaign=1048&utm_source=git)** | New Orleans LA - New Orleans, LA 70163 | On Site | Jul 03 |
 | **[CoolIT Systems](https://www.coolitsystems.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/6a481bbd4f64ba41dcb5833f?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 03 |
-| **[Intel](http://www.intel.com)** | **[AI Software Engineering Intern](https://jobright.ai/jobs/info/6a462a40971cd25b06f8c4c3?utm_campaign=1048&utm_source=git)** | US, Oregon, Hillsboro, US | Hybrid | Jul 03 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a487bfc3dbab558e29acda2?utm_campaign=1048&utm_source=git)** | Sherwood, OR | On Site | Jul 03 |
 | **[Duke Manufacturing Co.](https://dukemfg.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a486bc23dbab558e29acbf0?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Jul 03 |
 | **[Tencent](https://www.tencent.com/)** | **[Cloud Media Services Intern](https://jobright.ai/jobs/info/6a480848c2d11a6a46673a29?utm_campaign=1048&utm_source=git)** | US-California-Palo Alto, United States of America | On Site | Jul 03 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Cybersecurity & AI Research Intern:  AI and Software Development](https://jobright.ai/jobs/info/6a488a4dc2d11a6a46674a70?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jul 03 |
 | **[Tenex](tenex.co)** | **[AI Talent Development Intern](https://jobright.ai/jobs/info/6a47ed093dbab558e29abb1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Westlake](http://www.westlake.com)** | **[2026 Intern - Mechanical Engineer](https://jobright.ai/jobs/info/69ba95383b74eb1e2c88a0cc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
-| **[MAHLE](https://www.mahle.com)** | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
-| ↳ | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| ↳ | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Fall 2026 Engineering Intern - Davis Besse](https://jobright.ai/jobs/info/69d6df2648f0c8161d2fbb19?utm_campaign=1048&utm_source=git)** | Oak Harbor, OH | On Site | Jul 03 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Stagiaire – Santé et Sécurité au Travail/Health and Safety Intern](https://jobright.ai/jobs/info/6a2bb8e1d3ec8317fe149379?utm_campaign=1048&utm_source=git)** | Varennes, Quebec, Canada | On Site | Jul 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a70811de59e0682a848aa?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c2?utm_campaign=1048&utm_source=git)** | Cape Canaveral, FL | On Site | Jul 03 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Fall 2026)](https://jobright.ai/jobs/info/696588ce5ad3a93f8230d072?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a0f6ac112f8b43cf397ee75?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
-| **[Nokia](http://www.nokia.com)** | **[Test Automation  Co-op/Intern](https://jobright.ai/jobs/info/6a1153bb69bd827926af3352?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
