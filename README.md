@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Highway Intern](https://jobright.ai/jobs/info/6a0f05e372b52f7225f3a7d1?utm_campaign=1048&utm_source=git)** | United States-California-Riverside | On Site | Jul 04 |
 | **[Geo-Technology Associates, Inc. (GTA)](http://gtaeng.com)** | **[Geotechnical Engineering Technician Internship](https://jobright.ai/jobs/info/6a2c35a27cd40a338fae531a?utm_campaign=1048&utm_source=git)** | Georgetown, DE | On Site | Jul 04 |
 | **[Teleflex](http://www.teleflex.com)** | **[Industrial Engineer Intern Job Details / Teleflex](https://jobright.ai/jobs/info/6a48c823971cd25b06f94a57?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, US | On Site | Jul 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4414ec57ffc22029406332?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jul 03 |
 | **[Brad Hall Companies](https://bradhallfuel.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a48acbe971cd25b06f948f5?utm_campaign=1048&utm_source=git)** | HFIM HQ - Idaho Falls, ID 83404 | On Site | Jul 03 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Scientist Intern (SA Lab) Fall 2026](https://jobright.ai/jobs/info/6a48d4f7c2d11a6a4667509f?utm_campaign=1048&utm_source=git)** | Northwood, OH | On Site | Jul 03 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Technical Intern (Product Development Co-op)](https://jobright.ai/jobs/info/68f2cbd79a63986de756c647?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 03 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern - Mechanical/Structures](https://jobright.ai/jobs/info/6a488da1971cd25b06f945c2?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Thermal Optimization Engineering Intern – Fall](https://jobright.ai/jobs/info/6a488d3d3dbab558e29acf1d?utm_campaign=1048&utm_source=git)** | CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA, United States of America | Hybrid | Jul 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Industrial Mechanical Technician 2026 Internship](https://jobright.ai/jobs/info/69d52124cfdc6132f945fd85?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Jul 03 |
 | **[Astrion](https://astrion.us)** | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c3?utm_campaign=1048&utm_source=git)** | Kennedy Space Center, Florida, United States | On Site | Jul 03 |
 | ↳ | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c2?utm_campaign=1048&utm_source=git)** | Cape Canaveral, FL | On Site | Jul 03 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Fall 2026)](https://jobright.ai/jobs/info/696588ce5ad3a93f8230d072?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a0f6ac112f8b43cf397ee75?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
