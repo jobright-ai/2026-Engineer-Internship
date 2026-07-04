@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern](https://jobright.ai/jobs/info/6a484d8c3dbab558e29ac934?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jul 03 |
 | **[Vishru](https://www.linkedin.com/company/131964238)** | **[Audio Engineer - Intern](https://jobright.ai/jobs/info/6a4848204f64ba41dcb58c0e?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
 | **[GCX](https://www.gcx.com/)** | **[Mechanical Engineering Co-op / Intern – Product Development & Manufacturing](https://jobright.ai/jobs/info/6a3a81d5dd879c60912af23b?utm_campaign=1048&utm_source=git)** | Franklin, MA | On Site | Jul 03 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a483aa5c2d11a6a46674429?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 03 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Stagiaire – Santé et Sécurité au Travail/Health and Safety Intern](https://jobright.ai/jobs/info/6a2bb8e1d3ec8317fe149379?utm_campaign=1048&utm_source=git)** | Varennes, Quebec, Canada | On Site | Jul 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a70811de59e0682a848aa?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
+| **[MYR Group](https://myrgroup.com/)** | **[DoD SkillBridge Intern- Safety](https://jobright.ai/jobs/info/6a0f8e0180bf0430c7635039?utm_campaign=1048&utm_source=git)** | Chino Hills, CA | On Site | Jul 03 |
 | **[Blackpoint Cyber](https://www.blackpointcyber.com)** | **[Cyber Threat Intelligence Analyst SkillBridge Internship](https://jobright.ai/jobs/info/6a0e3a6cbeb4d73cb6230809?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
 | **[GlobalLogic](http://www.globallogic.com)** | **[Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762](https://jobright.ai/jobs/info/6a472840971cd25b06f914dd?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
 | **[Yulista Holding LLC](http://yulista.com)** | **[Technician Apprentice Internship](https://jobright.ai/jobs/info/6a0dd1e5c152ac782448022d?utm_campaign=1048&utm_source=git)** | TFOME1 - OH - Glenn Research Center at Lewis Field, US | Remote | Jul 03 |
@@ -139,22 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/69e2a41b3ce36005badbefe1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 03 |
 | ↳ | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a18625354a441713ae83c2e?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[WiCi AI](https://wici.ai/)** | **[Developer Community Manager](https://jobright.ai/jobs/info/6a47b4764f64ba41dcb574aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
-| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a0f53bf80bf0430c7632a68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0f53ad619335383fb2aeaa?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[DoW Skillbridge Internship - Maintenance Technician I](https://jobright.ai/jobs/info/69d8237db861c42857c48be5?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff0c4a0a6a7e7d81eed6?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a0fd6d212f8b43cf3981f09?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a22672a597131741415eb05?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff074a0a6a7e7d81eec1?utm_campaign=1048&utm_source=git)** | Fremont - Kaiser | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f56?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff0c4a0a6a7e7d81eed6?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5c1939a5f01db952f5c?utm_campaign=1048&utm_source=git)** | Fremont campus | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f58?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5bf939a5f01db952f59?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
+| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f56?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a12cd93619335383fb3b5cf?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | **[Nokia](http://www.nokia.com)** | **[NW Automation Practice Co-op/Intern](https://jobright.ai/jobs/info/69f2b0768d8d624381aa234f?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | ↳ | **[NW Automation Practice Co-op/Intern](https://jobright.ai/jobs/info/6a1b37bd547e292ae139c9aa?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Manufacturing Intern, Surgery & Robot Hardware](https://jobright.ai/jobs/info/6a0f4caa83d714428981e6ea?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0700a4078fec52738a5316?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a20c2324bdf8a5a96bd2d92?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
