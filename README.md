@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Fall 2026 - Payments](https://jobright.ai/jobs/info/6a35d967f6b55d12c792136b?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jul 03 |
+| **[Alstom](https://www.alstom.com/)** | **[Electro-Mechanical Intern](https://jobright.ai/jobs/info/6a4860cbc2d11a6a46674740?utm_campaign=1048&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Jul 03 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, BT Cybersecurity Operations-Dallas, TX](https://jobright.ai/jobs/info/6a485c705d7b097d2df39f22?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jul 03 |
 | **[Brose Group](https://www.brose.com/)** | **[Industrial Engineer Intern Job Details / Brose](https://jobright.ai/jobs/info/6a485abc4f64ba41dcb58de0?utm_campaign=1048&utm_source=git)** | New Boston, MI, US | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Monetization Technology)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a416a0c16b1493953284196?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jul 03 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Process Technology](https://www.processtechnology.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a450fb7497c084dcfb5a3eb?utm_campaign=1048&utm_source=git)** | Mayfield, OH 44143, USA | On Site | Jul 03 |
 | **[Modjeski and Masters](http://modjeski.com)** | **[Civil Engineer Internship - Bridge Design  (54276)](https://jobright.ai/jobs/info/6a4330e74461bf091787ac14?utm_campaign=1048&utm_source=git)** | New Orleans LA - New Orleans, LA 70163 | On Site | Jul 03 |
 | **[CoolIT Systems](https://www.coolitsystems.com)** | **[Mechanical Design Intern](https://jobright.ai/jobs/info/6a481bbd4f64ba41dcb5833f?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 03 |
+| **[Duke Manufacturing Co.](https://dukemfg.com/)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a486bc23dbab558e29acbf0?utm_campaign=1048&utm_source=git)** | Sedalia, MO | On Site | Jul 03 |
 | **[Intel](http://www.intel.com)** | **[AI Software Engineering Intern](https://jobright.ai/jobs/info/6a462a40971cd25b06f8c4c3?utm_campaign=1048&utm_source=git)** | US, Oregon, Hillsboro, US | Hybrid | Jul 03 |
 | **[Tencent](https://www.tencent.com/)** | **[Cloud Media Services Intern](https://jobright.ai/jobs/info/6a480848c2d11a6a46673a29?utm_campaign=1048&utm_source=git)** | US-California-Palo Alto, United States of America | On Site | Jul 03 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[COOK Medical Fall 2026 R&D Engineering Co-op](https://jobright.ai/jobs/info/69bb8a835697383741419629?utm_campaign=1048&utm_source=git)** | Greater Bloomington Area | Hybrid | Jul 03 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Applied Science: PhD Microsoft AI Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6a2bfc90a1d15e3c552f9912?utm_campaign=1048&utm_source=git)** | Redmond, WA | On Site | Jul 03 |
 | **[Tenex](tenex.co)** | **[AI Talent Development Intern](https://jobright.ai/jobs/info/6a47ed093dbab558e29abb1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Westlake](http://www.westlake.com)** | **[2026 Intern - Mechanical Engineer](https://jobright.ai/jobs/info/69ba95383b74eb1e2c88a0cc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
-| **[MAHLE](https://www.mahle.com)** | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
-| ↳ | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| ↳ | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Stagiaire – Santé et Sécurité au Travail/Health and Safety Intern](https://jobright.ai/jobs/info/6a2bb8e1d3ec8317fe149379?utm_campaign=1048&utm_source=git)** | Varennes, Quebec, Canada | On Site | Jul 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a70811de59e0682a848aa?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[MYR Group](https://myrgroup.com/)** | **[DoD SkillBridge Intern- Safety](https://jobright.ai/jobs/info/6a0f8e0180bf0430c7635039?utm_campaign=1048&utm_source=git)** | Chino Hills, CA | On Site | Jul 03 |
@@ -135,6 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[FPGA Intern (Fall 2026)](https://jobright.ai/jobs/info/69f2d86534c4af7a79ab79d0?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jul 03 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3d?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 03 |
+| **[Astrion](https://astrion.us)** | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/69f2ccf18feca91f14927fa2?utm_campaign=1048&utm_source=git)** | Orlando, FL | On Site | Jul 03 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Communications/DSP Intern (Fall 2026)](https://jobright.ai/jobs/info/69f2d88134c4af7a79ab7a16?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jul 03 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Systems Engineer Intern](https://jobright.ai/jobs/info/69d6df72366bb95ba55507f5?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Jul 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a2b27259bf7365df089caf1?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Industrial Mechanical Technician 2026 Internship](https://jobright.ai/jobs/info/69d52124cfdc6132f945fd85?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Jul 03 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/69e2a41b3ce36005badbefe1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 03 |
 | ↳ | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a18625354a441713ae83c2e?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[WiCi AI](https://wici.ai/)** | **[Developer Community Manager](https://jobright.ai/jobs/info/6a47b4764f64ba41dcb574aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
-| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6ad8?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
+| ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a0f53bf80bf0430c7632a68?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6a0f53ad619335383fb2aeaa?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[DoW Skillbridge Internship - Maintenance Technician I](https://jobright.ai/jobs/info/69d8239bf4ea471a51fe3e9a?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff0c4a0a6a7e7d81eed6?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a3dc1f9d261407de9801c90?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
-| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a06ff074a0a6a7e7d81eec1?utm_campaign=1048&utm_source=git)** | Fremont - Kaiser | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5bf939a5f01db952f59?utm_campaign=1048&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f58?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[IT Systems Administrator Intern](https://jobright.ai/jobs/info/6a07b5c1939a5f01db952f5c?utm_campaign=1048&utm_source=git)** | Fremont campus | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a3dc1f9d261407de9801c90?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
