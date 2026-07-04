@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4414ec57ffc22029406332?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Jul 03 |
+| **[Brad Hall Companies](https://bradhallfuel.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a48acbe971cd25b06f948f5?utm_campaign=1048&utm_source=git)** | HFIM HQ - Idaho Falls, ID 83404 | On Site | Jul 03 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Technical Intern (Product Development Co-op)](https://jobright.ai/jobs/info/68f2cbd79a63986de756c647?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 03 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern - Mechanical/Structures](https://jobright.ai/jobs/info/6a488da1971cd25b06f945c2?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Thermal Optimization Engineering Intern – Fall](https://jobright.ai/jobs/info/6a488d3d3dbab558e29acf1d?utm_campaign=1048&utm_source=git)** | CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA, United States of America | Hybrid | Jul 03 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Cybersecurity & AI Research Intern:  AI and Software Development](https://jobright.ai/jobs/info/6a488a4dc2d11a6a46674a70?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jul 03 |
 | **[Tenex](tenex.co)** | **[AI Talent Development Intern](https://jobright.ai/jobs/info/6a47ed093dbab558e29abb1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Westlake](http://www.westlake.com)** | **[2026 Intern - Mechanical Engineer](https://jobright.ai/jobs/info/69ba95383b74eb1e2c88a0cc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
-| **[MAHLE](https://www.mahle.com)** | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
-| ↳ | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| ↳ | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Fall 2026 Engineering Intern - Davis Besse](https://jobright.ai/jobs/info/69d6df2648f0c8161d2fbb19?utm_campaign=1048&utm_source=git)** | Oak Harbor, OH | On Site | Jul 03 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Stagiaire – Santé et Sécurité au Travail/Health and Safety Intern](https://jobright.ai/jobs/info/6a2bb8e1d3ec8317fe149379?utm_campaign=1048&utm_source=git)** | Varennes, Quebec, Canada | On Site | Jul 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a70811de59e0682a848aa?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a0f6ac112f8b43cf397ee75?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 | **[Nokia](http://www.nokia.com)** | **[Test Automation  Co-op/Intern](https://jobright.ai/jobs/info/6a1153bb69bd827926af3352?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a30f4f7afabbe533fb8cd47?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jul 03 |
-| **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a18625354a441713ae83c2e?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
-| ↳ | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/69e2a41b3ce36005badbefe1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
