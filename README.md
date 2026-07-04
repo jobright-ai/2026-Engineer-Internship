@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Packaging Corporation](https://americanpackaging.com)** | **[Technical Intern (Product Development Co-op)](https://jobright.ai/jobs/info/68f2cbd79a63986de756c647?utm_campaign=1048&utm_source=git)** | Rochester, NY | On Site | Jul 03 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern - Mechanical/Structures](https://jobright.ai/jobs/info/6a488da1971cd25b06f945c2?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Thermal Optimization Engineering Intern – Fall](https://jobright.ai/jobs/info/6a488d3d3dbab558e29acf1d?utm_campaign=1048&utm_source=git)** | CAG10: ALC HQ, 1025 Cobb Place Boulevard, Kennesaw, GA, 30145 USA, United States of America | Hybrid | Jul 03 |
 | **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Fall 2026 - Payments](https://jobright.ai/jobs/info/6a35d967f6b55d12c792136b?utm_campaign=1048&utm_source=git)** | Fairfax, VA | On Site | Jul 03 |
@@ -107,8 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Cybersecurity & AI Research Intern:  AI and Software Development](https://jobright.ai/jobs/info/6a488a4dc2d11a6a46674a70?utm_campaign=1048&utm_source=git)** | Princeton, NJ | On Site | Jul 03 |
 | **[Tenex](tenex.co)** | **[AI Talent Development Intern](https://jobright.ai/jobs/info/6a47ed093dbab558e29abb1e?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Westlake](http://www.westlake.com)** | **[2026 Intern - Mechanical Engineer](https://jobright.ai/jobs/info/69ba95383b74eb1e2c88a0cc?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 03 |
-| **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
-| ↳ | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| **[MAHLE](https://www.mahle.com)** | **[Operational Excellence (OPEX) Intern](https://jobright.ai/jobs/info/6a47e6685d7b097d2df38a0f?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| ↳ | **[Production Assembly Internship (HVAC Area)](https://jobright.ai/jobs/info/6a47e668971cd25b06f92e32?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 03 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Fall 2026 Engineering Intern - Davis Besse](https://jobright.ai/jobs/info/69d6df2648f0c8161d2fbb19?utm_campaign=1048&utm_source=git)** | Oak Harbor, OH | On Site | Jul 03 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Stagiaire – Santé et Sécurité au Travail/Health and Safety Intern](https://jobright.ai/jobs/info/6a2bb8e1d3ec8317fe149379?utm_campaign=1048&utm_source=git)** | Varennes, Quebec, Canada | On Site | Jul 03 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Network Development Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a70811de59e0682a848aa?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 03 |
 | **[MYR Group](https://myrgroup.com/)** | **[DoD SkillBridge Intern- Safety](https://jobright.ai/jobs/info/6a0f8e0180bf0430c7635039?utm_campaign=1048&utm_source=git)** | Chino Hills, CA | On Site | Jul 03 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Mechanical Systems Engineer Intern](https://jobright.ai/jobs/info/69d6df72366bb95ba55507f5?utm_campaign=1048&utm_source=git)** | Bloomington, MN | On Site | Jul 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a2b27259bf7365df089caf1?utm_campaign=1048&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Industrial Mechanical Technician 2026 Internship](https://jobright.ai/jobs/info/69d52124cfdc6132f945fd85?utm_campaign=1048&utm_source=git)** | Schenectady, NY | On Site | Jul 03 |
-| **[Astrion](https://astrion.us)** | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c2?utm_campaign=1048&utm_source=git)** | Cape Canaveral, FL | On Site | Jul 03 |
-| ↳ | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c3?utm_campaign=1048&utm_source=git)** | Kennedy Space Center, Florida, United States | On Site | Jul 03 |
+| **[Astrion](https://astrion.us)** | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c3?utm_campaign=1048&utm_source=git)** | Kennedy Space Center, Florida, United States | On Site | Jul 03 |
+| ↳ | **[Electromagnetics Laboratory Internship](https://jobright.ai/jobs/info/6a3f153d78237a036d5e67c2?utm_campaign=1048&utm_source=git)** | Cape Canaveral, FL | On Site | Jul 03 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op – Safety & Industrial Hygiene (Fall 2026)](https://jobright.ai/jobs/info/696588ce5ad3a93f8230d072?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a0f6ac112f8b43cf397ee75?utm_campaign=1048&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 | **[Nokia](http://www.nokia.com)** | **[Test Automation  Co-op/Intern](https://jobright.ai/jobs/info/6a1153bb69bd827926af3352?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a30f4f7afabbe533fb8cd47?utm_campaign=1048&utm_source=git)** | Nashville, TN, US | On Site | Jul 03 |
 | **[Nokia](http://www.nokia.com)** | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a18625354a441713ae83c2e?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | ↳ | **[DSP Firmware Engineering Co-op/Intern](https://jobright.ai/jobs/info/69e2a41b3ce36005badbefe1?utm_campaign=1048&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 03 |
-| **[WiCi AI](https://wici.ai/)** | **[Developer Community Manager](https://jobright.ai/jobs/info/6a47b4764f64ba41dcb574aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a18861a6243320e8d1653ed?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
