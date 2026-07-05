@@ -57,30 +57,37 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a20a?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20c?utm_campaign=1048&utm_source=git)** | Garyville, Louisiana, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20e?utm_campaign=1048&utm_source=git)** | Robinson, Illinois, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a209?utm_campaign=1048&utm_source=git)** | Anacortes, Washington, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a202?utm_campaign=1048&utm_source=git)** | Catlettsburg, Kentucky, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a206?utm_campaign=1048&utm_source=git)** | Owensboro, Kentucky, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1fe?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7612fc0644749054a20f?utm_campaign=1048&utm_source=git)** | Detroit, Michigan, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a203?utm_campaign=1048&utm_source=git)** | El Paso, Texas, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1ff?utm_campaign=1048&utm_source=git)** | Canton, Ohio, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a201?utm_campaign=1048&utm_source=git)** | Martinez, California, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7610fc0644749054a20b?utm_campaign=1048&utm_source=git)** | Texas City, Texas, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a204?utm_campaign=1048&utm_source=git)** | Mandan, North Dakota, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a205?utm_campaign=1048&utm_source=git)** | Wilmington, California, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a200?utm_campaign=1048&utm_source=git)** | St Paul Park, Minnesota, US | On Site | Jul 05 |
+| **[Magna International](http://www.magna.com/)** | **[Materials Intern - Summer 2026](https://jobright.ai/jobs/info/696a60e5350cf4380311485d?utm_campaign=1048&utm_source=git)** | Holland, Michigan, US | On Site | Jul 05 |
+| **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (AI Infrastructure)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4a6d2cc2d11a6a46676a4b?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 05 |
+| ↳ | **[Research Scientist Intern (AI Infrastructure)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4a6d2c5d7b097d2df3c2b7?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | Jul 05 |
+| ↳ | **[Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4a6d2a3dbab558e29aefa8?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | Jul 05 |
+| ↳ | **[Research Intern (SDN Traffic Intelligence & Control) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4a6d29971cd25b06f964ff?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | Jul 05 |
+| ↳ | **[Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4a6d295d7b097d2df3c2b5?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 05 |
+| ↳ | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a4a6d15c2d11a6a46676a45?utm_campaign=1048&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 05 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a205?utm_campaign=1048&utm_source=git)** | Wilmington, California, US | On Site | Jul 05 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7619fc0644749054a211?utm_campaign=1048&utm_source=git)** | Dickinson, North Dakota, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, US | On Site | Jul 05 |
-| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a207?utm_campaign=1048&utm_source=git)** | Kenai, Alaska, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1ff?utm_campaign=1048&utm_source=git)** | Canton, Ohio, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a203?utm_campaign=1048&utm_source=git)** | El Paso, Texas, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a209?utm_campaign=1048&utm_source=git)** | Anacortes, Washington, US | On Site | Jul 05 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a208?utm_campaign=1048&utm_source=git)** | Canonsburg, Pennsylvania, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a202?utm_campaign=1048&utm_source=git)** | Catlettsburg, Kentucky, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20e?utm_campaign=1048&utm_source=git)** | Robinson, Illinois, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a207?utm_campaign=1048&utm_source=git)** | Kenai, Alaska, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a201?utm_campaign=1048&utm_source=git)** | Martinez, California, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a204?utm_campaign=1048&utm_source=git)** | Mandan, North Dakota, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a20a?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7612fc0644749054a20f?utm_campaign=1048&utm_source=git)** | Detroit, Michigan, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760ffc0644749054a206?utm_campaign=1048&utm_source=git)** | Owensboro, Kentucky, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7610fc0644749054a20b?utm_campaign=1048&utm_source=git)** | Texas City, Texas, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760efc0644749054a200?utm_campaign=1048&utm_source=git)** | St Paul Park, Minnesota, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c760dfc0644749054a1fe?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, US | On Site | Jul 05 |
+| ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20c?utm_campaign=1048&utm_source=git)** | Garyville, Louisiana, US | On Site | Jul 05 |
 | **[Seven Research, LLC](sevenresearch.com)** | **[Deep Learning Researcher - Intern](https://jobright.ai/jobs/info/6a4a63e6f9cbb100d1ab4a1e?utm_campaign=1048&utm_source=git)** | New York | On Site | Jul 05 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jul 05 |
 | **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Engineering Intern Job Details / Aptar Group](https://jobright.ai/jobs/info/6a4a54a7971cd25b06f96431?utm_campaign=1048&utm_source=git)** | Midland, MI, US, 48642 | On Site | Jul 05 |
-| **[IDEXX](http://www.idexx.com)** | **[Security Operations (Cybersecurity) internship](https://jobright.ai/jobs/info/6a10ec6812f8b43cf3987f8c?utm_campaign=1048&utm_source=git)** | Westbrook, Maine, United States | Hybrid | Jul 05 |
-| ↳ | **[Security Operations (Cybersecurity) internship](https://jobright.ai/jobs/info/6a10ec7212f8b43cf3987f8d?utm_campaign=1048&utm_source=git)** | Westbrook, ME | Hybrid | Jul 05 |
+| **[IDEXX](http://www.idexx.com)** | **[Security Operations (Cybersecurity) internship](https://jobright.ai/jobs/info/6a10ec7212f8b43cf3987f8d?utm_campaign=1048&utm_source=git)** | Westbrook, ME | Hybrid | Jul 05 |
+| ↳ | **[Security Operations (Cybersecurity) internship](https://jobright.ai/jobs/info/6a10ec6812f8b43cf3987f8c?utm_campaign=1048&utm_source=git)** | Westbrook, Maine, United States | Hybrid | Jul 05 |
 | **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10818b69bd827926aeebc3?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 05 |
 | ↳ | **[Machine Learning Engineer Intern - Scenario Simulation](https://jobright.ai/jobs/info/6a10f1de9fdbf21f36cb1a04?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 05 |
 | ↳ | **[Machine Learning Engineer Intern - Scenario Generation](https://jobright.ai/jobs/info/6a10819b9fdbf21f36caef07?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 05 |
@@ -118,25 +125,25 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026](https://jobright.ai/jobs/info/6a1113e19f654b3359cefc5a?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Jul 04 |
 | **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Intern Artificial Intelligence (m/f/d)*](https://jobright.ai/jobs/info/6a0e32c409ecfd704b3e6cc0?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 04 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026](https://jobright.ai/jobs/info/6a1116b369bd827926af2650?utm_campaign=1048&utm_source=git)** | Massachusetts, United States | On Site | Jul 04 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a185790dbc80963f93423c2?utm_campaign=1048&utm_source=git)** | Richmond, BC, CA | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb55da08264614c906d9?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e322a203b1052e446a18?utm_campaign=1048&utm_source=git)** | Richmond, BC, CA | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e1a?utm_campaign=1048&utm_source=git)** | Dade City, FL, US | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e16?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 04 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e1a?utm_campaign=1048&utm_source=git)** | Dade City, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e243732c05812e2e1c?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, US | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a185790dbc80963f93423c2?utm_campaign=1048&utm_source=git)** | Richmond, BC, CA | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e16?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e2258f3e371eb61822ca?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e143732c05812e2e1b?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e18?utm_campaign=1048&utm_source=git)** | Kissimmee, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082dc43732c05812e2e17?utm_campaign=1048&utm_source=git)** | Tampa, FL, US | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082e243732c05812e2e1c?utm_campaign=1048&utm_source=git)** | Deerfield Beach, FL, US | On Site | Jul 04 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a3082df43732c05812e2e19?utm_campaign=1048&utm_source=git)** | Orlando, FL, US | On Site | Jul 04 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb5bda08264614c906e0?utm_campaign=1048&utm_source=git)** | CA-BC-Richmond | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e322a203b1052e446a18?utm_campaign=1048&utm_source=git)** | Richmond, BC, CA | On Site | Jul 04 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb55da08264614c906d9?utm_campaign=1048&utm_source=git)** | Victoria, BC, CA | On Site | Jul 04 |
 | **[Bonnell Aluminum](https://bonnellaluminum.com)** | **[Environmental Sustainability intern](https://jobright.ai/jobs/info/6a0f85ed9f654b3359ce69ad?utm_campaign=1048&utm_source=git)** | Newnan, GA, United States | On Site | Jul 04 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fce51ce78e77b4fe5b902?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jul 04 |
-| ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fdfcc53d97f23ee656827?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | Jul 04 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fdfcc53d97f23ee656827?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | Jul 04 |
+| ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fce51ce78e77b4fe5b902?utm_campaign=1048&utm_source=git)** | San Diego, CA, US | On Site | Jul 04 |
 | ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fd593ce78e77b4fe5bebf?utm_campaign=1048&utm_source=git)** | San Diego, CA | On Site | Jul 04 |
 | **[Airtech Vacuum](http://www.airtechusa.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a297a33495d985b99423a27?utm_campaign=1048&utm_source=git)** | Linthicum Heights, MD | On Site | Jul 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Network and Infrastructure Job Details / SRP](https://jobright.ai/jobs/info/6a493878c2d11a6a46675666?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, US | Hybrid | Jul 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Electrical Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a371d2d1232144fb1567070?utm_campaign=1048&utm_source=git)** | 433 River Street, Troy, NY, 12180, US | On Site | Jul 04 |
 | **[Cascades](http://www.cascades.com)** | **[Engineering Intern 2027](https://jobright.ai/jobs/info/6a0f487a72b52f7225f3c57b?utm_campaign=1048&utm_source=git)** | Niagara Falls, NY | On Site | Jul 04 |
 | ↳ | **[Engineering Intern 2027](https://jobright.ai/jobs/info/6a4350124461bf091787bdad?utm_campaign=1048&utm_source=git)** | Greenpac Mill | On Site | Jul 04 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0ff70c9f654b3359ce9024?utm_campaign=1048&utm_source=git)** | Richmond, VA, US | On Site | Jul 04 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://jobright.ai/jobs/info/69bc67ab4828227293fe3838?utm_campaign=1048&utm_source=git)** | Middlesex County, MA | On Site | Jul 04 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship](https://jobright.ai/jobs/info/6a0782538f3e371eb6177eec?utm_campaign=1048&utm_source=git)** | Orange, CA | Hybrid | Jul 04 |
-| **[Amazon](https://amazon.com)** | **[Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)](https://jobright.ai/jobs/info/69f2318a825a315d7ca3b27c?utm_campaign=1048&utm_source=git)** | Westboro, WI | On Site | Jul 04 |
-| **[Zipline](https://www.zipline.com/)** | **[Controls Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2ce65ef1751b183c81a1b8?utm_campaign=1048&utm_source=git)** | South San Francisco, CA | On Site | Jul 04 |
-| **[Threemile Canyon Farms](https://www.threemilecanyonfarms.com)** | **[Irrigation Intern](https://jobright.ai/jobs/info/699e32c7ce78e77b4fe344b6?utm_campaign=1048&utm_source=git)** | Boardman, Oregon, United States | On Site | Jul 04 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Systems Engineering](https://jobright.ai/jobs/info/6a2c1376a1d15e3c552f9e77?utm_campaign=1048&utm_source=git)** | Southfield, Michigan, US | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
