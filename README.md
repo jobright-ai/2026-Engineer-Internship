@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI](https://jobright.ai/jobs/info/6a3987cf1232144fb156bd95?utm_campaign=1048&utm_source=git)** | Vancouver, 6051 Silver Drive, CA | On Site | Jul 06 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Cybersecurity Analyst Intern](https://jobright.ai/jobs/info/6a4bff1ac2d11a6a46679915?utm_campaign=1048&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | Hybrid | Jul 06 |
+| **[Alstom](https://www.alstom.com/)** | **[Project Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4bfe294eb370649b27bd56?utm_campaign=1048&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Jul 06 |
+| **[AEM](https://www.aemonitoring.com)** | **[Intern: Manufacturing & Test Engineering](https://jobright.ai/jobs/info/6a4bfd784eb370649b27bd2a?utm_campaign=1048&utm_source=git)** | Hayward,CA,US | On Site | Jul 06 |
 | **[General Motors](https://www.gm.com)** | **[2026 Fall Intern - Research & Development](https://jobright.ai/jobs/info/6a4bfa25c2d11a6a4667980c?utm_campaign=1048&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Jul 06 |
 | ↳ | **[2026 Fall Intern - Research & Development: AI/ML](https://jobright.ai/jobs/info/6a4bfa1c5d7b097d2df3ef7d?utm_campaign=1048&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Jul 06 |
 | **[Trinity Information Technology, LLC](https://www.trinityit.biz)** | **[SKILLBRIDGE INTERNSHIP - Cybersecurity Engineer](https://jobright.ai/jobs/info/6a4bf9f64eb370649b27bc64?utm_campaign=1048&utm_source=git)** | Yardley, PA | On Site | Jul 06 |
@@ -100,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69300da4fa28370be26aece5?utm_campaign=1048&utm_source=git)** | Nashville, TN | On Site | Jul 06 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[Materials Field Engineer Internship (Chesapeake) 2026](https://jobright.ai/jobs/info/6a2ff7e3093df201d07aed18?utm_campaign=1048&utm_source=git)** | Chesapeake, VA | On Site | Jul 06 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/69304ae9fa28370be26afa49?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jul 06 |
-| **[Mobile Communications America](http://callmc.com)** | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f4cc4512f2811ab5a60ee5?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | Jul 06 |
+| **[Mobile Communications America](http://callmc.com)** | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f4cc4743a25828a8d14aee?utm_campaign=1048&utm_source=git)** | San Antonio, TX, US | On Site | Jul 06 |
 | ↳ | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f51c470b36ff0354750942?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
 | **[RTX](http://rtx.com/)** | **[Internship - Fall 2026 - Combustion Aero/Thermal Analyst](https://jobright.ai/jobs/info/6a4bba694f64ba41dcb5ce35?utm_campaign=1048&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, Canada | On Site | Jul 06 |
 | **[American Electric Power](http://aep.com)** | **[Transmission System Operator Intern](https://jobright.ai/jobs/info/6a4b8f63c2d11a6a466780c3?utm_campaign=1048&utm_source=git)** | Shreveport, LA, United States of America | On Site | Jul 06 |
@@ -130,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Peak Construction Corporation](https://peakconstruction.com)** | **[Project Engineer Intern 2027 (Mid-West Region)](https://jobright.ai/jobs/info/6a293dc1d3ec8317fe13d126?utm_campaign=1048&utm_source=git)** | Rosemont, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Research Scientist Intern (TikTok Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30c6ac43732c05812e3a91?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[HDR](http://www.hdrinc.com)** | **[BIM Transportation Intern](https://jobright.ai/jobs/info/6a42c642ff87fd527f9857d7?utm_campaign=1048&utm_source=git)** | Omaha, NE | On Site | Jul 06 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Engineer - Credit](https://jobright.ai/jobs/info/6a244577757ade085b6affe9?utm_campaign=1048&utm_source=git)** | New York, New York | On Site | Jul 06 |
-| ↳ | **[Quantitative Engineer - Credit](https://jobright.ai/jobs/info/6a244578757ade085b6affea?utm_campaign=1048&utm_source=git)** | New York | On Site | Jul 06 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Engineer - Credit](https://jobright.ai/jobs/info/6a244578757ade085b6affea?utm_campaign=1048&utm_source=git)** | New York | On Site | Jul 06 |
+| ↳ | **[Quantitative Engineer - Credit](https://jobright.ai/jobs/info/6a244577757ade085b6affe9?utm_campaign=1048&utm_source=git)** | New York, New York | On Site | Jul 06 |
 | **[MetroPower](http://metropower.com)** | **[Intern](https://jobright.ai/jobs/info/6a2e98677cd40a338faea72c?utm_campaign=1048&utm_source=git)** | Bainbridge, GA | On Site | Jul 06 |
 | **[Pieper Automation](https://pieperautomation.com)** | **[Automation Engineering Intern](https://jobright.ai/jobs/info/6a05fc277c753c287f6fdc83?utm_campaign=1048&utm_source=git)** | Wrightstown, WI, 54180, United States | On Site | Jul 06 |
 | **[HDR](http://www.hdrinc.com)** | **[BIM Transportation Intern](https://jobright.ai/jobs/info/6a4790b33dbab558e29aad05?utm_campaign=1048&utm_source=git)** | United States-Nebraska-Omaha | On Site | Jul 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Digi Security Systems](https://www.digiss.com)** | **[PE Operations Internship](https://jobright.ai/jobs/info/6a397a106484fb75f2b31c80?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jul 05 |
 | **[Adimab](http://www.adimab.com)** | **[Undergraduate HTE Research Co-op (January - June 2027)](https://jobright.ai/jobs/info/6a4bb4156189f64e437ef708?utm_campaign=1048&utm_source=git)** | Lebanon, NH | On Site | Jul 05 |
 | **[Invio Automation](https://invioautomation.com)** | **[Manufacturing Leadership Intern](https://jobright.ai/jobs/info/6a3befb68bfad862bc9985c8?utm_campaign=1048&utm_source=git)** | New Baltimore, MI | On Site | Jul 05 |
-| **[MAHLE](https://www.mahle.com)** | **[Production Assembly Internship (HVAC Area) Job Details / MAHLE](https://jobright.ai/jobs/info/6a4afa9a5d7b097d2df3c9c7?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 05 |
-| ↳ | **[Operational Excellence (OPEX) Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a4afa963dbab558e29af787?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jul 05 |
-| **[ByteDance](http://bytedance.com)** | **[Researcher Intern (Virtual Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4af9c8c2d11a6a466771d2?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States of America | On Site | Jul 05 |
-| **[Fujitsu](https://www.fujitsu.com/jp/group/fhm/)** | **[Research Intern, AI Security](https://jobright.ai/jobs/info/6a4b52d4971cd25b06f97505?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
