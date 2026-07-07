@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6a4af52b971cd25b06f96b8c?utm_campaign=1048&utm_source=git)** | Dallas, United States of America | Hybrid | Jul 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69d9bfb0869c7e25d859d531?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 07 |
 | **[ByteDance](http://bytedance.com)** | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4cbc1735e45603c4bb1bff?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | ↳ | **[Research Intern  (AI/LLM Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4cbc11d27b2c4dda9b5467?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Electrical Engineering Intern (Fall 2026 Co-op) - Global Facilities, Mission Critical (Columbus)](https://jobright.ai/jobs/info/6a42d6f26c326942b4e845c0?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Jul 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Maintenance /Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6a1dc4a2c2a87d6cd3e0d916?utm_campaign=1048&utm_source=git)** | 701 Gellhorn Dr, Houston, TX, 77029, US | On Site | Jul 07 |
 | ↳ | **[Fall 2026 Maintenance Intern- Supply Chain](https://jobright.ai/jobs/info/6a1dc49e3e538a28c204bb97?utm_campaign=1048&utm_source=git)** | 10241 E 51st Ave, Denver, CO, 80239, US | On Site | Jul 07 |
-| ↳ | **[Fall 2026 Construction Project Engineer Intern](https://jobright.ai/jobs/info/698cd6cc78b4502f12a351bc?utm_campaign=1048&utm_source=git)** | 19245 David Memorial Dr, Shenandoah, TX, 77385, US | On Site | Jul 07 |
 | ↳ | **[Fall 2026 Construction Project Engineer Intern](https://jobright.ai/jobs/info/698cd3a70f6f7e7a2ce88819?utm_campaign=1048&utm_source=git)** | 65 Tejon St, Denver, CO, 80223, US | On Site | Jul 07 |
+| ↳ | **[Fall 2026 Construction Project Engineer Intern](https://jobright.ai/jobs/info/698cd6cc78b4502f12a351bc?utm_campaign=1048&utm_source=git)** | 19245 David Memorial Dr, Shenandoah, TX, 77385, US | On Site | Jul 07 |
 | ↳ | **[Fall 2026 Network Modeling Intern-Supply Chain](https://jobright.ai/jobs/info/6a42c7f36a9c2774b3fa7479?utm_campaign=1048&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Jul 07 |
 | ↳ | **[Fall 2026 Quality Intern- Supply Chain](https://jobright.ai/jobs/info/6a36625ace501060b5cf6f91?utm_campaign=1048&utm_source=git)** | 60 Yuma St, Denver, CO, 80223, US | On Site | Jul 07 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026 - Carolinas](https://jobright.ai/jobs/info/6a4caff8d27b2c4dda9b5366?utm_campaign=1048&utm_source=git)** | Greater Jacksonville, NC Area, United States | On Site | Jul 07 |
@@ -113,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Reliability Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39b262214ae004c7a202b7?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jul 06 |
 | **[Figure](https://www.figure.ai)** | **[Special Projects Intern [Fall 2026]](https://jobright.ai/jobs/info/6a4c43475d7b097d2df3ffbf?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Cyber Security Student Internship](https://jobright.ai/jobs/info/6a2701c12056260dd6e84850?utm_campaign=1048&utm_source=git)** | LUTZ, Flor, US | On Site | Jul 06 |
+| ↳ | **[IT Cyber Security Student Internship](https://jobright.ai/jobs/info/6a26f3f430042e7539086144?utm_campaign=1048&utm_source=git)** | Lutz, FL | On Site | Jul 06 |
 | **[RealTruck, Inc.](http://www.realtruck.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a4c2faf6189f64e437f1764?utm_campaign=1048&utm_source=git)** | Ann Arbor, Michigan, United States | On Site | Jul 06 |
 | **[ODDITY LABS](https://getrevela.com/)** | **[Chemistry intern](https://jobright.ai/jobs/info/6a4c36a74eb370649b27cae8?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jul 06 |
 | **[ABB](https://global.abb/group/en)** | **[Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c98ce3122a76a8fd532e8?utm_campaign=1048&utm_source=git)** | St-Jean-Sur-Richelieu, Quebec, Canada | On Site | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support- Materials and Tests Division](https://jobright.ai/jobs/info/6a4be3124eb370649b27b69a?utm_campaign=1048&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | Jul 06 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a315b0435e80310003a6892?utm_campaign=1048&utm_source=git)** | Grand Forks, ND 58201 US | On Site | Jul 06 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Digital Technology Specialist Intern - AECOM Hunt](https://jobright.ai/jobs/info/6a4c055c971cd25b06f99401?utm_campaign=1048&utm_source=git)** | Los Angeles, CA | On Site | Jul 06 |
-| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI](https://jobright.ai/jobs/info/6a3987cf1232144fb156bd95?utm_campaign=1048&utm_source=git)** | Vancouver, 6051 Silver Drive, CA | On Site | Jul 06 |
-| **[Alstom](https://www.alstom.com/)** | **[Project Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4bfe294eb370649b27bd56?utm_campaign=1048&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Jul 06 |
-| **[AEM](https://www.aemonitoring.com)** | **[Intern: Manufacturing & Test Engineering](https://jobright.ai/jobs/info/6a4bfd784eb370649b27bd2a?utm_campaign=1048&utm_source=git)** | Hayward,CA,US | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
