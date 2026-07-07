@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon Roofing](http://www.simonroofing.com)** | **[IT Network and Systems Intern](https://jobright.ai/jobs/info/6a4c7eca3122a76a8fd53013?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Jul 06 |
+| **[Lightship](https://www.lightshiprv.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a4c7af9c643fd23fed3a71d?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 06 |
+| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Digital Technology Specialist Intern - AECOM Hunt](https://jobright.ai/jobs/info/6a4c74e6c643fd23fed3a69f?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 06 |
+| **[SIG SAUER, Inc.](https://www.sigsauer.com)** | **[Intern, Manufacturing Engineering, Research and Development](https://jobright.ai/jobs/info/6a4c677ac2d11a6a4667adc2?utm_campaign=1048&utm_source=git)** | Exeter, New Hampshire, United States | On Site | Jul 06 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Computer Vision Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a39bfaa1232144fb156d294?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 06 |
+| **[NorthPoint Development](http://beyondthecontract.com)** | **[Development/Construction Management Intern](https://jobright.ai/jobs/info/6a4c6cc73122a76a8fd52dfa?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 IT and Cybersecurity Undergraduate Internship](https://jobright.ai/jobs/info/6a3edd2b122f340d29cf4f0f?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[CME Associates, Inc.](https://www.cmeassociates.com)** | **[Civil Engineering Technician Fall Internship](https://jobright.ai/jobs/info/6a39efff649fdf162930359e?utm_campaign=1048&utm_source=git)** | East Syracuse, NY | On Site | Jul 06 |
 | **[Neusoft](http://www.neusoft.com)** | **[Robotics Engineer(Mandarin)](https://jobright.ai/jobs/info/6a4c67425d7b097d2df40595?utm_campaign=1048&utm_source=git)** | Mountain View, CA | On Site | Jul 06 |
@@ -95,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[CTS Corporation](http://www.ctscorp.com)** | **[Engineering Intern Job Details / CTS Corporation](https://jobright.ai/jobs/info/6a345c37f6b55d12c791c75c?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, US, 87113 | On Site | Jul 06 |
 | **[Alstom](https://www.alstom.com/)** | **[Project Engineering Intern (Fall 2026) Job Details / Alstom](https://jobright.ai/jobs/info/6a4c166a5d7b097d2df3f711?utm_campaign=1048&utm_source=git)** | Saint-Bruno, QC, CA | On Site | Jul 06 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Chemist Intern](https://jobright.ai/jobs/info/6a4c15fa6189f64e437f111b?utm_campaign=1048&utm_source=git)** | The Woodlands, TX | On Site | Jul 06 |
-| **[Phamily](https://phamily.com/)** | **[Machine Learning Intern- Immediate Start](https://jobright.ai/jobs/info/6a4c15e04eb370649b27c360?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/6a4c15ac5d7b097d2df3f6bd?utm_campaign=1048&utm_source=git)** | Itasca, IL | On Site | Jul 06 |
 | **[Mosaic Technologies](https://experiencemosaic.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a4c15964eb370649b27c339?utm_campaign=1048&utm_source=git)** | Cameron, WI 54822, USA | On Site | Jul 06 |
 | **[Fishbeck](https://fishbeck.com/)** | **[Civil Engineering Intern - Bridge Design](https://jobright.ai/jobs/info/6a3c7cb74d047136e0931017?utm_campaign=1048&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[WaveLogic Systems Design Architecture Intern (8-12 months)](https://jobright.ai/jobs/info/6a4bd81e4eb370649b27b32c?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jul 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a1d658fb524ae49285a623c?utm_campaign=1048&utm_source=git)** | US-TX-McKinney | On Site | Jul 06 |
 | ↳ | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a1d6592b524ae49285a623e?utm_campaign=1048&utm_source=git)** | McKinney, TX, US | On Site | Jul 06 |
-| **[Munich Airport NJ LLC](http://www.munich-airport.com/nj)** | **[Facilities Maintenance Engineering Intern](https://jobright.ai/jobs/info/6a3947936484fb75f2b30735?utm_campaign=1048&utm_source=git)** | Newark, NJ | On Site | Jul 06 |
-| **[Stanford University](https://cddrl.fsi.stanford.edu/usrussia)** | **[Intern - Technology Commercialization](https://jobright.ai/jobs/info/6a4c6429c2d11a6a4667abb1?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jul 06 |
-| **[Cohere](https://cohere.com)** | **[Research Internship (Fall, 2026)](https://jobright.ai/jobs/info/69f543d4a3d34b4f76f548a1?utm_campaign=1048&utm_source=git)** | Canada | Remote | Jul 06 |
-| **[Stanford University](https://cddrl.fsi.stanford.edu/usrussia)** | **[Intern - Microelectronics Algorithms, Software Scaling](https://jobright.ai/jobs/info/6a4c2a0b4eb370649b27c82a?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jul 06 |
-| **[APTIM](https://www.aptim.com/)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/6a347dd3649fdf16292f6320?utm_campaign=1048&utm_source=git)** | Yakima, WA | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
