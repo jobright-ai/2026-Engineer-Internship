@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[Co-op / Intern Positions - Fall 2026 - Carolinas](https://jobright.ai/jobs/info/6a4caff8d27b2c4dda9b5366?utm_campaign=1048&utm_source=git)** | Greater Jacksonville, NC Area, United States | On Site | Jul 07 |
+| **[Charles River Analytics](http://www.cra.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4cade199523700cbff378b?utm_campaign=1048&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 07 |
+| **[MaxLinear](http://www.maxlinear.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a457e880dd56c76cc2f3a03?utm_campaign=1048&utm_source=git)** | Carlsbad, CA, United States | On Site | Jul 07 |
 | **[City of New York](http://www1.nyc.gov)** | **[Engineering Intern, Cranes and Derricks](https://jobright.ai/jobs/info/6a354234ce501060b5cf387f?utm_campaign=1048&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI Agent](https://jobright.ai/jobs/info/6a436a07cbf92c7bcd37019c?utm_campaign=1048&utm_source=git)** | Markham, Canada | On Site | Jul 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Site Deployment Intern(Fall 2026, 12months)](https://jobright.ai/jobs/info/6a4ca774d27b2c4dda9b52f0?utm_campaign=1048&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Jul 07 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Reliability Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39b262214ae004c7a202b7?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Jul 06 |
 | **[Figure](https://www.figure.ai)** | **[Special Projects Intern [Fall 2026]](https://jobright.ai/jobs/info/6a4c43475d7b097d2df3ffbf?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Cyber Security Student Internship](https://jobright.ai/jobs/info/6a2701c12056260dd6e84850?utm_campaign=1048&utm_source=git)** | LUTZ, Flor, US | On Site | Jul 06 |
-| **[Centific](https://www.centific.com)** | **[Technical Intern (Masters or PhD)-13](https://jobright.ai/jobs/info/6a4c3c8b5d7b097d2df3ff12?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Jul 06 |
 | **[RealTruck, Inc.](http://www.realtruck.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a4c2faf6189f64e437f1764?utm_campaign=1048&utm_source=git)** | Ann Arbor, Michigan, United States | On Site | Jul 06 |
 | **[ODDITY LABS](https://getrevela.com/)** | **[Chemistry intern](https://jobright.ai/jobs/info/6a4c36a74eb370649b27cae8?utm_campaign=1048&utm_source=git)** | Cambridge, MA | On Site | Jul 06 |
 | **[ABB](https://global.abb/group/en)** | **[Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c98ce3122a76a8fd532e8?utm_campaign=1048&utm_source=git)** | St-Jean-Sur-Richelieu, Quebec, Canada | On Site | Jul 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Medical Evacuation Engineering Research Internship](https://jobright.ai/jobs/info/6a4c1192971cd25b06f99744?utm_campaign=1048&utm_source=git)** | Fort Rucker, AL | On Site | Jul 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://jobright.ai/jobs/info/6a1fb80ec5277c00c64881cd?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jul 06 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6930461c4c474121999e4a25?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 06 |
-| **[ProFarm](https://profarmgroup.com)** | **[Intern, Formulation](https://jobright.ai/jobs/info/6a4bf3c0c2d11a6a466795fa?utm_campaign=1048&utm_source=git)** | Davis, CA | On Site | Jul 06 |
-| ↳ | **[Intern, Bioprocess](https://jobright.ai/jobs/info/6a4bf3bd4eb370649b27ba8b?utm_campaign=1048&utm_source=git)** | Davis, CA | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
