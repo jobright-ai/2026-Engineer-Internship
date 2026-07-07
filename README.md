@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nestlé](https://www.nestle.com)** | **[R&D Sustainability Intern - Nestlé Health Science Job Details / Nestle Operational Services Worldwide SA](https://jobright.ai/jobs/info/6a4c4f60c2d11a6a4667aa0b?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ, US, 08807 | On Site | Jul 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Applied Scientist Intern (Recommendation AI Lab) -  2026 Start (PhD)](https://jobright.ai/jobs/info/6a4c4937c2d11a6a4667a8fd?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Jul 06 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Radiation Effects Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4c44b54eb370649b27ccdd?utm_campaign=1048&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
 | **[Figure](https://www.figure.ai)** | **[Special Projects Intern [Fall 2026]](https://jobright.ai/jobs/info/6a4c43475d7b097d2df3ffbf?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Centific](https://www.centific.com)** | **[Technical Intern (Masters or PhD)-13](https://jobright.ai/jobs/info/6a4c3c8b5d7b097d2df3ff12?utm_campaign=1048&utm_source=git)** | Remote, United States | Remote | Jul 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Technician - DoD SkillBridge Intern](https://jobright.ai/jobs/info/69f51c470b36ff0354750942?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
 | **[RTX](http://rtx.com/)** | **[Internship - Fall 2026 - Combustion Aero/Thermal Analyst](https://jobright.ai/jobs/info/6a4bba694f64ba41dcb5ce35?utm_campaign=1048&utm_source=git)** | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG, Canada | On Site | Jul 06 |
 | **[SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu)** | **[Intern - Transmission X-ray Microscopy, SSRL](https://jobright.ai/jobs/info/6a4c46e95d7b097d2df4005a?utm_campaign=1048&utm_source=git)** | Menlo Park, CA | On Site | Jul 06 |
-| **[American Electric Power](http://aep.com)** | **[Transmission System Operator Intern](https://jobright.ai/jobs/info/6a4b8f63c2d11a6a466780c3?utm_campaign=1048&utm_source=git)** | Shreveport, LA, United States of America | On Site | Jul 06 |
-| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Laboratory Quality Assurance Intern Fall 2026](https://jobright.ai/jobs/info/69e7cd53e0cd471b2f12d6a0?utm_campaign=1048&utm_source=git)** | Huntsville, Alabama, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
