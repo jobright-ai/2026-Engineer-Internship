@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MAHLE](https://www.mahle.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a4d9de335e45603c4bb46b6?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, United States | On Site | Jul 07 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern – Mechanical Engineering (Aerospace)](https://jobright.ai/jobs/info/6a4d9cc2d27b2c4dda9b82d4?utm_campaign=1048&utm_source=git)** | Kent, WA, United States | On Site | Jul 07 |
+| **[Vast](https://www.vastspace.com)** | **[2026 Fall Internship - Mechanical / Aerospace](https://jobright.ai/jobs/info/6a4d5b2435e45603c4bb3803?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 07 |
+| ↳ | **[2026 Fall Internship - Manufacturing](https://jobright.ai/jobs/info/6a4d5b250209ea6fd6851e12?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 07 |
 | **[Figure](https://www.figure.ai)** | **[Validation Engineering Intern [Fall 2026]](https://jobright.ai/jobs/info/6a3b037a649fdf1629306ea2?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 07 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Power Electronics Engineering](https://jobright.ai/jobs/info/6a4d5c3fc643fd23fed3cab1?utm_campaign=1048&utm_source=git)** | Garden Grove, CA, United States | On Site | Jul 07 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/69616d5df3f4cd1325066426?utm_campaign=1048&utm_source=git)** | Des Moines | On Site | Jul 07 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
+| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/69616d5df3f4cd1325066426?utm_campaign=1048&utm_source=git)** | Des Moines | On Site | Jul 07 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0dc05309ecfd704b3e2427?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
 | **[PlusAI](https://www.plus.ai)** | **[Perception Intern](https://jobright.ai/jobs/info/6a4d93e9d27b2c4dda9b8126?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 07 |
-| **[MAHLE](https://www.mahle.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a4d936f35e45603c4bb44fd?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, United States | On Site | Jul 07 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[Automation & Systems Intern](https://jobright.ai/jobs/info/6a4d912635e45603c4bb44a9?utm_campaign=1048&utm_source=git)** | New York City Metropolitan Area, United States | Remote | Jul 07 |
 | **[Labelbox](https://labelbox.com)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/6a4d8ef00209ea6fd6852ad6?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 07 |
 | **[Mt. Olive Pickle Company Inc.](https://www.mtolivepickles.com)** | **[2001 Temporary Agriculture Procurement Intern (Night Shift)](https://jobright.ai/jobs/info/6a4d8da50209ea6fd6852ab7?utm_campaign=1048&utm_source=git)** | Mount Olive, NC, United States | On Site | Jul 07 |
@@ -96,14 +99,12 @@ For a complete list, click the following sortable link below:
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, System Architecture](https://jobright.ai/jobs/info/6a4d5bb90209ea6fd6851e3b?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Jul 07 |
 | **[Scout & Co.](https://scoutandco.com/)** | **[Civil Engineering Land Development Intern or Co-op (Summer 2027)](https://jobright.ai/jobs/info/6a4d5b960209ea6fd6851e2d?utm_campaign=1048&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 07 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[AI Compiler Software Intern (PEY)](https://jobright.ai/jobs/info/6a42970c1cc9cc2b12fec0c3?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 07 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Fall Internship - Manufacturing](https://jobright.ai/jobs/info/6a4d5b250209ea6fd6851e12?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 07 |
-| ↳ | **[2026 Fall Internship - Mechanical / Aerospace](https://jobright.ai/jobs/info/6a4d5b2435e45603c4bb3803?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 07 |
 | **[Mach Industries](https://www.machindustries.com)** | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d76?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 07 |
 | ↳ | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d75?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA | On Site | Jul 07 |
 | **[Altera Digital Health APAC](apac.alterahealth.com)** | **[Intern](https://jobright.ai/jobs/info/6a4d57b3c643fd23fed3c9c1?utm_campaign=1048&utm_source=git)** | North Carolina, United States | Remote | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a4d0f873122a76a8fd53ff4?utm_campaign=1048&utm_source=git)** | Irving, TX, United States | On Site | Jul 07 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0ae90209ea6fd685092f?utm_campaign=1048&utm_source=git)** | Irving, TX, US | On Site | Jul 07 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0adb35e45603c4bb2466?utm_campaign=1048&utm_source=git)** | Lubbock, TX, US | On Site | Jul 07 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0ae90209ea6fd685092f?utm_campaign=1048&utm_source=git)** | Irving, TX, US | On Site | Jul 07 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a4d07050209ea6fd68507ee?utm_campaign=1048&utm_source=git)** | Irving, TX, United States | On Site | Jul 07 |
 | ↳ | **[Transportation Planning Intern](https://jobright.ai/jobs/info/6a4d076535e45603c4bb2357?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Structural Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4d55083122a76a8fd55180?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 07 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Lignetics](https://lignetics.com/)** | **[Innovation Engineer Intern](https://jobright.ai/jobs/info/6a4d31fb35e45603c4bb2ffd?utm_campaign=1048&utm_source=git)** | Broomfield,CO,US | On Site | Jul 07 |
 | **[Bronco Wine Co.](http://broncowinejobs.com)** | **[Intern](https://jobright.ai/jobs/info/6a4d317e35e45603c4bb2fde?utm_campaign=1048&utm_source=git)** | Ceres, CA | On Site | Jul 07 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Test Engineering](https://jobright.ai/jobs/info/6a4d2fdfd27b2c4dda9b6964?utm_campaign=1048&utm_source=git)** | Geneva, OH, US | On Site | Jul 07 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain](https://jobright.ai/jobs/info/6a290cc71dbd8437bebceb4f?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jul 07 |
-| ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6930461c4c474121999e4a25?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 07 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Site Design Engineering Intern, Wind](https://jobright.ai/jobs/info/6a4d2e923122a76a8fd5488f?utm_campaign=1048&utm_source=git)** | Plano,TX,US | On Site | Jul 07 |
+| **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/6930461c4c474121999e4a25?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Jul 07 |
+| ↳ | **[Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain](https://jobright.ai/jobs/info/6a290cc71dbd8437bebceb4f?utm_campaign=1048&utm_source=git)** | North Reading, MA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
