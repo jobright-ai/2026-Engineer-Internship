@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mach Industries](https://www.machindustries.com)** | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d75?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA | On Site | Jul 08 |
-| ↳ | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d76?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 08 |
+| **[Mach Industries](https://www.machindustries.com)** | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d76?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 08 |
+| ↳ | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a3c71364d047136e0930d75?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA | On Site | Jul 08 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer - AI Agent for Data](https://jobright.ai/jobs/info/6a4df9869469c0662034a0cc?utm_campaign=1048&utm_source=git)** | Markham, 10 Aviva Way, CA | On Site | Jul 08 |
-| **[V2X Inc](https://gov2x.com)** | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80a?utm_campaign=1048&utm_source=git)** | Miramar, California, United States | On Site | Jul 08 |
+| **[V2X Inc](https://gov2x.com)** | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138f9c477a5075f48b809?utm_campaign=1048&utm_source=git)** | North Island, California, United States | On Site | Jul 08 |
 | ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138f6c477a5075f48b806?utm_campaign=1048&utm_source=git)** | Norfolk, Virginia, United States | On Site | Jul 08 |
 | ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138f8c477a5075f48b808?utm_campaign=1048&utm_source=git)** | Marlton, New Jersey, United States | On Site | Jul 08 |
-| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80b?utm_campaign=1048&utm_source=git)** | Lemoore, California, United States | On Site | Jul 08 |
-| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138f9c477a5075f48b809?utm_campaign=1048&utm_source=git)** | North Island, California, United States | On Site | Jul 08 |
-| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80c?utm_campaign=1048&utm_source=git)** | Whidbey Island, Washington, United States | On Site | Jul 08 |
+| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80a?utm_campaign=1048&utm_source=git)** | Miramar, California, United States | On Site | Jul 08 |
 | ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138f8c477a5075f48b807?utm_campaign=1048&utm_source=git)** | Fallon, Nevada, United States | On Site | Jul 08 |
+| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80b?utm_campaign=1048&utm_source=git)** | Lemoore, California, United States | On Site | Jul 08 |
+| ↳ | **[Technical Ship Rider-SkillBridge Intern](https://jobright.ai/jobs/info/6a3138fac477a5075f48b80c?utm_campaign=1048&utm_source=git)** | Whidbey Island, Washington, United States | On Site | Jul 08 |
 | **[Quikrete](https://www.quikrete.com)** | **[Asphalt Maintenance Intern](https://jobright.ai/jobs/info/6a4df2dc4c6c9f7a619f8f7c?utm_campaign=1048&utm_source=git)** | WEST VALLEY CITY, UT, United States | On Site | Jul 07 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Architectural Drafter Intern](https://jobright.ai/jobs/info/6a462dd70dd56c76cc2f7270?utm_campaign=1048&utm_source=git)** | Lockridge - San Diego, CA, United States of America | On Site | Jul 07 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Test Engineer, Self-Driving (Fall 2026)](https://jobright.ai/jobs/info/6a4de5c7d27b2c4dda9b8c6c?utm_campaign=1048&utm_source=git)** | Fremont, CA, United States | On Site | Jul 07 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Sustainability Intern - Buildings](https://jobright.ai/jobs/info/6a4daea8d27b2c4dda9b8511?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Jul 07 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Environmental Engineering or Science Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a39a9cc214ae004c7a1ffd6?utm_campaign=1048&utm_source=git)** | Kennesaw, GA, United States | On Site | Jul 07 |
 | **[OSF HealthCare](http://www.osfhealthcare.org)** | **[Cybersecurity Internship](https://jobright.ai/jobs/info/6a4d3c310209ea6fd685172a?utm_campaign=1048&utm_source=git)** | Peoria, IL, United States | On Site | Jul 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0adb35e45603c4bb2466?utm_campaign=1048&utm_source=git)** | Lubbock, TX, US | On Site | Jul 07 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0ae90209ea6fd685092f?utm_campaign=1048&utm_source=git)** | Irving, TX, US | On Site | Jul 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0ae90209ea6fd685092f?utm_campaign=1048&utm_source=git)** | Irving, TX, US | On Site | Jul 07 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0adb35e45603c4bb2466?utm_campaign=1048&utm_source=git)** | Lubbock, TX, US | On Site | Jul 07 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a4da31d4c6c9f7a619f85ad?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 07 |
 | **[Intel](http://www.intel.com)** | **[DTCO Data Engineer Intern](https://jobright.ai/jobs/info/6a4da15235e45603c4bb4751?utm_campaign=1048&utm_source=git)** | US, Texas, Austin, United States of America | On Site | Jul 07 |
 | **[MAHLE](https://www.mahle.com)** | **[Quality Engineer Intern](https://jobright.ai/jobs/info/6a4d9de335e45603c4bb46b6?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, United States | On Site | Jul 07 |
@@ -94,9 +94,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Fall Internship - Manufacturing](https://jobright.ai/jobs/info/6a4d5b250209ea6fd6851e12?utm_campaign=1048&utm_source=git)** | Long Beach, California, United States | On Site | Jul 07 |
 | **[Figure](https://www.figure.ai)** | **[Validation Engineering Intern [Fall 2026]](https://jobright.ai/jobs/info/6a3b037a649fdf1629306ea2?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 07 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Power Electronics Engineering](https://jobright.ai/jobs/info/6a4d5c3fc643fd23fed3cab1?utm_campaign=1048&utm_source=git)** | Garden Grove, CA, United States | On Site | Jul 07 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0dc05309ecfd704b3e2427?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
+| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/69616d5df3f4cd1325066426?utm_campaign=1048&utm_source=git)** | Des Moines | On Site | Jul 07 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0dc05309ecfd704b3e2427?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Jul 07 |
 | **[PlusAI](https://www.plus.ai)** | **[Perception Intern](https://jobright.ai/jobs/info/6a4d93e9d27b2c4dda9b8126?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 07 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[Automation & Systems Intern](https://jobright.ai/jobs/info/6a4d912635e45603c4bb44a9?utm_campaign=1048&utm_source=git)** | New York City Metropolitan Area, United States | Remote | Jul 07 |
 | **[Labelbox](https://labelbox.com)** | **[Cyber Security Intern](https://jobright.ai/jobs/info/6a4d8ef00209ea6fd6852ad6?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 07 |
