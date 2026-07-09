@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cumberland Electric Membership Corporation, Inc.](https://www.cemc.org)** | **[Broadband Operations Intern](https://jobright.ai/jobs/info/6a4f5e110ea38951a6ff5a0b?utm_campaign=1048&utm_source=git)** | Clarksville, TN, United States | On Site | Jul 09 |
+| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/699d3d60e0bddb6acacc81f7?utm_campaign=1048&utm_source=git)** | Lexington, KY 40511 | On Site | Jul 09 |
+| ↳ | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a4f4476fc327f422fef53c8?utm_campaign=1048&utm_source=git)** | St. Paul, MN 55104, United States | On Site | Jul 09 |
+| **[Mativ](https://mativ.com)** | **[EH&S Intern](https://jobright.ai/jobs/info/6a26ff0bca77fd3096d24b5c?utm_campaign=1048&utm_source=git)** | Minneapolis Plant | On Site | Jul 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Power Systems Modeling , Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4f46fd0ea38951a6ff58f0?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 09 |
-| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a4f4476fc327f422fef53c8?utm_campaign=1048&utm_source=git)** | St. Paul, MN 55104, United States | On Site | Jul 08 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[Co-op/Intern](https://jobright.ai/jobs/info/6a4e901a397d8d353c2896d3?utm_campaign=1048&utm_source=git)** | Corpus Christi, Texas US, United States of America | On Site | Jul 08 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Engineering Co-op, Mechanical Job Details / FortisBC](https://jobright.ai/jobs/info/6a4f2ae29469c0662034d909?utm_campaign=1048&utm_source=git)** | Surrey, BC, Canada | On Site | Jul 08 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a4e84611544d7246c0d3279?utm_campaign=1048&utm_source=git)** | 2550 Fifth Avenue, San Diego, CA, 92103, US | On Site | Jul 08 |
@@ -132,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[R&D Intern](https://jobright.ai/jobs/info/6a4ea0961544d7246c0d39cc?utm_campaign=1048&utm_source=git)** | Westborough, Massachusetts, United States | On Site | Jul 08 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern - Digital Transformation: Tools Development, KPI & Automation (Fall 2026)](https://jobright.ai/jobs/info/6a14b418554b0e12c057fd4c?utm_campaign=1048&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 08 |
 | **[BBA Consultants](https://www.bba.ca/)** | **[Mechanical intern - Fall 2026](https://jobright.ai/jobs/info/6a4ee3c11544d7246c0d487c?utm_campaign=1048&utm_source=git)** | Trail, British Columbia, Canada | Hybrid | Jul 08 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a1ed56bdce5db1256d10336?utm_campaign=1048&utm_source=git)** | CA-ON-Toronto | On Site | Jul 08 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a08e3c5403fc339507f0657?utm_campaign=1048&utm_source=git)** | CA-ON-Toronto | On Site | Jul 08 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Design Verification Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a334f01f6b55d12c7918896?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 08 |
 | **[Ayres Associates](http://ayresassociates.com)** | **[Intern - Civil Engineering -Transportation](https://jobright.ai/jobs/info/6a4e9a9915b4965afd583f93?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Jul 08 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Mechanical Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/6a497a303dbab558e29ae2b7?utm_campaign=1048&utm_source=git)** | Vandalia, OH, United States | On Site | Jul 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Fall 2026 - Process Engineering Co-op/Intern — Big Island, VA](https://jobright.ai/jobs/info/6a2f7d1f89f8f147d3731ead?utm_campaign=1048&utm_source=git)** | Big Island, VA, United States | On Site | Jul 08 |
 | **[Tecsys Inc.](http://www.tecsys.com)** | **[Intern - DevOps (Fall 2026)](https://jobright.ai/jobs/info/6a4e82509469c0662034ba27?utm_campaign=1048&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 08 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern High School](https://jobright.ai/jobs/info/6a4e81ad9469c0662034b9e9?utm_campaign=1048&utm_source=git)** | Sun City, AZ, United States | On Site | Jul 08 |
-| **[Moss](https://mosscm.com/)** | **[Solar Internship: Fall 2026](https://jobright.ai/jobs/info/69d5c795cfdc6132f9465c1b?utm_campaign=1048&utm_source=git)** | Florida, United States | On Site | Jul 08 |
-| **[Solid Power, Inc.](https://solidpowerbattery.com)** | **[R&D Intern (Catholyte)](https://jobright.ai/jobs/info/6a46fc178204a812e98cab43?utm_campaign=1048&utm_source=git)** | 14902 Grant Street, Suite 120 Thornton, CO 80023 | On Site | Jul 08 |
-| **[Riley Exploration Permian, Inc.](http://rileypermian.com/)** | **[Facilities Engineering Intern (56523)](https://jobright.ai/jobs/info/6a4e7f39397d8d353c2892d1?utm_campaign=1048&utm_source=git)** | Red Lake Field Office - Artesia, NM 88210, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
