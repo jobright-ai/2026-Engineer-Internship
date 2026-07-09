@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[DOD SkillBridge Internship - Construction Operations - 2026](https://jobright.ai/jobs/info/698941248ca8121a3a6b8e97?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
+| **[PlusAI](https://www.plus.ai)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6a1636b2128680351d968bfc?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 09 |
+| ↳ | **[Computer Vision Engineer Intern](https://jobright.ai/jobs/info/6a15e337a429fd279da9317d?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 09 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[AI Internship](https://jobright.ai/jobs/info/6a32c199910b73491071172c?utm_campaign=1048&utm_source=git)** | Irving, TX, US | Hybrid | Jul 09 |
-| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/6a347ef129c90c607e4df80e?utm_campaign=1048&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | Jul 09 |
-| ↳ | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/6a347ee629c90c607e4df807?utm_campaign=1048&utm_source=git)** | CMTA, 220 Lexington Green Circle, Lexington, Kentucky, United States of America | On Site | Jul 09 |
+| **[CMTA, Inc.](https://www.cmta.com)** | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/6a347ee629c90c607e4df807?utm_campaign=1048&utm_source=git)** | CMTA, 220 Lexington Green Circle, Lexington, Kentucky, United States of America | On Site | Jul 09 |
+| ↳ | **[Mechanical Engineer Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/6a347ef129c90c607e4df80e?utm_campaign=1048&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | Jul 09 |
 | **[Zscaler](https://www.zscaler.com)** | **[Site Reliability Engineer Federal- SkillBridge Intern](https://jobright.ai/jobs/info/698697b38ca8121a3a68e78d?utm_campaign=1048&utm_source=git)** | Remote - Virginia, USA | Remote | Jul 09 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Construction Management](https://jobright.ai/jobs/info/6a32de9b29c90c607e4d8764?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[PlusAI](https://www.plus.ai)** | **[Reinforcement Learning Planning Research Intern](https://jobright.ai/jobs/info/6a15e31ddc845f4be5bd9da7?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 09 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[IFF](http://iff.com)** | **[Research & Development Intern – Citrus Innovation Center](https://jobright.ai/jobs/info/6a34b3b1649fdf16292f6e13?utm_campaign=1048&utm_source=git)** | Lakeland, FL, US | On Site | Jul 09 |
 | ↳ | **[Research & Development Intern – Citrus Innovation Center](https://jobright.ai/jobs/info/6a32c341649fdf16292ee795?utm_campaign=1048&utm_source=git)** | Citrus Innovation Ctr FL USA, United States of America | On Site | Jul 09 |
 | **[Equinix](http://www.equinix.com)** | **[Data Center Development Program Intern](https://jobright.ai/jobs/info/6a4af52b971cd25b06f96b8c?utm_campaign=1048&utm_source=git)** | Dallas, United States of America | Hybrid | Jul 09 |
-| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a4f4476fc327f422fef53c8?utm_campaign=1048&utm_source=git)** | St. Paul, MN 55104, United States | On Site | Jul 09 |
-| ↳ | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/699d3d60e0bddb6acacc81f7?utm_campaign=1048&utm_source=git)** | Lexington, KY 40511 | On Site | Jul 09 |
+| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/699d3d60e0bddb6acacc81f7?utm_campaign=1048&utm_source=git)** | Lexington, KY 40511 | On Site | Jul 09 |
+| ↳ | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a4f4476fc327f422fef53c8?utm_campaign=1048&utm_source=git)** | St. Paul, MN 55104, United States | On Site | Jul 09 |
 | **[Cumberland Electric Membership Corporation, Inc.](https://www.cemc.org)** | **[Broadband Operations Intern](https://jobright.ai/jobs/info/6a4f5e110ea38951a6ff5a0b?utm_campaign=1048&utm_source=git)** | Clarksville, TN, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3fa7c73bfa967791ebf4a1?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
 | **[Mativ](https://mativ.com)** | **[EH&S Intern](https://jobright.ai/jobs/info/6a26ff0bca77fd3096d24b5c?utm_campaign=1048&utm_source=git)** | Minneapolis Plant | On Site | Jul 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com)** | **[Design Verification Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a334f01f6b55d12c7918896?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 08 |
 | **[Ayres Associates](http://ayresassociates.com)** | **[Intern - Civil Engineering -Transportation](https://jobright.ai/jobs/info/6a4e9a9915b4965afd583f93?utm_campaign=1048&utm_source=git)** | Madison, Wisconsin, United States | On Site | Jul 08 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Mechanical Engineering Intern – Fall 2026](https://jobright.ai/jobs/info/6a497a303dbab558e29ae2b7?utm_campaign=1048&utm_source=git)** | Vandalia, OH, United States | On Site | Jul 08 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Roadway Engineering](https://jobright.ai/jobs/info/6a4e96a11544d7246c0d3626?utm_campaign=1048&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 08 |
-| **[Centific](https://www.centific.com)** | **[Research Intern — Applied Reinforcement Learning](https://jobright.ai/jobs/info/6a46d259c2d11a6a46670a82?utm_campaign=1048&utm_source=git)** | Remote Work( USA), United States of America | Remote | Jul 08 |
-| ↳ | **[Speech Research Intern-2](https://jobright.ai/jobs/info/6a2c4dc6c260bb1b8ae15bc8?utm_campaign=1048&utm_source=git)** | Redmond | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
