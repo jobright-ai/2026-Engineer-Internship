@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a5315ce8a74e077472f72e7?utm_campaign=1048&utm_source=git)** | CA, United States | On Site | Jul 11 |
+| **[Peak Energy](https://www.peakenergy.com)** | **[Supplier Industrialization Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5313868ef95364ead90e62?utm_campaign=1048&utm_source=git)** | Burlingame, CA, United States | On Site | Jul 11 |
+| **[Kneron](http://www.kneron.com)** | **[SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION](https://jobright.ai/jobs/info/6a5312358a74e077472f719d?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 11 |
+| **[Edwards Vacuum](http://www.edwardsvacuum.com/)** | **[Manufacturing and Maintenance Engineer Intern](https://jobright.ai/jobs/info/6a530f3bd007ee02d95fa141?utm_campaign=1048&utm_source=git)** | Chandler, AZ, United States | On Site | Jul 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a52fe1b9fbdab22fe13ddae?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6a52fdb3d007ee02d95f9d7c?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Jul 11 |
+| **[Merge Opportunities](https://www.mergenow.org)** | **[AI & Digital Skills Internship](https://jobright.ai/jobs/info/6a5315b58ef95364ead90f00?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 11 |
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[Remote Application Security Intern](https://jobright.ai/jobs/info/6a52f8a0d007ee02d95f9c1d?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 11 |
 | **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a52f50d8576ec69c014e111?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 11 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2027 Internship - Engineering](https://jobright.ai/jobs/info/6a52f4719fbdab22fe13da98?utm_campaign=1048&utm_source=git)** | Cape Canaveral, FL, United States | On Site | Jul 11 |
@@ -114,9 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Ginkgo Bioworks](https://www.ginkgo.bio)** | **[Software Graduate Intern, Autonomous Lab](https://jobright.ai/jobs/info/6a5284b58576ec69c014c43f?utm_campaign=1048&utm_source=git)** | Emeryville, CA, United States | On Site | Jul 11 |
 | **[Matrix PDM Engineering](http://www.matrixpdm.com/)** | **[Drafting Intern](https://jobright.ai/jobs/info/69c463fb6f4f855eeda6eb55?utm_campaign=1048&utm_source=git)** | Pittsburgh Region | On Site | Jul 11 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[AI Intern](https://jobright.ai/jobs/info/6a4144cb9dd7f954cafe8aa9?utm_campaign=1048&utm_source=git)** | Woodridge, IL, United States | On Site | Jul 11 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51188f78e364789ca58b59?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Jul 11 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51bd0257513b72e0c66f5f?utm_campaign=1048&utm_source=git)** | Bentonville, AR, United States | On Site | Jul 11 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51188f78e364789ca58b59?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Jul 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e34bdf8a5a96bd435b?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Jul 11 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51bd0257513b72e0c66f5f?utm_campaign=1048&utm_source=git)** | Bentonville, AR, United States | On Site | Jul 11 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Machine Learning Engineer (Intern - Fall 2026) at SRC, Inc](https://jobright.ai/jobs/info/6a527bf5d007ee02d95f7cc3?utm_campaign=1048&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Rail Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf6a376c60e7b70af119f?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Nefab](http://www.nefab.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a527305e726ec56126a3233?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/co-op - Refining Construction Management (Spring 2027)](https://jobright.ai/jobs/info/696fc69482817106e976d435?utm_campaign=1048&utm_source=git)** | Texas City, Texas | On Site | Jul 11 |
 | ↳ | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/6a52043702522b5b722edc7d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, United States of America | On Site | Jul 11 |
 | ↳ | **[Intern/Co-op – Midstream Environmental (Fall 2026)](https://jobright.ai/jobs/info/69c59f561818a24cd84b8ce0?utm_campaign=1048&utm_source=git)** | San Antonio, TX | On Site | Jul 11 |
-| ↳ | **[Refining Chemical Engineering Intern/Co-op Spring 2027](https://jobright.ai/jobs/info/698e399778b4502f12a50593?utm_campaign=1048&utm_source=git)** | Robinson, Illinois | On Site | Jul 11 |
-| **[HOK](http://www.hok.com/)** | **[Architecture Student Intern - Fall 2026](https://jobright.ai/jobs/info/6a525027d007ee02d95f700c?utm_campaign=1048&utm_source=git)** | St Louis, MO, United States | On Site | Jul 11 |
-| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Think Big Intern - Power Systems](https://jobright.ai/jobs/info/697a7b76f6fc293b0a2c4db5?utm_campaign=1048&utm_source=git)** | Austell, Georgia, United States | On Site | Jul 11 |
-| ↳ | **[Think Big Intern - Power Systems](https://jobright.ai/jobs/info/6a28654e883c0d3be6541b6f?utm_campaign=1048&utm_source=git)** | Austell, GA, US | On Site | Jul 11 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a51d94657513b72e0c68d6e?utm_campaign=1048&utm_source=git)** | Findlay, OH, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
