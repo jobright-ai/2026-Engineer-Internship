@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://jobright.ai/jobs/info/6a3c1c76d261407de97fc63f?utm_campaign=1048&utm_source=git)** | Bellevue, WA | On Site | Jul 12 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Spring 2027)](https://jobright.ai/jobs/info/6a52043702522b5b722edc7d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, United States of America | On Site | Jul 12 |
+| ↳ | **[Intern/Co-op - Refining Electrical Engineering (Spring 2027)](https://jobright.ai/jobs/info/696fcd2b0f4e0f657ea4180b?utm_campaign=1048&utm_source=git)** | El Paso, Texas | On Site | Jul 12 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a537fb9d007ee02d95fb8cb?utm_campaign=1048&utm_source=git)** | Rogers, AR, United States | On Site | Jul 12 |
 | **[Meta](http://www.metadownhole.com/)** | **[Research Scientist Intern, AI Alignment](https://jobright.ai/jobs/info/69eb251016b2612c2a119174?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Field Service Engineer III) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a5379c1d007ee02d95fb7f8?utm_campaign=1048&utm_source=git)** | Hurlburt Field, FL, United States | On Site | Jul 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5379758ef95364ead9248f?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 12 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5364ed8a74e077472f8407?utm_campaign=1048&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 12 |
 | ↳ | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a5364e38ef95364ead9202f?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 12 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/69fe45037714cd50b90ffb04?utm_campaign=1048&utm_source=git)** | East Granby, CT, US | On Site | Jul 12 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Technical-IT), 17907](https://jobright.ai/jobs/info/6a3977a6f6b55d12c79282c0?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 12 |
-| ↳ | **[Fall 2026 Internship - Lumerical Photonics Software Development Intern - C++](https://jobright.ai/jobs/info/6a478cb84f64ba41dcb5706b?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 12 |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Fall 2026 Internship - Lumerical Photonics Software Development Intern - C++](https://jobright.ai/jobs/info/6a478cb84f64ba41dcb5706b?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 12 |
+| ↳ | **[Intern (Technical-IT), 17907](https://jobright.ai/jobs/info/6a3977a6f6b55d12c79282c0?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 12 |
 | **[Scale AI](https://scale.com)** | **[AI Builder Intern](https://jobright.ai/jobs/info/6a535a768ef95364ead91ec8?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Safety Internship](https://jobright.ai/jobs/info/6a5358a08ef95364ead91e6c?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Environmental Science Intern](https://jobright.ai/jobs/info/6a509fa5f08ee8320766ac19?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 12 |
@@ -110,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Peak Energy](https://www.peakenergy.com)** | **[Supplier Industrialization Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5313868ef95364ead90e62?utm_campaign=1048&utm_source=git)** | Burlingame, CA, United States | On Site | Jul 11 |
 | **[Kneron](http://www.kneron.com)** | **[SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION](https://jobright.ai/jobs/info/6a5312358a74e077472f719d?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 11 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 11 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 11 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 11 |
 | **[Edwards Vacuum](http://www.edwardsvacuum.com/)** | **[Manufacturing and Maintenance Engineer Intern](https://jobright.ai/jobs/info/6a530f3bd007ee02d95fa141?utm_campaign=1048&utm_source=git)** | Chandler, AZ, United States | On Site | Jul 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a52fe1b9fbdab22fe13ddae?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6a52fdb3d007ee02d95f9d7c?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Jul 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waabi](https://waabi.ai)** | **[2026 Intern, PhD Research Scientist](https://jobright.ai/jobs/info/6a52a202e726ec56126a3d5a?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 11 |
 | **[Four Hands](https://fourhands.com)** | **[Cybersecurity Intern](https://jobright.ai/jobs/info/6a529eda8a74e077472f553c?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Mesh Optical Technologies](https://meshoptical.com/)** | **[Associate Electrical Engineer (Intern / Co-Op)](https://jobright.ai/jobs/info/6a529bd5d007ee02d95f84c0?utm_campaign=1048&utm_source=git)** | Gardena, CA, United States | On Site | Jul 11 |
-| **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a529a57d007ee02d95f847d?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Intel](http://www.intel.com)** | **[Module Engineering Undergraduate Intern](https://jobright.ai/jobs/info/6a5250278a74e077472f404d?utm_campaign=1048&utm_source=git)** | 1. US, Oregon, Hillsboro, United States of America | On Site | Jul 11 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computing & Artificial Intelligence (CAI) Division Graduate Intern](https://jobright.ai/jobs/info/6a35d9fd1232144fb15647c2?utm_campaign=1048&utm_source=git)** | Los Alamos, NM | On Site | Jul 11 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Generative AI - 2026](https://jobright.ai/jobs/info/6a2a3131c07d4b6ae1c44d7c?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
