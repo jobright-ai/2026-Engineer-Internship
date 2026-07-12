@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Engineering Intern - Water Resources](https://jobright.ai/jobs/info/6a5332338576ec69c014ef54?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 11 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern - Materials Testing Laboratory](https://jobright.ai/jobs/info/6a532e888576ec69c014ee60?utm_campaign=1048&utm_source=git)** | Midvale, UT, United States | On Site | Jul 11 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Electrical Field Engineer Intern](https://jobright.ai/jobs/info/6a532b4f8576ec69c014edbc?utm_campaign=1048&utm_source=git)** | Northern California, United States | On Site | Jul 11 |
 | **[Zscaler](https://www.zscaler.com)** | **[Site Reliability Engineer Federal- SkillBridge Intern](https://jobright.ai/jobs/info/6a5327be8a74e077472f7732?utm_campaign=1048&utm_source=git)** | Crystal City, VA, United States | On Site | Jul 11 |
 | **[Coveo](http://www.coveo.com)** | **[Detection Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a531d248ef95364ead9116c?utm_campaign=1048&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Jul 11 |
@@ -67,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Peak Energy](https://www.peakenergy.com)** | **[Supplier Industrialization Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5313868ef95364ead90e62?utm_campaign=1048&utm_source=git)** | Burlingame, CA, United States | On Site | Jul 11 |
 | **[Kneron](http://www.kneron.com)** | **[SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION](https://jobright.ai/jobs/info/6a5312358a74e077472f719d?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 11 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 11 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 11 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 11 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 11 |
 | **[Edwards Vacuum](http://www.edwardsvacuum.com/)** | **[Manufacturing and Maintenance Engineer Intern](https://jobright.ai/jobs/info/6a530f3bd007ee02d95fa141?utm_campaign=1048&utm_source=git)** | Chandler, AZ, United States | On Site | Jul 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a52fe1b9fbdab22fe13ddae?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 11 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Chiplet Security Research Intern](https://jobright.ai/jobs/info/6a52fdb3d007ee02d95f9d7c?utm_campaign=1048&utm_source=git)** | Santa Clara, California, United States | On Site | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting](https://jobright.ai/jobs/info/6a48f7e4c2d11a6a46675264?utm_campaign=1048&utm_source=git)** | Corvallis, Oregon, USA | On Site | Jul 11 |
 | **[Omni Powertrain Technologies](https://omnipowertrain.com)** | **[Quality Engineering Intern (full time-graduates only)](https://jobright.ai/jobs/info/6a527d1d8ef95364ead8e9a7?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 11 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Safety (DoD Skillbridge)](https://jobright.ai/jobs/info/6a18762dc2a87d6cd3df16a2?utm_campaign=1048&utm_source=git)** | St Paul, MN, United States | On Site | Jul 11 |
-| **[York Space Systems](http://www.yorkspacesystems.com)** | **[Space Vehicle Automation Engineer Intern](https://jobright.ai/jobs/info/6a52583ae726ec56126a2ab3?utm_campaign=1048&utm_source=git)** | Greenwood Village, CO, United States | On Site | Jul 11 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Construction Materials Internship (Level 1)](https://jobright.ai/jobs/info/6a5257f88576ec69c014b89c?utm_campaign=1048&utm_source=git)** | Tallahassee, FL, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
