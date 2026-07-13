@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a54a633d007ee02d95ff792?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 13 |
+| **[Geospace Technologies](http://www.geospace.com/)** | **[Intern, Research & Development- Mechanical Eng](https://jobright.ai/jobs/info/6a54a5de8ef95364ead963de?utm_campaign=1048&utm_source=git)** | Houston, TX 77040, United States | On Site | Jul 13 |
+| **[Calian Group](https://calian.com/en)** | **[Geomatics Intern Job Details / Calian](https://jobright.ai/jobs/info/6a54a4a78ef95364ead96376?utm_campaign=1048&utm_source=git)** | ON, Canada | On Site | Jul 13 |
+| **[Shinkei](https://www.shinkei.systems)** | **[Mechanical Engineering Intern/Associate Engineer](https://jobright.ai/jobs/info/6a32e961f6b55d12c7916663?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 13 |
+| **[Hillis-Carnes Engineering Associates, Inc.](http://hcea.com)** | **[Geotechnical College Summer Intern - Hagerstown, MD](https://jobright.ai/jobs/info/6a54a1d98576ec69c0153c67?utm_campaign=1048&utm_source=git)** | Hagerstown, MD, United States | On Site | Jul 13 |
+| **[BMC Software](http://www.bmc.com)** | **[Applied Research PhD Intern](https://jobright.ai/jobs/info/6a54a1248576ec69c0153c38?utm_campaign=1048&utm_source=git)** | NA, United States | Remote | Jul 13 |
+| **[LotusWorks](https://www.lotusworks.com/)** | **[Mechanical Technician - Part Time Internship](https://jobright.ai/jobs/info/6a549d42e726ec56126aacbd?utm_campaign=1048&utm_source=git)** | Sunnyvale, California, United States | On Site | Jul 13 |
 | **[Mach Industries](https://www.machindustries.com)** | **[Fall 2026 Engineering Internship](https://jobright.ai/jobs/info/6a549ad4c8eb0843027b068a?utm_campaign=1048&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Jul 13 |
 | **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a524519e726ec56126a2565?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jul 13 |
 | **[Brasfield & Gorrie, LLC](https://linktr.ee/brasfieldgorrie)** | **[MEP Co-op / Intern Positions - Fall 2026](https://jobright.ai/jobs/info/6a2b60d2c07d4b6ae1c4a846?utm_campaign=1048&utm_source=git)** | Atlanta, Georgia,United States,Atlanta | On Site | Jul 13 |
@@ -68,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Highway Intern](https://jobright.ai/jobs/info/6a5487d3d007ee02d95ff149?utm_campaign=1048&utm_source=git)** | Riverside, CA, United States | On Site | Jul 12 |
 | **[Big Tech Company](https://www.bigtech.company)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a5487348a74e077472fc141?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Shift5](https://shift5.io/)** | **[Field Engineer (Skillbridge Internship)](https://jobright.ai/jobs/info/6a5484538a74e077472fc0b9?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 12 |
+| **[Big Tech Company](https://www.bigtech.company)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a549d618ef95364ead96171?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Radar Digital Signal Processing (DSP) Intern/Co-Op](https://jobright.ai/jobs/info/6a5480598ef95364ead95bde?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA, United States | Hybrid | Jul 12 |
 | **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Scenario Generation](https://jobright.ai/jobs/info/6a54803cc8eb0843027b016f?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5473a08a74e077472fbdcd?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Jul 12 |
@@ -79,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Hillis-Carnes Engineering Associates, Inc.](http://hcea.com)** | **[Geotechnical College Summer Intern - Frederick, MD](https://jobright.ai/jobs/info/6a54695b8ef95364ead95764?utm_campaign=1048&utm_source=git)** | Frederick, MD, United States | On Site | Jul 12 |
 | **[EngineeRD](https://engineerd.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6a41be7b1afc66714d3cafc5?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 12 |
 | **[MVP Ventures](https://mvp-vc.com)** | **[Software Engineering Intern — Agent Platform (AI)](https://jobright.ai/jobs/info/6a5467b8e726ec56126aa1dd?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
-| **[Big Tech Company](https://www.bigtech.company)** | **[Security Engineer Intern](https://jobright.ai/jobs/info/6a5482f08a74e077472fc078?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Pasilobus](https://pasilobus.com/)** | **[Support Engineer Intern (Seattle, WA)](https://jobright.ai/jobs/info/6a5465fcc8eb0843027afc48?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 12 |
 | **[ASM](https://www.asm.com)** | **[Mechanical Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/6a545ff98a74e077472fb8ee?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Jul 12 |
 | **[Flatiron Construction](http://www.flatironcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a545d07c8eb0843027afaab?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
@@ -91,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Strategic Mission Critical](www.smc-eng.com)** | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a54497a8576ec69c01529d3?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 12 |
 | **[Pyka](https://www.flypyka.com)** | **[Mechanical Engineering Intern - Dropship Fall 2026](https://jobright.ai/jobs/info/6a544761c8eb0843027af52e?utm_campaign=1048&utm_source=git)** | Alameda HQ | On Site | Jul 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a543a1c8ef95364ead94deb?utm_campaign=1048&utm_source=git)** | Rogers, AR, United States | On Site | Jul 12 |
-| **[Tarkett Sports](https://tarkettsports.com/)** | **[Project Architect Intern](https://jobright.ai/jobs/info/6a510c79ae4052672fe9666e?utm_campaign=1048&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 12 |
-| ↳ | **[Project Architect Intern](https://jobright.ai/jobs/info/69c2ad5c94007a2195de96b5?utm_campaign=1048&utm_source=git)** | US73 - Kansas City | On Site | Jul 12 |
+| **[Tarkett Sports](https://tarkettsports.com/)** | **[Project Architect Intern](https://jobright.ai/jobs/info/69c2ad5c94007a2195de96b5?utm_campaign=1048&utm_source=git)** | US73 - Kansas City | On Site | Jul 12 |
+| ↳ | **[Project Architect Intern](https://jobright.ai/jobs/info/6a510c79ae4052672fe9666e?utm_campaign=1048&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 12 |
 | ↳ | **[Project Architect Intern](https://jobright.ai/jobs/info/6a11981f9f654b3359cf157d?utm_campaign=1048&utm_source=git)** | US73 - Kansas City, US | On Site | Jul 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Civil Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a542f6be726ec56126a964b?utm_campaign=1048&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 12 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Human-Robot Interaction](https://jobright.ai/jobs/info/6a542db48a74e077472fae7c?utm_campaign=1048&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indirect Procurement Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd2c8ef95364ead9367c?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
 | ↳ | **[R&D Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd24d007ee02d95fca08?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 12 |
 | ↳ | **[Mechanical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd23c8eb0843027adcc3?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
-| ↳ | **[Thermal Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd1c8a74e077472f9a9b?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
-| ↳ | **[Propulsion Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd19c8eb0843027adcc1?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
-| ↳ | **[Turbomachinery Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd0f8576ec69c0150ff1?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
-| ↳ | **[Electrical Engineering Intern Fall 2026](https://jobright.ai/jobs/info/6a53cd008576ec69c0150fed?utm_campaign=1048&utm_source=git)** | Long Beach, CA | On Site | Jul 12 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern – Techno-Economic Impacts](https://jobright.ai/jobs/info/6a511d298d7d3e6cf1cbf0af?utm_campaign=1048&utm_source=git)** | Boulder, CO, United States of America | Remote | Jul 12 |
-| ↳ | **[Graduate (Year-Round) Intern – Techno-Economic Impacts](https://jobright.ai/jobs/info/6a02aba6f3d6cc51d636f553?utm_campaign=1048&utm_source=git)** | Boulder, CO, US | On Site | Jul 12 |
-| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Mission Operation Intern Fall 2026](https://jobright.ai/jobs/info/6a53ccb1d007ee02d95fc9f6?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
