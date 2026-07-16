@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Together AI](https://www.together.ai)** | **[Research Intern, Model Shaping (Fall 2026)](https://jobright.ai/jobs/info/6a542c108ef95364ead94a67?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 16 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Temporary Student Intern - Water Quality (Organic Chemistry)](https://jobright.ai/jobs/info/6a5888ce3330ca6f993c572c?utm_campaign=1048&utm_source=git)** | 3512 Michelson, Irvine, CA, United States | On Site | Jul 16 |
 | **[Cal Poly Pomona Enterprises](https://foundation.cpp.edu)** | **[Engineering Co-Op Intern - MWD - #721842502](https://jobright.ai/jobs/info/6a5880b768d16a30e2413bf4?utm_campaign=1048&utm_source=git)** | POMONA, CA 91768-2557, USA | On Site | Jul 15 |
 | **[CB&I](http://www.cbi.com)** | **[Civil Engineer Intern](https://jobright.ai/jobs/info/6a587bb19838a11e5d83882f?utm_campaign=1048&utm_source=git)** | 4005 Port Chicago Highway, Concord, CA 94520-1120, United States | On Site | Jul 15 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Platform Engineer Intern, Summer 2027](https://jobright.ai/jobs/info/6a552dd34119652ff3863f1e?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
@@ -100,14 +102,14 @@ For a complete list, click the following sortable link below:
 | **[Alstom](https://www.alstom.com/)** | **[Electro-Mechanical Intern Job Details / Alstom](https://jobright.ai/jobs/info/6a509cb542c6dc326e8e9ad8?utm_campaign=1048&utm_source=git)** | Saint-Bruno, QC, Canada | On Site | Jul 15 |
 | **[Spannr - Live Healthier, Longer.](http://www.spannr.com)** | **[Summer 2024 Intern- Architecture, Engineering & Construction Management Majors](https://jobright.ai/jobs/info/6a58350b72fe7a7b98dcd72f?utm_campaign=1048&utm_source=git)** | Armonk, NY, United States | Hybrid | Jul 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a57ea0c9f1f56462cf67500?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Jul 15 |
-| ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a53e1d7e726ec56126a8618?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
 | ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a52ee79d007ee02d95f9a14?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 15 |
+| ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a53e1d7e726ec56126a8618?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Military SkillBridge Internship / Material Specialist Intern (Fort Worth/Irving, TX)](https://jobright.ai/jobs/info/6a432e90e09ecb4959642618?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 15 |
 | **[Safari AI](https://www.getsafari.ai)** | **[GTM Engineering Intern](https://jobright.ai/jobs/info/6a55a4affdf4fa71202b379a?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a521e08e726ec56126a1ac4?utm_campaign=1048&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 15 |
 | **[City of Aurora](https://www.auroragov.org/)** | **[Water GIS Intern](https://jobright.ai/jobs/info/6a5544c2377f983ce8a98e0f?utm_campaign=1048&utm_source=git)** | Aurora, CO, United States | On Site | Jul 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Security Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58004d9f1f56462cf67f5b?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
-| **[Revvity](https://www.revvity.com/)** | **[Full-Stack AI Developer Intern](https://jobright.ai/jobs/info/6a5806c68f51964c04046615?utm_campaign=1048&utm_source=git)** | ON, Canada | Remote | Jul 15 |
+| **[Revvity](https://www.revvity.com/)** | **[Full-Stack AI Developer Intern](https://jobright.ai/jobs/info/6a57f34c3330ca6f993c2540?utm_campaign=1048&utm_source=git)** | ON, Canada | Remote | Jul 15 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Civil or Geotechnical/Water Resources Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a582c989838a11e5d83738a?utm_campaign=1048&utm_source=git)** | Kennesaw, GA, United States | On Site | Jul 15 |
 | **[Tencent](https://www.tencent.com/)** | **[Research Intern – Video World Models (Research & ML Systems)](https://jobright.ai/jobs/info/6a57f84072fe7a7b98dcc337?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 15 |
 | ↳ | **[Cloud Media Services Intern](https://jobright.ai/jobs/info/6a480848c2d11a6a46673a29?utm_campaign=1048&utm_source=git)** | US-California-Palo Alto, United States of America | On Site | Jul 15 |
@@ -130,9 +132,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WBG Pioneer - Knowledge Management and Learning Intern](https://jobright.ai/jobs/info/6a5821b58f51964c04046fd6?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[IT Infrastructure Internship](https://jobright.ai/jobs/info/6a580e2d72fe7a7b98dccc9e?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Jul 15 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a57f16668d16a30e2410b38?utm_campaign=1048&utm_source=git)** | Irvine,California,USA | On Site | Jul 15 |
-| **[Penn State University](http://psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a13f5b5619335383fb3ef1e?utm_campaign=1048&utm_source=git)** | Penn State University Park, US | On Site | Jul 15 |
+| **[Penn State University](http://psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a57e7333330ca6f993c1d98?utm_campaign=1048&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 15 |
+| ↳ | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a17a41881fe455c705aa821?utm_campaign=1048&utm_source=git)** | Penn State University Park, US | On Site | Jul 15 |
 | ↳ | **[R&D Engineering Intern](https://jobright.ai/jobs/info/6a558810f2c46727285f2b84?utm_campaign=1048&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 15 |
-| ↳ | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a57e7333330ca6f993c1d98?utm_campaign=1048&utm_source=git)** | Penn State University Park, United States of America | On Site | Jul 15 |
 | ↳ | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a5767beefb06a45240da546?utm_campaign=1048&utm_source=git)** | Penn State University Park, United States | On Site | Jul 15 |
 | **[IAC International Automotive India Pvt. Ltd.](https://iacgroup.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a581c3768d16a30e2411c5b?utm_campaign=1048&utm_source=git)** | Arlington, TX, United States | On Site | Jul 15 |
 | **[Quality Electrodynamics (QED)](https://qedinnovations.com)** | **[Manufacturing Engineering Internship - Automation and SMT](https://jobright.ai/jobs/info/6a580ca59f1f56462cf68573?utm_campaign=1048&utm_source=git)** | Mayfield Village, OH, United States | On Site | Jul 15 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a457d0e48d2f00f2a86dbf9?utm_campaign=1048&utm_source=git)** | Chadds Ford, PA, United States | Hybrid | Jul 15 |
 | ↳ | **[Mechanical Design Intern](https://jobright.ai/jobs/info/6a457d1dc2d11a6a466695bc?utm_campaign=1048&utm_source=git)** | AEI - Chadds Ford - [7CFD] - Chadds Ford, PA 19317 | On Site | Jul 15 |
 | **[LabN Consulting, LLC](http://labn.net/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a555998ae07d60a8d010c1c?utm_campaign=1048&utm_source=git)** | 11413 Marcliff Rd, Rockville, MD 20852, USA | Remote | Jul 15 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Welder Intern - 2nd Shift](https://jobright.ai/jobs/info/6a57f88f3330ca6f993c27b8?utm_campaign=1048&utm_source=git)** | Duluth, MN, United States | On Site | Jul 15 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Welder Intern - 2nd Shift](https://jobright.ai/jobs/info/6a457e2e971cd25b06f8906a?utm_campaign=1048&utm_source=git)** | Duluth, MN, United States | On Site | Jul 15 |
 | ↳ | **[Machinist Intern - 2nd Shift](https://jobright.ai/jobs/info/6a57f9319f1f56462cf67d17?utm_campaign=1048&utm_source=git)** | Duluth, MN, United States | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[Environmental, Health, & Safety Intern](https://jobright.ai/jobs/info/6a580b589838a11e5d83684d?utm_campaign=1048&utm_source=git)** | Marysville, MI, United States | On Site | Jul 15 |
 | **[SSR Mining Inc.](http://www.ssrmining.com)** | **[8 Month Co-op Internship Mine Engineer](https://jobright.ai/jobs/info/6a58068c72fe7a7b98dcc7c1?utm_campaign=1048&utm_source=git)** | Saskatoon, SK, Canada | On Site | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus AI Research Engineer - Deep Learning (Intern)](https://jobright.ai/jobs/info/6a57469bf7517b519ad59b5d?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Knowledge Management Intern](https://jobright.ai/jobs/info/6a5805118f51964c0404652b?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | ↳ | **[WBG Pioneer - AI Data Scientist Intern](https://jobright.ai/jobs/info/6a5804fc3330ca6f993c2b2a?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
-| ↳ | **[WBG Pioneer - AI Data Engineer Intern](https://jobright.ai/jobs/info/6a5804f59f1f56462cf680a8?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
-| ↳ | **[WBG Pioneer - AI Data Engineer Intern](https://jobright.ai/jobs/info/6a5804e79f1f56462cf680a2?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
