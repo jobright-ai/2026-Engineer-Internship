@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - Efficient Architecture for LLMs](https://jobright.ai/jobs/info/6a599b6e856af468ab004aac?utm_campaign=1048&utm_source=git)** | Montreal, CA | On Site | Jul 16 |
+| **[Deacon Construction, LLC](http://deacon.com)** | **[INTERNSHIP- HIGH SCHOOL STUDENTS](https://jobright.ai/jobs/info/6a5604b510c4d945d8646db5?utm_campaign=1048&utm_source=git)** | Sacramento, CA | On Site | Jul 16 |
+| **[Malibu Boats](http://www.malibuboats.com/)** | **[Malibu TN - Intern](https://jobright.ai/jobs/info/6a5997fc63a8f619507c30ba?utm_campaign=1048&utm_source=git)** | Malibu TN - LOUDON, TN 37774 | On Site | Jul 16 |
+| **[Sharp Hue](https://sharphue.com)** | **[AI Builder Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a59974b686b4755d1e11367?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 16 |
+| **[Ahikā Ventures](https://ahikaventures.com/)** | **[AI Implementation Intern](https://jobright.ai/jobs/info/6a599714686b4755d1e11317?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | Remote | Jul 16 |
+| **[Shimmick Corporation](http://www.shimmick.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a5996d63ac7627fe9000097?utm_campaign=1048&utm_source=git)** | CA, United States | On Site | Jul 16 |
 | **[IFF](http://iff.com)** | **[Process Engineer Intern/Co-Op](https://jobright.ai/jobs/info/6a59481663a8f619507c186a?utm_campaign=1048&utm_source=git)** | Rochester, NY (Plant), USA | On Site | Jul 16 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Manufacturing Engineering Co-op / Intern](https://jobright.ai/jobs/info/6a46c4258204a812e98c9ceb?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Jul 16 |
 | **[Synthara Systems](https://synthara-systems.com/)** | **[AI Implementation Intern](https://jobright.ai/jobs/info/6a598eed856af468ab0045d3?utm_campaign=1048&utm_source=git)** | DFW Metroplex | Remote | Jul 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI Computing System](https://jobright.ai/jobs/info/6a592b3ac8e3a473cb8a5750?utm_campaign=1048&utm_source=git)** | Vancouver, Canada | On Site | Jul 16 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Summer Intern) –Data Center Modeler for Power System Study](https://jobright.ai/jobs/info/6a2c4c64d3ec94183f4bc355?utm_campaign=1048&utm_source=git)** | Golden, CO | On Site | Jul 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Security and Privacy - Fall 2026](https://jobright.ai/jobs/info/6a53b27dc8eb0843027ad69f?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara, United States of America | On Site | Jul 16 |
-| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Internship (44312)](https://jobright.ai/jobs/info/6a592770856af468ab00224a?utm_campaign=1048&utm_source=git)** | Fairfax, VA 22030, United States | On Site | Jul 16 |
-| **[Modjeski and Masters](http://modjeski.com)** | **[Civil Engineer Internship - Bridge Design  (54276)](https://jobright.ai/jobs/info/6a59276c4da96a42cfd8f773?utm_campaign=1048&utm_source=git)** | New Orleans LA - New Orleans, LA 70163 | On Site | Jul 16 |
-| **[Centific](https://www.centific.com)** | **[Technical Intern (Masters or PhD)](https://jobright.ai/jobs/info/6a59268063a8f619507c0960?utm_campaign=1048&utm_source=git)** | Remote Work( USA), United States of America | Remote | Jul 16 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (6-12 months) Power System Stability Analysis Intern](https://jobright.ai/jobs/info/6a511d7b78e364789ca58eda?utm_campaign=1048&utm_source=git)** | Golden, CO, United States of America | Remote | Jul 16 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern - School of Medicine Orthopaedics](https://jobright.ai/jobs/info/6a577ebee9b77f668bd68269?utm_campaign=1048&utm_source=git)** | Flowery Branch, GA, United States | On Site | Jul 16 |
-| ↳ | **[Intern - School of Medicine Orthopaedics](https://jobright.ai/jobs/info/6a58e7a93ac7627fe9ffc07e?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
