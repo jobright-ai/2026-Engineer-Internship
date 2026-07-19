@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - Embodied AI](https://jobright.ai/jobs/info/6a5caeae3ac7627fe900afb4?utm_campaign=1048&utm_source=git)** | Markham, ON, Canada | On Site | Jul 19 |
+| **[Schneider Geomatics](https://schneidergeomatics.com)** | **[Geomatics Intern](https://jobright.ai/jobs/info/6a5cac6c686b4755d1e1c3f1?utm_campaign=1048&utm_source=git)** | Indiana | On Site | Jul 19 |
+| **[ASM](https://www.asm.com)** | **[Simulation and Modeling Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1065f212f8b43cf3984e05?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Jul 19 |
+| ↳ | **[Manufacturing Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/6a560dfef7517b519ad537c7?utm_campaign=1048&utm_source=git)** | US > Arizona > Phoenix | On Site | Jul 19 |
+| **[Zscaler](https://www.zscaler.com)** | **[Detection Engineer- SkillBridge Intern](https://jobright.ai/jobs/info/69e6a9493cfd986aa6f871ab?utm_campaign=1048&utm_source=git)** | Remote - USA | Remote | Jul 19 |
+| ↳ | **[Detection Engineer- SkillBridge Intern](https://jobright.ai/jobs/info/6a520d968a74e077472f2d5c?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Machine Learning for Physical Design Intern - CPU/AI Hardware](https://jobright.ai/jobs/info/6a54a633d007ee02d95ff792?utm_campaign=1048&utm_source=git)** | Austin, Texas, United States | On Site | Jul 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Automation & AI Technology Experience Intern](https://jobright.ai/jobs/info/6a52a1288a74e077472f55a0?utm_campaign=1048&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
 | **[HDR](https://taplow.fi)** | **[Utility Intern](https://jobright.ai/jobs/info/6a566447f7517b519ad554d4?utm_campaign=1048&utm_source=git)** | United States-California-Long Beach | On Site | Jul 19 |
 | ↳ | **[Utility Intern](https://jobright.ai/jobs/info/6a57d3cda791c6211bf0152e?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 19 |
@@ -131,30 +138,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a5366978a74e077472f844d?utm_campaign=1048&utm_source=git)** | Greensburg, IN, United States | On Site | Jul 18 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Operations](https://jobright.ai/jobs/info/6a597d2e3ac7627fe9fff82a?utm_campaign=1048&utm_source=git)** | Lost Hills, CA, United States | On Site | Jul 18 |
 | ↳ | **[Wonderful Summer Internship, Safety](https://jobright.ai/jobs/info/69b1036f0b2db6275c05fb80?utm_campaign=1048&utm_source=git)** | Lost Hills, CA, USA | On Site | Jul 18 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a53a6098576ec69c0150723?utm_campaign=1048&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 18 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Multi-Fidelity Dynamic Models for Energy Systems](https://jobright.ai/jobs/info/6a5ba6213ac7627fe9008c81?utm_campaign=1048&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 18 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HSE Intern (Summer 2026)](https://jobright.ai/jobs/info/6a555d564119652ff3865410?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Jul 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://jobright.ai/jobs/info/69ea5dfe58811370cb132b1c?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 18 |
 | **[MPOWERHealth](https://www.mpowerhealth.com)** | **[UTD Intraoperative Neuromonitoring (IONM) Intern - Dallas-Fort Worth, TX](https://jobright.ai/jobs/info/6a5595fa377f983ce8a9ad1e?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Jul 18 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a0d6d33538d03366dc966c3?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
-| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a50f318bf63b66c7997789a?utm_campaign=1048&utm_source=git)** | Vancouver, Canada | On Site | Jul 18 |
 | ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a096a3c939a5f01db95e43c?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jul 18 |
+| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a52f8648a74e077472f6bfe?utm_campaign=1048&utm_source=git)** | Vancouver, Canada | On Site | Jul 18 |
 | ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a06bed84f290f7450ea3135?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 18 |
 | **[Zipline](https://www.zipline.com/)** | **[System Test Automation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a55561c268af95237beb02d?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 18 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a57a9a0e9b77f668bd69594?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Magna International](http://www.magna.com/)** | **[Student Intern - Engineering-1](https://jobright.ai/jobs/info/6a51de9178e364789ca5e108?utm_campaign=1048&utm_source=git)** | Highland Park, MI, United States | On Site | Jul 18 |
-| ↳ | **[Student Intern - Engineering-1](https://jobright.ai/jobs/info/6a05d896f3d6cc51d638bc5e?utm_campaign=1048&utm_source=git)** | Highland Park, Michigan, US | On Site | Jul 18 |
+| **[Magna International](http://www.magna.com/)** | **[Student Intern - Engineering-1](https://jobright.ai/jobs/info/6a05d896f3d6cc51d638bc5e?utm_campaign=1048&utm_source=git)** | Highland Park, Michigan, US | On Site | Jul 18 |
+| ↳ | **[Student Intern - Engineering-1](https://jobright.ai/jobs/info/6a51de9178e364789ca5e108?utm_campaign=1048&utm_source=git)** | Highland Park, MI, United States | On Site | Jul 18 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Diagnostics Intern](https://jobright.ai/jobs/info/695c50a122c9dc0d3d5442ab?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | **[Textron Aviation](http://txtav.com)** | **[2026 Fall High School Intern - Manufacturing (Columbus, GA)](https://jobright.ai/jobs/info/6a4e5ec99469c0662034af40?utm_campaign=1048&utm_source=git)** | US-Georgia-Columbus | On Site | Jul 18 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Field Service Engineer](https://jobright.ai/jobs/info/6a527c218a74e077472f4cb2?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
-| **[Prysmian](https://www.prysmian.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a1ac599547e292ae139a6d3?utm_campaign=1048&utm_source=git)** | Jackson, TN, US | On Site | Jul 18 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a50e8ae02522b5b722e5cba?utm_campaign=1048&utm_source=git)** | Jackson, TN, United States | On Site | Jul 18 |
+| **[Prysmian](https://www.prysmian.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a50e8ae02522b5b722e5cba?utm_campaign=1048&utm_source=git)** | Jackson, TN, United States | On Site | Jul 18 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a1ac599547e292ae139a6d3?utm_campaign=1048&utm_source=git)** | Jackson, TN, US | On Site | Jul 18 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Maintenance Technician](https://jobright.ai/jobs/info/69cdec9e366bb95ba550482f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
-| **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/6a57faca9f1f56462cf67da7?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
-| ↳ | **[Stormwater Intern](https://jobright.ai/jobs/info/69cc23f7cdb525785fb79b3d?utm_campaign=1048&utm_source=git)** | 2839 Paces Ferry Road, Suite 1000, Atlanta, GA, 30339, US | On Site | Jul 18 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Jul 18 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jul 18 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Jul 18 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jul 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b8e97856af468ab00d1c9?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 18 |
-| **[Zipline](https://www.zipline.com/)** | **[Electrical Project Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a55b1da14f1040fa611a936?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
