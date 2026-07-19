@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ITW Global Tire Repair Europe GmbH](https://www.itwgtr.com)** | **[Chemist Intern](https://jobright.ai/jobs/info/6a5c886c4da96a42cfd9cb6b?utm_campaign=1048&utm_source=git)** | St Gabriel, LA, United States | On Site | Jul 19 |
-| ↳ | **[Testing & Validation Engineer Intern](https://jobright.ai/jobs/info/6a5c8828856af468ab00f3b1?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 19 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Automation & AI Technology Experience Intern](https://jobright.ai/jobs/info/6a52a1288a74e077472f55a0?utm_campaign=1048&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
+| **[HDR](https://taplow.fi)** | **[Utility Intern](https://jobright.ai/jobs/info/6a566447f7517b519ad554d4?utm_campaign=1048&utm_source=git)** | United States-California-Long Beach | On Site | Jul 19 |
+| ↳ | **[Utility Intern](https://jobright.ai/jobs/info/6a57d3cda791c6211bf0152e?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 19 |
+| **[NFI](http://www.nfiindustries.com/)** | **[Supply Chain Engineering Co-op Intern](https://jobright.ai/jobs/info/6a2b9d283f691a293d0b8cf1?utm_campaign=1048&utm_source=git)** | Irving, TX, United States | On Site | Jul 19 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[HEALTH AND SAFETY SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a23e49bdedf78312c7ad711?utm_campaign=1048&utm_source=git)** | Newport News, VA, United States | On Site | Jul 19 |
+| ↳ | **[INDUSTRIAL HYGIENIST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a23ef1314de9460dc845b5c?utm_campaign=1048&utm_source=git)** | Newport News, VA, United States | On Site | Jul 19 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Supply Chain)](https://jobright.ai/jobs/info/6a5c958b686b4755d1e1c11c?utm_campaign=1048&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 19 |
+| **[SEH](http://www.sehinc.com/)** | **[Construction Services Intern](https://jobright.ai/jobs/info/6a06554e6c07461fe171f6ce?utm_campaign=1048&utm_source=git)** | St. Paul MN, US | On Site | Jul 19 |
+| ↳ | **[Construction Services Intern](https://jobright.ai/jobs/info/6a5353e59fbdab22fe13f0c7?utm_campaign=1048&utm_source=git)** | St. Paul MN, United States of America | On Site | Jul 19 |
 | **[PlusAI](https://www.plus.ai)** | **[Systems Engineering Intern](https://jobright.ai/jobs/info/6a5c84f83ac7627fe900aa1d?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 19 |
 | **[Cambro Manufacturing](https://www.cambro.com/)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a5c783ec8e3a473cb8b25ec?utm_campaign=1048&utm_source=git)** | Huntington Beach, CA, United States | On Site | Jul 19 |
 | **[Clinical ink](http://www.clinicalink.com)** | **[Data Management Intern](https://jobright.ai/jobs/info/6a5c705c4da96a42cfd9c916?utm_campaign=1048&utm_source=git)** | Horsham, PA, United States | On Site | Jul 18 |
@@ -104,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate (Year-Round) Intern – Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems](https://jobright.ai/jobs/info/6a22e6f2757ade085b6ad586?utm_campaign=1048&utm_source=git)** | Golden, CO, US | On Site | Jul 18 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Structural Intern](https://jobright.ai/jobs/info/6a45956c4f64ba41dcb4dd58?utm_campaign=1048&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a55d033fdf4fa71202b5b37?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jul 18 |
-| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jul 18 |
 | ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a533942e726ec56126a626a?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 18 |
+| ↳ | **[Diagnostics Intern](https://jobright.ai/jobs/info/6a1c86c99111f771d1a1549a?utm_campaign=1048&utm_source=git)** | US-CA-San Francisco | On Site | Jul 18 |
 | **[Light & Wonder](https://www.lnw.com/)** | **[Math Intern](https://jobright.ai/jobs/info/6a4628800dd56c76cc2f6db6?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States of America | Hybrid | Jul 18 |
 | **[TYLin](http://www.tylin.com)** | **[Mechanical Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a462c8807627158752a0cd9?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 18 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[III-V Processing Intern](https://jobright.ai/jobs/info/6a503a3cfc327f422fef844e?utm_campaign=1048&utm_source=git)** | Golden, CO, United States of America | On Site | Jul 18 |
@@ -128,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[HSE Intern (Summer 2026)](https://jobright.ai/jobs/info/6a555d564119652ff3865410?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Jul 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://jobright.ai/jobs/info/69ea5dfe58811370cb132b1c?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 18 |
 | **[MPOWERHealth](https://www.mpowerhealth.com)** | **[UTD Intraoperative Neuromonitoring (IONM) Intern - Dallas-Fort Worth, TX](https://jobright.ai/jobs/info/6a5595fa377f983ce8a9ad1e?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Jul 18 |
-| **[Marvell Technology](https://www.marvell.com)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a50f318bf63b66c7997789a?utm_campaign=1048&utm_source=git)** | Vancouver, Canada | On Site | Jul 18 |
+| **[Marvell Technology](https://www.marvell.com)** | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a0d6d33538d03366dc966c3?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
+| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a50f318bf63b66c7997789a?utm_campaign=1048&utm_source=git)** | Vancouver, Canada | On Site | Jul 18 |
 | ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a096a3c939a5f01db95e43c?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Jul 18 |
-| ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a0d6d33538d03366dc966c3?utm_campaign=1048&utm_source=git)** | Toronto, Canada | On Site | Jul 18 |
 | ↳ | **[Analog Engineer Intern - PhD](https://jobright.ai/jobs/info/6a06bed84f290f7450ea3135?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 18 |
 | **[Zipline](https://www.zipline.com/)** | **[System Test Automation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a55561c268af95237beb02d?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 18 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Assistant Superintendent](https://jobright.ai/jobs/info/6a57a9a0e9b77f668bd69594?utm_campaign=1048&utm_source=git)** | New York, NY | On Site | Jul 18 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Maintenance Technician](https://jobright.ai/jobs/info/69cdec9e366bb95ba550482f?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[Arcadis](http://www.arcadis.com)** | **[Stormwater Intern](https://jobright.ai/jobs/info/6a57faca9f1f56462cf67da7?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
 | ↳ | **[Stormwater Intern](https://jobright.ai/jobs/info/69cc23f7cdb525785fb79b3d?utm_campaign=1048&utm_source=git)** | 2839 Paces Ferry Road, Suite 1000, Atlanta, GA, 30339, US | On Site | Jul 18 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jul 18 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Jul 18 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jul 18 |
+| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Jul 18 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jul 18 |
 | ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Jul 18 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b8e97856af468ab00d1c9?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 18 |
 | **[Zipline](https://www.zipline.com/)** | **[Electrical Project Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a55b1da14f1040fa611a936?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 18 |
-| **[JRM Construction Management](http://jrmcm.com)** | **[DoD SkillBridge Internship: Project Engineer](https://jobright.ai/jobs/info/6a52d68f8ef95364ead900c1?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
-| **[Zachry Group](http://www.zachrygroup.com/)** | **[Nuclear Engineer I Electrical - Internship](https://jobright.ai/jobs/info/69998310e0bddb6acac8cb71?utm_campaign=1048&utm_source=git)** | 14 Lords Hill Road, Stonington, CT, 06378, US | On Site | Jul 18 |
-| **[Shermco Industries](http://www.shermco.com)** | **[Field Engineer - Electrical Testing I Intern](https://jobright.ai/jobs/info/6a5804b99838a11e5d836470?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 18 |
-| ↳ | **[Field Engineer - Electrical Testing I Intern](https://jobright.ai/jobs/info/6a1e488fa507373dff6b9b5b?utm_campaign=1048&utm_source=git)** | US-AZ-Phoenix | On Site | Jul 18 |
-| ↳ | **[Field Engineer - Electrical Testing I Intern](https://jobright.ai/jobs/info/6a08e49a3b54ed42d74d9ff4?utm_campaign=1048&utm_source=git)** | US-AZ-Phoenix | On Site | Jul 18 |
-| ↳ | **[Field Engineer - Electrical Testing I Intern](https://jobright.ai/jobs/info/6a08e4533b54ed42d74d9f30?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 18 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a580b099f1f56462cf683ce?utm_campaign=1048&utm_source=git)** | McCook, NE, United States | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
