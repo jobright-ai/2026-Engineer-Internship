@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Biologics Research](https://jobright.ai/jobs/info/6acf085d70e50ec1b37f28f2?utm_campaign=1048&utm_source=git)** | Lebanon, NH, United States | On Site | Oct 13 |
+| ↳ | **[Summer Intern – Quality Systems & Business Processes](https://jobright.ai/jobs/info/6acf081e680c80c8753bf75d?utm_campaign=1048&utm_source=git)** | Bridgewater, NJ, United States | Hybrid | Oct 13 |
+| ↳ | **[Summer Intern – CMC Quality Assurance, Clinical Programs](https://jobright.ai/jobs/info/6acf06b54f3229123da3ed14?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 13 |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Kite Development - Quality Systems, Compliance & Audits and Vendor Quality](https://jobright.ai/jobs/info/6a9fc7d668f82b403673dbec?utm_campaign=1048&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Oct 13 |
+| ↳ | **[Intern - Kite Development - Quality Systems, Compliance & Audits and Vendor Quality](https://jobright.ai/jobs/info/6aa4b20b422289703bd679a7?utm_campaign=1048&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Oct 13 |
 | **[Wells](http://wellsconcrete.com)** | **[CIVIL/STRUCTURAL ENGINEERING INTERN](https://jobright.ai/jobs/info/6a974e39b22f636c8141742e?utm_campaign=1048&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 13 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Summer 2027 Construction Internship](https://jobright.ai/jobs/info/6acf004e680c80c8753bf61f?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 13 |
 | **[McCarthy Building Companies, Inc.](http://www.mccarthy.com)** | **[Intern Advantage Program - SoCal - Safety Internship](https://jobright.ai/jobs/info/6a974d0af5337b2cf7321655?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 13 |
@@ -110,12 +115,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PIC Process Integration Intern](https://jobright.ai/jobs/info/6acea809680c80c8753be1ec?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 13 |
 | **[Haworth](http://www.haworth.com/)** | **[Quality and Manufacturing Engineering Intern HCP 1](https://jobright.ai/jobs/info/6acee9224391691a335af088?utm_campaign=1048&utm_source=git)** | Holland, MI, United States | On Site | Oct 13 |
 | **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a4f4476fc327f422fef53c8?utm_campaign=1048&utm_source=git)** | St. Paul, MN 55104, United States | On Site | Oct 13 |
-| ↳ | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/699d3d60e0bddb6acacc81f7?utm_campaign=1048&utm_source=git)** | Lexington, KY 40511 | On Site | Oct 13 |
 | ↳ | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/6a5fa2c88c7fd835513ba0c2?utm_campaign=1048&utm_source=git)** | Lexington, KY, United States | On Site | Oct 13 |
+| ↳ | **[Engineering Intern (48469)](https://jobright.ai/jobs/info/699d3d60e0bddb6acacc81f7?utm_campaign=1048&utm_source=git)** | Lexington, KY 40511 | On Site | Oct 13 |
 | ↳ | **[Engineering Intern (50803)](https://jobright.ai/jobs/info/6a630ba432abf9182432cac5?utm_campaign=1048&utm_source=git)** | St. Paul, MN, United States | On Site | Oct 13 |
 | **[Aptiv](http://www.aptiv.com)** | **[ADAS Engineering Intern – Camera Perception](https://jobright.ai/jobs/info/6acec6764f3229123da3e0ba?utm_campaign=1048&utm_source=git)** | Troy, MI, United States | On Site | Oct 13 |
-| **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a19aaf42b206f3955eaf772?utm_campaign=1048&utm_source=git)** | Gettysburg, PA, US | On Site | Oct 13 |
-| ↳ | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a862ea2e459fa3baa8667c7?utm_campaign=1048&utm_source=git)** | Lake Barrington, IL, United States | On Site | Oct 13 |
+| **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a862ea2e459fa3baa8667c7?utm_campaign=1048&utm_source=git)** | Lake Barrington, IL, United States | On Site | Oct 13 |
+| ↳ | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a19aaf42b206f3955eaf772?utm_campaign=1048&utm_source=git)** | Gettysburg, PA, US | On Site | Oct 13 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Field Operations Intern (East/Central Idaho)](https://jobright.ai/jobs/info/6acee45270e50ec1b37f2154?utm_campaign=1048&utm_source=git)** | Caldwell, ID, United States | On Site | Oct 13 |
 | **[MechNova](joinmechnova.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6acee40abb78de94580d860c?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 13 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Kite Research - Cell Biology](https://jobright.ai/jobs/info/6aa8a8c4e52865942acfd466?utm_campaign=1048&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 13 |
@@ -131,12 +136,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 - Supply Chain Engineering Intern - Austin, TX](https://jobright.ai/jobs/info/6acee3a3680c80c8753beee3?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 13 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6acee3a34391691a335aecd2?utm_campaign=1048&utm_source=git)** | Fall River, MA, United States | On Site | Oct 13 |
 | **[Lutron Electronics](http://www.lutron.com/)** | **[Summer 2027 - Mechanical Engineering Intern - Boston, MA](https://jobright.ai/jobs/info/6acee3a2680c80c8753beee1?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
-| ↳ | **[Summer 2027 - Textile Specialist Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee3a070e50ec1b37f2062?utm_campaign=1048&utm_source=git)** | Coopersburg, PA, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 - Industrial Engineering Intern - Ashland, VA](https://jobright.ai/jobs/info/6acee3a0680c80c8753beedc?utm_campaign=1048&utm_source=git)** | Ashland, VA, United States | On Site | Oct 13 |
+| ↳ | **[Summer 2027 - Textile Specialist Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee3a070e50ec1b37f2062?utm_campaign=1048&utm_source=git)** | Coopersburg, PA, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 - Industrial Engineering Intern - Austin, TX](https://jobright.ai/jobs/info/6acee39f680c80c8753beeda?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 13 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Information Security Intern- Summer 2027](https://jobright.ai/jobs/info/6acee39e70e50ec1b37f205d?utm_campaign=1048&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 13 |
-| **[Lutron Electronics](http://www.lutron.com/)** | **[Summer 2027 - Electrical Engineering Intern - Austin, TX](https://jobright.ai/jobs/info/6acee39e680c80c8753beed9?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 13 |
-| ↳ | **[Summer 2027 - Mechanical Engineering Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee39e680c80c8753beed5?utm_campaign=1048&utm_source=git)** | Coopersburg, PA, United States | On Site | Oct 13 |
+| **[Lutron Electronics](http://www.lutron.com/)** | **[Summer 2027 - Mechanical Engineering Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee39e680c80c8753beed5?utm_campaign=1048&utm_source=git)** | Coopersburg, PA, United States | On Site | Oct 13 |
+| ↳ | **[Summer 2027 - Electrical Engineering Intern - Austin, TX](https://jobright.ai/jobs/info/6acee39e680c80c8753beed9?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 – Data Engineering Intern - Philadelphia, PA](https://jobright.ai/jobs/info/6acee39e70e50ec1b37f205a?utm_campaign=1048&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 13 |
 | ↳ | **[Summer 2027 - Electrical Engineering Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee39b4f3229123da3e500?utm_campaign=1048&utm_source=git)** | Coopersburg, PA, United States | On Site | Oct 13 |
 | ↳ | **[Spring 2027 - Mechanical Engineering Co-Op - Boston, MA](https://jobright.ai/jobs/info/6acee39b680c80c8753beecd?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BCG X](https://www.bcg.com/x)** | **[Forward Deployed AI Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/6aceb7584391691a335ae56f?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[Institute for Defense Analyses](https://www.ida.org)** | **[GMU Cyber Security Internship - Fall 2026](https://jobright.ai/jobs/info/6acecf9a680c80c8753bec8f?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 13 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Intermodal Appointment Internship](https://jobright.ai/jobs/info/6ace92ddba99f15ef4125c17?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Oct 13 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Rural Water Engineering Internship - Summer 2027](https://jobright.ai/jobs/info/6a9ad0cefe45b8490f6047a2?utm_campaign=1048&utm_source=git)** | Williston, ND, United States | On Site | Oct 13 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f5a83fc6333576329c2?utm_campaign=1048&utm_source=git)** | Rapid City, SD, United States | On Site | Oct 13 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6aa4bc092ed333b4ea5c3c99?utm_campaign=1048&utm_source=git)** | Lehi, UT, United States | On Site | Oct 13 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f52af954907d657473b?utm_campaign=1048&utm_source=git)** | Maple Grove, MN, United States | On Site | Oct 13 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f5083fc6333576329bf?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
