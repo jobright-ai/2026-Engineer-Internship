@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Water Resources Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aa08e0aa2266b538d23112f?utm_campaign=1048&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 17 |
+| **[Horizon Lane](horizonlane.net)** | **[Construction Management Intern(civil / construction engineer)](https://jobright.ai/jobs/info/6ad431d925289a0b3bf5c81e?utm_campaign=1048&utm_source=git)** | California, United States | Remote | Oct 17 |
+| **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[Supplier Quality Intern](https://jobright.ai/jobs/info/6a568ffaefb06a45240d6a72?utm_campaign=1048&utm_source=git)** | Fishers, IN, United States | Remote | Oct 17 |
+| **[Sazerac Company](https://www.sazerac.com)** | **[Intern - Manufacturing (BBK)](https://jobright.ai/jobs/info/6ad3fcfdebd52f378af8cef3?utm_campaign=1048&utm_source=git)** | Bardstown, KY, United States | On Site | Oct 17 |
 | **[Sikich](http://www.sikich.com)** | **[Intelligence Transformation Intern  Similar jobs](https://jobright.ai/jobs/info/6ad0fa79a4f99fef819408aa?utm_campaign=1048&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern - Guidance Navigation and Control Engineer](https://jobright.ai/jobs/info/6ad29314810010ec72f58d14?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Oct 17 |
 | ↳ | **[2027 Systems Engineering Intern - Aurora CO](https://jobright.ai/jobs/info/6ad2932e83ada13a9da069fc?utm_campaign=1048&utm_source=git)** | Aurora, CO, United States | On Site | Oct 17 |
@@ -68,15 +72,14 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com)** | **[DevOps Engineer Intern, Summer 2027](https://jobright.ai/jobs/info/6ab74584ba1c25652c611e63?utm_campaign=1048&utm_source=git)** | Plano, Texas, United States | On Site | Oct 17 |
 | **[Meta](https://www.meta.com)** | **[Data Engineer Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33?utm_campaign=1048&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 17 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Lead &amp; Copper Inventory Internship](https://jobright.ai/jobs/info/6a984c9383fc6333576309c0?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, United States | On Site | Oct 17 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f52af954907d657473b?utm_campaign=1048&utm_source=git)** | Maple Grove, MN, United States | On Site | Oct 17 |
 | ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f5a83fc6333576329c2?utm_campaign=1048&utm_source=git)** | Rapid City, SD, United States | On Site | Oct 17 |
-| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6aa4bc092ed333b4ea5c3c99?utm_campaign=1048&utm_source=git)** | Lehi, UT, United States | On Site | Oct 17 |
 | ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f5083fc6333576329bf?utm_campaign=1048&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 17 |
+| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6aa4bc092ed333b4ea5c3c99?utm_campaign=1048&utm_source=git)** | Lehi, UT, United States | On Site | Oct 17 |
+| ↳ | **[Water/Wastewater Engineering Internship](https://jobright.ai/jobs/info/6a989f52af954907d657473b?utm_campaign=1048&utm_source=git)** | Maple Grove, MN, United States | On Site | Oct 17 |
 | ↳ | **[Rural Water Engineering Internship](https://jobright.ai/jobs/info/6a984c71def18223c854e885?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, United States | On Site | Oct 17 |
 | ↳ | **[Rural Water Engineering Internship](https://jobright.ai/jobs/info/6aaabf39c85610f4a4841538?utm_campaign=1048&utm_source=git)** | Fargo, ND, United States | On Site | Oct 17 |
 | ↳ | **[Rural Water Engineering Internship - Summer 2027](https://jobright.ai/jobs/info/6a9ad0cefe45b8490f6047a2?utm_campaign=1048&utm_source=git)** | Williston, ND, United States | On Site | Oct 17 |
 | ↳ | **[Civil Engineering Internship - Summer 2027](https://jobright.ai/jobs/info/6a95a752f28891320e85cf02?utm_campaign=1048&utm_source=git)** | Bismarck, ND, United States | On Site | Oct 17 |
-| **[Sazerac Company](https://www.sazerac.com)** | **[Intern - Manufacturing (BBK)](https://jobright.ai/jobs/info/6ad3fcfdebd52f378af8cef3?utm_campaign=1048&utm_source=git)** | Bardstown, KY, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Summer](https://jobright.ai/jobs/info/6a714fe9cb96192a36848660?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | **[Craftwater](https://www.craftwater.com/)** | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa4854b1d92e2d05d115108?utm_campaign=1048&utm_source=git)** | Pasadena, CA, United States | Hybrid | Oct 17 |
 | **[The Mennel Milling Company](http://mennel.com)** | **[Engineering Intern - 2027](https://jobright.ai/jobs/info/6ad3f5c1c4290cef1413018e?utm_campaign=1048&utm_source=git)** | Fostoria, OH, United States | On Site | Oct 17 |
@@ -140,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Postdoctoral Fellow - Surgical and Interventional Sciences](https://jobright.ai/jobs/info/6ad3b675f04335fc70ed9f9f?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 17 |
 | **[Ecolab](http://www.ecolab.com)** | **[Supply Chain Intern - Engineering and Business Majors](https://jobright.ai/jobs/info/6aada7ca6956574eac8b700f?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | Remote | Oct 17 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Substation Engineer Intern - Grid (Summer 2027)](https://jobright.ai/jobs/info/6a99f07c90a313642c653a8e?utm_campaign=1048&utm_source=git)** | Santa Ana, CA, United States | On Site | Oct 17 |
-| **[Skanska](http://skanska.com)** | **[2027 Summer PE- Intern](https://jobright.ai/jobs/info/6aa0a2d9500b01124c77a2ba?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 17 |
+| **[Skanska](http://skanska.com)** | **[2027 Summer PE- Intern](https://jobright.ai/jobs/info/6aa0889d500b01124c779a5e?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 17 |
 | ↳ | **[2027 Summer PE- Intern](https://jobright.ai/jobs/info/6aa087f1dbc0e60e37e0e3f3?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 17 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Structural Engineer Intern - Grid (Summer 2027)](https://jobright.ai/jobs/info/6a9a06edad752e2ad55036c0?utm_campaign=1048&utm_source=git)** | Chattanooga, TN, United States | On Site | Oct 17 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Electrical Engineer](https://jobright.ai/jobs/info/6ab693c44873fd3fd852dcb2?utm_campaign=1048&utm_source=git)** | Alcoa, TN, United States | On Site | Oct 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AFB International](http://afbinternational.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6aabf834636cddf7396f1783?utm_campaign=1048&utm_source=git)** | Aurora, MO, United States | On Site | Oct 17 |
 | **[Mechronix](mechronix.net)** | **[Manufacturing Intern](https://jobright.ai/jobs/info/6ad3b29a83ada13a9da0a5b4?utm_campaign=1048&utm_source=git)** | Texas, United States | On Site | Oct 17 |
 | **[Vast](https://www.vastspace.com)** | **[Emerging Talent - Mechanical/Aerospace Engineering Internship](https://jobright.ai/jobs/info/6aa3ea03f7baf881567cc0c0?utm_campaign=1048&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 17 |
-| **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7238c3cb96192a3684cc18?utm_campaign=1048&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Oct 17 |
-| ↳ | **[Heavy Civil Infrastructure Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b374f77e6b569c61bf1b5?utm_campaign=1048&utm_source=git)** | Waltham, MA, United States | On Site | Oct 17 |
-| ↳ | **[Heavy Civil Infrastructure Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdebc05d77f2bdde88b?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
