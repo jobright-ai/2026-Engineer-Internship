@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cal Poly Pomona Enterprises](https://foundation.cpp.edu)** | **[MWD QA & Data Management Co-Op Student Intern #755391491](https://jobright.ai/jobs/info/6ad59003810010ec72f6098b?utm_campaign=1048&utm_source=git)** | La Verne, CA, United States | On Site | Oct 18 |
+| **[James Hardie](https://www.jameshardie.com)** | **[R&D Intern - Polymer Composite Formulation & Processing](https://jobright.ai/jobs/info/6ad58ed483ada13a9da0e77f?utm_campaign=1048&utm_source=git)** | Wilmington, Ohio, United States | On Site | Oct 18 |
+| **[Monarch Quantum](https://www.monarchquantum.com)** | **[2027 Monarch Quantum Summer Internship Program](https://jobright.ai/jobs/info/6ad007582cc4e9d17e90bc49?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Oct 18 |
 | **[SiTime](http://www.sitime.com)** | **[Intern](https://jobright.ai/jobs/info/6ad57e6025289a0b3bf5f2ce?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 18 |
 | **[Blue Ventis](blueventis.com)** | **[Data & Control Systems Engineer Intern](https://jobright.ai/jobs/info/6ad57a7083ada13a9da0e42b?utm_campaign=1048&utm_source=git)** | Florida, United States | Remote | Oct 18 |
 | **[Dow](https://www.dowchemical.com)** | **[2026-2027 Campus Internship - ADISE Digital Innovation – Cross-functional (Ph.D)](https://jobright.ai/jobs/info/6acce41cddd23cce28a0f9a5?utm_campaign=1048&utm_source=git)** | Midland, MI, United States | Remote | Oct 18 |
-| **[H-E-B](https://www.heb.com.mx)** | **[Internship - Manufacturing Strategy - San Antonio](https://jobright.ai/jobs/info/6aa89ad2a77a53f5a157a2af?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 18 |
 | **[DiDi](https://www.didiglobal.com)** | **[Research Intern, Scene Understanding and Planning](https://jobright.ai/jobs/info/6ad537d383ada13a9da0dc4c?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Oct 18 |
 | **[Contech Engineered Solutions](http://www.conteches.com/)** | **[Intern, Civil/Structural Engineering](https://jobright.ai/jobs/info/6ac2eeb10e027c0f3b3a5b26?utm_campaign=1048&utm_source=git)** | West Chester, OH, United States | On Site | Oct 18 |
 | **[Varda Space Industries](http://varda.com)** | **[Site Reliability Internship - Spring 2027](https://jobright.ai/jobs/info/6a760ceda26ccc369f8336e0?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 18 |
@@ -113,28 +115,28 @@ For a complete list, click the following sortable link below:
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Postdoctoral Fellow - Surgical and Interventional Sciences](https://jobright.ai/jobs/info/6ad532e6ebd52f378af8f5d4?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 18 |
 | **[Skanska](http://skanska.com)** | **[Steel Bridge Summer 2027 Intern](https://jobright.ai/jobs/info/6a7dec8be2030208f276676a?utm_campaign=1048&utm_source=git)** | Carteret, NJ, United States | On Site | Oct 18 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[CVN Engineering Technician (SkillBridge Intern) - 27764](https://jobright.ai/jobs/info/6a65b82fe8d8d22e3292efd6?utm_campaign=1048&utm_source=git)** | Newport News, VA, United States | On Site | Oct 18 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6aad60df2e757fcb5c8b7e66?utm_campaign=1048&utm_source=git)** | Whitestone, NY, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c643eeac101cfaa042c?utm_campaign=1048&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a7cd4a983621355407ac1a6?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a74cbfd37da8525e8cda99a?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c692dbaf907b07692c3?utm_campaign=1048&utm_source=git)** | Frederick, MD, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8dfa5925fc4e7ae3dbef43?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f3460f841e649a71912f5?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c86d7c91d0cf446d3e3?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c769b859b227766f4b5?utm_campaign=1048&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8ef8dc3ac3a34f92d7eca7?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c8a309e5f224870a06b?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8456987b33d722762554e9?utm_campaign=1048&utm_source=git)** | Virginia Beach, Virginia, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8ef8a9a10ee661e24d5b14?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8dfa5cd34f700f87fd72a0?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a7cd4b2a346cb6c8d5f04d1?utm_campaign=1048&utm_source=git)** | Renton, WA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6ab16fa732552369083e2142?utm_campaign=1048&utm_source=git)** | Port Arthur, TX, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8e0be947679c68bf5e6681?utm_campaign=1048&utm_source=git)** | Redding, CA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c6c2dbaf907b07692c5?utm_campaign=1048&utm_source=git)** | Lumberton, NC, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a7dffaa0cd4a0703257d086?utm_campaign=1048&utm_source=git)** | Morgan Hill, CA, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c8e382b237ac80c3f22?utm_campaign=1048&utm_source=git)** | Columbus, TX, United States | On Site | Oct 18 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c6c2dbaf907b07692c4?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 18 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8dfa5925fc4e7ae3dbef43?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 18 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8e0becd34f700f87fd7a62?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c8a309e5f224870a06b?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6aad59336956574eac8b5130?utm_campaign=1048&utm_source=git)** | Renton, WA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a74cbfd37da8525e8cda99a?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8ef8a9a10ee661e24d5b14?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8ef8dc3ac3a34f92d7eca7?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c86d7c91d0cf446d3e3?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f3460f841e649a71912f5?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6aad60df2e757fcb5c8b7e66?utm_campaign=1048&utm_source=git)** | Whitestone, NY, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c6c2dbaf907b07692c5?utm_campaign=1048&utm_source=git)** | Lumberton, NC, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6ab16fa732552369083e2142?utm_campaign=1048&utm_source=git)** | Port Arthur, TX, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8dfa5cd34f700f87fd72a0?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8f0c8e382b237ac80c3f22?utm_campaign=1048&utm_source=git)** | Columbus, TX, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a7cd4a983621355407ac1a6?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c6c2dbaf907b07692c4?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c769b859b227766f4b5?utm_campaign=1048&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c643eeac101cfaa042c?utm_campaign=1048&utm_source=git)** | Pinehurst, NC, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8e0be947679c68bf5e6681?utm_campaign=1048&utm_source=git)** | Redding, CA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a837c692dbaf907b07692c3?utm_campaign=1048&utm_source=git)** | Frederick, MD, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a7dffaa0cd4a0703257d086?utm_campaign=1048&utm_source=git)** | Morgan Hill, CA, United States | On Site | Oct 18 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a8456987b33d722762554e9?utm_campaign=1048&utm_source=git)** | Virginia Beach, Virginia, United States | On Site | Oct 18 |
 | **[Marvell Technology](https://www.marvell.com)** | **[IC Validation Engineer Intern, MS - Summer 2027](https://jobright.ai/jobs/info/6a9b6d54d5ff1f3f1c39f13a?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 18 |
 | ↳ | **[Application Engineer Intern, MS - Summer 2027](https://jobright.ai/jobs/info/6a9b2f7ad5ff1f3f1c39e0a9?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 18 |
 | **[Quanta Infrastructure Solutions Group](https://quantaisg.com)** | **[Engineering Intern - Substation](https://jobright.ai/jobs/info/6ab54ca9d85922de20ce0489?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Geological Engineering (Geotechnical) Intern](https://jobright.ai/jobs/info/6aa4afe4422289703bd678fc?utm_campaign=1048&utm_source=git)** | Draper, UT, United States | On Site | Oct 18 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Engineering Intern - Transmission Line](https://jobright.ai/jobs/info/6a985f0911f73b6462c8e473?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Oct 18 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Civil Engineering (Geotechnical) Intern](https://jobright.ai/jobs/info/6aa5ef8942411952ff9aa9a7?utm_campaign=1048&utm_source=git)** | Spokane Valley, WA, United States | On Site | Oct 18 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Engineering Intern - Substation](https://jobright.ai/jobs/info/6a987615dd171c7285792632?utm_campaign=1048&utm_source=git)** | Paramus, NJ, United States | On Site | Oct 18 |
-| ↳ | **[Engineering Intern - Substation](https://jobright.ai/jobs/info/6a987609dd171c728579262d?utm_campaign=1048&utm_source=git)** | Lone Tree, CO, United States | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
