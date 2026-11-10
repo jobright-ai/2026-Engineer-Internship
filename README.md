@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AxoraQ](axoraq.com)** | **[Materials Engineering - Summer Intern](https://jobright.ai/jobs/info/6af2bd8a16c956f2357847fb?utm_campaign=1048&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 09 |
+| **[ASM](https://www.asm.com)** | **[Intern, EHS (Environment, Health, Safety)](https://jobright.ai/jobs/info/6af2b59616c956f235784630?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 09 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Maintenance Engineering Trainee/Intern](https://jobright.ai/jobs/info/6af27e84f1ee406a27fddc6c?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Nov 09 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Electrical Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa1bdfd3272060a8e3f1ce2?utm_campaign=1048&utm_source=git)** | Rochester, NY, United States | On Site | Nov 09 |
 | **[MITRE](http://www.mitre.org)** | **[Critical Infrastructure Protection Intern](https://jobright.ai/jobs/info/6ae0fa3d67c31ab34899f39a?utm_campaign=1048&utm_source=git)** | McLean, VA, United States | On Site | Nov 09 |
 | ↳ | **[GMD TDA Nuclear Survivability Internship](https://jobright.ai/jobs/info/6ae0fa3a829a3bada15f93cf?utm_campaign=1048&utm_source=git)** | Bedford, MA, United States | On Site | Nov 09 |
-| **[ASM](https://www.asm.com)** | **[Intern, EHS (Environment, Health, Safety)](https://jobright.ai/jobs/info/6af2b59616c956f235784630?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 09 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Cyber Security Internship](https://jobright.ai/jobs/info/6aa8b97b83a6750b1adf9e12?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | Hybrid | Nov 09 |
-| **[Mercedes-Benz U.S. International, Inc.](https://mbusi.com/)** | **[Internship in Automotive Electronic Engineering (International Student)](https://jobright.ai/jobs/info/6af29d6d6d2bd34f89adba36?utm_campaign=1048&utm_source=git)** | Vance, AL, United States | On Site | Nov 09 |
 | **[REGENT](https://www.regentcraft.com)** | **[Human Factors Intern (Summer)](https://jobright.ai/jobs/info/6af27b028cbcfef4a59dc636?utm_campaign=1048&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 09 |
 | ↳ | **[Performance Intern (Summer)](https://jobright.ai/jobs/info/6af271641116f6f0a0769414?utm_campaign=1048&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 09 |
 | ↳ | **[Modeling & Simulation Intern (Summer)](https://jobright.ai/jobs/info/6af2788262fb9f5fcd897c6c?utm_campaign=1048&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 09 |
@@ -99,20 +99,20 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Product Development (R&D)](https://jobright.ai/jobs/info/6a8de1be581f2d7bfdfe9b18?utm_campaign=1048&utm_source=git)** | Frisco, TX, United States | On Site | Nov 09 |
 | **[Capitol Aggregates, Inc](http://capitolaggregates.com)** | **[Safety Intern - Cement](https://jobright.ai/jobs/info/6af2a2ac41f4504a0888cfbd?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 09 |
 | **[AGCO Corporation](http://agcocorp.com)** | **[Environmental Sustainability Intern - Spring/Summer 2027](https://jobright.ai/jobs/info/6af26d341aaffa49f73848ab?utm_campaign=1048&utm_source=git)** | Jackson, MN, United States | On Site | Nov 09 |
-| **[AECOM](http://www.aecom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6acfe81e2cc4e9d17e90b1a0?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Nov 09 |
-| ↳ | **[Engineering Intern - AECOM Hiring Event - Arlington, VA](https://jobright.ai/jobs/info/6ab56cbad85922de20ce0f70?utm_campaign=1048&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 09 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6acfe81afe7a9bd5a6b9a9ff?utm_campaign=1048&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 09 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6ae4c1c577c09cb3bd4ae5e7?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 09 |
+| **[AECOM](http://www.aecom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6ae4c1c577c09cb3bd4ae5e7?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 09 |
 | ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6af23a8b8cbcfef4a59da7fc?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| ↳ | **[Engineering Intern - AECOM Hiring Event - Arlington, VA](https://jobright.ai/jobs/info/6ab56cbad85922de20ce0f70?utm_campaign=1048&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 09 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6acfe81e2cc4e9d17e90b1a0?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Nov 09 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6acfe81afe7a9bd5a6b9a9ff?utm_campaign=1048&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 09 |
 | ↳ | **[Water Resources Engineering Intern](https://jobright.ai/jobs/info/6af23a958cbcfef4a59da803?utm_campaign=1048&utm_source=git)** | Conshohocken, PA, United States | Hybrid | Nov 09 |
-| ↳ | **[Construction Intern](https://jobright.ai/jobs/info/6af23a7f905985ccaa40ad0b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | ↳ | **[Construction Intern - AECOM Hunt](https://jobright.ai/jobs/info/6aecd03f3967d67f6359ff9b?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Nov 09 |
+| ↳ | **[Construction Intern (Summer 2027)](https://jobright.ai/jobs/info/6af23a8d1aaffa49f7382e43?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
+| ↳ | **[Construction Intern](https://jobright.ai/jobs/info/6af23a7f905985ccaa40ad0b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
+| ↳ | **[Construction Intern (Summer 2027)](https://jobright.ai/jobs/info/6af23a8c0cb834dad9325356?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
 | ↳ | **[Construction Intern – AECOM Hunt](https://jobright.ai/jobs/info/6aa1f3df3272060a8e3f2e2a?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
 | ↳ | **[Construction Intern - AECOM Tishman](https://jobright.ai/jobs/info/6aee0b26caf8e660b87da15e?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
-| ↳ | **[Construction Intern (Summer 2027)](https://jobright.ai/jobs/info/6af23a8d1aaffa49f7382e43?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
-| ↳ | **[Construction Intern (Summer 2027)](https://jobright.ai/jobs/info/6af23a8c0cb834dad9325356?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
-| **[ABB](https://global.abb/group/en)** | **[Automation Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae0f9c56679108488c3fa92?utm_campaign=1048&utm_source=git)** | New Berlin, WI, United States | On Site | Nov 09 |
-| ↳ | **[Automation Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae1169d1f9d9308370a78f2?utm_campaign=1048&utm_source=git)** | New Berlin, WI, United States | On Site | Nov 09 |
+| **[ABB](https://global.abb/group/en)** | **[Automation Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae1169d1f9d9308370a78f2?utm_campaign=1048&utm_source=git)** | New Berlin, WI, United States | On Site | Nov 09 |
+| ↳ | **[Automation Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae0f9c56679108488c3fa92?utm_campaign=1048&utm_source=git)** | New Berlin, WI, United States | On Site | Nov 09 |
 | **[Mercedes-Benz U.S. International, Inc.](https://mbusi.com/)** | **[Internship in Project Coordination (International Student)](https://jobright.ai/jobs/info/6af29d78d622b1b75451a88c?utm_campaign=1048&utm_source=git)** | Vance, AL, United States | On Site | Nov 09 |
 | ↳ | **[Internship in Chief Engineer Project Support (International Student)](https://jobright.ai/jobs/info/6af29d6c12ea2d46c53e2669?utm_campaign=1048&utm_source=git)** | Vance, AL, United States | On Site | Nov 09 |
 | **[ABB](https://global.abb/group/en)** | **[Mechanical Engineering Co-op- Summer 2027](https://jobright.ai/jobs/info/6af273bf0cb834dad9327046?utm_campaign=1048&utm_source=git)** | Mebane, NC, United States | Hybrid | Nov 09 |
@@ -139,16 +139,16 @@ For a complete list, click the following sortable link below:
 | **[Spartan Controls](https://www.spartancontrols.com)** | **[Co-op/Intern Student - Automation Systems Administrator, 12 Months (January 2027)](https://jobright.ai/jobs/info/6af236b61116f6f0a076761e?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 09 |
 | ↳ | **[Co-op/Intern Engineering Student - Electrical & CADD Specialist (May 2027)](https://jobright.ai/jobs/info/6af26ebc1aaffa49f738492e?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
 | ↳ | **[Co-op/Intern Engineering Student - Electrical Specialist (May 2027)](https://jobright.ai/jobs/info/6af26e9e8cbcfef4a59dc37f?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
-| ↳ | **[Co-op/Intern Engineering Student - Application Specialist (May 2027)](https://jobright.ai/jobs/info/6af26e9b62fb9f5fcd897a05?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
 | ↳ | **[Co-op/Intern Student - Automation Specialist, 12 Months (January 2027)](https://jobright.ai/jobs/info/6af2369f8cbcfef4a59da5f5?utm_campaign=1048&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 09 |
 | ↳ | **[Co-op/Intern Engineering Student - Engineering Projects (May 2027)](https://jobright.ai/jobs/info/6af26e990cb834dad9326eb1?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
 | ↳ | **[Co-op/Intern Engineering Student - Automation Specialist, Configuration & Design (May 2027)](https://jobright.ai/jobs/info/6af26ea58cbcfef4a59dc386?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
+| ↳ | **[Co-op/Intern Engineering Student - Application Specialist (May 2027)](https://jobright.ai/jobs/info/6af26e9b62fb9f5fcd897a05?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 09 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Undergraduate Research Assistant - 2026-2027 Internship](https://jobright.ai/jobs/info/6af283bcf1ee406a27fde056?utm_campaign=1048&utm_source=git)** | Drosdick Hall | On Site | Nov 09 |
 | **[Pika](https://pika.art)** | **[Applied AI Engineer, Creative Experiences](https://jobright.ai/jobs/info/6af280f76d2bd34f89adb187?utm_campaign=1048&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 09 |
 | **[Bartlett Tree Experts](http://www.bartlett.com)** | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a862ea2e459fa3baa8667c7?utm_campaign=1048&utm_source=git)** | Lake Barrington, IL, United States | On Site | Nov 09 |
 | ↳ | **[Arboriculture Internship](https://jobright.ai/jobs/info/6a19aaf42b206f3955eaf772?utm_campaign=1048&utm_source=git)** | Gettysburg, PA, US | On Site | Nov 09 |
-| **[Arup](http://www.arup.com)** | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c4fddd23cce28a12188?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
-| ↳ | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c4dddd23cce28a12187?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Arup](http://www.arup.com)** | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c4dddd23cce28a12187?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c4fddd23cce28a12188?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
 | ↳ | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c53a56e5406e57c10c6?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Nov 09 |
 | ↳ | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c52e7a1d933321116d5?utm_campaign=1048&utm_source=git)** | Seattle, Washington, United States | On Site | Nov 09 |
 | ↳ | **[Civil Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd5c4fe7a1d933321116d1?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 09 |
