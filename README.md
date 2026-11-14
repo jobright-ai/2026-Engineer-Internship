@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Internship - Engineer (Defectivity, Materials & Contamination Analysis)](https://jobright.ai/jobs/info/6af7d012c7349029d7098b61?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 13 |
+| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com/)** | **[Associate Quality Assistant Intern](https://jobright.ai/jobs/info/6af7e69c4ddfc50167b94972?utm_campaign=1048&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 13 |
+| ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/6af7e6a842ae65e2c8f39d91?utm_campaign=1048&utm_source=git)** | Randolph, NJ, United States | On Site | Nov 13 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Summer 2027 Pharmaceutical Development Summer Intern PhD](https://jobright.ai/jobs/info/6af698648cc703bba47b34c5?utm_campaign=1048&utm_source=git)** | New Haven, CT, United States | On Site | Nov 13 |
+| ↳ | **[Summer 2027 Innovation and AI Transformation Intern](https://jobright.ai/jobs/info/6af65dcc79862a378dcf32b1?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Nov 13 |
+| ↳ | **[Summer 2027 Analytical Development & Quality Control Intern](https://jobright.ai/jobs/info/6af6430f323c531f31e31b5f?utm_campaign=1048&utm_source=git)** | New Haven, CT, United States | On Site | Nov 13 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com/)** | **[Mechanical Engineer R&D Intern](https://jobright.ai/jobs/info/6af7e6c342ae65e2c8f39dc0?utm_campaign=1048&utm_source=git)** | Randolph, NJ, United States | On Site | Nov 13 |
 | **[Kalmar](https://www.kalmarglobal.com/)** | **[Intern, Industrial Engineer](https://jobright.ai/jobs/info/6ab1bff7191d8c340dbdcba1?utm_campaign=1048&utm_source=git)** | Ottawa, Kansas, United States | On Site | Nov 13 |
 | **[Serco](https://www.serco.com)** | **[Summer and Winter 2027 Naval Engineering Intern - U.S. Navy Programs](https://jobright.ai/jobs/info/6af5d99379862a378dcee21b?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com/)** | **[Associate Quality Assistant Intern](https://jobright.ai/jobs/info/6af7e69c4ddfc50167b94972?utm_campaign=1048&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 13 |
-| ↳ | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/6af7e6a842ae65e2c8f39d91?utm_campaign=1048&utm_source=git)** | Randolph, NJ, United States | On Site | Nov 13 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[General Engineering Intern - Summer](https://jobright.ai/jobs/info/6af7fca186a9b19681af75a1?utm_campaign=1048&utm_source=git)** | Richfield, OH, United States | On Site | Nov 13 |
 | **[Nestlé](https://www.nestle.com)** | **[Manufacturing Excellence Intern](https://jobright.ai/jobs/info/6af7eba3cb5a5d4a77fc9448?utm_campaign=1048&utm_source=git)** | Eau Claire, WI, United States | On Site | Nov 13 |
 | **[Tempo Innovations](http://www.tempoenergy.com)** | **[R&D Test Engineering Intern (SoFuel)](https://jobright.ai/jobs/info/6af7bfb5cb5a5d4a77fc8330?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
@@ -90,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Site Support Intern](https://jobright.ai/jobs/info/6af729b3824228640064249e?utm_campaign=1048&utm_source=git)** | Rockville, MD, United States | On Site | Nov 13 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Health & Safety Intern](https://jobright.ai/jobs/info/6af797c2d0eefb7d11b8e4a0?utm_campaign=1048&utm_source=git)** | Katy, TX, United States | On Site | Nov 13 |
 | **[PACCAR](http://www.paccar.com/)** | **[Machining Intern Spring 2027](https://jobright.ai/jobs/info/6af7df49cb5a5d4a77fc8cac?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Nov 13 |
-| ↳ | **[Manufacturing Engineering/Assembly Intern Spring 2027](https://jobright.ai/jobs/info/6af7df45c7349029d7098f68?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Nov 13 |
 | ↳ | **[Manufacturing Engineering Data Analytics Intern Summer 2027](https://jobright.ai/jobs/info/6af7df4535427cce9bb2a5db?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Nov 13 |
+| ↳ | **[Manufacturing Engineering/Assembly Intern Spring 2027](https://jobright.ai/jobs/info/6af7df45c7349029d7098f68?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Nov 13 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Security Engineer Intern](https://jobright.ai/jobs/info/6af7b2bf171381948c9d2e01?utm_campaign=1048&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 13 |
 | ↳ | **[AI Identity Intern](https://jobright.ai/jobs/info/6af7b2c6cb5a5d4a77fc807c?utm_campaign=1048&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Mechanical Engineering](https://jobright.ai/jobs/info/6a99d21d90a313642c652fba?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
@@ -143,18 +147,14 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Site Reliability Engineer Intern (Global SRE) - 2027 Summer](https://jobright.ai/jobs/info/6a8612e8e459fa3baa865c33?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 13 |
 | **[Electrical Power Products](https://ep2.com)** | **[Quality Engineering Intern](https://jobright.ai/jobs/info/6af135438022f8ddd31a394f?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 13 |
 | **[ArchKey Solutions](https://www.archkey.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6af3a18f769e9374033c8abe?utm_campaign=1048&utm_source=git)** | Fenton, MO, United States | On Site | Nov 13 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6af38487769e9374033c73c2?utm_campaign=1048&utm_source=git)** | Plymouth, MN, United States | On Site | Nov 13 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6af3a1d84ac248020e8d36ce?utm_campaign=1048&utm_source=git)** | Clinton, MD, United States | On Site | Nov 13 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6af7402941166cab75649643?utm_campaign=1048&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 13 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6af38487769e9374033c73c2?utm_campaign=1048&utm_source=git)** | Plymouth, MN, United States | On Site | Nov 13 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6af7402b8242286400643282?utm_campaign=1048&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 13 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Summer Intern 2027, Drug Metabolism & Pharmacokinetics](https://jobright.ai/jobs/info/6af77bc88242286400645d2b?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Intern 2027, Bioanalytical](https://jobright.ai/jobs/info/6af77bc43ba46d7b6c16747e?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 13 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams](https://jobright.ai/jobs/info/6af787ab3ba46d7b6c167b17?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 13 |
 | **[HP IQ](https://hp-iq.com)** | **[Engineering Intern, Wireless Automation and Test (Summer 2027)](https://jobright.ai/jobs/info/6ae0190d0a4cc7090f9858f0?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 13 |
 | **[Schneider Electric](https://www.se.com)** | **[Summer 2027 Industrial Engineering Co-Op](https://jobright.ai/jobs/info/6af7470de3d8d612bf421c06?utm_campaign=1048&utm_source=git)** | Red Oak, Texas, United States | On Site | Nov 13 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6ae5ca64d7424a2a828edfa5?utm_campaign=1048&utm_source=git)** | Melville, NY, United States | On Site | Nov 13 |
-| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6af716edd0eefb7d11b88c4e?utm_campaign=1048&utm_source=git)** | New Brunswick, NJ, United States | On Site | Nov 13 |
-| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6af782c341166cab7564c5e6?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6af716e941166cab75647d9b?utm_campaign=1048&utm_source=git)** | New Brunswick, NJ, United States | On Site | Nov 13 |
-| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6ab6a54fc6fe0dec811a5d8d?utm_campaign=1048&utm_source=git)** | Asheville, NC, United States | On Site | Nov 13 |
-| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6ae5ca63eab1f967309821e2?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6af716e941166cab75647d9b?utm_campaign=1048&utm_source=git)** | New Brunswick, NJ, United States | On Site | Nov 13 |
+| ↳ | **[Advanced Energy Intern](https://jobright.ai/jobs/info/6ae5ca64d7424a2a828edfa5?utm_campaign=1048&utm_source=git)** | Melville, NY, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
