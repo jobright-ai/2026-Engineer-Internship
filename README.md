@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com)** | **[Self-Built Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6affcd73b47661ae4a62f0cc?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
+| **[Genentech](http://gene.com)** | **[2027 Summer Intern - Translational Medicine Oncology](https://jobright.ai/jobs/info/6affb3a6b47661ae4a62eb9b?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 19 |
+| **[Battelle](http://www.battelle.org)** | **[NEON Field Ecology Intern - WI](https://jobright.ai/jobs/info/6aff88266f4ca73dfeb454c9?utm_campaign=1048&utm_source=git)** | Land O' Lakes, WI, United States | On Site | Nov 19 |
+| **[CNA Corporation](https://www.cna.org)** | **[Flight Test Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff971db47661ae4a62e23b?utm_campaign=1048&utm_source=git)** | Point Mugu, CA, United States | On Site | Nov 19 |
+| **[Trihydro Corporation](https://www.trihydro.com)** | **[Environmental Intern](https://jobright.ai/jobs/info/6aa39aa5626f9945308b1d7a?utm_campaign=1048&utm_source=git)** | Lakewood, CO, United States | On Site | Nov 19 |
+| **[Lam Research](http://www.lamresearch.com)** | **[Summer 2027 - Process Engineering Intern - MS/PhD](https://jobright.ai/jobs/info/6aff81706f4ca73dfeb452a9?utm_campaign=1048&utm_source=git)** | Albany, NY, United States | On Site | Nov 19 |
+| **[ByteDance](http://bytedance.com)** | **[Self-Built Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6affb9d76f4ca73dfeb465d2?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Nuclear and Chemical Sciences Division Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac3eb47661ae4a62e8e8?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | **[Strive Solutions](https://www.linkedin.com/company/111767844)** | **[Continuous Improvement Engineering Intern](https://jobright.ai/jobs/info/6affc097b47661ae4a62ef1f?utm_campaign=1048&utm_source=git)** | Westfield, MA, United States | On Site | Nov 19 |
 | **[TalentSphere Global](talentsphereglobal.net)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6affc00db47661ae4a62eeff?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 19 |
-| **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com)** | **[Self-Built Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6affbf57b47661ae4a62eed4?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Engineering Co-op Summer 2027](https://jobright.ai/jobs/info/6affbeeb6f4ca73dfeb467cc?utm_campaign=1048&utm_source=git)** | Tracy, CA, United States | On Site | Nov 19 |
 | **[ATI](https://www.atimaterials.com)** | **[Summer 2027 Intern - Metallurgical Product & Process Development Intern](https://jobright.ai/jobs/info/6affbe331126e09fee092476?utm_campaign=1048&utm_source=git)** | Albany, OR, United States | On Site | Nov 19 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Space Operations Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa3d152959a10d7230d44bc?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA, United States | On Site | Nov 19 |
@@ -69,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[OpusClip](http://www.opus.pro/)** | **[AI Research Intern](https://jobright.ai/jobs/info/6affbbb76f4ca73dfeb466e6?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Remote | Nov 19 |
 | **[ATI](https://www.atimaterials.com)** | **[Summer 2027 Intern - Metallurgical Product & Process Development Intern](https://jobright.ai/jobs/info/6affbaf46f4ca73dfeb46681?utm_campaign=1048&utm_source=git)** | Millersburg, OR, United States | On Site | Nov 19 |
 | **[Propopia](www.propopia.com)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/6affb9f21126e09fee0922a6?utm_campaign=1048&utm_source=git)** | United States | Remote | Nov 19 |
-| **[ByteDance](http://bytedance.com)** | **[Self-Built Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6affb9d76f4ca73dfeb465d2?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Inkjet Ink Formulation R&D Intern](https://jobright.ai/jobs/info/6affb196b47661ae4a62eac3?utm_campaign=1048&utm_source=git)** | Lexington, KY, United States | On Site | Nov 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Engineer Intern - AZ- 2027](https://jobright.ai/jobs/info/6aff5db6b88323bd981be367?utm_campaign=1048&utm_source=git)** | Tucson, AZ, United States | On Site | Nov 19 |
 | ↳ | **[Engineer Intern - Santa Maria](https://jobright.ai/jobs/info/6aff707872b9be3685291b09?utm_campaign=1048&utm_source=git)** | Santa Maria, CA, United States | On Site | Nov 19 |
@@ -79,17 +85,16 @@ For a complete list, click the following sortable link below:
 | **[LinkedIn](https://www.linkedin.com)** | **[AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6affaee072b9be3685293ba0?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 19 |
 | ↳ | **[AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6affaedcb47661ae4a62e9dd?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 19 |
 | ↳ | **[AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6affaedab47661ae4a62e9dc?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 19 |
-| ↳ | **[AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6affaeda6f4ca73dfeb46342?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 19 |
+| ↳ | **[AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6affaed9b47661ae4a62e9db?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 19 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac52b47661ae4a62e904?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | ↳ | **[ESH Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac4d72b9be3685293aaa?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 19 |
 | ↳ | **[ESH Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac3f72b9be3685293a9d?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 19 |
-| ↳ | **[Nuclear and Chemical Sciences Division Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac3eb47661ae4a62e8e8?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | ↳ | **[Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027](https://jobright.ai/jobs/info/6affac3d865dbcc3f26fe37f?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | ↳ | **[Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac3cb47661ae4a62e8e5?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | ↳ | **[Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6affac3add029d798066e07f?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | On Site | Nov 19 |
 | **[StandardAero](http://www.standardaero.com)** | **[Engineering Intern – Summer](https://jobright.ai/jobs/info/6affa96e865dbcc3f26fe2dd?utm_campaign=1048&utm_source=git)** | Stockton, California, United States | On Site | Nov 19 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6aff997e72b9be3685293615?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA, United States | On Site | Nov 19 |
-| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/6afe15c20cde47528ec1199c?utm_campaign=1048&utm_source=git)** | Santa Maria, CA, United States | On Site | Nov 19 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Safety Intern](https://jobright.ai/jobs/info/6afe15c20cde47528ec1199c?utm_campaign=1048&utm_source=git)** | Santa Maria, CA, United States | On Site | Nov 19 |
+| ↳ | **[Safety Intern](https://jobright.ai/jobs/info/6aff997e72b9be3685293615?utm_campaign=1048&utm_source=git)** | Santa Rosa, CA, United States | On Site | Nov 19 |
 | ↳ | **[Safety Intern](https://jobright.ai/jobs/info/6ad79aa7e4b94611ab846aa8?utm_campaign=1048&utm_source=git)** | Bakersfield, CA, United States | On Site | Nov 19 |
 | **[MITRE](http://www.mitre.org)** | **[Optics and Photonics Student Researcher](https://jobright.ai/jobs/info/6affa42872b9be368529399e?utm_campaign=1048&utm_source=git)** | Bedford, MA, United States | On Site | Nov 19 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Product Security Engineering Intern, Summer 2027](https://jobright.ai/jobs/info/6aff9f926f4ca73dfeb4601d?utm_campaign=1048&utm_source=git)** | Newark, CA, United States | On Site | Nov 19 |
@@ -106,10 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Serdes Analog Design Engineer](https://jobright.ai/jobs/info/6aff9c4772b9be3685293799?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[BKF Engineers](http://bkf.com)** | **[2027 Summer Civil Engineering Intern](https://jobright.ai/jobs/info/6aff9bc672b9be3685293751?utm_campaign=1048&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 19 |
 | ↳ | **[2027 Summer Civil Engineering Intern](https://jobright.ai/jobs/info/6aff9bc4865dbcc3f26fe027?utm_campaign=1048&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 19 |
-| **[ASML](https://www.asml.com)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6afb9a6ac2bd7db01b88335a?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
-| ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6aff79c96f4ca73dfeb4495d?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
+| **[ASML](https://www.asml.com)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6aff79c96f4ca73dfeb4495d?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
 | ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6ae52c49d7424a2a828ec1cc?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
 | ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6afb66ee04af1c9f075c79fb?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
+| ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6afb9a6ac2bd7db01b88335a?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 19 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6aff9a691126e09fee091a9f?utm_campaign=1048&utm_source=git)** | Nashua, NH, United States | On Site | Nov 19 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Electrical Engineer Intern- Summer 2027](https://jobright.ai/jobs/info/6aa3bfe74233a2201a2b3576?utm_campaign=1048&utm_source=git)** | Southern California, United States | On Site | Nov 19 |
 | ↳ | **[Electrical Engineer Intern- Summer 2027](https://jobright.ai/jobs/info/6aa3d8be8275e3a21175d7a7?utm_campaign=1048&utm_source=git)** | Northern California, United States | On Site | Nov 19 |
@@ -135,26 +140,21 @@ For a complete list, click the following sortable link below:
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[E-2 Post Master's Intern - Computational Mechanics](https://jobright.ai/jobs/info/6aff637eaea17e3f50eb038e?utm_campaign=1048&utm_source=git)** | Los Alamos, NM, United States | On Site | Nov 19 |
 | **[Formlabs](http://www.formlabs.com)** | **[2027 (Summer) API & Automation Intern](https://jobright.ai/jobs/info/6aff967a6f4ca73dfeb45b57?utm_campaign=1048&utm_source=git)** | Somerville, MA, United States | On Site | Nov 19 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[Intern - Maintenance Engineering](https://jobright.ai/jobs/info/6afb49d87d1820d918c287ef?utm_campaign=1048&utm_source=git)** | Chicopee, MA, United States | On Site | Nov 19 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/6ac969edc3a8af9c54a0aa9b?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6acfed9112303667b98a120c?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fa778c69ff506c3eb33?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab7001962bb1fbd451dcdfe?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6acfed9378d51ae69ce08f73?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2611b78c69ff506c3e6b5?utm_campaign=1048&utm_source=git)** | Midland, TX, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fa9326574570a0012ed?utm_campaign=1048&utm_source=git)** | New Providence, NJ, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fac1e4847ddae9148df?utm_campaign=1048&utm_source=git)** | Clifton Park, NY, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2b9278254c44790e56f8e?utm_campaign=1048&utm_source=git)** | Jackson, WY, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab6deb262bb1fbd451dc498?utm_campaign=1048&utm_source=git)** | West Allis, WI, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab29ac48254c44790e55e8d?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ac969efd4a5a03707412456?utm_campaign=1048&utm_source=git)** | Blue Ash, OH, United States | On Site | Nov 19 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fb78254c44790e55716?utm_campaign=1048&utm_source=git)** | New Providence, NJ, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6aff72d36f4ca73dfeb4434f?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 19 |
 | ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fa9326574570a0012ea?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab29aa88254c44790e55e7a?utm_campaign=1048&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab17b9223005eee3545abc5?utm_campaign=1048&utm_source=git)** | Richmond, VA, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27faa326574570a0012ee?utm_campaign=1048&utm_source=git)** | Madison, WI, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2464c23005eee3545dc6c?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2469f8060979270258229?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab160aad43eb922ca0be740?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2f31230340229a323091e?utm_campaign=1048&utm_source=git)** | Windsor, CT, United States | On Site | Nov 19 |
-| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fd3326574570a0012fd?utm_campaign=1048&utm_source=git)** | West Allis, WI, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fa7326574570a0012e6?utm_campaign=1048&utm_source=git)** | Windsor, CT, United States | On Site | Nov 19 |
 | ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab24643668f78fc50dbd435?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fc58254c44790e5571e?utm_campaign=1048&utm_source=git)** | Cary, NC, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ace93f54391691a335ad835?utm_campaign=1048&utm_source=git)** | West Allis, WI, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2d46478c69ff506c40ca5?utm_campaign=1048&utm_source=git)** | Alachua, Florida, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6acfed832cc4e9d17e90b48e?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab27fac1e4847ddae9148df?utm_campaign=1048&utm_source=git)** | Clifton Park, NY, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ac5b87c4ac55253f5d77fdc?utm_campaign=1048&utm_source=git)** | Lowell, MA, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ace93eeba99f15ef4125c53?utm_campaign=1048&utm_source=git)** | Madison, WI, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab2464c23005eee3545dc6c?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ac969ed6355f8776ff18efe?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab29ab5326574570a001adc?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ab24663317bc82c4cd3ff40?utm_campaign=1048&utm_source=git)** | Midland, TX, United States | On Site | Nov 19 |
+| ↳ | **[Environmental Intern](https://jobright.ai/jobs/info/6ac969efd4a5a03707412456?utm_campaign=1048&utm_source=git)** | Blue Ash, OH, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
