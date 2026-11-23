@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ameren](http://ameren.com)** | **[DERMS Co-Op/Intern](https://jobright.ai/jobs/info/6a7632bfb17cba569035d1e5?utm_campaign=1048&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 23 |
+| **[Epic Games](https://epicgames.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6ac6ae634ac55253f5d7b80e?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 23 |
+| **[General Galactic](https://gengalactic.com)** | **[Summer Engineering Internship](https://jobright.ai/jobs/info/6b03fe61c8533c23e3c338e0?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Site Reliability Engineer Intern (Global SRE) - 2027 Summer](https://jobright.ai/jobs/info/6af781983ba46d7b6c167870?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[V2X Inc](https://gov2x.com)** | **[AI Engineering Intern - Junior](https://jobright.ai/jobs/info/6b03e6966300701fae1aeba4?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Self-Built Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6affb9d76f4ca73dfeb465d2?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Nov 22 |
-| **[ASML](https://www.asml.com)** | **[Internship - Mechatronics Engineer](https://jobright.ai/jobs/info/6b03db5d5da88988c83fe23d?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
+| **[ASML](https://www.asml.com)** | **[Internship - Mechatronics Engineer](https://jobright.ai/jobs/info/6aff4057aea17e3f50eaef54?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
 | ↳ | **[Internship - Mechatronics Engineer](https://jobright.ai/jobs/info/6ae409bdfb2cd420ace55f92?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
 | **[V2X Inc](https://gov2x.com)** | **[AI Engineering Intern - Senior](https://jobright.ai/jobs/info/6af6656680054650a5e7ea71?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 22 |
 | **[Methode Electronics](http://methode.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6adb77dec5c64fa3d9caf83a?utm_campaign=1048&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Nov 22 |
@@ -70,27 +73,27 @@ For a complete list, click the following sortable link below:
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Postdoctoral Fellow - Surgical and Interventional Sciences](https://jobright.ai/jobs/info/6b03ce5d6300701fae1ae762?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 22 |
 | **[City of Barrie](https://www.barrie.ca)** | **[Engineering Inspector Co-op Student (4 months)](https://jobright.ai/jobs/info/6afcb0dcd163750294925a36?utm_campaign=1048&utm_source=git)** | Barrie, ON, Canada | On Site | Nov 22 |
 | **[Shield](https://shield.ai)** | **[2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)](https://jobright.ai/jobs/info/6afa63d51465de0d45f8618a?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Nov 22 |
-| **[Artefact](https://artefact.com/)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/6b0388435da88988c83fc855?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
-| ↳ | **[AI Engineering Intern](https://jobright.ai/jobs/info/6b038894ba759e898387a61b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
-| ↳ | **[AI Adoption Intern](https://jobright.ai/jobs/info/6b03884a754c32e575311a74?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
+| **[Artefact](https://artefact.com/)** | **[AI Engineering Intern](https://jobright.ai/jobs/info/6b038894ba759e898387a61b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
+| ↳ | **[AI Engineering Intern](https://jobright.ai/jobs/info/6b0388435da88988c83fc855?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | ↳ | **[AI Strategy Intern](https://jobright.ai/jobs/info/6b0388afba759e898387a693?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
+| ↳ | **[AI Adoption Intern](https://jobright.ai/jobs/info/6b03884a754c32e575311a74?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | ↳ | **[AI Adoption Intern](https://jobright.ai/jobs/info/6b038897ba759e898387a643?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | ↳ | **[AI Strategy Intern](https://jobright.ai/jobs/info/6b038849754c32e575311a57?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6b03c4075da88988c83fde87?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 22 |
 | ↳ | **[Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6b03c3f9754c32e57531302e?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Nov 22 |
-| **[Thomas & Hutton](http://thomasandhutton.com)** | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa85c2d3a9f0a4fe6f18cbb?utm_campaign=1048&utm_source=git)** | Statesboro, GA, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab43171d2f5fbd604be2049?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Nov 22 |
+| **[Thomas & Hutton](http://thomasandhutton.com)** | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab43171d2f5fbd604be2049?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Nov 22 |
 | ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa16e93ef23570cae243c98?utm_campaign=1048&utm_source=git)** | Columbia, SC, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa16e973272060a8e3efb1b?utm_campaign=1048&utm_source=git)** | Durham, NC, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6abbe9aa92b2612ef0f8b8eb?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab28a8e8254c44790e5591b?utm_campaign=1048&utm_source=git)** | Chamblee, GA, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab28a8a1e4847ddae914b14?utm_campaign=1048&utm_source=git)** | Buford, GA, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa85c36930bff471a2a6cc3?utm_campaign=1048&utm_source=git)** | Savannah, GA, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6abcff63064da25272dfaeb0?utm_campaign=1048&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aabe0433d96632d741a8092?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Nov 22 |
-| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6a9ad708fe45b8490f6048f3?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 22 |
 | ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab12c7ef9692ca98b048007?utm_campaign=1048&utm_source=git)** | Greenville, SC, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab28a8e8254c44790e5591b?utm_campaign=1048&utm_source=git)** | Chamblee, GA, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6abbe9aa92b2612ef0f8b8eb?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6a9ad708fe45b8490f6048f3?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 22 |
 | ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ad8e969950ef68d5184b5ea?utm_campaign=1048&utm_source=git)** | Brunswick, GA, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6abcff63064da25272dfaeb0?utm_campaign=1048&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa85c36930bff471a2a6cc3?utm_campaign=1048&utm_source=git)** | Savannah, GA, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa85c2d3a9f0a4fe6f18cbb?utm_campaign=1048&utm_source=git)** | Statesboro, GA, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aabe0433d96632d741a8092?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6aa16e973272060a8e3efb1b?utm_campaign=1048&utm_source=git)** | Durham, NC, United States | On Site | Nov 22 |
+| ↳ | **[Civil Design Intern](https://jobright.ai/jobs/info/6ab28a8a1e4847ddae914b14?utm_campaign=1048&utm_source=git)** | Buford, GA, United States | On Site | Nov 22 |
 | **[UPS](http://www.ups.com)** | **[2027 Summer Engineering Intern](https://jobright.ai/jobs/info/6afe829d21364a3788bced3c?utm_campaign=1048&utm_source=git)** | Earth City, MO, United States | On Site | Nov 22 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Student Intern 2027 - Electrical Substation](https://jobright.ai/jobs/info/6aa8c4a210b1cd4f41603f46?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 22 |
 | **[The Hormel Institute, University of Minnesota](https://www.hi.umn.edu/)** | **[SURE Intern](https://jobright.ai/jobs/info/6b03bbb5adf53adef40e12c9?utm_campaign=1048&utm_source=git)** | Austin, MN, United States | On Site | Nov 22 |
@@ -129,32 +132,29 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[2027 Summer Engineering Intern](https://jobright.ai/jobs/info/6b036ce1d7d09d301fa879b2?utm_campaign=1048&utm_source=git)** | Hodgkins, IL, United States | On Site | Nov 22 |
 | ↳ | **[2027 Summer Engineering Intern](https://jobright.ai/jobs/info/6b036cd9c35a3d9ff8f494fc?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Nov 22 |
 | ↳ | **[2027 Summer Engineering Intern](https://jobright.ai/jobs/info/6b036d1c5cc15ec1b42c043d?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Nov 22 |
-| **[Tech World Networking](techworldnetworking.com)** | **[Preformulation Intern](https://jobright.ai/jobs/info/6b036ab05cc15ec1b42c0427?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Nov 22 |
 | **[Kiewit](http://www.kiewit.com)** | **[Safety Internship - Infrastructure Central (Summer 2027)](https://jobright.ai/jobs/info/6b03494b4e3d6ecd7d5e49aa?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 22 |
-| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Winter 2027 - Solutions](https://jobright.ai/jobs/info/6ac441c6d9621c5b283a0a3f?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
-| ↳ | **[Cybersecurity Internship Winter 2027 - Healthcare](https://jobright.ai/jobs/info/6ac441c4372c01f6cd734fed?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
+| **[Tevora](http://www.tevora.com/)** | **[Cybersecurity Internship Winter 2027 - Healthcare](https://jobright.ai/jobs/info/6ac441c4372c01f6cd734fed?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
 | ↳ | **[Cybersecurity Internship Winter 2027 - Systems and Organizations Controls (SOC)](https://jobright.ai/jobs/info/6ac441c48ff3fb9b3bc8511e?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
-| ↳ | **[Cybersecurity Internship Winter  2027 - Threat](https://jobright.ai/jobs/info/6ac441c4d9621c5b283a0a3e?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
+| ↳ | **[Cybersecurity Internship Winter 2027 - Solutions](https://jobright.ai/jobs/info/6ac441c6d9621c5b283a0a3f?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
 | ↳ | **[Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO)](https://jobright.ai/jobs/info/6ac441c44ac55253f5d71ec5?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
+| ↳ | **[Cybersecurity Internship Winter  2027 - Threat](https://jobright.ai/jobs/info/6ac441c4d9621c5b283a0a3e?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
 | ↳ | **[Cybersecurity Internship Winter 2027 - Payments](https://jobright.ai/jobs/info/6ac441c3372c01f6cd734fec?utm_campaign=1048&utm_source=git)** | Fairfax, VA, United States | On Site | Nov 22 |
 | ↳ | **[Cybersecurity Internship Winter 2027 - Enterprise Risk Management](https://jobright.ai/jobs/info/6ac441c50e027c0f3b3aa4bf?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 22 |
 | ↳ | **[Cybersecurity Internship Winter 2027 - Federal](https://jobright.ai/jobs/info/6ac441c44ac55253f5d71ec4?utm_campaign=1048&utm_source=git)** | Fairfax, VA, United States | On Site | Nov 22 |
 | **[Dragonfly Pond Works](https://www.dragonflypondworks.com/)** | **[Summer Internship - Stormwater](https://jobright.ai/jobs/info/6b02edfd4e3d6ecd7d5e40f0?utm_campaign=1048&utm_source=git)** | Wilmington, NC, United States | On Site | Nov 22 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Information Security Systems Engineer  (Salt Lake City, UT)](https://jobright.ai/jobs/info/6b0340a0f8aac3fb5bbe3f4a?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 22 |
 | **[JARP Industries, Inc.](https://www.jarpind.com/)** | **[Manufacturing Design Internship - Onsite Only](https://jobright.ai/jobs/info/6af487341b2c5dcbbcd619ff?utm_campaign=1048&utm_source=git)** | Schofield, WI, United States | On Site | Nov 22 |
-| **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6acd5de8e7a1d9333211174b?utm_campaign=1048&utm_source=git)** | Exton, PA, United States | On Site | Nov 22 |
-| ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ac029614ac55253f5d67f47?utm_campaign=1048&utm_source=git)** | Lexington, KY, United States | On Site | Nov 22 |
+| **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ac029614ac55253f5d67f47?utm_campaign=1048&utm_source=git)** | Lexington, KY, United States | On Site | Nov 22 |
+| ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ac950a8af788e6ad3b5af4f?utm_campaign=1048&utm_source=git)** | Valhalla, NY, United States | On Site | Nov 22 |
 | ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ad26f37c4290cef1412ae85?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Nov 22 |
 | ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ae22b6005a39c3e2c717712?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Nov 22 |
+| ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6acd5de8e7a1d9333211174b?utm_campaign=1048&utm_source=git)** | Exton, PA, United States | On Site | Nov 22 |
 | ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6af4d7b13a9a26aee70a0fe0?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 22 |
-| ↳ | **[Traffic Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6ac950a8af788e6ad3b5af4f?utm_campaign=1048&utm_source=git)** | Valhalla, NY, United States | On Site | Nov 22 |
 | ↳ | **[Bridge Inspection Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6aada5643d96632d741af1ff?utm_campaign=1048&utm_source=git)** | Lawrenceville, NJ, United States | On Site | Nov 22 |
-| ↳ | **[Lighting Design Intern - Summer 2027](https://jobright.ai/jobs/info/6aadc01ade327d3e210d4489?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Nov 22 |
 | ↳ | **[Lighting Design Intern - Summer 2027](https://jobright.ai/jobs/info/6ae54775eab1f96730980cb5?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Nov 22 |
+| ↳ | **[Lighting Design Intern - Summer 2027](https://jobright.ai/jobs/info/6aadc01ade327d3e210d4489?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Nov 22 |
 | ↳ | **[Lighting Intern- Summer 2027](https://jobright.ai/jobs/info/6ac5061c8ff3fb9b3bc87168?utm_campaign=1048&utm_source=git)** | Baltimore, MD, United States | On Site | Nov 22 |
 | ↳ | **[Lighting Intern- Summer 2027](https://jobright.ai/jobs/info/6ad25d5983ada13a9da056e8?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Nov 22 |
-| **[ASML](https://www.asml.com)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6afb66ee04af1c9f075c79fb?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
-| ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6ae0e9af67c31ab34899e78c?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
-| ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6afb9a6ac2bd7db01b88335a?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
+| **[ASML](https://www.asml.com)** | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6ae0e9af67c31ab34899e78c?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
 | ↳ | **[Internship - Mechanical Engineer](https://jobright.ai/jobs/info/6ae52c49d7424a2a828ec1cc?utm_campaign=1048&utm_source=git)** | Wilton, CT, United States | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
