@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Electrical Engineer Internship / Co-op](https://jobright.ai/jobs/info/6ab2c04078c69ff506c404ec?utm_campaign=1048&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 28 |
 | **[AeroNex Systems](aeronexsystems.net)** | **[Test Engineering Intern – EE Major (ANX0052)](https://jobright.ai/jobs/info/6b0a962b0dcf7f64923b71d4?utm_campaign=1048&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Field/Office Engineer Intern - Kiewit Bridge and Marine District (Summer 2027)](https://jobright.ai/jobs/info/6ae512c6c3139b475b5b896b?utm_campaign=1048&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a51e36dbf63b66c7997e889?utm_campaign=1048&utm_source=git)** | San Jose | On Site | Nov 28 |
@@ -114,24 +115,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6abfc4890e027c0f3b39dd20?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 27 |
 | **[AECOM](http://www.aecom.com/)** | **[Engineering Intern I](https://jobright.ai/jobs/info/6b047820566251ad7b8622d6?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 27 |
 | **[UPS](http://www.ups.com)** | **[2027 Summer Engineering Intern](https://jobright.ai/jobs/info/6adba7ee389e06bb41ad3288?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 27 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/6abbb8df92b2612ef0f8a6f1?utm_campaign=1048&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b0620b771c8f4e3660ebba2?utm_campaign=1048&utm_source=git)** | Woodstock, GA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6adfc57c5dc7953215a42bbb?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b0620a60e7eacd1ea64645b?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6ae4da6efb2cd420ace5a75c?utm_campaign=1048&utm_source=git)** | Chamblee, GA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6afb69115305ed998d91d8e8?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Nov 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/6af4f15e3a9a26aee70a204e?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6abbb8ded6acfd3dd29f98a5?utm_campaign=1048&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b0620b571c8f4e3660ebb94?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b0620d871c8f4e3660ebc02?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 27 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a88844d4afae74a0834c20c?utm_campaign=1048&utm_source=git)** | Frisco, TX, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b09bd7baaf0c31c7c96fde4?utm_campaign=1048&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6aee15e1bd2f33eea72d6fe9?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af4f15e3a9a26aee70a204e?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b0620e33e56157448ed3b10?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Nov 27 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af36352f6053e296fc7bf3d?utm_campaign=1048&utm_source=git)** | Roseville, CA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af3990210c7aed77861c1a8?utm_campaign=1048&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af36339f6053e296fc7bf1b?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af3990410c7aed77861c1b0?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6abd118d4ac55253f5d5b0cb?utm_campaign=1048&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 27 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6ae2441305a39c3e2c718804?utm_campaign=1048&utm_source=git)** | Roseville, CA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af3991780020ca3a89774bf?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a8c7b29d34f700f87fd0d52?utm_campaign=1048&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 27 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b09e19fdd884ad2cc58e9cd?utm_campaign=1048&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6aea0f00fc85f3a39432f9d8?utm_campaign=1048&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af3995bf6053e296fc7e441?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6ae4da6efb2cd420ace5a75c?utm_campaign=1048&utm_source=git)** | Chamblee, GA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6ae4da3afb2cd420ace5a742?utm_campaign=1048&utm_source=git)** | Woodstock, GA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b09bd7baaf0c31c7c96fde4?utm_campaign=1048&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 27 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6af3992410c7aed77861c205?utm_campaign=1048&utm_source=git)** | Roseville, CA, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6afb69115305ed998d91d8e8?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Nov 27 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6b09e19fdd884ad2cc58e9cd?utm_campaign=1048&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 27 |
 | **[SambaNova](https://sambanova.ai)** | **[DFT Engineer Intern](https://jobright.ai/jobs/info/6b072165fbcb892eea5e08f0?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Nov 27 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Integrated Supply Chain & Manufacturing Intern](https://jobright.ai/jobs/info/6b0a039e0dcf7f64923b5eb8?utm_campaign=1048&utm_source=git)** | Twinsburg, OH, United States | On Site | Nov 27 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op – Land Surveying (Summer 2027)](https://jobright.ai/jobs/info/6aada17f3d96632d741af02b?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 27 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2027 Spring Optics Marketing Intern (R21526)](https://jobright.ai/jobs/info/6ab58efd4873fd3fd852a7bd?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Nov 27 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Civil/Structural Engineering (Overhead Transmission Lines) Intern - Summer 2027](https://jobright.ai/jobs/info/6aabedac3dbb1f8967ce7d99?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Nov 27 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity](https://jobright.ai/jobs/info/6ad12d29256e49282e6533ea?utm_campaign=1048&utm_source=git)** | Golden, CO, United States | On Site | Nov 27 |
-| **[Tech World Networking](techworldnetworking.com)** | **[Cell Biology Research Intern](https://jobright.ai/jobs/info/6b09dbefaaf0c31c7c970520?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Nov 27 |
 | **[Liebherr-Canada Ltd.](http://www.liebherr.ca)** | **[Parts Planning Intern (6-Month Contract)](https://jobright.ai/jobs/info/6b09da130dcf7f64923b57f2?utm_campaign=1048&utm_source=git)** | Burlington, ON, Canada | On Site | Nov 27 |
 | **[Inversion](https://www.inversionspace.com/)** | **[Avionics Mechanical Engineer - Summer Internship 2027](https://jobright.ai/jobs/info/6ad165dc3d3a5aa909b3a471?utm_campaign=1048&utm_source=git)** | Playa Vista, California, United States | On Site | Nov 27 |
 | **[VHB](https://www.vhb.com/)** | **[Traffic Intern- Summer 2027](https://jobright.ai/jobs/info/6ad24907810010ec72f56d2d?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 27 |
